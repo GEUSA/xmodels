@@ -1,0 +1,4303 @@
+<modelinventory>
+<vendor>
+<name>Gilber Engineering USA</name>
+<contact>Jason or Christina</contact>
+<email>info@gilbertengineeringusa.com</email>
+<website>https://geprops.com</website>
+<facebook>https://www.facebook.com/GilbertEngineering/</facebook>
+<notes>We are your Premium Holiday Prop Designer and Provider for both pixels and mini lights.</notes>
+<logolink><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/files/GE_LOGO_2020_600x.png?v=1582603548]]></logolink>
+</vendor>
+<categories>
+<category><id>0</id><name>3-D</name></category>
+<category><id>1</id><name>Arches</name></category>
+<category><id>2</id><name>Candles</name></category>
+<category><id>3</id><name>Candy Canes</name></category>
+<category><id>4</id><name>Combo Props</name></category>
+<category><id>5</id><name>Easter</name></category>
+<category><id>6</id><name>Faces</name></category>
+<category><id>7</id><name>Figures</name></category>
+<category><id>8</id><name>First Responder and Military</name></category>
+<category><id>9</id><name>Flakes</name></category>
+<category><id>10</id><name>Halloween</name></category>
+<category><id>11</id><name>Hanukkah</name></category>
+<category><id>12</id><name>High Density</name></category>
+<category><id>13</id><name>Letters</name></category>
+<category><id>14</id><name>Magical</name></category>
+<category><id>15</id><name>Misc</name></category>
+<category><id>16</id><name>Ornaments</name></category>
+<category><id>17</id><name>Poles</name></category>
+<category><id>18</id><name>Presents</name></category>
+<category><id>19</id><name>Santa</name></category>
+<category><id>20</id><name>Signs</name></category>
+<category><id>21</id><name>Singing</name></category>
+<category><id>22</id><name>Spinners</name></category>
+<category><id>23</id><name>Spooky</name></category>
+<category><id>24</id><name>St Patrick’s Day</name></category>
+<category><id>25</id><name>Stars</name></category>
+<category><id>26</id><name>Symbols</name></category>
+<category><id>27</id><name>Train</name></category>
+<category><id>28</id><name>Trees</name></category>
+<category><id>29</id><name>Valentine’s Day</name></category>
+<category><id>30</id><name>Words</name></category>
+<category><id>31</id><name>Wreaths</name></category>
+</categories>
+<models>
+<model>
+<id>0</id>
+<categoryid>13</categoryid>
+<name>Alpha Bulb - Upright S</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Alpha_Bulb_129x.JPG?v=1569162362]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_500x.JPG?v=1569162645]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Alpha Bulb - Upright S.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>1</id>
+<categoryid>26</categoryid>
+<categoryid>20</categoryid>
+<categoryid>8</categoryid>
+<name>American Flag</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>82" (208cm) or 48" (122cm)</width>
+<height>44" (112cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>746</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/American Flag.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>2</id>
+<categoryid>7</categoryid>
+<name>Angel</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>139</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Angel.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>3</id>
+<categoryid>1</categoryid>
+<name>Arch 4ft - Single</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>50</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_500x.JPG?v=1569162645]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Arches': </notes>
+</model>
+<model>
+<id>4</id>
+<categoryid>1</categoryid>
+<name>Arch 4ft - Double</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Arch_4_Foot_Double_Row_100.jpg?v=1579548157]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Arch 4ft - Double.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>5</id>
+<categoryid>1</categoryid>
+<name>Arch 6ft - Single</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring/>
+<notes>Use Native xLights Model 'Arches': </notes>
+</model>
+<model>
+<id>6</id>
+<categoryid>1</categoryid>
+<name>Arch 6ft - Triple</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>300</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-495428027757523_027b6897-0b62-4b78-a1df-269df7ba4afc_500x.jpg?v=1577074094]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Arch 6ft - Triple.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>7</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<categoryid>8</categoryid>
+<name>Battle Cross</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>125</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/bc3.jpg?v=1550872066]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Battle Cross.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>8</id>
+<categoryid>31</categoryid>
+<name>BOAW</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>31" (79cm)</width>
+<height>31" (79cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>448</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MOAW_Mini_31_inch.JPG?v=1560194498]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64,64,64</notes>
+</model>
+<model>
+<id>9</id>
+<categoryid>27</categoryid>
+<name>Caboose</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>648</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-222419735581358_500x.png?v=1581991223]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-629265254533078_60e6333e-6e3d-49bd-b837-f149d90304ff_500x.jpg?v=1581991223]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Caboose.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>10</id>
+<categoryid>15</categoryid>
+<name>Cactus Jr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>19" (48cm)</width>
+<height>29" (74cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>75</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_143309-1.jpg?v=1550872073]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cactus Jr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>11</id>
+<categoryid>26</categoryid>
+<name>Cancer Ribbon</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>249</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://gilbertengineeringusa.com/products/cancer-ribbon?_pos=1&_sid=2b4a7a64f&_ss=r]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/cancer_ribbon_500x.jpg?v=1572311244]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cancer Ribbon.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>12</id>
+<categoryid>2</categoryid>
+<categoryid>17</categoryid>
+<name>Candle - HOPE</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>54" (137cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>110</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152730_500x.jpg?v=1585002703]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle - HOPE.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>13</id>
+<categoryid>2</categoryid>
+<categoryid>17</categoryid>
+<name>Candle - JOY</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>54" (137cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>91</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152436_500x.jpg?v=1585002704]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle JOY.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>14</id>
+<categoryid>2</categoryid>
+<categoryid>17</categoryid>
+<name>Candle - LOVE</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>54" (137cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>105</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152519_500x.jpg?v=1585002703]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle - LOVE.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>15</id>
+<categoryid>2</categoryid>
+<categoryid>17</categoryid>
+<name>Candle - NOEL</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>54" (137cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>109</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152458_500x.jpg?v=1585002704]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle NOEL.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>16</id>
+<categoryid>2</categoryid>
+<categoryid>17</categoryid>
+<name>Candle - Plain</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>42" (107cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>54</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Candle_1_336x.JPG?v=1569148257]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle 54.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>17</id>
+<categoryid>3</categoryid>
+<categoryid>17</categoryid>
+<name>Candy Cane</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm) or 60" (152cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>149</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070749_500x.jpg?v=1581775808]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070701_500x.jpg?v=1581775808]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070727_500x.jpg?v=1581775808]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_164438_118dbc3a-89f6-4272-975f-ceb1521e9ada_500x.jpg?v=1581775808]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candy Cane.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>18</id>
+<categoryid>22</categoryid>
+<categoryid>29</categoryid>
+<categoryid>3</categoryid>
+<name>Candy Cane Spinner - With Love</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>608</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Candy_Cane_Love_608_500x.JPG?v=1569156931]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candy Cane Spinner w Love.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>19</id>
+<categoryid>10</categoryid>
+<name>Cauldron - Jr</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>25" (64cm)</width>
+<height>22.5" (57cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Jr-1.jpg?v=1552157389]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cauldron Jr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>20</id>
+<categoryid>10</categoryid>
+<name>Cauldron - Sr</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Sr-100-1.jpg?v=1552157389]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cauldron Sr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>21</id>
+<categoryid>27</categoryid>
+<name>Choo Choo Train</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>485</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180812_135343-1.jpg?v=1550872070]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Choo Choo Train.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>22</id>
+<categoryid>15</categoryid>
+<categoryid>19</categoryid>
+<name>Christmas Stocking</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>50</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Stocking_24_Inch_1_400x.JPG?v=1569148840]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190922-155100_500x.jpg?v=1569192723]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Stocking.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>23</id>
+<categoryid>27</categoryid>
+<name>Coal Car</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>52" (132cm)</width>
+<height>38.5" (98cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>648</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-797819077363215_7e3abf50-1bf1-49d9-b04a-b6d967b98723_500x.png?v=1580789137]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-175523743728975_500x.png?v=1580830627]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Coal Car.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>24</id>
+<categoryid>10</categoryid>
+<name>Coffin</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>44" (112cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>222</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Coffin-222-1_400x.jpg?v=1569145914]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_115209_500x.jpg?v=1569148025]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Coffin.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>25</id>
+<categoryid>15</categoryid>
+<name>Corotivity Scene</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>44" (112cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>262</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Nativity-1.jpg?v=1550872077]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Corotivity Scene.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>26</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Cross - 1</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>40" (102cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_210656.jpg?v=1579548098]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 1.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>27</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Cross - 2</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>40" (102cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_210701.jpg?v=1579548098]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 2.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>28</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Cross - 3</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>40" (102cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>120</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190216_213104.jpg?v=1579548098]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 3.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>29</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<name>Dark Helmet</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>200</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_2564444003777239_500x.png?v=1586907687]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Dark_Helmet_4927b96b-d8d1-48e4-86d3-39af5e6df625_400x.jpg?v=1569167278]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Dark Helmet.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>30</id>
+<categoryid>28</categoryid>
+<name>Decorated Christmas Tree - Non Singing</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height>53" (135cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>210</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Tree_2020.JPG?v=1569464982]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Tree_2020_367x.JPG?v=1569173017]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Decorated Xmas Tree - Non Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>31</id>
+<categoryid>28</categoryid>
+<categoryid>6</categoryid>
+<name>Decorated Christmas Tree - Singing</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height>53" (135cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>335</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Singing_Tree.jpg?v=1569464982]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Singing_Tree_500x.jpg?v=1569176413]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Decorated Xmas Tree  - Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>32</id>
+<categoryid>20</categoryid>
+<name>DITTO Sign</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>16" (41cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>143</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ditto_500x.jpg?v=1572993425]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ditto Sign.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>33</id>
+<categoryid>22</categoryid>
+<name>Dream Catcher - B</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>27" (69cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>247</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Dream_Catcher_B_No_Lines_1.JPG?v=1550872078]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_191746_500x.jpg?v=1569148847]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Dream Catcher - B.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>34</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Wavy Zag</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>37</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_680500952688153_352x.png?v=1585523804]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1294443184083937_377x.png?v=1585774557]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - WavyZag.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>35</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Zig Zag Filled</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>109</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_680500952688153_352x.png?v=1585523804]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1003581573370671_392x.png?v=1585774557]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - ZigZag.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>36</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>280</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_597014567554625_337x.png?v=1585523805]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_570585363664505_374x.png?v=1585774557]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>37</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Outline</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>36</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_637353400176095_500x.png?v=1585600714]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_157821918793290_400x.png?v=1585774558]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Outline.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>38</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Flower</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>84</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1034860200248750_500x.png?v=1585600714]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1067729000270296_400x.png?v=1585774557]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Flower.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>39</id>
+<categoryid>15</categoryid>
+<categoryid>5</categoryid>
+<name>Easter Egg - Line</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>34" (86cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>54</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_2917915388435264_500x.png?v=1585600714]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_986410275089101_400x.png?v=1585774557]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Line.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>40</id>
+<categoryid>15</categoryid>
+<categoryid>8</categoryid>
+<name>Fire Hydrant</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>21" (53cm)</width>
+<height>42" (107cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>169</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/fire_hydrant_ba7790ba-0473-4994-9f59-9d68f7896932_331x.jpg?v=1579730373]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200122-145848_500x.jpg?v=1579730373]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Fire Hydrant.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>41</id>
+<categoryid>9</categoryid>
+<name>Flake 37</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>37" (94cm)</width>
+<height>37" (94cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>216</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190105_185611_6ed7c466-6576-447c-9fad-80e9e96c6cfe.jpg?v=1582572140]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake 37.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>42</id>
+<categoryid>9</categoryid>
+<name>Flake 47</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>216</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200419_130828_500x.jpg?v=1587328969]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake 47.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>43</id>
+<categoryid>9</categoryid>
+<name>Flake A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm) or 30" (76cm)</width>
+<height>24" (61cm) or 30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>139</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1040482899622841_00ff206d-408b-49e1-bd8c-8e9decb9be04_500x.jpg?v=1580787949]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190213_201921_500x.jpg?v=1569148655]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>44</id>
+<categoryid>9</categoryid>
+<name>Flake B - 24</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>186</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200311_174604_500x.jpg?v=1583974563]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_B_186_1_32e70bdb-8ead-46b7-9b00-d1b402a14a43_390x.jpg?v=1579129204]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake B - 24.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>45</id>
+<categoryid>9</categoryid>
+<name>Flake B - 30</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>30" (76cm)</width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>186</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200311_174604_500x.jpg?v=1583974563]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_B_186_1_32e70bdb-8ead-46b7-9b00-d1b402a14a43_390x.jpg?v=1579129204]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake B - 24.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>46</id>
+<categoryid>9</categoryid>
+<name>Flake C</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>65</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_1_24_1_5300ec8d-c61a-4260-abd9-d7321dfdba4f_400x.JPG?v=1569146275]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_1_24_1_5300ec8d-c61a-4260-abd9-d7321dfdba4f_400x.JPG?v=1569146275]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake C.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>47</id>
+<categoryid>9</categoryid>
+<name>Flake D</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm) or 30" (76cm)</width>
+<height>24" (61cm) or 30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>205</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_24_1_1000x.GIF?v=1569147064]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_24_1_800x.GIF?v=1569147064]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake D.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>48</id>
+<categoryid>9</categoryid>
+<name>Flake E</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm) or 30" (76cm)</width>
+<height>24" (61cm) or 30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>120</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_Helm_24-120_1_56d4856d-0edc-49a2-96ab-ed3254233220_500x.jpg?v=1579375998]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake E.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>49</id>
+<categoryid>9</categoryid>
+<name>Flake F</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>23" (58cm) or 30" (76cm)</width>
+<height>23" (58cm) or 30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>89</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_Pie_24_1_500x.JPG?v=1569146274]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake F.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>50</id>
+<categoryid>9</categoryid>
+<name>Flake G</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>23" (58cm) or 30" (76cm)</width>
+<height>23" (58cm) or 30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>129</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200314_142650_500x.jpg?v=1584221275]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190119_114956_500x.jpg?v=1569146770]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake G.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>51</id>
+<categoryid>9</categoryid>
+<name>Flake H</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>157</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190223_122643.jpg?v=1579548109]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake H.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>52</id>
+<categoryid>9</categoryid>
+<name>Flake I - 24</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>96</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200219-173418_500x.jpg?v=1582158948]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_I_96_1_500x.JPG?v=1569148138]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake I - 24.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>53</id>
+<categoryid>9</categoryid>
+<name>Flake J</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>156</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218_130113.jpg?v=1579548110]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake J.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>54</id>
+<categoryid>9</categoryid>
+<name>Flake K</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>112</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_K_1_500x.JPG?v=1569148224]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190723-064951_500x.jpg?v=1569168110]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake K.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>55</id>
+<categoryid>9</categoryid>
+<name>Flake L - 23</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>23" (58cm)</width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>78</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200314_142853_500x.jpg?v=1584221624]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191027-113131_500x.jpg?v=1572201145]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake L - 23.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>56</id>
+<categoryid>9</categoryid>
+<name>Flake L - 30</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>30" (76cm)</width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>96</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200320_125636_500x.jpg?v=1584734265]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake L - 30.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>57</id>
+
+<name>Flake X</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>220</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake X.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>58</id>
+<categoryid>26</categoryid>
+<name>Fleur de Lis - Filled</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>337</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-850912302017331_500x.png?v=1579126554]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Fleur Di Lis - Filled.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>59</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Flying Bat Jr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>30" (76cm)</width>
+<height>20" (51cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>74</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flying-Bat-Rev-B-1-Copy.jpg?v=1550872091]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flying Bat Jr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>60</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Flying Bat Sr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>130</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190126_202555.jpg?v=1550872092]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flying Bat Sr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>61</id>
+<categoryid>9</categoryid>
+<name>Frosty Flake</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm) or 47" (119cm)</width>
+<height>36" (91cm) or 47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>300</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200216-134041_500x.jpg?v=1582079617]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Frosty_Flake_400x.jpg?v=1578544907]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Frosty Flake.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>62</id>
+<categoryid>0</categoryid>
+<categoryid>12</categoryid>
+<name>G-Sphere</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>21" (53cm) or 30" (76cm) or 36" (91cm)</width>
+<height>21" (53cm) or 30" (76cm) or 36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>1052</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200125-183343_500x.jpg?v=1580060723]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200124-225536_230df135-c215-4802-8243-2ad1356938c5_500x.jpg?v=1580060723]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/G-Sphere.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>63</id>
+<categoryid>22</categoryid>
+<name>Gear Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>280</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Gear_Spinner_294_47_Inch.JPG?v=1560194496]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gear Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>64</id>
+<categoryid>23</categoryid>
+<name>Ghost Jr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>29" (74cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>89</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_143303-1.jpg?v=1550872075]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ghost Jr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>65</id>
+<categoryid>20</categoryid>
+<name>Gift Tag - A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_121859.jpg?v=1561404095]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gift Tag - A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>66</id>
+<categoryid>7</categoryid>
+<name>Gingerbread Man</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>38" (97cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>136</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180928_073145-1.jpg?v=1550872096]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gingerbread Man.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>67</id>
+<categoryid>22</categoryid>
+<categoryid>12</categoryid>
+<name>Grand Illusion</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>1000</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200222-150507_500x.jpg?v=1582411934]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes 100,100,100,100,100,100,100,100,100,100,100</notes>
+</model>
+<model>
+<id>68</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>62</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/A_62.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>69</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - E</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>46</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/E_46_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - E.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>70</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - H</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>69</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/H_69_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - H.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>71</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - L</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>31</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/L_31_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - L.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>72</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - N</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>49</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/N_49_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - N.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>73</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - O</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>45</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/O_45_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - O.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>74</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - P</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>39</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/P_39_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - P.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>75</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - W</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>76</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/W_76_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - W.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>76</id>
+<categoryid>13</categoryid>
+<name>Halloween Font Alphabet - Y</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>41</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Y_41_1.JPG?v=1555356160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - Y.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>77</id>
+<categoryid>4</categoryid>
+<categoryid>21</categoryid>
+<name>Hattitude Quartet</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>589</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_225154615507270_500x.png?v=1585888548]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/87904118_236230730744980_3764496301882867712_n_500x.png?v=1584908324]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/87857366_501142923932662_1165852491493933056_n_500x.png?v=1584908327]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Hattitude Quartet.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>78</id>
+<categoryid>4</categoryid>
+<categoryid>21</categoryid>
+<name>Hattitude Triune</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>607</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Hattitude_2_500x.png?v=1582211911]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200219-224623_61b0fccb-7ae8-45aa-b6b2-a5c1420bbb0a_500x.jpg?v=1582209636]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200219-224550_17f91c02-9420-4e9a-865e-277606616713_500x.jpg?v=1582209636]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200219-224641_78936f6e-d5c9-4733-b2f6-045bc1a08f9b_500x.jpg?v=1582209636]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Hattitude Triune.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>79</id>
+<categoryid>15</categoryid>
+<name>Holly Leaves</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Holly_Leaves_500x.JPG?v=1569161504]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191005-115900_500x.jpg?v=1570310324]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Holly Leaves.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>80</id>
+<categoryid>7</categoryid>
+<categoryid>19</categoryid>
+<name>Holly the Girl Elf</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>33" (84cm)</width>
+<height>44" (112cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>299</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181115_195121-1.jpg?v=1550872098]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Holly the Girl Elf.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>81</id>
+<categoryid>30</categoryid>
+<name>Joy</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width></width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>282</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Joy.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>82</id>
+<categoryid>7</categoryid>
+<name>JustIn Traffic</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>30" (76cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>250</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-191068318680721_0772682d-8060-4f45-bdc6-23ca862f79ce_400x.png?v=1581775925]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Justin_Traffic_1cedbd02-0aba-4b37-b9e5-cd7bb21fe897_307x.jpg?v=1581775925]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Justin Traffic.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>83</id>
+<categoryid>22</categoryid>
+<name>Lawn Disc - 4”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>4" (10cm)</width>
+<height>4" (10cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>16</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/51457093_1103128679895860_5529871879382237184_n_a3226f5e-ef95-4ab0-b2d8-2f5aa851c713.jpg?v=1550872100]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Spinner': 8 arms, 2 Lights/Arm</notes>
+</model>
+<model>
+<id>84</id>
+<categoryid>22</categoryid>
+<name>Lawn Disc - 5.5”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>5.5" (14cm)</width>
+<height>5.5" (14cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>24</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200417_125149.jpg?v=1587153183]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Spinner': 8 arms, 3 Lights/Arm</notes>
+</model>
+<model>
+<id>85</id>
+<categoryid>15</categoryid>
+<name>Leg Lamp</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>158</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-125133148823515_7c4e054c-1039-44a0-aa32-849db281a390_400x.png?v=1583467769]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/CoroLamp48_500x.JPG?v=1569145464]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Leg Lamp.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>86</id>
+<categoryid>6</categoryid>
+<name>Longhorn - Non Talking</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>80</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Longhorn_80.jpg?v=1571007501]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Longhorn - Non Talking.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>87</id>
+<categoryid>6</categoryid>
+<categoryid>21</categoryid>
+<name>Longhorn - Talking</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>144</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/talking_steer.jpg?v=1571007501]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Longhorn - Talking.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>88</id>
+<categoryid>15</categoryid>
+<categoryid>29</categoryid>
+<name>Loving Hands</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>44" (112cm)</width>
+<height>31.5" (80cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>270</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200419_191725_500x.jpg?v=1587349120]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Loving Hands.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>89</id>
+<categoryid>15</categoryid>
+<categoryid>14</categoryid>
+<name>Magic Castle</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>221</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190224-190303.jpg?v=1555356166]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magic Castle.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>90</id>
+<categoryid>9</categoryid>
+<categoryid>14</categoryid>
+<name>Magic Flake</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>37" (94cm)</width>
+<height>37" (94cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>272</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicFlake36-1_500x.jpg?v=1569145640]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicFlake-37-e1546025260672_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magic Flake.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>91</id>
+<categoryid>7</categoryid>
+<categoryid>14</categoryid>
+<name>Magic Wizard</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>43" (109cm)</width>
+<height>43" (109cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>150</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200127-121513.jpg?v=1580152955]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Wizard.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>92</id>
+<categoryid>22</categoryid>
+<categoryid>14</categoryid>
+<name>Magical Spinner Jr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>27.5" (70cm)</width>
+<height>18" (46cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>277</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicalSpinner-277-24-1_500x.jpg?v=1569145641]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Spinner Jr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>93</id>
+<categoryid>22</categoryid>
+<categoryid>14</categoryid>
+<name>Magical Spinner Sr.</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>320</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicalWreath-247-48-1_500x.jpg?v=1569145641]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Spinner Sr.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>94</id>
+<categoryid>26</categoryid>
+<categoryid>11</categoryid>
+<name>Maltese Cross</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm) or 48" (122cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>150</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Maltese_Cross_400x.jpg?v=1571512104]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191027-113155_500x.jpg?v=1572201572]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Maltese Cross.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>95</id>
+<categoryid>1</categoryid>
+<categoryid>22</categoryid>
+<name>Matrix Arch Spinner 6 Foot (SpinArchy)</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>HDPE</material>
+<width>72" (183cm)</width>
+<height>37" (94cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>840</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200318_105708.jpg?v=1586629607]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Matrix Arch Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>96</id>
+<categoryid>22</categoryid>
+<name>Mega Fidget Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>456</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190730-193430.jpg?v=1565032862]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Fidget Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>97</id>
+<categoryid>22</categoryid>
+<categoryid>14</categoryid>
+<name>Mega Magic Wheel</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>279</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Magic-Wheel-1_338x.jpg?v=1569145640]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181114_223250-1-e1542298233468_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Magic Wheel.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>98</id>
+<categoryid>7</categoryid>
+<categoryid>10</categoryid>
+<name>Mega Skull</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>313</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Skull_Topper_313_500x.jpg?v=1569176949]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190913-222052_500x.jpg?v=1569176973]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Skull.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>99</id>
+<categoryid>31</categoryid>
+<name>Mega Wreath 320</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>320</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200117-201947_b7d0a6be-108a-4869-b013-04b03da774e0_500x.jpg?v=1579721125]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200117-201501_2ce882da-f67e-4e3c-bdd1-4c3d2bbf4f2b_500x.jpg?v=1579721125]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200117-201434_cd89ed87-af81-4ae9-8277-c83a574c6609_500x.jpg?v=1579721125]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200117-202042_658aaba6-efc5-40cb-913e-1a47bacbefdf_500x.jpg?v=1579721125]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64</notes>
+</model>
+<model>
+<id>100</id>
+<categoryid>31</categoryid>
+<categoryid>9</categoryid>
+<name>Mega Wreath 320 - Flake-1</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>405</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190105_200713_500x.jpg?v=1569146774]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Flake 1.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>101</id>
+<categoryid>31</categoryid>
+<categoryid>22</categoryid>
+<categoryid>14</categoryid>
+<name>Mega Wreath 320 - Magic Head</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>388</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191020-151614_500x.jpg?v=1571609823]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Magical Head.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>102</id>
+<categoryid>30</categoryid>
+<categoryid>22</categoryid>
+<name>Mega Wreath 320 - Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>405</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190126_221806_500x.jpg?v=1569147641]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>103</id>
+<categoryid>30</categoryid>
+<categoryid>20</categoryid>
+<name>Merry Christmas</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>397</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Merry_Xmas_2_1_500x.JPG?v=1569149299]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Merry Christmas.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>104</id>
+<categoryid>30</categoryid>
+<categoryid>20</categoryid>
+<name>Merry Christmas Boxed Sign</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>66" (168cm)</width>
+<height>31" (79cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>279</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Merry_Xmas_Boxed_1_500x.jpg?v=1569175292]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Merry Christmas Boxed.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>105</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Mini Spider</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>15" (38cm)</width>
+<height>12" (30cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>56</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Min-Spider-1_097ae6ab-20dc-4d3b-950f-22020e20b211_500x.jpg?v=1569145640]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190930-202023_500x.jpg?v=1569900102]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mini Spider.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>106</id>
+<categoryid>31</categoryid>
+<categoryid>12</categoryid>
+<name>MOAW</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>640</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-810580696127620_25c1acc3-25d3-46af-bf36-fa65a5ac7fb7_500x.png?v=1582086105]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1460470330776058_eb17d592-1c76-493f-8d12-7bdda96a2b6c_500x.png?v=1582086105]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-200956104362708_6b8a087b-5295-43e9-b501-35e7ecf0c74f_500x.png?v=1582086105]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64,64,64,64,64,64</notes>
+</model>
+<model>
+<id>107</id>
+<categoryid>1</categoryid>
+<name>Monster Arch</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>384</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191110-150328_500x.jpg?v=1573423440]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Monster Arch.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>108</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Monster Face 23 - 1</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>135</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153941.jpg?v=1558984949]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 1.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>109</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Monster Face 23 - 2</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>137</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153944.jpg?v=1558984949]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 2.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>110</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Monster Face 23 - 3</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>137</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153948.jpg?v=1558984949]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 3.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>111</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Monster Face 23 - 4</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>138</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_154000.jpg?v=1558984949]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 4.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>112</id>
+<categoryid>9</categoryid>
+<name>Monster Flake 7.5 Ft</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>90" (229cm)</width>
+<height>90" (229cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>978</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/FB-IMG-1574865801645_500x.jpg?v=1583520975]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190504_123640_24f25406-0269-47eb-bc3d-c029d4f62474_500x.jpg?v=1583520975]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Monster Flake 7.5ft.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>113</id>
+<categoryid>31</categoryid>
+<name>Monster Wreath</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>72" (183cm)</width>
+<height>72" (183cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>768</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Mega_MOAW_500x.jpg?v=1573423159]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Monster_Wreath_500x.jpg?v=1573423159]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64,64,64,64,64,64,64,64</notes>
+</model>
+<model>
+<id>114</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Mother of all Webs</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height>96" (244cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>720</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180812_164505-1_500x.jpg?v=1569145639]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180812_164432-1_500x.jpg?v=1569145639]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mother of all Webs.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>115</id>
+<categoryid>20</categoryid>
+<categoryid>19</categoryid>
+<name>North Pole sign with Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>96" (244cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>299</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/North_Pole_9c0094c3-28f8-4220-afda-dcfeb69e6216_383x.JPG?v=1569161513]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190914-140239_500x.jpg?v=1569177018]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/North Pole Sign with Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>116</id>
+<categoryid>7</categoryid>
+<name>Nutcracker</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>19" (48cm) or 24" (61cm)</width>
+<height>46" (117cm) or 84" (213cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>208</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180819_215759-1-e1534784781847_500x.jpg?v=1569145639]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Nutcracker.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>117</id>
+<categoryid>16</categoryid>
+<name>Ornament - A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 49" (124cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>119</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_121843_500x.jpg?v=1569148839]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>118</id>
+<categoryid>16</categoryid>
+<name>Ornament - B</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 49" (124cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>165</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191005-141736_500x.jpg?v=1570310392]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - B.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>119</id>
+<categoryid>16</categoryid>
+<name>Ornament - C</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 49" (124cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>195</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_C_Matrix_165_500x.JPG?v=1569162647]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - C.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>120</id>
+<categoryid>16</categoryid>
+<name>Ornament - E</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 49" (124cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>169</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_E_169_400x.JPG?v=1569162653]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - E.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>121</id>
+<categoryid>16</categoryid>
+<name>Ornament - F</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 49" (124cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>109</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_F_109_400x.JPG?v=1569162653]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - F.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>122</id>
+<categoryid>27</categoryid>
+<name>Passenger Car - Merry Christmas</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>837</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-075359_bb742c1c-942b-4b37-b94e-d3c2beb4d18b_500x.jpg?v=1581991295]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-692403548165915_500x.jpg?v=1581991296]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Merry Christmas.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>123</id>
+<categoryid>27</categoryid>
+<name>Passenger Car - Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>1175</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>124</id>
+<categoryid>27</categoryid>
+<name>Passenger Car - Plain</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>635</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-180151373096183_458ab20a-23e6-4eba-93d7-57c4d4677b57_500x.png?v=1581991295]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Plain.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>125</id>
+<categoryid>7</categoryid>
+<categoryid>14</categoryid>
+<name>Pixel Fairy</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>42" (107cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>124</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/926183.jpg?v=1582572160]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Pixel Fairy.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>126</id>
+<categoryid>15</categoryid>
+<categoryid>2</categoryid>
+<name>Poinsettia - 3 Candles</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>64.5" (164cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>614</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-906565876446922_500x.png?v=1582069524]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-565711283981511_500x.png?v=1580357907]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Poinsettia - 3 Candles.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>127</id>
+<categoryid>18</categoryid>
+<name>Present A - 28</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>28" (71cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>123</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/present_a_1.JPG?v=1563387409]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 28.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>128</id>
+<categoryid>18</categoryid>
+<name>Present A - 36</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>123</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1381207895361648.jpg?v=1563823298]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 36-48.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>129</id>
+<categoryid>18</categoryid>
+<name>Present A - 48</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>123</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1381207895361648.jpg?v=1563823298]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 36-48.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>130</id>
+<categoryid>18</categoryid>
+<categoryid>0</categoryid>
+<categoryid>12</categoryid>
+<name>PRIEMium Cube - 16”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>16" (41cm)</width>
+<height>16" (41cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>900</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200315_100134_500x.jpg?v=1584292466]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_145940_770_500x.jpg?v=1584309762]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_114831_713_500x.jpg?v=1584309762]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Priemium Cube - 900.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>131</id>
+<categoryid>18</categoryid>
+<categoryid>0</categoryid>
+<categoryid>12</categoryid>
+<name>PRIEMium Cube - 26”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>26" (66cm)</width>
+<height>26" (66cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>2500</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200315_100659_500x.jpg?v=1584292466]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_145940_770_500x.jpg?v=1584309762]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_114831_713_500x.jpg?v=1584309762]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Priemium Cube - 2500.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>132</id>
+<categoryid>7</categoryid>
+<categoryid>10</categoryid>
+<name>Reaper</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>43" (109cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>126</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/r1.jpg?v=1566964154]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reaper.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>133</id>
+<categoryid>7</categoryid>
+<categoryid>19</categoryid>
+<name>Reindeer</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>116</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Reindeer-1_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reindeer.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>134</id>
+<categoryid>7</categoryid>
+<categoryid>19</categoryid>
+<name>Reindeer - Rudolf</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>117</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Deer-Rudolf-1_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reindeer - Rudolf.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>135</id>
+<categoryid>31</categoryid>
+<name>Rosa Wreath</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>696</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190216-002244.jpg?v=1579548152]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Rosa Wreath.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>136</id>
+<categoryid>27</categoryid>
+<categoryid>20</categoryid>
+<name>RR Crossing Gate</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>60" (152cm)</width>
+<height>96" (244cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>443</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/RR.JPG?v=1560194500]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/RR Crossing Gate.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>137</id>
+<categoryid>6</categoryid>
+<categoryid>19</categoryid>
+<categoryid>21</categoryid>
+<name>Rudolph Face</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>44" (112cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>300</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191106-205325.jpg?v=1579548153]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190824-104409_500x.jpg?v=1569173280]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Rudolf Face.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>138</id>
+<categoryid>15</categoryid>
+<name>Saguaro Cactus</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>30" (76cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_121610-1.jpg?v=1550872077]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Saguaro Cactus.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>139</id>
+<categoryid>6</categoryid>
+<categoryid>19</categoryid>
+<categoryid>21</categoryid>
+<name>Santa Face - Singing</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>194</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200217-221631_500x.jpg?v=1582003100]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Sanra_Singing_Face_ea877220-636c-4625-a543-28e8b811f76c_500x.jpg?v=1582003100]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Face - Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>140</id>
+<categoryid>6</categoryid>
+<categoryid>19</categoryid>
+<name>Santa Face - Non Singing</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>290</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Santa_d41055a0-fc8f-4c1c-be3c-b2ddde460742_500x.jpg?v=1582003100]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Face - Non Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>141</id>
+<categoryid>19</categoryid>
+<categoryid>15</categoryid>
+<name>Santa Sleigh - 1</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>14" (36cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>92</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Sleigh1-1_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 1.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>142</id>
+<categoryid>19</categoryid>
+<categoryid>15</categoryid>
+<name>Santa Sleigh - 2</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>193</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/926188_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 2.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>143</id>
+<categoryid>19</categoryid>
+<categoryid>15</categoryid>
+<name>Santa Sleigh - 1 w Santa</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>48" (122cm)</width>
+<height>20" (51cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>110</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/sleigh1-with-santa-1_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 1 w Santa.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>144</id>
+<categoryid>25</categoryid>
+<name>Shooting Star Bouquet</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>251</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190914-140727.jpg?v=1584554426]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shooting Star Bouquet.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>145</id>
+<categoryid>6</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Bulb - Hanging</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>150</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_Light_Bulb_46_Inch.jpg?v=1570476144]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Bulb - Hanging.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>146</id>
+<categoryid>6</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Bulb - Upright</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>30" (76cm) or 46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>150</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_Light_Bulb_30_Inch.jpg?v=1570476144]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Bulb - Upright.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>147</id>
+<categoryid>6</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Pixel - 32”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>32" (81cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>139</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200110-082508_7f88835e-b3d8-44ba-9e67-0a54211fc8a7.jpg?v=1582425520]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pixel - 32.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>148</id>
+<categoryid>6</categoryid>
+<name>Singing Pixel - 47”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>143</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200222-192549.jpg?v=1582572161]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pixel - 47.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>149</id>
+<categoryid>6</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Pumpkin</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>167</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Pumpkin_Jo_36_500x.JPG?v=1569173216]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pumpkin.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>150</id>
+<categoryid>6</categoryid>
+<categoryid>28</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Xmas Tree</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>217</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200114-143516_504fb379-4dcd-43ec-acb7-9f4bcf3c0f4e_500x.jpg?v=1579315970]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200114-143743_29c1dd76-1613-42aa-b0ea-cd846c71fe3d_500x.jpg?v=1579315970]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200114-143705_eaeb968c-bc7b-4f7b-9d73-c595a400305a_500x.jpg?v=1579315970]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_124637_6135bb90-7937-41d2-8588-243ea3e81d3e_500x.jpg?v=1579315970]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Xmas Tree.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>151</id>
+<categoryid>6</categoryid>
+<categoryid>28</categoryid>
+<categoryid>21</categoryid>
+<name>Singing Xmas Tree Boxed</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>239</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_tree_boxed_46_inch_500x.JPG?v=1569172565]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Xmas Tree - Boxed.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>152</id>
+<categoryid>7</categoryid>
+<name>Snowman - No Matrix No Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>40" (102cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Snowmannomatrixnospinner_1_500x.JPG?v=1569146319]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/GE Snowman - No Matrix No Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>153</id>
+<categoryid>7</categoryid>
+<name>Snowman - Spinner No Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>40" (102cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/SnowmanSpinnernoMatrix_1_500x.JPG?v=1569146319]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/GE Snowman - Spinner No Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>154</id>
+<categoryid>7</categoryid>
+<name>Snowman - With Matrix and Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>40" (102cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>370</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Snowman - With Matrix and Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>155</id>
+<categoryid>15</categoryid>
+<name>Speech Bubble Matrix - A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>23" (58cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>250</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Speech Bubble Matrix - A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>156</id>
+<categoryid>22</categoryid>
+<categoryid>10</categoryid>
+<name>Spider in Web - Small Coro</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>29" (74cm)</width>
+<height>30" (76cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>174</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/SpiderinWebRevB-1_500x.jpg?v=1569145639]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180715_102609-e1531760256241_500x.jpg?v=1569145639]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spider in Web.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>157</id>
+<categoryid>22</categoryid>
+<name>Spider in Web - Large HDPE</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>HDPE</material>
+<width>44" (112cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>174</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/SpiderinWebRevB-1_500x.jpg?v=1569145639]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190927-215301_500x.jpg?v=1569649981]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spider in Web.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>158</id>
+<categoryid>22</categoryid>
+<name>Spin Reel - 36</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>36" (91cm)</width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>330</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spin_Reel_36.JPG?v=1566919604]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spin Reel - 36.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>159</id>
+<categoryid>22</categoryid>
+<name>Spin Reel Max</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>540</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spin_Reel_Max_500x.JPG?v=1569156852]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190511-185409_500x.jpg?v=1569160613]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spin Reel Max.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>160</id>
+<categoryid>22</categoryid>
+<name>Spinner - 14”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>14" (36cm)</width>
+<height>14" (36cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>85</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200417_151913_500x.jpg?v=1587162130]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>161</id>
+<categoryid>22</categoryid>
+<name>Spinner - 20”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>20" (51cm)</width>
+<height>20" (51cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>85</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Rainbow_Swirl_355x.png?v=1576646315]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Red-Green-White_Swirl_60x.png?v=1576646294]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182319_fc5547eb-8c4d-4772-a101-58dfb47e0a36_60x.jpg?v=1580957582]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182251_f9743ac1-8751-4a06-a979-fe23cbf21f78_500x.jpg?v=1580957582]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>162</id>
+<categoryid>22</categoryid>
+<name>Spinner - 24”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>85</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Rainbow_Swirl_355x.png?v=1576646315]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Red-Green-White_Swirl_60x.png?v=1576646294]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182319_fc5547eb-8c4d-4772-a101-58dfb47e0a36_60x.jpg?v=1580957582]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182251_f9743ac1-8751-4a06-a979-fe23cbf21f78_500x.jpg?v=1580957582]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>163</id>
+<categoryid>22</categoryid>
+<name>Spinner - 32”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>32" (81cm)</width>
+<height>32" (81cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>262</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Rainbow_Swirl_355x.png?v=1576646315]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Red-Green-White_Swirl_60x.png?v=1576646294]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191009-154758_500x.jpg?v=1570661360]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner - 262.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>164</id>
+<categoryid>22</categoryid>
+<name>Spinner - 47”</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material></material>
+<width>47" (119cm)</width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>272</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Rainbow_Swirl_355x.png?v=1576646315]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Red-Green-White_Swirl_60x.png?v=1576646294]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/71092894_682894565542289_6130242963730595840_n_291x.jpg?v=1569890983]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner - 277.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>165</id>
+<categoryid>28</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Spooky Tree - B</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>102" (259cm)</width>
+<height>120" (305cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>350</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spooky_Tree_Face_B_350_500x.JPG?v=1569149387]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spooky Tree - B.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>166</id>
+<categoryid>28</categoryid>
+<categoryid>10</categoryid>
+<categoryid>21</categoryid>
+<name>Spooky Tree - C</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>102" (259cm)</width>
+<height>120" (305cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>394</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spooky_Tree_2019_C_500x.JPG?v=1569149460]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spooky Tree - C.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>167</id>
+<categoryid>24</categoryid>
+<categoryid>20</categoryid>
+<name>St. Patricks Day Shamrock (24 Inch)</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>23.5" (60cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>50</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190211-214812.jpg?v=1550872130]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 24.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>168</id>
+<categoryid>24</categoryid>
+<categoryid>20</categoryid>
+<name>St. Patricks Day Shamrock (47 Inch) - No Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>136</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190211-212311.jpg?v=1550872131]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 47 - No Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>169</id>
+<categoryid>24</categoryid>
+<categoryid>20</categoryid>
+<name>St. Patricks Day Shamrock (47 Inch) - Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>336</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190212-190704.jpg?v=1550872131]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 47 - Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>170</id>
+<categoryid>25</categoryid>
+<name>Star Cross</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>32" (81cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>155</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Star_Cross_261x.JPG?v=1569164903]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190625_190947_500x.jpg?v=1569164903]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Star Cross.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>171</id>
+<categoryid>26</categoryid>
+<categoryid>20</categoryid>
+<categoryid>8</categoryid>
+<name>Star of Life - Staff/Serpent</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>481</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200326_111211_500x.jpg?v=1585247185]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Star of Life - Staff-Serpent.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>172</id>
+<categoryid>25</categoryid>
+<name>Starburst - Filled</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm) or 60" (152cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>296</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/StarBurst_xTreme_48_288x.jpg?v=1569176712]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/StarBurst - Filled.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>173</id>
+<categoryid>9</categoryid>
+<categoryid>10</categoryid>
+<name>Starlord</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>496</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200314_140837.jpg?v=1584386602]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Starlord.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>174</id>
+<categoryid>27</categoryid>
+<name>Steam Locomotive</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>81.6" (207cm)</width>
+<height>48" (122cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>700</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-2478519572411620_9cdf8050-9ee3-4943-8868-8c38091f03da_500x.png?v=1579726523]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200102-171603_500x.jpg?v=1578010665]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Steam Locomotive.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>175</id>
+<categoryid>22</categoryid>
+<categoryid>12</categoryid>
+<name>Steampunk Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>470</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-169262664296911_b83ce780-cede-4cc6-b477-0599cae9a74d_500x.png?v=1583184003]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-2587951114752252_04ac35c7-73f0-47ef-a8a9-c2369ebf494b_500x.png?v=1583184003]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_210276003616116_500x.png?v=1585599949]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1214508085423689_500x.png?v=1585599941]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_2481520628778258_500x.png?v=1585599940]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_681400929275678_500x.png?v=1585599941]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_149547283079247_500x.png?v=1585599940]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Steampunk Spinner.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>176</id>
+<categoryid>1</categoryid>
+<name>Sunset Arch</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>96" (244cm)</width>
+<height></height>
+<thickness>12mmmm</thickness>
+<pixelcount>250</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190817-121038.jpg?v=1566250529]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Sunset Arch.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>177</id>
+<categoryid>20</categoryid>
+<categoryid>30</categoryid>
+<categoryid>8</categoryid>
+<name>Thank You Sign</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>55" (140cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>160</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/91327882_528509667813347_6316166458682376192_n_2_400x.png?v=1585859794]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200402_125842_500x.jpg?v=1585859858]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Thank You.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>178</id>
+<categoryid>7</categoryid>
+<name>The Boo's Brothers - Big Boo</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ghost_B_100_node_400x.jpg?v=1569885298]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>179</id>
+<categoryid>7</categoryid>
+<name>The Boo's Brothers - Big Boo Singing</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>171</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Big_Boo_Sings_324x.jpg?v=1569903698]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Big Boo Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>180</id>
+<categoryid>7</categoryid>
+<categoryid>10</categoryid>
+<name>The Boo's Brothers - Lil Boo</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ghost_Big_Boo_100_node_374x.jpg?v=1569885298]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>181</id>
+<categoryid>7</categoryid>
+<name>The Mean One - Non Talking</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>72" (183cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>257</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Grinch-Non-Sing-257.JPG?v=1563632445]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mean One - Non Talking.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>182</id>
+<categoryid>7</categoryid>
+<name>The Mean One - Talking</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>72" (183cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>272</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Grinch-Singing-272.JPG?v=1563632445]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mean One - Talking.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>183</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Tombstone - With Matrix and Skull</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>375</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Tombstone2-1.jpg?v=1568496704]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - With Matrix and Skull.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>184</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Tombstone - Without Matrix</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>175</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180820_203413-2-e1534822887948.jpg?v=1568496704]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - Without Matrix.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>185</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Tombstone - RIP</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>151</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Tombstone_RIP.jpg?v=1568496704]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - RIP.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>186</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Triune Tomb</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>32" (81cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>730</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200221-091539_25dccb3b-70c2-4b0b-b268-dd3fd14e0793.jpg?v=1582572162]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Triune Tomb.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>187</id>
+<categoryid>7</categoryid>
+<categoryid>14</categoryid>
+<name>Warm Hugs Snowman</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>37" (94cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>139</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181106_183721-1.jpg?v=1550872135]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Warm Hugs Snowman.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>188</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Widowmaker 300</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>300</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Widowmaker_300_400x.jpg?v=1569176755]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190913-222027_500x.jpg?v=1569176974]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/WidowMaker 300.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>189</id>
+<categoryid>31</categoryid>
+<name>Wreath 32</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>32" (81cm)</width>
+<height>32" (81cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>192</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200417_150017_500x.jpg?v=1587161101]]></imagefile>
+<wiring/>
+<notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
+</model>
+<model>
+<id>190</id>
+<categoryid>9</categoryid>
+<name>XKF330 Snowflake</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>45" (114cm)</width>
+<height>45" (114cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>330</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-2523213834558004.jpg?v=1579548164]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/XKF 330.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>191</id>
+<categoryid>28</categoryid>
+<name>Xmas Tree 53</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>53" (135cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>100</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181204_211206-1-e1543984507327_169caa46-de4c-4101-a04c-c80760315cf7_500x.jpg?v=1569145640]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Xmas Tree 53.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>192</id>
+<categoryid>9</categoryid>
+<categoryid>10</categoryid>
+<name>Zombie Flake A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>147</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Zombie_Flake_A_2_500x.JPG?v=1569148704]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218-221305_500x.jpg?v=1569148921]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - A.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>193</id>
+<categoryid>9</categoryid>
+<categoryid>10</categoryid>
+<name>Zombie Flake B</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>123</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Zombie_Flake_B_123_500x.JPG?v=1569148708]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218-221318_500x.jpg?v=1569148921]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - B.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>194</id>
+<categoryid>9</categoryid>
+<categoryid>10</categoryid>
+<name>Zombie Flake C</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>24" (61cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mmmm</thickness>
+<pixelcount>130</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190223_104208_500x.jpg?v=1569149169]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - C.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+</models>
+</modelinventory>

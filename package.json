@@ -1,0 +1,13 @@
+{
+  "name": "geusa-xmodels",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.15"
+  },
+  "scripts": {
+    "update-xl-file": "node ./src/index.js"
+  }
+}
