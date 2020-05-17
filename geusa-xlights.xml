@@ -1,6 +1,6 @@
 <modelinventory>
 <vendor>
-<name>Gilber Engineering USA</name>
+<name>Gilbert Engineering USA</name>
 <contact>Jason or Christina</contact>
 <email>info@gilbertengineeringusa.com</email>
 <website>https://geprops.com</website>
@@ -60,7 +60,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_500x.JPG?v=1569162645]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Alpha Bulb - Upright S.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Alpha Bulb - Upright S.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -83,7 +83,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/American Flag.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/American Flag.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -104,7 +104,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Angel.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Angel.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -142,7 +142,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Arch_4_Foot_Double_Row_100.jpg?v=1579548157]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Arch 4ft - Double.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Arch 4ft - Double.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -180,7 +180,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-495428027757523_027b6897-0b62-4b78-a1df-269df7ba4afc_500x.jpg?v=1577074094]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Arch 6ft - Triple.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Arch 6ft - Triple.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -203,7 +203,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/bc3.jpg?v=1550872066]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Battle Cross.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Battle Cross.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -242,7 +242,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-629265254533078_60e6333e-6e3d-49bd-b837-f149d90304ff_500x.jpg?v=1581991223]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Caboose.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Caboose.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -263,7 +263,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_143309-1.jpg?v=1550872073]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cactus Jr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cactus Jr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -285,7 +285,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/cancer_ribbon_500x.jpg?v=1572311244]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cancer Ribbon.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cancer Ribbon.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -307,7 +307,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152730_500x.jpg?v=1585002703]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle - HOPE.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candle - HOPE.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -329,7 +329,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152436_500x.jpg?v=1585002704]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle JOY.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candle JOY.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -351,7 +351,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152519_500x.jpg?v=1585002703]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle - LOVE.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candle - LOVE.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -373,7 +373,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152458_500x.jpg?v=1585002704]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle NOEL.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candle NOEL.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -395,7 +395,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Candle_1_336x.JPG?v=1569148257]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candle 54.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candle 54.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -420,7 +420,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_164438_118dbc3a-89f6-4272-975f-ceb1521e9ada_500x.jpg?v=1581775808]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candy Cane.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candy Cane.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -443,7 +443,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Candy_Cane_Love_608_500x.JPG?v=1569156931]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Candy Cane Spinner w Love.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Candy Cane Spinner w Love.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -464,7 +464,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Jr-1.jpg?v=1552157389]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cauldron Jr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cauldron Jr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -485,7 +485,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Sr-100-1.jpg?v=1552157389]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cauldron Sr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cauldron Sr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -506,7 +506,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180812_135343-1.jpg?v=1550872070]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Choo Choo Train.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Choo Choo Train.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -529,7 +529,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190922-155100_500x.jpg?v=1569192723]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Stocking.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Stocking.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -551,7 +551,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-175523743728975_500x.png?v=1580830627]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Coal Car.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Coal Car.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -573,7 +573,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_115209_500x.jpg?v=1569148025]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Coffin.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Coffin.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -594,7 +594,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Nativity-1.jpg?v=1550872077]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Corotivity Scene.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Corotivity Scene.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -616,7 +616,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_210656.jpg?v=1579548098]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 1.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cross 1.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -638,7 +638,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_210701.jpg?v=1579548098]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 2.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cross 2.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -660,7 +660,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190216_213104.jpg?v=1579548098]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Cross 3.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Cross 3.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -683,7 +683,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Dark_Helmet_4927b96b-d8d1-48e4-86d3-39af5e6df625_400x.jpg?v=1569167278]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Dark Helmet.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Dark Helmet.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -705,7 +705,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Tree_2020_367x.JPG?v=1569173017]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Decorated Xmas Tree - Non Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Decorated Xmas Tree - Non Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -728,7 +728,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Singing_Tree_500x.jpg?v=1569176413]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Decorated Xmas Tree  - Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Decorated Xmas Tree  - Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -749,7 +749,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ditto_500x.jpg?v=1572993425]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ditto Sign.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ditto Sign.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -771,7 +771,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_191746_500x.jpg?v=1569148847]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Dream Catcher - B.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Dream Catcher - B.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -794,7 +794,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1294443184083937_377x.png?v=1585774557]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - WavyZag.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - WavyZag.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -817,7 +817,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1003581573370671_392x.png?v=1585774557]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - ZigZag.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - ZigZag.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -840,7 +840,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_570585363664505_374x.png?v=1585774557]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -863,7 +863,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_157821918793290_400x.png?v=1585774558]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Outline.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - Outline.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -886,7 +886,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_1067729000270296_400x.png?v=1585774557]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Flower.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - Flower.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -909,7 +909,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_986410275089101_400x.png?v=1585774557]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Easter Egg - Line.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Easter Egg - Line.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -932,7 +932,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200122-145848_500x.jpg?v=1579730373]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Fire Hydrant.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Fire Hydrant.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -953,7 +953,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190105_185611_6ed7c466-6576-447c-9fad-80e9e96c6cfe.jpg?v=1582572140]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake 37.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake 37.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -974,7 +974,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200419_130828_500x.jpg?v=1587328969]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake 47.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake 47.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -996,7 +996,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190213_201921_500x.jpg?v=1569148655]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1018,7 +1018,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_B_186_1_32e70bdb-8ead-46b7-9b00-d1b402a14a43_390x.jpg?v=1579129204]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake B - 24.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake B - 24.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1040,7 +1040,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_B_186_1_32e70bdb-8ead-46b7-9b00-d1b402a14a43_390x.jpg?v=1579129204]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake B - 24.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake B - 24.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1062,7 +1062,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_1_24_1_5300ec8d-c61a-4260-abd9-d7321dfdba4f_400x.JPG?v=1569146275]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake C.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake C.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1084,7 +1084,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_24_1_800x.GIF?v=1569147064]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake D.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake D.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1105,7 +1105,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_Helm_24-120_1_56d4856d-0edc-49a2-96ab-ed3254233220_500x.jpg?v=1579375998]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake E.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake E.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1126,7 +1126,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_Pie_24_1_500x.JPG?v=1569146274]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake F.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake F.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1148,7 +1148,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190119_114956_500x.jpg?v=1569146770]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake G.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake G.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1169,7 +1169,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190223_122643.jpg?v=1579548109]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake H.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake H.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1191,7 +1191,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flake_I_96_1_500x.JPG?v=1569148138]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake I - 24.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake I - 24.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1212,7 +1212,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218_130113.jpg?v=1579548110]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake J.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake J.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1234,7 +1234,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190723-064951_500x.jpg?v=1569168110]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake K.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake K.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1256,7 +1256,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191027-113131_500x.jpg?v=1572201145]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake L - 23.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake L - 23.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1277,7 +1277,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200320_125636_500x.jpg?v=1584734265]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake L - 30.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake L - 30.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1298,7 +1298,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flake X.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flake X.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1319,7 +1319,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-850912302017331_500x.png?v=1579126554]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Fleur Di Lis - Filled.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Fleur Di Lis - Filled.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1341,7 +1341,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Flying-Bat-Rev-B-1-Copy.jpg?v=1550872091]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flying Bat Jr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flying Bat Jr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1363,7 +1363,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190126_202555.jpg?v=1550872092]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Flying Bat Sr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Flying Bat Sr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1385,7 +1385,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Frosty_Flake_400x.jpg?v=1578544907]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Frosty Flake.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Frosty Flake.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1408,7 +1408,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200124-225536_230df135-c215-4802-8243-2ad1356938c5_500x.jpg?v=1580060723]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/G-Sphere.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/G-Sphere.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1429,7 +1429,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Gear_Spinner_294_47_Inch.JPG?v=1560194496]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gear Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Gear Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1450,7 +1450,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_143303-1.jpg?v=1550872075]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ghost Jr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ghost Jr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1471,7 +1471,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_121859.jpg?v=1561404095]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gift Tag - A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Gift Tag - A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1492,7 +1492,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180928_073145-1.jpg?v=1550872096]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Gingerbread Man.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Gingerbread Man.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1531,7 +1531,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/A_62.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1552,7 +1552,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/E_46_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - E.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - E.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1573,7 +1573,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/H_69_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - H.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - H.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1594,7 +1594,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/L_31_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - L.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - L.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1615,7 +1615,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/N_49_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - N.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - N.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1636,7 +1636,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/O_45_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - O.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - O.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1657,7 +1657,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/P_39_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - P.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - P.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1678,7 +1678,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/W_76_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - W.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - W.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1699,7 +1699,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Y_41_1.JPG?v=1555356160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Halloween Font - Y.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Halloween Font - Y.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1723,7 +1723,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/87857366_501142923932662_1165852491493933056_n_500x.png?v=1584908327]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Hattitude Quartet.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Hattitude Quartet.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1748,7 +1748,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200219-224641_78936f6e-d5c9-4733-b2f6-045bc1a08f9b_500x.jpg?v=1582209636]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Hattitude Triune.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Hattitude Triune.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1770,7 +1770,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191005-115900_500x.jpg?v=1570310324]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Holly Leaves.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Holly Leaves.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1792,7 +1792,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181115_195121-1.jpg?v=1550872098]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Holly the Girl Elf.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Holly the Girl Elf.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1813,7 +1813,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Joy.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Joy.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1835,7 +1835,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Justin_Traffic_1cedbd02-0aba-4b37-b9e5-cd7bb21fe897_307x.jpg?v=1581775925]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Justin Traffic.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Justin Traffic.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1891,7 +1891,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/CoroLamp48_500x.JPG?v=1569145464]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Leg Lamp.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Leg Lamp.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1912,7 +1912,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Longhorn_80.jpg?v=1571007501]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Longhorn - Non Talking.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Longhorn - Non Talking.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1934,7 +1934,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/talking_steer.jpg?v=1571007501]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Longhorn - Talking.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Longhorn - Talking.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1956,7 +1956,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200419_191725_500x.jpg?v=1587349120]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Loving Hands.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Loving Hands.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -1978,7 +1978,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190224-190303.jpg?v=1555356166]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magic Castle.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Magic Castle.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2001,7 +2001,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicFlake-37-e1546025260672_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magic Flake.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Magic Flake.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2023,7 +2023,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200127-121513.jpg?v=1580152955]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Wizard.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Magical Wizard.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2045,7 +2045,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicalSpinner-277-24-1_500x.jpg?v=1569145641]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Spinner Jr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Magical Spinner Jr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2067,7 +2067,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/MagicalWreath-247-48-1_500x.jpg?v=1569145641]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Magical Spinner Sr.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Magical Spinner Sr.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2090,7 +2090,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191027-113155_500x.jpg?v=1572201572]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Maltese Cross.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Maltese Cross.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2112,7 +2112,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200318_105708.jpg?v=1586629607]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Matrix Arch Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Matrix Arch Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2133,7 +2133,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190730-193430.jpg?v=1565032862]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Fidget Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Fidget Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2156,7 +2156,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181114_223250-1-e1542298233468_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Magic Wheel.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Magic Wheel.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2179,7 +2179,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190913-222052_500x.jpg?v=1569176973]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Skull.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Skull.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2221,7 +2221,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190105_200713_500x.jpg?v=1569146774]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Flake 1.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Wreath 320 - Flake 1.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2244,7 +2244,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191020-151614_500x.jpg?v=1571609823]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Magical Head.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Wreath 320 - Magical Head.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2266,7 +2266,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190126_221806_500x.jpg?v=1569147641]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mega Wreath 320 - Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mega Wreath 320 - Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2288,7 +2288,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Merry_Xmas_2_1_500x.JPG?v=1569149299]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Merry Christmas.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Merry Christmas.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2310,7 +2310,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Merry_Xmas_Boxed_1_500x.jpg?v=1569175292]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Merry Christmas Boxed.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Merry Christmas Boxed.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2333,7 +2333,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190930-202023_500x.jpg?v=1569900102]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mini Spider.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mini Spider.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2374,7 +2374,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191110-150328_500x.jpg?v=1573423440]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Monster Arch.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Monster Arch.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2397,7 +2397,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153941.jpg?v=1558984949]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 1.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/MonsterFace - 1.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2420,7 +2420,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153944.jpg?v=1558984949]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 2.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/MonsterFace - 2.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2443,7 +2443,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_153948.jpg?v=1558984949]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 3.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/MonsterFace - 3.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2466,7 +2466,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190526_154000.jpg?v=1558984949]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/MonsterFace - 4.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/MonsterFace - 4.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2488,7 +2488,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190504_123640_24f25406-0269-47eb-bc3d-c029d4f62474_500x.jpg?v=1583520975]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Monster Flake 7.5ft.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Monster Flake 7.5ft.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2529,7 +2529,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180812_164432-1_500x.jpg?v=1569145639]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mother of all Webs.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mother of all Webs.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2552,7 +2552,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190914-140239_500x.jpg?v=1569177018]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/North Pole Sign with Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/North Pole Sign with Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2573,7 +2573,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180819_215759-1-e1534784781847_500x.jpg?v=1569145639]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Nutcracker.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Nutcracker.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2594,7 +2594,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_121843_500x.jpg?v=1569148839]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ornament - A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2615,7 +2615,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191005-141736_500x.jpg?v=1570310392]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - B.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ornament - B.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2636,7 +2636,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_C_Matrix_165_500x.JPG?v=1569162647]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - C.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ornament - C.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2657,7 +2657,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_E_169_400x.JPG?v=1569162653]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - E.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ornament - E.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2678,7 +2678,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ornament_F_109_400x.JPG?v=1569162653]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Ornament - F.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Ornament - F.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2700,7 +2700,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-692403548165915_500x.jpg?v=1581991296]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Merry Christmas.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Passenger Car - Merry Christmas.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2721,7 +2721,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Passenger Car - Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2742,7 +2742,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-180151373096183_458ab20a-23e6-4eba-93d7-57c4d4677b57_500x.png?v=1581991295]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Passenger Car - Plain.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Passenger Car - Plain.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2764,7 +2764,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/926183.jpg?v=1582572160]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Pixel Fairy.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Pixel Fairy.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2787,7 +2787,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-565711283981511_500x.png?v=1580357907]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Poinsettia - 3 Candles.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Poinsettia - 3 Candles.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2808,7 +2808,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/present_a_1.JPG?v=1563387409]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 28.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Present A - 28.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2829,7 +2829,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1381207895361648.jpg?v=1563823298]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 36-48.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Present A - 36-48.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2850,7 +2850,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-1381207895361648.jpg?v=1563823298]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Present A - 36-48.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Present A - 36-48.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2875,7 +2875,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_114831_713_500x.jpg?v=1584309762]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Priemium Cube - 900.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Priemium Cube - 900.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2900,7 +2900,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/IMG_20200315_114831_713_500x.jpg?v=1584309762]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Priemium Cube - 2500.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Priemium Cube - 2500.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2922,7 +2922,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/r1.jpg?v=1566964154]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reaper.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Reaper.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2944,7 +2944,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Reindeer-1_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reindeer.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Reindeer.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2966,7 +2966,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Deer-Rudolf-1_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Reindeer - Rudolf.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Reindeer - Rudolf.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2987,7 +2987,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190216-002244.jpg?v=1579548152]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Rosa Wreath.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Rosa Wreath.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3009,7 +3009,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/RR.JPG?v=1560194500]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/RR Crossing Gate.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/RR Crossing Gate.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3033,7 +3033,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190824-104409_500x.jpg?v=1569173280]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Rudolf Face.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Rudolf Face.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3054,7 +3054,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_121610-1.jpg?v=1550872077]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Saguaro Cactus.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Saguaro Cactus.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3078,7 +3078,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Sanra_Singing_Face_ea877220-636c-4625-a543-28e8b811f76c_500x.jpg?v=1582003100]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Face - Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Santa Face - Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3100,7 +3100,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Santa_d41055a0-fc8f-4c1c-be3c-b2ddde460742_500x.jpg?v=1582003100]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Face - Non Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Santa Face - Non Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3122,7 +3122,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Sleigh1-1_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 1.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Santa Sleigh - 1.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3144,7 +3144,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/926188_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 2.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Santa Sleigh - 2.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3166,7 +3166,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/sleigh1-with-santa-1_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Santa Sleigh - 1 w Santa.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Santa Sleigh - 1 w Santa.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3187,7 +3187,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190914-140727.jpg?v=1584554426]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shooting Star Bouquet.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Shooting Star Bouquet.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3209,7 +3209,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_Light_Bulb_46_Inch.jpg?v=1570476144]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Bulb - Hanging.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Bulb - Hanging.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3231,7 +3231,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_Light_Bulb_30_Inch.jpg?v=1570476144]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Bulb - Upright.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Bulb - Upright.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3253,7 +3253,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200110-082508_7f88835e-b3d8-44ba-9e67-0a54211fc8a7.jpg?v=1582425520]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pixel - 32.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Pixel - 32.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3274,7 +3274,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200222-192549.jpg?v=1582572161]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pixel - 47.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Pixel - 47.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3297,7 +3297,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Pumpkin_Jo_36_500x.JPG?v=1569173216]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Pumpkin.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Pumpkin.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3323,7 +3323,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190217_124637_6135bb90-7937-41d2-8588-243ea3e81d3e_500x.jpg?v=1579315970]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Xmas Tree.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Xmas Tree.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3346,7 +3346,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Singing_tree_boxed_46_inch_500x.JPG?v=1569172565]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Singing Xmas Tree - Boxed.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Singing Xmas Tree - Boxed.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3367,7 +3367,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Snowmannomatrixnospinner_1_500x.JPG?v=1569146319]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/GE Snowman - No Matrix No Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/GE Snowman - No Matrix No Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3388,7 +3388,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/SnowmanSpinnernoMatrix_1_500x.JPG?v=1569146319]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/GE Snowman - Spinner No Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/GE Snowman - Spinner No Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3409,7 +3409,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Snowman - With Matrix and Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Snowman - With Matrix and Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3430,7 +3430,7 @@
 <imagefile/>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Speech Bubble Matrix - A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Speech Bubble Matrix - A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3453,7 +3453,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180715_102609-e1531760256241_500x.jpg?v=1569145639]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spider in Web.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spider in Web.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3475,7 +3475,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190927-215301_500x.jpg?v=1569649981]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spider in Web.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spider in Web.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3496,7 +3496,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spin_Reel_36.JPG?v=1566919604]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spin Reel - 36.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spin Reel - 36.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3518,7 +3518,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190511-185409_500x.jpg?v=1569160613]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spin Reel Max.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spin Reel Max.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3539,7 +3539,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200417_151913_500x.jpg?v=1587162130]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spinner 85.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3563,7 +3563,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182251_f9743ac1-8751-4a06-a979-fe23cbf21f78_500x.jpg?v=1580957582]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spinner 85.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3587,7 +3587,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-182251_f9743ac1-8751-4a06-a979-fe23cbf21f78_500x.jpg?v=1580957582]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner 85.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spinner 85.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3610,7 +3610,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191009-154758_500x.jpg?v=1570661360]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner - 262.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spinner - 262.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3633,7 +3633,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/71092894_682894565542289_6130242963730595840_n_291x.jpg?v=1569890983]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spinner - 277.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spinner - 277.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3656,7 +3656,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spooky_Tree_Face_B_350_500x.JPG?v=1569149387]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spooky Tree - B.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spooky Tree - B.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3679,7 +3679,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Spooky_Tree_2019_C_500x.JPG?v=1569149460]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Spooky Tree - C.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Spooky Tree - C.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3701,7 +3701,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190211-214812.jpg?v=1550872130]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 24.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Shamrock 24.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3723,7 +3723,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190211-212311.jpg?v=1550872131]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 47 - No Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Shamrock 47 - No Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3745,7 +3745,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190212-190704.jpg?v=1550872131]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Shamrock 47 - Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Shamrock 47 - Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3767,7 +3767,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190625_190947_500x.jpg?v=1569164903]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Star Cross.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Star Cross.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3790,7 +3790,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200326_111211_500x.jpg?v=1585247185]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Star of Life - Staff-Serpent.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Star of Life - Staff-Serpent.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3811,7 +3811,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/StarBurst_xTreme_48_288x.jpg?v=1569176712]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/StarBurst - Filled.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/StarBurst - Filled.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3833,7 +3833,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200314_140837.jpg?v=1584386602]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Starlord.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Starlord.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3855,7 +3855,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200102-171603_500x.jpg?v=1578010665]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Steam Locomotive.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Steam Locomotive.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3883,7 +3883,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_149547283079247_500x.png?v=1585599940]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Steampunk Spinner.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Steampunk Spinner.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3904,7 +3904,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190817-121038.jpg?v=1566250529]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Sunset Arch.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Sunset Arch.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3928,7 +3928,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200402_125842_500x.jpg?v=1585859858]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Thank You.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Thank You.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3949,7 +3949,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ghost_B_100_node_400x.jpg?v=1569885298]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3970,7 +3970,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Big_Boo_Sings_324x.jpg?v=1569903698]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Big Boo Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Boo's Brothers - Big Boo Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -3992,7 +3992,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Ghost_Big_Boo_100_node_374x.jpg?v=1569885298]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Boo's Brothers - Non Singing.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4013,7 +4013,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Grinch-Non-Sing-257.JPG?v=1563632445]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mean One - Non Talking.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mean One - Non Talking.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4034,7 +4034,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Grinch-Singing-272.JPG?v=1563632445]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Mean One - Talking.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Mean One - Talking.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4056,7 +4056,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Tombstone2-1.jpg?v=1568496704]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - With Matrix and Skull.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Tombstone - With Matrix and Skull.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4078,7 +4078,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180820_203413-2-e1534822887948.jpg?v=1568496704]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - Without Matrix.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Tombstone - Without Matrix.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4100,7 +4100,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Tombstone_RIP.jpg?v=1568496704]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Tombstone - RIP.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Tombstone - RIP.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4122,7 +4122,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200221-091539_25dccb3b-70c2-4b0b-b268-dd3fd14e0793.jpg?v=1582572162]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Triune Tomb.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Triune Tomb.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4144,7 +4144,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181106_183721-1.jpg?v=1550872135]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Warm Hugs Snowman.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Warm Hugs Snowman.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4167,7 +4167,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190913-222027_500x.jpg?v=1569176974]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/WidowMaker 300.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/WidowMaker 300.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4205,7 +4205,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-2523213834558004.jpg?v=1579548164]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/XKF 330.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/XKF 330.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4226,7 +4226,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20181204_211206-1-e1543984507327_169caa46-de4c-4101-a04c-c80760315cf7_500x.jpg?v=1569145640]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Xmas Tree 53.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Xmas Tree 53.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4249,7 +4249,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218-221305_500x.jpg?v=1569148921]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - A.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Zombie Flake - A.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4272,7 +4272,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190218-221318_500x.jpg?v=1569148921]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - B.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Zombie Flake - B.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4294,7 +4294,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190223_104208_500x.jpg?v=1569149169]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/priemd/geprops/master/xmodels/Zombie Flake - C.xmodel]]>
+<![CDATA[https://github.com/GEUSA/xmodels/blob/master/xmodels/Zombie Flake - C.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
