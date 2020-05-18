@@ -8,6 +8,6 @@
     "lodash": "^4.17.15"
   },
   "scripts": {
-    "update-xl-file": "node ./src/index.js"
+    "update-model-xml": "npm install && node ./src/index.js"
   }
 }

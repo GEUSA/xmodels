@@ -219,4 +219,7 @@ csv()
 
     const expPath = path.join(__dirname, '../', 'geusa-xlights.xml');
     fs.writeFileSync(expPath, output.join('\n'));
+
+    console.log('\n' + 'geusa-xlights.xml model file updated!');
+    console.log('  # of models processed: ' + parsedModels.length);
   });
