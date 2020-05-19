@@ -5,7 +5,7 @@
 <email>info@gilbertengineeringusa.com</email>
 <website>https://geprops.com</website>
 <facebook>https://www.facebook.com/GilbertEngineering/</facebook>
-<notes>We are your Premium Holiday Prop Designer and Provider for both pixels and mini lights.</notes>
+<notes>We are your Premium Holiday Prop Designer and Provider for both pixels and mini lights. We are excited to be a part of the xLights community and have our models available for everyone.</notes>
 <logolink><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/files/GE_LOGO_2020_600x.png?v=1582603548]]></logolink>
 </vendor>
 <categories>
@@ -52,7 +52,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>0</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -72,15 +72,15 @@
 <categoryid>8</categoryid>
 <name>American Flag</name>
 <type>GE Prop</type>
-<weblink><![CDATA[]]></weblink>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/american-flag?_pos=1&_sid=14c47d13d&_ss=r]]></weblink>
 <material></material>
 <width>82" (208cm) or 48" (122cm)</width>
 <height>44" (112cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>746</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile/>
+<imagefile/><![CDATA[https://drive.google.com/file/d/1EgOAwxCupfJDnh-XSDUajVIhixQjg96y/view?usp=sharing]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/American Flag.xmodel]]>
@@ -97,7 +97,7 @@
 <material></material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>139</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -118,7 +118,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -135,7 +135,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -156,7 +156,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -173,7 +173,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -196,7 +196,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>125</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -217,7 +217,7 @@
 <material>Coro</material>
 <width>31" (79cm)</width>
 <height>31" (79cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>448</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -234,7 +234,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>648</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -256,7 +256,7 @@
 <material>Coro</material>
 <width>19" (48cm)</width>
 <height>29" (74cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>75</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -277,7 +277,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>249</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -300,7 +300,7 @@
 <material>Coro</material>
 <width></width>
 <height>54" (137cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>110</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -322,7 +322,7 @@
 <material>Coro</material>
 <width></width>
 <height>54" (137cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>91</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -344,7 +344,7 @@
 <material>Coro</material>
 <width></width>
 <height>54" (137cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>105</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -366,7 +366,7 @@
 <material>Coro</material>
 <width></width>
 <height>54" (137cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>109</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -388,7 +388,7 @@
 <material>Coro</material>
 <width></width>
 <height>42" (107cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>54</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -410,7 +410,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm) or 60" (152cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>149</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -436,7 +436,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>608</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -457,7 +457,7 @@
 <material>Coro</material>
 <width>25" (64cm)</width>
 <height>22.5" (57cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>0</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -478,7 +478,7 @@
 <material>Coro</material>
 <width></width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>0</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -499,7 +499,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>485</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -521,7 +521,7 @@
 <material>Coro</material>
 <width></width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -543,7 +543,7 @@
 <material>Coro</material>
 <width>52" (132cm)</width>
 <height>38.5" (98cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>648</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -565,7 +565,7 @@
 <material>Coro</material>
 <width></width>
 <height>44" (112cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>222</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -587,7 +587,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>44" (112cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>262</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -609,7 +609,7 @@
 <material>Coro</material>
 <width></width>
 <height>40" (102cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -631,7 +631,7 @@
 <material>Coro</material>
 <width></width>
 <height>40" (102cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -653,7 +653,7 @@
 <material>Coro</material>
 <width></width>
 <height>40" (102cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>120</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -675,7 +675,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>200</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -697,7 +697,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height>53" (135cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>210</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -720,7 +720,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height>53" (135cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>335</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -742,7 +742,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>16" (41cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>143</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -763,7 +763,7 @@
 <material>Coro</material>
 <width>27" (69cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>247</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -786,7 +786,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>37</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -809,7 +809,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>109</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -832,7 +832,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>280</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -855,7 +855,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>36</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -878,7 +878,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>84</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -901,7 +901,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>34" (86cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>54</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -924,7 +924,7 @@
 <material>Coro</material>
 <width>21" (53cm)</width>
 <height>42" (107cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>169</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -946,7 +946,7 @@
 <material>Coro</material>
 <width>37" (94cm)</width>
 <height>37" (94cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>216</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -967,7 +967,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>216</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -988,7 +988,7 @@
 <material>Coro</material>
 <width>24" (61cm) or 30" (76cm)</width>
 <height>24" (61cm) or 30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>139</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1010,7 +1010,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>186</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1032,7 +1032,7 @@
 <material>Coro</material>
 <width>30" (76cm)</width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>186</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1054,7 +1054,7 @@
 <material>Coro</material>
 <width></width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>65</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1076,7 +1076,7 @@
 <material>Coro</material>
 <width>24" (61cm) or 30" (76cm)</width>
 <height>24" (61cm) or 30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>205</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1098,7 +1098,7 @@
 <material>Coro</material>
 <width>24" (61cm) or 30" (76cm)</width>
 <height>24" (61cm) or 30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>120</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1119,7 +1119,7 @@
 <material>Coro</material>
 <width>23" (58cm) or 30" (76cm)</width>
 <height>23" (58cm) or 30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>89</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1140,7 +1140,7 @@
 <material>Coro</material>
 <width>23" (58cm) or 30" (76cm)</width>
 <height>23" (58cm) or 30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>129</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1162,7 +1162,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>157</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1183,7 +1183,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>96</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1205,7 +1205,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>156</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1226,7 +1226,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>112</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1248,7 +1248,7 @@
 <material>Coro</material>
 <width>23" (58cm)</width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>78</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1270,7 +1270,7 @@
 <material>Coro</material>
 <width>30" (76cm)</width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>96</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1291,7 +1291,7 @@
 <material>Coro</material>
 <width></width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>220</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1312,7 +1312,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>337</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1334,7 +1334,7 @@
 <material>Coro</material>
 <width>30" (76cm)</width>
 <height>20" (51cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>74</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1356,7 +1356,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>130</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1377,7 +1377,7 @@
 <material>Coro</material>
 <width>36" (91cm) or 47" (119cm)</width>
 <height>36" (91cm) or 47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1400,7 +1400,7 @@
 <material>Coro</material>
 <width>21" (53cm) or 30" (76cm) or 36" (91cm)</width>
 <height>21" (53cm) or 30" (76cm) or 36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>1052</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1422,7 +1422,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>280</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1443,7 +1443,7 @@
 <material>Coro</material>
 <width>29" (74cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>89</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1464,7 +1464,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1485,7 +1485,7 @@
 <material>Coro</material>
 <width>38" (97cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>136</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1507,7 +1507,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>1000</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1524,7 +1524,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>62</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1545,7 +1545,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>46</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1566,7 +1566,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>69</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1587,7 +1587,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>31</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1608,7 +1608,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>49</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1629,7 +1629,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>45</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1650,7 +1650,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>39</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1671,7 +1671,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>76</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1692,7 +1692,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>41</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1714,7 +1714,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>589</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1738,7 +1738,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>607</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1762,7 +1762,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1785,7 +1785,7 @@
 <material>Coro</material>
 <width>33" (84cm)</width>
 <height>44" (112cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>299</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1806,7 +1806,7 @@
 <material></material>
 <width></width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>282</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1827,7 +1827,7 @@
 <material>Coro</material>
 <width>30" (76cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>250</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1849,7 +1849,7 @@
 <material>Coro</material>
 <width>4" (10cm)</width>
 <height>4" (10cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>16</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1866,7 +1866,7 @@
 <material>Coro</material>
 <width>5.5" (14cm)</width>
 <height>5.5" (14cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>24</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1883,7 +1883,7 @@
 <material>Coro</material>
 <width></width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>158</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1905,7 +1905,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>80</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1927,7 +1927,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>144</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1949,7 +1949,7 @@
 <material>Coro</material>
 <width>44" (112cm)</width>
 <height>31.5" (80cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>270</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1971,7 +1971,7 @@
 <material>Coro</material>
 <width></width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>221</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -1993,7 +1993,7 @@
 <material>Coro</material>
 <width>37" (94cm)</width>
 <height>37" (94cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>272</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2016,7 +2016,7 @@
 <material>Coro</material>
 <width>43" (109cm)</width>
 <height>43" (109cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>150</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2038,7 +2038,7 @@
 <material>Coro</material>
 <width>27.5" (70cm)</width>
 <height>18" (46cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>277</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2060,7 +2060,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>320</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2082,7 +2082,7 @@
 <material>Coro</material>
 <width>36" (91cm) or 48" (122cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>150</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2105,7 +2105,7 @@
 <material>HDPE</material>
 <width>72" (183cm)</width>
 <height>37" (94cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>840</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2126,7 +2126,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>456</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2148,7 +2148,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>279</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2171,7 +2171,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>313</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2193,7 +2193,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>320</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2214,7 +2214,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>405</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2237,7 +2237,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>388</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2259,7 +2259,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>405</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2281,7 +2281,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>397</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2303,7 +2303,7 @@
 <material>Coro</material>
 <width>66" (168cm)</width>
 <height>31" (79cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>279</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2325,7 +2325,7 @@
 <material>Coro</material>
 <width>15" (38cm)</width>
 <height>12" (30cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>56</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2348,7 +2348,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>640</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2367,7 +2367,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>384</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2390,7 +2390,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>135</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2413,7 +2413,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>137</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2436,7 +2436,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>137</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2459,7 +2459,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>138</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2480,7 +2480,7 @@
 <material>Coro</material>
 <width>90" (229cm)</width>
 <height>90" (229cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>978</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2502,7 +2502,7 @@
 <material>Coro</material>
 <width>72" (183cm)</width>
 <height>72" (183cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>768</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2521,7 +2521,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height>96" (244cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>720</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2544,7 +2544,7 @@
 <material>Coro</material>
 <width></width>
 <height>96" (244cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>299</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2566,7 +2566,7 @@
 <material>Coro</material>
 <width>19" (48cm) or 24" (61cm)</width>
 <height>46" (117cm) or 84" (213cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>208</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2587,7 +2587,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 49" (124cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>119</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2608,7 +2608,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 49" (124cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>165</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2629,7 +2629,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 49" (124cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>195</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2650,7 +2650,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 49" (124cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>169</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2671,7 +2671,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 49" (124cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>109</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2692,7 +2692,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>837</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2714,7 +2714,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>1175</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2735,7 +2735,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>635</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2757,7 +2757,7 @@
 <material>Coro</material>
 <width></width>
 <height>42" (107cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>124</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2779,7 +2779,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>64.5" (164cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>614</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2801,7 +2801,7 @@
 <material>Coro</material>
 <width></width>
 <height>28" (71cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>123</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2822,7 +2822,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>123</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2843,7 +2843,7 @@
 <material>Coro</material>
 <width></width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>123</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2866,7 +2866,7 @@
 <material>Coro</material>
 <width>16" (41cm)</width>
 <height>16" (41cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>900</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2891,7 +2891,7 @@
 <material>Coro</material>
 <width>26" (66cm)</width>
 <height>26" (66cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>2500</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2915,7 +2915,7 @@
 <material>Coro</material>
 <width></width>
 <height>43" (109cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>126</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2937,7 +2937,7 @@
 <material>Coro</material>
 <width></width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>116</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2959,7 +2959,7 @@
 <material>Coro</material>
 <width></width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>117</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -2980,7 +2980,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>696</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3002,7 +3002,7 @@
 <material>Coro</material>
 <width>60" (152cm)</width>
 <height>96" (244cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>443</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3025,7 +3025,7 @@
 <material>Coro</material>
 <width></width>
 <height>44" (112cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3047,7 +3047,7 @@
 <material>Coro</material>
 <width>30" (76cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3070,7 +3070,7 @@
 <material>Coro</material>
 <width></width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>194</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3093,7 +3093,7 @@
 <material>Coro</material>
 <width></width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>290</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3115,7 +3115,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>14" (36cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>92</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3137,7 +3137,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>193</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3159,7 +3159,7 @@
 <material>Coro</material>
 <width>48" (122cm)</width>
 <height>20" (51cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>110</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3180,7 +3180,7 @@
 <material>Coro</material>
 <width></width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>251</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3202,7 +3202,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>150</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3224,7 +3224,7 @@
 <material>Coro</material>
 <width></width>
 <height>30" (76cm) or 46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>150</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3246,7 +3246,7 @@
 <material>Coro</material>
 <width></width>
 <height>32" (81cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>139</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3267,7 +3267,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>143</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3290,7 +3290,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>167</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3313,7 +3313,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>217</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3339,7 +3339,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>239</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3360,7 +3360,7 @@
 <material>Coro</material>
 <width>40" (102cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>0</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3381,7 +3381,7 @@
 <material>Coro</material>
 <width>40" (102cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>0</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3402,7 +3402,7 @@
 <material>Coro</material>
 <width>40" (102cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>370</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3423,7 +3423,7 @@
 <material></material>
 <width>23" (58cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>250</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3445,7 +3445,7 @@
 <material>Coro</material>
 <width>29" (74cm)</width>
 <height>30" (76cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>174</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3467,7 +3467,7 @@
 <material>HDPE</material>
 <width>44" (112cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>174</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3489,7 +3489,7 @@
 <material>Coro</material>
 <width>36" (91cm)</width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>330</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3510,7 +3510,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>540</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3532,7 +3532,7 @@
 <material></material>
 <width>14" (36cm)</width>
 <height>14" (36cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>85</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3553,7 +3553,7 @@
 <material></material>
 <width>20" (51cm)</width>
 <height>20" (51cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>85</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3577,7 +3577,7 @@
 <material></material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>85</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3601,7 +3601,7 @@
 <material></material>
 <width>32" (81cm)</width>
 <height>32" (81cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>262</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3624,7 +3624,7 @@
 <material></material>
 <width>47" (119cm)</width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>272</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3649,7 +3649,7 @@
 <material>Coro</material>
 <width>102" (259cm)</width>
 <height>120" (305cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>350</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3672,7 +3672,7 @@
 <material>Coro</material>
 <width>102" (259cm)</width>
 <height>120" (305cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>394</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3694,7 +3694,7 @@
 <material>Coro</material>
 <width>23.5" (60cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3716,7 +3716,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>136</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3738,7 +3738,7 @@
 <material>Coro</material>
 <width>47" (119cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>336</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3759,7 +3759,7 @@
 <material>Coro</material>
 <width>32" (81cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>155</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3783,7 +3783,7 @@
 <material>Coro</material>
 <width></width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>481</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3804,7 +3804,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm) or 60" (152cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>296</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3826,7 +3826,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>496</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3847,7 +3847,7 @@
 <material>Coro</material>
 <width>81.6" (207cm)</width>
 <height>48" (122cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>700</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3870,7 +3870,7 @@
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>470</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3897,7 +3897,7 @@
 <material>Coro</material>
 <width>96" (244cm)</width>
 <height></height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>250</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3920,7 +3920,7 @@
 <material>Coro</material>
 <width>55" (140cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>160</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3942,7 +3942,7 @@
 <material>Coro</material>
 <width></width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3963,7 +3963,7 @@
 <material>Coro</material>
 <width></width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>171</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -3985,7 +3985,7 @@
 <material>Coro</material>
 <width></width>
 <height>23" (58cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4006,7 +4006,7 @@
 <material>Coro</material>
 <width></width>
 <height>72" (183cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>257</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4027,7 +4027,7 @@
 <material>Coro</material>
 <width></width>
 <height>72" (183cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>272</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4049,7 +4049,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>375</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4071,7 +4071,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>175</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4093,7 +4093,7 @@
 <material>Coro</material>
 <width></width>
 <height>36" (91cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>151</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4115,7 +4115,7 @@
 <material>Coro</material>
 <width>32" (81cm)</width>
 <height>46" (117cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>730</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4137,7 +4137,7 @@
 <material>Coro</material>
 <width></width>
 <height>37" (94cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>139</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4159,7 +4159,7 @@
 <material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4181,7 +4181,7 @@
 <material>Coro</material>
 <width>32" (81cm)</width>
 <height>32" (81cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>192</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4198,7 +4198,7 @@
 <material>Coro</material>
 <width>45" (114cm)</width>
 <height>45" (114cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>330</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4219,7 +4219,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>53" (135cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4241,7 +4241,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>147</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4264,7 +4264,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>123</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
@@ -4287,7 +4287,7 @@
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>24" (61cm)</height>
-<thickness>12mmmm</thickness>
+<thickness>10mm</thickness>
 <pixelcount>130</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
