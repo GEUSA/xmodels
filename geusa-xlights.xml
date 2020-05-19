@@ -172,11 +172,12 @@
       <material>HDPE</material>
       <width>82" (208cm) or 48" (122cm)</width>
       <height>44" (112cm)</height>
-      <thickness>10mm</thickness>
+      <thickness>0.040in</thickness>
       <pixelcount>746</pixelcount>
       <pixeldescription>12mm bullet</pixeldescription>
       <pixelspacing>0" (cm)</pixelspacing>
       <imagefile/>
+<![CDATA[https://drive.google.com/file/d/1EgOAwxCupfJDnh-XSDUajVIhixQjg96y/view?usp=sharing]]></imagefile>
       <wiring>
         <xmodellink>
           <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/American Flag.xmodel]]>
