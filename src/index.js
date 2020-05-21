@@ -89,7 +89,7 @@ const modelXML = (data) => {
     `<material>${data.material}</material>`,
     `<width>${data.width}</width>`,
     `<height>${data.height}</height>`,
-    `<thickness>${data.thickness}mm</thickness>`,
+    `<thickness>${data.thickness}</thickness>`,
     `<pixelcount>${data.pixelcount}</pixelcount>`,
     `<pixeldescription>12mm bullet</pixeldescription>`,
     `<pixelspacing>0" (cm)</pixelspacing>`,
