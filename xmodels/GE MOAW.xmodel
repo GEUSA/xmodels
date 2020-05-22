@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<circlemodel 
+name="GE MOAW" parm1="1" parm2="640" parm3="50" DisplayAs="Circle" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StartSide="B" Dir="L" circleSizes="64,64,64,64,64,64,64,64,64,64" InsideOut="0" SourceVersion="2020.21"  >
+<subModel name="Slices" layout="horizontal" type="subbuffer" subBuffer="0.00x0.00x24.75x100.00" WorldPosX="-32.6446" WorldPosY="152.5078" WorldPosZ="-429.9884" ScaleX="3.4562" ScaleY="3.5001" ScaleZ="0.0159" RotateX="-0.00000000" RotateY="-1.00000000" RotateZ="0.00000000" versionNumber="4" StartChannel="1201">
+  <ControllerConnection/>
+</subModel>
+<subModel name="SubModel-2" layout="horizontal" type="subbuffer" subBuffer="25.00x0.00x49.75x100.00" WorldPosX="-32.6446" WorldPosY="152.5078" WorldPosZ="-429.9884" ScaleX="3.4562" ScaleY="3.5001" ScaleZ="0.0159" RotateX="-0.00000000" RotateY="-1.00000000" RotateZ="0.00000000" versionNumber="4" StartChannel="1249">
+  <ControllerConnection/>
+</subModel>
+<subModel name="SubModel-3" layout="horizontal" type="subbuffer" subBuffer="50.00x0.00x74.75x100.00" WorldPosX="-32.6446" WorldPosY="152.5078" WorldPosZ="-429.9884" ScaleX="3.4562" ScaleY="3.5001" ScaleZ="0.0159" RotateX="-0.00000000" RotateY="-1.00000000" RotateZ="0.00000000" versionNumber="4" StartChannel="1297">
+  <ControllerConnection/>
+</subModel>
+<subModel name="SubModel-4" layout="horizontal" type="subbuffer" subBuffer="75.00x0.00x100.00x100.00" WorldPosX="-32.6446" WorldPosY="152.5078" WorldPosZ="-429.9884" ScaleX="3.4562" ScaleY="3.5001" ScaleZ="0.0159" RotateX="-0.00000000" RotateY="-1.00000000" RotateZ="0.00000000" versionNumber="4" StartChannel="1345">
+  <ControllerConnection/>
+</subModel>
+</circlemodel>
