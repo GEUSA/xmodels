@@ -503,7 +503,7 @@
 <width>25" (64cm)</width>
 <height>22.5" (57cm)</height>
 <thickness>12mm</thickness>
-<pixelcount>0</pixelcount>
+<pixelcount>49</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Jr-1.jpg?v=1552157389]]></imagefile>
@@ -524,7 +524,7 @@
 <width></width>
 <height></height>
 <thickness>12mm</thickness>
-<pixelcount>0</pixelcount>
+<pixelcount>100</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Cauldren-Sr-100-1.jpg?v=1552157389]]></imagefile>
@@ -3574,7 +3574,7 @@
 </model>
 <model>
 <id>162</id>
-<categoryid>22</categoryid>
+<categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Spider in Web - Small Coro</name>
 <type>GE Prop</type>
@@ -3597,7 +3597,7 @@
 </model>
 <model>
 <id>163</id>
-<categoryid>22</categoryid>
+<categoryid>15</categoryid>
 <name>Spider in Web - Large HDPE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5005,6 +5005,50 @@
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Santas-Legs (1).xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>228</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Preying Spider 150</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/preying-spider?variant=31852756533350]]></weblink>
+<material>Coro</material>
+<width>21" (53cm)</width>
+<height>24" (61cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>150</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received_245733790043858_500x.png?v=1591126597]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>229</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
+<name>Preying Spider 350</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/preying-spider?variant=31852756500582]]></weblink>
+<material>Coro</material>
+<width>44" (112cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>350</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Capture_7e2dec46-4af3-4aee-9b9d-64fe421836fc_500x.jpg?v=1591128166]]>
 </xmodellink>
 </wiring>
 <notes/>
