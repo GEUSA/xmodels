@@ -205,6 +205,7 @@ csv()
 
     let output = ['<modelinventory>', vendorInfo, '<categories>', categoriesXml, '</categories>', '<models>'];
 
+    parsedModels.sort((a, b) => (a.name > b.name) ? 1 : -1);
     let i = 0;
 
     parsedModels.forEach((model) => {
