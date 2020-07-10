@@ -251,7 +251,7 @@
 <categoryid>10</categoryid>
 <name>Bat 50</name>
 <type>GE Prop</type>
-<weblink><![CDATA[]]></weblink>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/bat?_pos=1&_sid=6262ec977&_ss=r]]></weblink>
 <material>Coro</material>
 <width>24" (61cm)</width>
 <height>10" (25cm)</height>
@@ -259,7 +259,7 @@
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile/>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200701_184119_500x.jpg?v=1593654156]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Bat 50.xmodel]]>
@@ -1579,7 +1579,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Capture_b4b99de6-0ede-4c61-b639-f23f7bd8816c_334x.jpg?v=1593636753]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Franken-Monster.xmodel]]>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Franken Monster.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -2742,7 +2742,7 @@
 <pixelcount>386</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_213946_500x.jpg?v=1589174061]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_222910_500x.jpg?v=1589175014]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Bob-Hat.xmodel]]>
@@ -2786,7 +2786,7 @@
 <pixelcount>394</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_214009_500x.jpg?v=1589174061]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_214715_500x.jpg?v=1589174062]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Kevin-Hat.xmodel]]>
@@ -2830,10 +2830,10 @@
 <pixelcount>365</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_213924_500x.jpg?v=1589174062]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200510_214544_500x.jpg?v=1589174062]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Stuart-Hat (1).xmodel]]>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Stuart Hat.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -4799,6 +4799,27 @@
 </model>
 <model>
 <id>218</id>
+<categoryid>10</categoryid>
+<name>Tomb Warp Tombstone</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/tomb-warp-tombstone]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>34" (86cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>183</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/107844451_1004966883290521_1072851799099305647_n_400x.jpg?v=1594243434]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Tomb Warp.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>219</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Tombstone - RIP</name>
@@ -4820,7 +4841,7 @@
 <notes/>
 </model>
 <model>
-<id>219</id>
+<id>220</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Tombstone - With Matrix and Skull</name>
@@ -4842,7 +4863,7 @@
 <notes/>
 </model>
 <model>
-<id>220</id>
+<id>221</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Tombstone - Without Matrix</name>
@@ -4864,7 +4885,7 @@
 <notes/>
 </model>
 <model>
-<id>221</id>
+<id>222</id>
 <categoryid>15</categoryid>
 <name>Treble Clef</name>
 <type>GE Prop</type>
@@ -4885,7 +4906,7 @@
 <notes/>
 </model>
 <model>
-<id>222</id>
+<id>223</id>
 <categoryid>15</categoryid>
 <name>Trippy Triangle</name>
 <type>GE Prop</type>
@@ -4906,7 +4927,7 @@
 <notes/>
 </model>
 <model>
-<id>223</id>
+<id>224</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Triune Tomb</name>
@@ -4928,7 +4949,7 @@
 <notes/>
 </model>
 <model>
-<id>224</id>
+<id>225</id>
 <categoryid>7</categoryid>
 <categoryid>14</categoryid>
 <name>Warm Hugs Snowman</name>
@@ -4950,7 +4971,7 @@
 <notes/>
 </model>
 <model>
-<id>225</id>
+<id>226</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Widowmaker 300</name>
@@ -4973,7 +4994,7 @@
 <notes/>
 </model>
 <model>
-<id>226</id>
+<id>227</id>
 <categoryid>30</categoryid>
 <name>Wreath 32</name>
 <type>GE Prop</type>
@@ -4990,7 +5011,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
 </model>
 <model>
-<id>227</id>
+<id>228</id>
 <categoryid>15</categoryid>
 <name>X-Fighter</name>
 <type>GE Prop</type>
@@ -5011,7 +5032,7 @@
 <notes/>
 </model>
 <model>
-<id>228</id>
+<id>229</id>
 <categoryid>9</categoryid>
 <name>XKF330 Snowflake</name>
 <type>GE Prop</type>
@@ -5032,7 +5053,7 @@
 <notes/>
 </model>
 <model>
-<id>229</id>
+<id>230</id>
 <categoryid>9</categoryid>
 <name>XLS 450 47 &amp; 37 Inch</name>
 <type>GE Prop</type>
@@ -5053,7 +5074,7 @@
 <notes/>
 </model>
 <model>
-<id>230</id>
+<id>231</id>
 <categoryid>27</categoryid>
 <name>Xmas Tree 53</name>
 <type>GE Prop</type>
@@ -5074,7 +5095,7 @@
 <notes/>
 </model>
 <model>
-<id>231</id>
+<id>232</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake A</name>
@@ -5097,7 +5118,7 @@
 <notes/>
 </model>
 <model>
-<id>232</id>
+<id>233</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake B</name>
@@ -5120,7 +5141,7 @@
 <notes/>
 </model>
 <model>
-<id>233</id>
+<id>234</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake C</name>
