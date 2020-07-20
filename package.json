@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "csvtojson": "^2.0.10",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "scripts": {
     "update-model-xml": "npm install && node ./src/index.js"
