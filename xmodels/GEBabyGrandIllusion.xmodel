@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<custommodel 
-name="GE Baby Grand Illusion" parm1="51" parm2="51" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,,,,,,,,,,,,,,,,853,,,852,,,,851,,,900,,,899,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,854,,,,,,,802,,,801,,850,,,,,,,898,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,804,,,803,,,752,,,751,,800,,,849,,,848,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,855,,,,,,,753,,,,,,701,,,,,799,,,,,,,897,,,,,,,,,,,,,;,,,,,,,,,,856,,,805,,,754,,,703,,,702,,,,,750,,,749,,,798,,,847,,,896,,,,,,,,,,,;,,,,,,,,,,,806,,,755,,,704,,,653,,652,,,651,,700,,699,,,748,,,797,,,846,,,,,,,,,,,,;,,,,,,,857,,,,756,,,705,,,654,,,,,602,,,601,,650,,,,,698,,,747,,,796,,,,895,,,,,,,,;,,,,,,,,807,,,,706,,,655,,,604,,603,,,,,551,,,,649,,648,,,697,,,746,,,,845,,,,,,,,,;,,,,,,,,,757,,,,,,,605,,,,553,,552,,,,,600,,599,,,,647,,,,,,,795,,,,,,,,,,;,,,,,858,808,,,,707,,,656,,,,,554,,,503,,502,,501,550,,549,,,598,,,,,696,,,745,,,,844,894,,,,,,;,,,,,,,758,,,,657,,,606,,555,,,504,,,,452,,451,500,,,,548,,,597,,646,,,695,,,,794,,,,,,,,;,,,859,,,,,708,,,,607,,556,,,505,,454,,453,,,,401,,,499,,498,,547,,,596,,645,,,,744,,,,,893,,,,;,,,,,809,,,,658,,,,557,,506,,,455,,404,403,,402,,,450,,449,448,,497,,,546,,595,,,,694,,,,843,,,,,,;,,,,,,759,709,,,608,,,,507,,456,,405,,,,353,352,,351,400,399,,,,447,,496,,545,,,,644,,,743,793,,,,,,,;,,860,810,,,,,659,,,558,508,,,457,,406,,355,354,,303,302,,301,350,349,,398,397,,446,,495,,,544,594,,,693,,,,,842,892,,,;,,,,760,,,,,609,559,,,458,,,407,,356,305,,304,,252,,251,300,,348,,347,396,,445,,,494,,,593,643,,,,,792,,,,,;,,,,,710,,660,,,,509,,,408,,357,,306,,,254,253,,,,,299,298,,,346,,395,,444,,,543,,,,692,,742,,,,,,;,861,811,,,,,,610,560,,,459,409,,358,,307,,256,255,,204,203,202,250,249,248,,297,296,,345,,394,,443,493,,,592,642,,,,,,841,891,,;,,,761,711,,661,,,,510,460,,,,359,308,,257,,206,205,154,153,152,200,199,198,247,246,,295,,344,393,,,,492,542,,,,691,,741,791,,,,;,,,,,,,611,561,,,,,410,360,,309,258,,207,,156,,,102,150,,,197,,245,,294,343,,392,442,,,,,591,641,,,,,,,,;862,812,,762,,,,,,,511,461,411,,,310,,259,209,,158,106,105,104,,,149,147,146,195,,244,293,,342,,,441,491,541,,,,,,,790,,840,890,;,,,,712,662,612,,562,,,,,361,,311,260,210,,159,,108,56,55,53,100,98,96,145,,193,,242,292,341,,391,,,,,590,,640,690,740,,,,,;,,,,,,,,,512,462,,412,362,,,261,211,,160,110,59,58,6,4,50,47,95,93,143,192,,241,291,,,390,440,,490,540,,,,,,,,,,;863,813,763,,713,663,613,563,,,,,,,312,,262,212,162,,111,61,10,8,,,45,43,92,141,,191,240,290,,340,,,,,,,589,639,689,739,,789,839,889,;,,,,,,,,,513,463,413,,363,313,263,,213,163,113,,63,13,,,,,41,90,,140,189,239,,289,339,389,,439,489,539,,,,,,,,,,;,,,,,,,,,514,464,414,,364,314,264,,214,164,115,,65,16,,,,,38,88,,138,188,238,,288,338,388,,438,488,538,,,,,,,,,,;864,814,764,,714,664,614,564,,,,,,,315,,265,215,166,,116,67,18,20,,,33,35,86,136,,187,237,287,,337,,,,,,,588,638,688,738,,788,838,888,;,,,,,,,,,515,465,,415,365,,,266,216,,167,118,68,70,22,25,29,31,83,84,135,185,,236,286,,,387,437,,487,537,,,,,,,,,,;,,,,715,665,615,,565,,,,,366,,316,267,217,,168,,120,71,73,75,78,80,81,133,,184,,235,285,336,,386,,,,,587,,637,687,737,,,,,;865,815,,765,,,,,,,516,466,416,,,317,,268,219,,170,121,122,124,,,129,130,131,183,,234,284,,335,,,436,486,536,,,,,,,787,,837,887,;,,,,,,,616,566,,,,,417,367,,318,269,,220,,172,,,125,127,,,181,,232,,283,334,,385,435,,,,,586,636,,,,,,,,;,,,766,716,,666,,,,517,467,,,,368,319,,270,,221,222,173,174,175,177,178,179,230,231,,282,,333,384,,,,485,535,,,,686,,736,786,,,,;,866,816,,,,,,617,567,,,468,418,,369,,320,,271,272,,223,224,225,227,228,229,,280,281,,332,,383,,434,484,,,585,635,,,,,,836,886,,;,,,,,717,,667,,,,518,,,419,,370,,321,,,273,274,,,,,278,279,,,331,,382,,433,,,534,,,,685,,735,,,,,,;,,,,767,,,,,618,568,,,469,,,420,,371,322,,323,,275,,276,277,,329,,330,381,,432,,,483,,,584,634,,,,,785,,,,,;,,867,817,,,,,668,,,569,519,,,470,,421,,372,373,,324,325,,326,327,328,,379,380,,431,,482,,,533,583,,,684,,,,,835,885,,,;,,,,,,768,718,,,619,,,,520,,471,,422,,,,374,375,,376,377,378,,,,430,,481,,532,,,,633,,,734,784,,,,,,,;,,,,,818,,,,669,,,,570,,521,,,472,,423,424,,425,,,427,,428,429,,480,,,531,,582,,,,683,,,,834,,,,,,;,,,868,,,,,719,,,,620,,571,,,522,,473,,474,,,,426,,,478,,479,,530,,,581,,632,,,,733,,,,,884,,,,;,,,,,,,769,,,,670,,,621,,572,,,523,,,,475,,476,477,,,,529,,,580,,631,,,682,,,,783,,,,,,,,;,,,,,869,819,,,,720,,,671,,,,,573,,,524,,525,,526,527,,528,,,579,,,,,681,,,732,,,,833,883,,,,,,;,,,,,,,,,770,,,,,,,622,,,,574,,575,,,,,577,,578,,,,630,,,,,,,782,,,,,,,,,,;,,,,,,,,820,,,,721,,,672,,,623,,624,,,,,576,,,,628,,629,,,680,,,731,,,,832,,,,,,,,,;,,,,,,,870,,,,771,,,722,,,673,,,,,625,,,626,,627,,,,,679,,,730,,,781,,,,882,,,,,,,,;,,,,,,,,,,,821,,,772,,,723,,,674,,675,,,676,,677,,678,,,729,,,780,,,831,,,,,,,,,,,,;,,,,,,,,,,871,,,822,,,773,,,724,,,725,,,,,727,,,728,,,779,,,830,,,881,,,,,,,,,,,;,,,,,,,,,,,,872,,,,,,,774,,,,,,726,,,,,778,,,,,,,880,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,823,,,824,,,775,,,776,,777,,,828,,,829,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,873,,,,,,,825,,,826,,827,,,,,,,879,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,874,,,875,,,,,,,877,,,878,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,876,,,,,,,,,,,,,,,,,,,,,,,,," SourceVersion="2020.28"  >
+<circlemodel 
+name="GE Baby Grand Illusion Left" parm1="1" parm2="900" parm3="10" DisplayAs="Circle" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StartSide="T" Dir="R" circleSizes="50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50" InsideOut="1" SourceVersion="2020.29"  >
 <subModel name="Whirliwig Odd" layout="horizontal" type="ranges" line0="50,51,102,153,204,255,306,357,408,459,510,561,612,663,714,765,816,867" line1="45,96,147,198,249,300,301,352,403,454,505,556,607,658,709,760,811,862" line2="40,91,142,193,244,295,346,397,448,499,550,551,602,653,704,755,806,857" line3="35,86,137,188,239,290,341,392,443,494,545,596,647,698,749,800,801,852" line4="30,81,132,183,234,285,336,387,438,489,540,591,642,693,744,795,846,897" line5="25,76,127,178,229,280,331,382,433,484,535,586,637,688,739,790,841,892" line6="20,71,122,173,224,275,326,377,428,479,530,581,632,683,734,785,836,887" line7="15,66,117,168,219,270,321,372,423,474,525,576,627,678,729,780,831,882" line8="10,61,112,163,214,265,316,367,418,469,520,571,622,673,724,775,826,877" line9="5,56,107,158,209,260,311,362,413,464,515,566,617,668,719,770,821,872">
   <ControllerConnection/>
 </subModel>
@@ -598,4 +598,160 @@ name="GE Baby Grand Illusion" parm1="51" parm2="51" StringType="RGB Nodes" Trans
 <subModel name="Hook CW 50" layout="horizontal" type="ranges" line0="883,834,785,736,687,638,589,540,491,442,393,344,295,246,197,148,99,50">
   <ControllerConnection/>
 </subModel>
-</custommodel>
+<modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" name="GE Candle Words GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" name="GE Candle Words GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" name="GE Candle Words GRP_1_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" name="GE Candle Words GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="grid" name="GE Circle All" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="grid" name="GE Circle All_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Rings" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Rings_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Snowflake" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Snowflake_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spoke Even" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spoke Even_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spoke Odd" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spoke Odd_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spokes" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Circle Spokes_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Snowflake Spoke Center" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE Snowflake Spoke Center_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Arch GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Arch GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Arch GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Spokes GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Spokes GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Spokes GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly All GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly All GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly All GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly CCW GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly CCW GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Elite Wiggly CCW GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Wiggly CW GRP" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Wiggly CW GRP_1" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="GE SpinArchy Wiggly CW GRP_2" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Default" name="Outlines Window and Garage" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="Singing Bulb" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="Singing Face" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Singing Faces" name="Singing Ornament" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="Singing Reindeer" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+<modelGroup selected="0" LayoutGroup="Default" GridSize="400" layout="minimalGrid" name="Singing Tree" models="">
+  <ControllerConnection/>
+</modelGroup>
+
+</circlemodel>
