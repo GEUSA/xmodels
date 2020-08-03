@@ -1,5 +1,5 @@
 const config = {
-  name: 'Gilber Engineering USA',
+  name: 'Gilbert Engineering USA',
   contact: 'Jason or Christina',
   email: 'info@gilbertengineeringusa.com',
   phone: '',
