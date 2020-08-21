@@ -5489,6 +5489,28 @@
 <id>250</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
+<name>Tomb Warp Tombstone</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/tomb-warp-tombstone?_pos=1&_sid=9d01086b9&_ss=r]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>36" (91cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>183</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/107844451_1004966883290521_1072851799099305647_n_400x.jpg?v=1594243434]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Tomb Warp.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>251</id>
+<categoryid>15</categoryid>
+<categoryid>10</categoryid>
 <name>Tombstone - RIP</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5508,7 +5530,7 @@
 <notes/>
 </model>
 <model>
-<id>251</id>
+<id>252</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Tombstone - With Matrix and Skull</name>
@@ -5530,7 +5552,7 @@
 <notes/>
 </model>
 <model>
-<id>252</id>
+<id>253</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Tombstone - Without Matrix</name>
@@ -5552,7 +5574,7 @@
 <notes/>
 </model>
 <model>
-<id>253</id>
+<id>254</id>
 <categoryid>15</categoryid>
 <name>Treble Clef</name>
 <type>GE Prop</type>
@@ -5573,7 +5595,7 @@
 <notes/>
 </model>
 <model>
-<id>254</id>
+<id>255</id>
 <categoryid>15</categoryid>
 <name>Trippy Triangle</name>
 <type>GE Prop</type>
@@ -5594,7 +5616,7 @@
 <notes/>
 </model>
 <model>
-<id>255</id>
+<id>256</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Triune Tomb</name>
@@ -5616,7 +5638,7 @@
 <notes/>
 </model>
 <model>
-<id>256</id>
+<id>257</id>
 <categoryid>7</categoryid>
 <categoryid>14</categoryid>
 <name>Warm Hugs Snowman</name>
@@ -5638,7 +5660,7 @@
 <notes/>
 </model>
 <model>
-<id>257</id>
+<id>258</id>
 <categoryid>15</categoryid>
 <categoryid>10</categoryid>
 <name>Widowmaker 300</name>
@@ -5661,7 +5683,7 @@
 <notes/>
 </model>
 <model>
-<id>258</id>
+<id>259</id>
 <categoryid>30</categoryid>
 <name>Wreath 32</name>
 <type>GE Prop</type>
@@ -5678,7 +5700,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
 </model>
 <model>
-<id>259</id>
+<id>260</id>
 <categoryid>15</categoryid>
 <name>X-Fighter</name>
 <type>GE Prop</type>
@@ -5699,7 +5721,7 @@
 <notes/>
 </model>
 <model>
-<id>260</id>
+<id>261</id>
 <categoryid>9</categoryid>
 <name>XKF330 Snowflake</name>
 <type>GE Prop</type>
@@ -5720,7 +5742,7 @@
 <notes/>
 </model>
 <model>
-<id>261</id>
+<id>262</id>
 <categoryid>9</categoryid>
 <name>XLS 450 47 &amp; 37 Inch</name>
 <type>GE Prop</type>
@@ -5741,7 +5763,7 @@
 <notes/>
 </model>
 <model>
-<id>262</id>
+<id>263</id>
 <categoryid>27</categoryid>
 <name>Xmas Tree 53</name>
 <type>GE Prop</type>
@@ -5762,7 +5784,7 @@
 <notes/>
 </model>
 <model>
-<id>263</id>
+<id>264</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake A</name>
@@ -5785,7 +5807,7 @@
 <notes/>
 </model>
 <model>
-<id>264</id>
+<id>265</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake B</name>
@@ -5808,7 +5830,7 @@
 <notes/>
 </model>
 <model>
-<id>265</id>
+<id>266</id>
 <categoryid>9</categoryid>
 <categoryid>10</categoryid>
 <name>Zombie Flake C</name>
