@@ -1001,7 +1001,7 @@
 <width>36" (91cm)</width>
 <height>53" (135cm)</height>
 <thickness>12mm</thickness>
-<pixelcount>335</pixelcount>
+<pixelcount>340</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Decorated_Singing_Tree.jpg?v=1569464982]]></imagefile>
@@ -3038,7 +3038,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200318_105708.jpg?v=1586629607]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Matrix Arch Spinner.xmodel]]>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE SpinArchy Elite 1.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
@@ -5502,7 +5502,7 @@
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/107844451_1004966883290521_1072851799099305647_n_400x.jpg?v=1594243434]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Tomb Warp.xmodel]]>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Tomb-Warp.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
