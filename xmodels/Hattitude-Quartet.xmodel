@@ -8,6 +8,9 @@ name="Hattitude Quartet Remodeled" parm1="397" parm2="495" Depth="1" StringType=
 <subModel name="Bulb Outline" layout="horizontal" type="ranges" line0="435-433,431,351-350,348,346-345,343-342,309,307,277,279-280,282,287-286,181,183,185,187,650-648,646-645,640,634-633,584-589,592-594,596,598-599,606-605,523-524,519,517-516,205,209,211,213,495-493,475-474,471,469,466,452-451,448-446,444,441-440,438-437">
   <ControllerConnection/>
 </subModel>
+<subModel name="Bulb Outline for Santa Hat" layout="horizontal" type="ranges" line0="524,519,517-516,205,209,211,213,495-493,475-474,471,469,466,452-451,448-446,444,441-440,438-437,435-433,351-350,348,346-345,343-342,309,307,277,279-280,282,287-286,181,183,185,187,650-648,646">
+  <ControllerConnection/>
+</subModel>
 <subModel name="Bulb Outline with Base" layout="horizontal" type="ranges" line0="435-433,431,351-350,348,346-345,343-342,309,307,277,279-280,282,287-286,181,183,185,187,650-648,646-645,640,634-633,584-589,592-594,596,598-599,606-605,523-524,519,517-516,205,209,211,213,495-493,475-474,471,469,466,452-451,448-446,444,441-440,438-437,442,422,419-418,393-395,372-371,369-368,366,364-363,361,359,357,355-352,430,428-427,425-424,421,408-410,412-413,415,406,404,402,399,397-396">
   <ControllerConnection/>
 </subModel>
@@ -30,6 +33,9 @@ name="Hattitude Quartet Remodeled" parm1="397" parm2="495" Depth="1" StringType=
   <ControllerConnection/>
 </subModel>
 <subModel name="Shrek Outline for Santa Hat" layout="horizontal" type="ranges" line0="342,309,307,277,279-280,282,287-286,181,183,185,187,650-648,646,515-513,511-510,529-528,539-540,526,686-684,682-681,659,661-662,657,652,442,422,419-418,393-394,352-355,357,359,475,493,474,471,494-495,469,213,466,211,452,209,451,205,516,448,517,519,447,524,446,444,441-440,438-437,435-433,431,351-350,348,346-345,343">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ornament" layout="horizontal" type="ranges" line0="436,439,445,450,465,473,492,496,207,518,521,609,625,628,644,651,687,691,288,304,310,344,348,432,613,623,630">
   <ControllerConnection/>
 </subModel>
 <subModel name="Santa Hat Brim and Ball" layout="horizontal" type="ranges" line0="522,608,610,614-615,624,626-627,629,642,643,575-577,667-668,670-671,521,609,625,628,644">
@@ -95,79 +101,79 @@ name="Hattitude Quartet Remodeled" parm1="397" parm2="495" Depth="1" StringType=
 <subModel name="Ring 10" layout="horizontal" type="ranges" line0="367,374,377,380,460,484,487,503,506,533,550,562,565,568,574,674,677,696,293,296,315,318,321,360">
   <ControllerConnection/>
 </subModel>
-<subModel name="Outer Ring" layout="horizontal" type="ranges" line0="367,370,373-381,459-461,483-488,502-507,532-534,548,550,559,561-569,571,574,672-678,695-697,292-297,314-323,360,362,365">
+<subModel name="Outer Ring" layout="horizontal" type="ranges" line0="367,370,373-381,459-461,483-488,502-507,532-534,548,550,559,561-569,571,574,672-678,695-697,292-297,314-323,360,362,365" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="21274">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 1" layout="horizontal" type="ranges" line0="25,81,73,195,628,631,583-582,568">
+<subModel name="Spoke 1" layout="horizontal" type="ranges" line0="25,81,73,195,628,631,583-582,568" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20473">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 2" layout="horizontal" type="ranges" line0="24,82,74,193,644,638,578,576,574">
+<subModel name="Spoke 2" layout="horizontal" type="ranges" line0="25,81,73,195,628,631,583-582,568," WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20473">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 3" layout="horizontal" type="ranges" line0="23,83,61,189,651,658,660,669,674">
+<subModel name="Spoke 3" layout="horizontal" type="ranges" line0="25,81,73,195,628,631,583-582,568" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20473">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 4" layout="horizontal" type="ranges" line0="22,85,58,184,687,683,680-679,677">
+<subModel name="Spoke 4" layout="horizontal" type="ranges" line0="22,85,58,184,687,683,680-679,677" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20464">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 5" layout="horizontal" type="ranges" line0="21,56,177,180,691-694,696">
+<subModel name="Spoke 5" layout="horizontal" type="ranges" line0="21,56,177,180,691-694,696" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20461">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 6" layout="horizontal" type="ranges" line0="20,55,174,285,288-291,293">
+<subModel name="Spoke 6" layout="horizontal" type="ranges" line0="20,55,174,285,288-291,293" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20458">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 7" layout="horizontal" type="ranges" line0="19,54,171,278,304,300-298,296">
+<subModel name="Spoke 7" layout="horizontal" type="ranges" line0="19,54,171,278,304,300-298,296" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20455">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 8" layout="horizontal" type="ranges" line0="18,51,166,275,310-313,315">
+<subModel name="Spoke 8" layout="horizontal" type="ranges" line0="18,51,166,275,310-313,315" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20452">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 9" layout="horizontal" type="ranges" line0="17,49,163,270,344,338-337,331,318">
+<subModel name="Spoke 9" layout="horizontal" type="ranges" line0="17,49,163,270,344,338-337,331,318" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20449">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 10" layout="horizontal" type="ranges" line0="16,46,160,266,349,347,326-327,321">
+<subModel name="Spoke 10" layout="horizontal" type="ranges" line0="16,46,160,266,349,347,326-327,321" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20446">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 11" layout="horizontal" type="ranges" line0="15,43,155,262,432,429,407,358,360">
+<subModel name="Spoke 11" layout="horizontal" type="ranges" line0="15,43,155,262,432,429,407,358,360" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20443">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 12" layout="horizontal" type="ranges" line0="14,40,153,151,436,426,411,400,367">
+<subModel name="Spoke 12" layout="horizontal" type="ranges" line0="14,40,153,151,436,426,411,400,367" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20440">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 13" layout="horizontal" type="ranges" line0="37,137,148,146,439,423,420,416,374">
+<subModel name="Spoke 13" layout="horizontal" type="ranges" line0="37,137,148,146,439,423,420,416,374" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20509">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 14" layout="horizontal" type="ranges" line0="36,139,141,247,445,443,389-390,377">
+<subModel name="Spoke 14" layout="horizontal" type="ranges" line0="36,139,141,247,445,443,389-390,377" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20506">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 15" layout="horizontal" type="ranges" line0="35,132,238,242,450-449,385-384,380">
+<subModel name="Spoke 15" layout="horizontal" type="ranges" line0="35,132,238,242,450-449,385-384,380" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20503">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 16" layout="horizontal" type="ranges" line0="34,130,230,233,465-462,460">
+<subModel name="Spoke 16" layout="horizontal" type="ranges" line0="34,130,230,233,465-462,460" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20500">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 17" layout="horizontal" type="ranges" line0="33,127,226,228,473,480-482,484">
+<subModel name="Spoke 17" layout="horizontal" type="ranges" line0="33,127,226,228,473,480-482,484" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20497">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 18" layout="horizontal" type="ranges" line0="32,126,220,222,492-489,487">
+<subModel name="Spoke 18" layout="horizontal" type="ranges" line0="32,126,220,222,492-489,487" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20494">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 19" layout="horizontal" type="ranges" line0="31,125,217,214,496,499-501,503">
+<subModel name="Spoke 19" layout="horizontal" type="ranges" line0="31,125,217,214,496,499-501,503" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20491">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 20" layout="horizontal" type="ranges" line0="30,122-123,210,207,512,509-508,506">
+<subModel name="Spoke 20" layout="horizontal" type="ranges" line0="30,122-123,210,207,512,509-508,506" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20488">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 21" layout="horizontal" type="ranges" line0="29,120,104,203,518,527,530-531,533">
+<subModel name="Spoke 21" layout="horizontal" type="ranges" line0="29,120,104,203,518,527,530-531,533" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20485">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 22" layout="horizontal" type="ranges" line0="28,111,108,198,522,601,556,559">
+<subModel name="Spoke 22" layout="horizontal" type="ranges" line0="28,111,108,199,521,603,554,552,550" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20482">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 23" layout="horizontal" type="ranges" line0="27,113,96,197,609,612,597,595,562">
+<subModel name="Spoke 23" layout="horizontal" type="ranges" line0="27,113,96,197,609,612,597,595,562" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20479">
   <ControllerConnection/>
 </subModel>
-<subModel name="Spoke 24" layout="horizontal" type="ranges" line0="26,91,71,196,625,623,619,590,565">
+<subModel name="Spoke 24" layout="horizontal" type="ranges" line0="26,91,71,196,625,623,619,590,565" WorldPosX="-500.1610" WorldPosY="336.0830" WorldPosZ="0.0000" ScaleX="0.2571" ScaleY="0.2119" ScaleZ="0.2571" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="20476">
   <ControllerConnection/>
 </subModel>
 <subModel name="Mouth 1" layout="horizontal" type="ranges" line0="224-225,128-129,131,133-135,38,41,47-48,50,52-53,172-173,170-168,273-271,269-267,265-264,260-259,257,255-254,252,250-248,246-243,235-236,232,229,227">
@@ -194,4 +200,6 @@ name="Hattitude Quartet Remodeled" parm1="397" parm2="495" Depth="1" StringType=
 <subModel name="Mouth Rest" layout="horizontal" type="ranges" line0="143,147,149-150,152,154,156,158">
   <ControllerConnection/>
 </subModel>
+<modelGroup selected="0" name="Hattitude Quartet Spinner" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid" models="EXPORTEDMODEL/Spoke 1,EXPORTEDMODEL/Spoke 2,EXPORTEDMODEL/Spoke 3,EXPORTEDMODEL/Spoke 4,EXPORTEDMODEL/Spoke 5,EXPORTEDMODEL/Spoke 6,EXPORTEDMODEL/Spoke 7,EXPORTEDMODEL/Spoke 8,EXPORTEDMODEL/Spoke 9,EXPORTEDMODEL/Spoke 10,EXPORTEDMODEL/Spoke 11,EXPORTEDMODEL/Spoke 12,EXPORTEDMODEL/Spoke 13,EXPORTEDMODEL/Spoke 14,EXPORTEDMODEL/Spoke 15,EXPORTEDMODEL/Spoke 16,EXPORTEDMODEL/Spoke 17,EXPORTEDMODEL/Spoke 18,EXPORTEDMODEL/Spoke 19,EXPORTEDMODEL/Spoke 20,EXPORTEDMODEL/Spoke 21,EXPORTEDMODEL/Spoke 22,EXPORTEDMODEL/Spoke 23,EXPORTEDMODEL/Spoke 24,EXPORTEDMODEL/Outer Ring"/>
+
 </custommodel>
