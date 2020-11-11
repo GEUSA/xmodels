@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="GE Practicality 50 A" parm1="34" parm2="37" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,,,,,,,,,,,,,,12,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,13,,,,,,,,,11,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,18,,,,,,,,,,,,,,,,,,,,,,,,48,,,,,;,,,,,,,,,,,,,14,,,,,,10,,,,,,,,,,,,,,;19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47;,,,,,,,,17,,,,,,,,,,,,,,,,49,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,15,,,,9,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;20,,,,,,,,,,,,16,,,,1,,,,50,,,,,,,,,,,,,46;,,,,,,,,,,,,,2,,,,,,8,,,,,,,,,,,,,,;,,,,,21,,,,,,,,,,,,,,,,,,,,,,45,,,,,,;,,,,,,,,,,22,,,,,,,,,,,,44,,,,,,,,,,,;,,,,,,,,,,,,3,,,,,,,,7,,,,,,,,,,,,,;,,,,,,,,,,23,,,,,,,,,,,,43,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,24,,,,,,,,4,,,,,,6,,,,,,,,42,,,,,,;25,,,,,,,,,,,,29,,,,5,,,,37,,,,,,,,,,,,,41;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,30,,,,36,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,28,,,,,,,,,,,,,,,,38,,,,,,,,,;26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40;,,,,,,,,,,,,,31,,,,,,35,,,,,,,,,,,,,,;,,,,27,,,,,,,,,,,,,,,,,,,,,,,,39,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,32,,,,,,,,,34,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,33,,,,,,,,,,,,,,,,," SourceVersion="2020.31"  >
+<subModel name="Ring 1" layout="horizontal" type="ranges" line0="1-8">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 2" layout="horizontal" type="ranges" line0="15-16,22-23,29-30,36-37,43-44,50,9">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 3" layout="horizontal" type="ranges" line0="14,17,21,24,28,31,35,38,42,45,49,10">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 4" layout="horizontal" type="ranges" line0="12-13,18-20,25-27,32-34,39-41,46-48,11">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ball 1" layout="horizontal" type="ranges" line0="12-14,10-11">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ball 2" layout="horizontal" type="ranges" line0="19-21,17-18">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ball 3" layout="horizontal" type="ranges" line0="26-28,24-25">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ball 4" layout="horizontal" type="ranges" line0="33-35,31-32">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Basll 5" layout="horizontal" type="ranges" line0="40-42,38-39">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ball 6" layout="horizontal" type="ranges" line0="47-49,45-46">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 1" layout="horizontal" type="ranges" line0="1,9-13">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 2" layout="horizontal" type="ranges" line0="2,16-20">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 3" layout="horizontal" type="ranges" line0="3,23-27">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 4" layout="horizontal" type="ranges" line0="5,30-34">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 5" layout="horizontal" type="ranges" line0="6,37-41">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arm 6" layout="horizontal" type="ranges" line0="7,44-48">
+  <ControllerConnection/>
+</subModel>
+</custommodel>

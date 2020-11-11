@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="GE Practicality 48 D" parm1="33" parm2="32" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,,,,,,,,,26,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,25,,,,,24,,,,,,,,,,,,,,;,,,,,28,,,,,,,,,,,,,,,,,,,,,,21,,,,,;,,,,,,,,,27,,,,,,,,,,,,,,22,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,29,,,,,,,,,,,9,,,,,,,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,10,,,,,,,8,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,30,,,,,,11,,,,,,,,,,,,,,7,,,,,,19,,,;31,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,48;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,2,,,,6,,,,,,,,,,,,,,;,,32,,,,,,,12,,,,,,,,,,,,,,18,,,,,,,47,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,3,,,,5,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,;33,,,,,,,,,13,,,,,,,,,,,,,,17,,,,,,,,,46;,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,45,,,;,,,,,,,,,,,,14,,,,,,,16,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,;,,,,,35,,,,,,,,,,,,,,,,,,,,,44,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,36,,,,,37,,,,,,,,,,,,,,42,,,,43,,,,,;,,,,,,,,,,,,,39,,,,,40,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,38,,,,,,,,,,41,,,,,,,,,,," SourceVersion="2020.31"  >
+<subModel name="Ring 1" layout="horizontal" type="ranges" line0="1-6">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 2" layout="horizontal" type="ranges" line0="9-18,7-8">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 3" layout="horizontal" type="ranges" line0="25,27,29-30,32,34-35,37,39-40,42,44-45,47,19-20,22,24">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Ring 4" layout="horizontal" type="ranges" line0="26,28,31,33,36,38,41,43,46,48,21,23">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 1" layout="horizontal" type="ranges" line0="27-25">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 2" layout="horizontal" type="ranges" line0="29-27">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 3" layout="horizontal" type="ranges" line0="32-30">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 4" layout="horizontal" type="ranges" line0="34-32">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow5" layout="horizontal" type="ranges" line0="37-35">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 6" layout="horizontal" type="ranges" line0="39-37">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 7" layout="horizontal" type="ranges" line0="42-40">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 8" layout="horizontal" type="ranges" line0="44-42">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 9" layout="horizontal" type="ranges" line0="47-45">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 10" layout="horizontal" type="ranges" line0="19,48-47">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 11" layout="horizontal" type="ranges" line0="22-20">
+  <ControllerConnection/>
+</subModel>
+<subModel name="Arrow 12" layout="horizontal" type="ranges" line0="24-22">
+  <ControllerConnection/>
+</subModel>
+</custommodel>
