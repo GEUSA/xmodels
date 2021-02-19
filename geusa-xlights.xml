@@ -46,6 +46,48 @@
 <model>
 <id>0</id>
 <categoryid>14</categoryid>
+<name>Alpha Bulb - Hanging A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>49</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_800x.JPG?v=1569162645]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/AB-23-A-Hanging.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>1</id>
+<categoryid>14</categoryid>
+<name>Alpha Bulb - Upright A</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>23" (58cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_800x.JPG?v=1569162645]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/AB-23-A-Upright.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>2</id>
+<categoryid>14</categoryid>
 <name>Alpha Bulb - Upright S</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -66,21 +108,23 @@
 <notes/>
 </model>
 <model>
-<id>1</id>
+<id>3</id>
 <categoryid>26</categoryid>
 <categoryid>21</categoryid>
 <categoryid>9</categoryid>
 <name>American Flag</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/american-flag?_pos=1&_sid=51a2546d5&_ss=r]]></weblink>
-<material></material>
+<material>HDPE</material>
 <width>82" (208cm) or 48" (122cm)</width>
 <height>44" (112cm)</height>
 <thickness>12mm</thickness>
 <pixelcount>746</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200331_212946_500x.jpg?v=1589920982]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/american-flag-pixel-props-147_500x.jpg?v=1610319063]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/american-flag-pixel-props-892_400x.jpg?v=1610319067]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/american-flag-pixel-props-955_500x.png?v=1610319070]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/American Flag.xmodel]]>
@@ -89,19 +133,19 @@
 <notes/>
 </model>
 <model>
-<id>2</id>
+<id>4</id>
 <categoryid>8</categoryid>
 <name>Angel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
-<material></material>
+<material>Coro</material>
 <width></width>
 <height>47" (119cm)</height>
 <thickness>12mm</thickness>
 <pixelcount>139</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200118-152513_500x.jpg?v=1579386377]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/angel-pixel-props-267_500x.jpg?v=1609349453]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/angel.xmodel]]>
@@ -110,7 +154,7 @@
 <notes/>
 </model>
 <model>
-<id>3</id>
+<id>5</id>
 <categoryid>8</categoryid>
 <name>Angels - With Matrix</name>
 <type>GE Prop</type>
@@ -122,7 +166,7 @@
 <pixelcount>400</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200503_160545_500x.jpg?v=1588547252]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/angels-with-matrix-white-pixels-pixel-props-423_500x.jpg?v=1609349463]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Angel Matrix.xmodel]]>
@@ -131,7 +175,7 @@
 <notes/>
 </model>
 <model>
-<id>4</id>
+<id>6</id>
 <categoryid>8</categoryid>
 <name>Angels - With Star</name>
 <type>GE Prop</type>
@@ -143,8 +187,7 @@
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200503_160545_500x.jpg?v=1588547252]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200503_214159_500x.jpg?v=1588567399]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/angels-with-star-white-pixels-pixel-props-241_500x.jpg?v=1609349456]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Angel Star.xmodel]]>
@@ -153,7 +196,7 @@
 <notes/>
 </model>
 <model>
-<id>5</id>
+<id>7</id>
 <categoryid>1</categoryid>
 <name>Arch 4ft - Double</name>
 <type>GE Prop</type>
@@ -174,7 +217,7 @@
 <notes/>
 </model>
 <model>
-<id>6</id>
+<id>8</id>
 <categoryid>1</categoryid>
 <name>Arch 4ft - Single</name>
 <type>GE Prop</type>
@@ -186,13 +229,12 @@
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190929-175223_500x.jpg?v=1569804848]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/AlphaBulbs_A-Z_800x.JPG?v=1569162645]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/arches-4ft-double-pixels-white-4mm-pixel-props-166_500x.jpg?v=1610317679]]></imagefile>
 <wiring/>
 <notes>Use Native xLights Model 'Arches': </notes>
 </model>
 <model>
-<id>7</id>
+<id>9</id>
 <categoryid>1</categoryid>
 <name>Arch 6ft - Single</name>
 <type>GE Prop</type>
@@ -209,7 +251,7 @@
 <notes>Use Native xLights Model 'Arches': </notes>
 </model>
 <model>
-<id>8</id>
+<id>10</id>
 <categoryid>1</categoryid>
 <name>Arch 6ft - Triple</name>
 <type>GE Prop</type>
@@ -221,7 +263,7 @@
 <pixelcount>300</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-495428027757523_027b6897-0b62-4b78-a1df-269df7ba4afc_800x.jpg?v=1577074094]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/arches-6ft-pixel-props-592_500x.jpg?v=1610318028]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Arch 6ft - Triple.xmodel]]>
@@ -230,7 +272,7 @@
 <notes/>
 </model>
 <model>
-<id>9</id>
+<id>11</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>B Rabbit</name>
@@ -252,7 +294,7 @@
 <notes/>
 </model>
 <model>
-<id>10</id>
+<id>12</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Baby Grand Illusion</name>
@@ -265,7 +307,7 @@
 <pixelcount>900</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/babygrand_500x.jpg?v=1594523299]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/grand-baby-illusion-pixel-props-653_500x.jpg?v=1610318842]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GEBabyGrandIllusion.xmodel]]>
@@ -274,7 +316,7 @@
 <notes/>
 </model>
 <model>
-<id>11</id>
+<id>13</id>
 <categoryid>16</categoryid>
 <name>Baby Pod</name>
 <type>GE Prop</type>
@@ -286,7 +328,7 @@
 <pixelcount>650</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200505_075812_500x.jpg?v=1588690971]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/baby-pod-matrix-pixel-props-317_500x.jpg?v=1610319877]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Baby Pod Matrix.xmodel]]>
@@ -295,7 +337,7 @@
 <notes/>
 </model>
 <model>
-<id>12</id>
+<id>14</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Bat 50</name>
@@ -308,7 +350,7 @@
 <pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200701_184119_500x.jpg?v=1593654156]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/bat-pixel-props-642_500x.jpg?v=1610320582]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Bat 50.xmodel]]>
@@ -317,7 +359,7 @@
 <notes/>
 </model>
 <model>
-<id>13</id>
+<id>15</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <categoryid>9</categoryid>
@@ -331,7 +373,7 @@
 <pixelcount>125</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/bc3.jpg?v=1550872066]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-battle-cross-pixel-props-727_364x.jpg?v=1610320984]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Battle Cross.xmodel]]>
@@ -340,7 +382,7 @@
 <notes/>
 </model>
 <model>
-<id>14</id>
+<id>16</id>
 <categoryid>26</categoryid>
 <categoryid>11</categoryid>
 <categoryid>21</categoryid>
@@ -354,8 +396,7 @@
 <pixelcount>308</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/BioHazard_800x.JPG?v=1569161496]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191010-184756.jpg?v=1579548095]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/biohazard-symbol-pixel-props-899_500x.jpg?v=1610316942]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Bio-hazard Sign.xmodel]]>
@@ -364,7 +405,7 @@
 <notes/>
 </model>
 <model>
-<id>15</id>
+<id>17</id>
 <categoryid>27</categoryid>
 <name>Caboose</name>
 <type>GE Prop</type>
@@ -376,8 +417,7 @@
 <pixelcount>648</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-222419735581358_800x.png?v=1581991223]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-629265254533078_60e6333e-6e3d-49bd-b837-f149d90304ff_500x.jpg?v=1581991223]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-caboose-pixel-props-672_500x.png?v=1610318603]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Caboose.xmodel]]>
@@ -386,7 +426,7 @@
 <notes/>
 </model>
 <model>
-<id>16</id>
+<id>18</id>
 <categoryid>16</categoryid>
 <name>Cactus Jr.</name>
 <type>GE Prop</type>
@@ -398,7 +438,8 @@
 <pixelcount>75</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20180811_143309-1.jpg?v=1550872073]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/coro-cactus-jr-pixel-props-575_500x.jpg?v=1610314859]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/coro-cactus-jr-pixel-props-664_500x.jpg?v=1610314869]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Cactus Jr.xmodel]]>
@@ -407,7 +448,7 @@
 <notes/>
 </model>
 <model>
-<id>17</id>
+<id>19</id>
 <categoryid>26</categoryid>
 <name>Cancer Ribbon</name>
 <type>GE Prop</type>
@@ -419,7 +460,7 @@
 <pixelcount>249</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://gilbertengineeringusa.com/products/cancer-ribbon?_pos=1&_sid=2b4a7a64f&_ss=r]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-cancer-ribbon-pink-design-pixels-192_500x.jpg?v=1610320349]]></imagefile>
 <imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/cancer_ribbon_800x.jpg?v=1572311244]]></imagefile>
 <wiring>
 <xmodellink>
@@ -429,7 +470,7 @@
 <notes/>
 </model>
 <model>
-<id>18</id>
+<id>20</id>
 <categoryid>2</categoryid>
 <categoryid>18</categoryid>
 <name>Candle - HOPE</name>
@@ -442,7 +483,7 @@
 <pixelcount>110</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152730_800x.jpg?v=1585002703]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candle-4-8-pixel-props-249_217x.jpg?v=1610318297]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle - HOPE.xmodel]]>
@@ -451,7 +492,7 @@
 <notes/>
 </model>
 <model>
-<id>19</id>
+<id>21</id>
 <categoryid>2</categoryid>
 <categoryid>18</categoryid>
 <name>Candle - JOY</name>
@@ -464,7 +505,7 @@
 <pixelcount>91</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152436_800x.jpg?v=1585002704]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candle-4-8-pixel-props-543_292x.jpg?v=1610318306]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle JOY.xmodel]]>
@@ -473,7 +514,7 @@
 <notes/>
 </model>
 <model>
-<id>20</id>
+<id>22</id>
 <categoryid>2</categoryid>
 <categoryid>18</categoryid>
 <name>Candle - LOVE</name>
@@ -486,7 +527,7 @@
 <pixelcount>105</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152519_800x.jpg?v=1585002703]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candle-4-8-pixel-props-796_216x.jpg?v=1610318300]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle - LOVE.xmodel]]>
@@ -495,7 +536,7 @@
 <notes/>
 </model>
 <model>
-<id>21</id>
+<id>23</id>
 <categoryid>2</categoryid>
 <categoryid>18</categoryid>
 <name>Candle - NOEL</name>
@@ -508,7 +549,7 @@
 <pixelcount>109</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200323_152458_800x.jpg?v=1585002704]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candle-4-8-pixel-props-340_200x.jpg?v=1610318303]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle NOEL.xmodel]]>
@@ -517,7 +558,7 @@
 <notes/>
 </model>
 <model>
-<id>22</id>
+<id>24</id>
 <categoryid>2</categoryid>
 <categoryid>18</categoryid>
 <name>Candle - Plain</name>
@@ -527,19 +568,41 @@
 <width></width>
 <height>42" (107cm)</height>
 <thickness>12mm</thickness>
-<pixelcount>54</pixelcount>
+<pixelcount>50</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/Candle_1_336x.JPG?v=1569148257]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/candle-plain-pixel-props-691_384x.jpg?v=1610316472]]></imagefile>
 <wiring>
 <xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle 54.xmodel]]>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle 50.xmodel]]>
 </xmodellink>
 </wiring>
 <notes/>
 </model>
 <model>
-<id>23</id>
+<id>25</id>
+<categoryid>2</categoryid>
+<categoryid>18</categoryid>
+<name>Candle 8' - HO HO HO</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/candle-8-ho-ho-ho?_pos=3&_sid=5b95f93b7&_ss=r]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>96" (244cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>250</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candle-8-pixel-props-815_196x.jpg?v=1610318278]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candle 8ft Ho Ho Ho.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>26</id>
 <categoryid>3</categoryid>
 <categoryid>18</categoryid>
 <name>Candy Cane 150</name>
@@ -552,10 +615,7 @@
 <pixelcount>150</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070749_800x.jpg?v=1581775808]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070701_800x.jpg?v=1581775808]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200215-070727_800x.jpg?v=1581775808]]></imagefile>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20190202_164438_118dbc3a-89f6-4272-975f-ceb1521e9ada_800x.jpg?v=1581775808]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candy-cane-3-right-hook-redgreenwhite-pixels-pixel-props-386_400x.jpg?v=1610318726]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candy Cane.xmodel]]>
@@ -564,7 +624,7 @@
 <notes/>
 </model>
 <model>
-<id>24</id>
+<id>27</id>
 <categoryid>3</categoryid>
 <categoryid>18</categoryid>
 <name>Candy Cane Giant 7'4"</name>
@@ -577,7 +637,7 @@
 <pixelcount>760</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/candy-cane-pixel-props-907_500x.jpg?v=1610315950]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-candy-cane-74-left-hook-redwhite-pixels-pixel-props-215_400x.jpg?v=1610318742]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Giant-Candy-Cane.xmodel]]>
@@ -586,7 +646,7 @@
 <notes/>
 </model>
 <model>
-<id>25</id>
+<id>28</id>
 <categoryid>23</categoryid>
 <categoryid>29</categoryid>
 <categoryid>3</categoryid>
@@ -609,7 +669,7 @@
 <notes/>
 </model>
 <model>
-<id>26</id>
+<id>29</id>
 <categoryid>11</categoryid>
 <name>Cauldron - Jr</name>
 <type>GE Prop</type>
@@ -630,7 +690,7 @@
 <notes/>
 </model>
 <model>
-<id>27</id>
+<id>30</id>
 <categoryid>11</categoryid>
 <name>Cauldron - Sr</name>
 <type>GE Prop</type>
@@ -651,7 +711,7 @@
 <notes/>
 </model>
 <model>
-<id>28</id>
+<id>31</id>
 <categoryid>8</categoryid>
 <name>Chimney Topper Mean One</name>
 <type>GE Prop</type>
@@ -672,7 +732,7 @@
 <notes/>
 </model>
 <model>
-<id>29</id>
+<id>32</id>
 <categoryid>8</categoryid>
 <name>Chimney Topper Santa</name>
 <type>GE Prop</type>
@@ -693,7 +753,7 @@
 <notes/>
 </model>
 <model>
-<id>30</id>
+<id>33</id>
 <categoryid>8</categoryid>
 <name>Chimney Topper Santa Legs</name>
 <type>GE Prop</type>
@@ -714,7 +774,7 @@
 <notes/>
 </model>
 <model>
-<id>31</id>
+<id>34</id>
 <categoryid>8</categoryid>
 <name>Chimney w matrix</name>
 <type>GE Prop</type>
@@ -735,7 +795,7 @@
 <notes/>
 </model>
 <model>
-<id>32</id>
+<id>35</id>
 <categoryid>8</categoryid>
 <name>Chimney w no matrix</name>
 <type>GE Prop</type>
@@ -756,7 +816,7 @@
 <notes/>
 </model>
 <model>
-<id>33</id>
+<id>36</id>
 <categoryid>27</categoryid>
 <name>Choo Choo Train</name>
 <type>GE Prop</type>
@@ -777,7 +837,7 @@
 <notes/>
 </model>
 <model>
-<id>34</id>
+<id>37</id>
 <categoryid>16</categoryid>
 <categoryid>20</categoryid>
 <name>Christmas Stocking</name>
@@ -800,7 +860,7 @@
 <notes/>
 </model>
 <model>
-<id>35</id>
+<id>38</id>
 <categoryid>16</categoryid>
 <categoryid>16</categoryid>
 <name>Christmas Truck</name>
@@ -822,7 +882,7 @@
 <notes/>
 </model>
 <model>
-<id>36</id>
+<id>39</id>
 <categoryid>16</categoryid>
 <name>Class Of Sign</name>
 <type>GE Prop</type>
@@ -843,7 +903,7 @@
 <notes/>
 </model>
 <model>
-<id>37</id>
+<id>40</id>
 <categoryid>16</categoryid>
 <name>Class of 2020 Sign</name>
 <type>GE Prop</type>
@@ -864,7 +924,7 @@
 <notes/>
 </model>
 <model>
-<id>38</id>
+<id>41</id>
 <categoryid>27</categoryid>
 <name>Coal Car</name>
 <type>GE Prop</type>
@@ -886,7 +946,7 @@
 <notes/>
 </model>
 <model>
-<id>39</id>
+<id>42</id>
 <categoryid>11</categoryid>
 <name>Coffin</name>
 <type>GE Prop</type>
@@ -908,7 +968,7 @@
 <notes/>
 </model>
 <model>
-<id>40</id>
+<id>43</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - A</name>
 <type>GE Prop</type>
@@ -931,7 +991,7 @@
 <notes/>
 </model>
 <model>
-<id>41</id>
+<id>44</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - C</name>
 <type>GE Prop</type>
@@ -954,7 +1014,7 @@
 <notes/>
 </model>
 <model>
-<id>42</id>
+<id>45</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - E</name>
 <type>GE Prop</type>
@@ -977,7 +1037,7 @@
 <notes/>
 </model>
 <model>
-<id>43</id>
+<id>46</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - H</name>
 <type>GE Prop</type>
@@ -1000,7 +1060,7 @@
 <notes/>
 </model>
 <model>
-<id>44</id>
+<id>47</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - I</name>
 <type>GE Prop</type>
@@ -1023,7 +1083,7 @@
 <notes/>
 </model>
 <model>
-<id>45</id>
+<id>48</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - M</name>
 <type>GE Prop</type>
@@ -1046,7 +1106,7 @@
 <notes/>
 </model>
 <model>
-<id>46</id>
+<id>49</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - R</name>
 <type>GE Prop</type>
@@ -1069,7 +1129,7 @@
 <notes/>
 </model>
 <model>
-<id>47</id>
+<id>50</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - S</name>
 <type>GE Prop</type>
@@ -1092,7 +1152,7 @@
 <notes/>
 </model>
 <model>
-<id>48</id>
+<id>51</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - T</name>
 <type>GE Prop</type>
@@ -1115,7 +1175,7 @@
 <notes/>
 </model>
 <model>
-<id>49</id>
+<id>52</id>
 <categoryid>14</categoryid>
 <name>Cookie Letter - Y</name>
 <type>GE Prop</type>
@@ -1138,7 +1198,7 @@
 <notes/>
 </model>
 <model>
-<id>50</id>
+<id>53</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Copy Cat</name>
@@ -1160,7 +1220,7 @@
 <notes/>
 </model>
 <model>
-<id>51</id>
+<id>54</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Corner Web</name>
@@ -1182,7 +1242,7 @@
 <notes/>
 </model>
 <model>
-<id>52</id>
+<id>55</id>
 <categoryid>16</categoryid>
 <name>Corotivity Scene</name>
 <type>GE Prop</type>
@@ -1203,7 +1263,7 @@
 <notes/>
 </model>
 <model>
-<id>53</id>
+<id>56</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Cross - 1</name>
@@ -1225,7 +1285,7 @@
 <notes/>
 </model>
 <model>
-<id>54</id>
+<id>57</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Cross - 2</name>
@@ -1247,7 +1307,7 @@
 <notes/>
 </model>
 <model>
-<id>55</id>
+<id>58</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Cross - 3</name>
@@ -1269,7 +1329,7 @@
 <notes/>
 </model>
 <model>
-<id>56</id>
+<id>59</id>
 <categoryid>21</categoryid>
 <name>DITTO Sign</name>
 <type>GE Prop</type>
@@ -1290,7 +1350,7 @@
 <notes/>
 </model>
 <model>
-<id>57</id>
+<id>60</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <name>Dark Helmet</name>
@@ -1313,7 +1373,7 @@
 <notes/>
 </model>
 <model>
-<id>58</id>
+<id>61</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Dazzler</name>
@@ -1335,7 +1395,7 @@
 <notes/>
 </model>
 <model>
-<id>59</id>
+<id>62</id>
 <categoryid>28</categoryid>
 <name>Decorated Christmas Tree - Non Singing</name>
 <type>GE Prop</type>
@@ -1357,7 +1417,7 @@
 <notes/>
 </model>
 <model>
-<id>60</id>
+<id>63</id>
 <categoryid>28</categoryid>
 <categoryid>7</categoryid>
 <name>Decorated Christmas Tree - Singing</name>
@@ -1380,7 +1440,7 @@
 <notes/>
 </model>
 <model>
-<id>61</id>
+<id>64</id>
 <categoryid>16</categoryid>
 <name>Double Quarter Note</name>
 <type>GE Prop</type>
@@ -1401,7 +1461,7 @@
 <notes/>
 </model>
 <model>
-<id>62</id>
+<id>65</id>
 <categoryid>23</categoryid>
 <name>Dream Catcher - B</name>
 <type>GE Prop</type>
@@ -1423,7 +1483,7 @@
 <notes/>
 </model>
 <model>
-<id>63</id>
+<id>66</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Flower</name>
@@ -1446,7 +1506,7 @@
 <notes/>
 </model>
 <model>
-<id>64</id>
+<id>67</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Line</name>
@@ -1469,7 +1529,7 @@
 <notes/>
 </model>
 <model>
-<id>65</id>
+<id>68</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Matrix</name>
@@ -1492,7 +1552,7 @@
 <notes/>
 </model>
 <model>
-<id>66</id>
+<id>69</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Outline</name>
@@ -1515,7 +1575,7 @@
 <notes/>
 </model>
 <model>
-<id>67</id>
+<id>70</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Wavy Zag</name>
@@ -1538,7 +1598,7 @@
 <notes/>
 </model>
 <model>
-<id>68</id>
+<id>71</id>
 <categoryid>16</categoryid>
 <categoryid>6</categoryid>
 <name>Easter Egg - Zig Zag Filled</name>
@@ -1561,7 +1621,7 @@
 <notes/>
 </model>
 <model>
-<id>69</id>
+<id>72</id>
 <categoryid>16</categoryid>
 <name>Eighth Note</name>
 <type>GE Prop</type>
@@ -1582,7 +1642,7 @@
 <notes/>
 </model>
 <model>
-<id>70</id>
+<id>73</id>
 <categoryid>30</categoryid>
 <name>FAITH</name>
 <type>GE Prop</type>
@@ -1603,7 +1663,7 @@
 <notes/>
 </model>
 <model>
-<id>71</id>
+<id>74</id>
 <categoryid>16</categoryid>
 <categoryid>9</categoryid>
 <name>Fire Hydrant</name>
@@ -1626,7 +1686,7 @@
 <notes/>
 </model>
 <model>
-<id>72</id>
+<id>75</id>
 <categoryid>10</categoryid>
 <name>Flake 37</name>
 <type>GE Prop</type>
@@ -1647,7 +1707,7 @@
 <notes/>
 </model>
 <model>
-<id>73</id>
+<id>76</id>
 <categoryid>10</categoryid>
 <name>Flake 37 - 47 (2020)</name>
 <type>GE Prop</type>
@@ -1668,7 +1728,7 @@
 <notes/>
 </model>
 <model>
-<id>74</id>
+<id>77</id>
 <categoryid>10</categoryid>
 <name>Flake 400</name>
 <type>GE Prop</type>
@@ -1689,7 +1749,7 @@
 <notes/>
 </model>
 <model>
-<id>75</id>
+<id>78</id>
 <categoryid>10</categoryid>
 <name>Flake 47</name>
 <type>GE Prop</type>
@@ -1710,7 +1770,7 @@
 <notes/>
 </model>
 <model>
-<id>76</id>
+<id>79</id>
 <categoryid>10</categoryid>
 <name>Flake A</name>
 <type>GE Prop</type>
@@ -1732,7 +1792,7 @@
 <notes/>
 </model>
 <model>
-<id>77</id>
+<id>80</id>
 <categoryid>10</categoryid>
 <name>Flake A 12 25</name>
 <type>GE Prop</type>
@@ -1753,7 +1813,7 @@
 <notes/>
 </model>
 <model>
-<id>78</id>
+<id>81</id>
 <categoryid>10</categoryid>
 <name>Flake A 18 50</name>
 <type>GE Prop</type>
@@ -1774,7 +1834,7 @@
 <notes/>
 </model>
 <model>
-<id>79</id>
+<id>82</id>
 <categoryid>10</categoryid>
 <name>Flake B - 24</name>
 <type>GE Prop</type>
@@ -1796,7 +1856,7 @@
 <notes/>
 </model>
 <model>
-<id>80</id>
+<id>83</id>
 <categoryid>10</categoryid>
 <name>Flake B - 30</name>
 <type>GE Prop</type>
@@ -1818,7 +1878,7 @@
 <notes/>
 </model>
 <model>
-<id>81</id>
+<id>84</id>
 <categoryid>10</categoryid>
 <name>Flake B - 36</name>
 <type>GE Prop</type>
@@ -1840,7 +1900,7 @@
 <notes/>
 </model>
 <model>
-<id>82</id>
+<id>85</id>
 <categoryid>10</categoryid>
 <name>Flake B 12 25</name>
 <type>GE Prop</type>
@@ -1861,7 +1921,7 @@
 <notes/>
 </model>
 <model>
-<id>83</id>
+<id>86</id>
 <categoryid>10</categoryid>
 <name>Flake B 18 50</name>
 <type>GE Prop</type>
@@ -1882,7 +1942,7 @@
 <notes/>
 </model>
 <model>
-<id>84</id>
+<id>87</id>
 <categoryid>10</categoryid>
 <name>Flake C</name>
 <type>GE Prop</type>
@@ -1904,7 +1964,7 @@
 <notes/>
 </model>
 <model>
-<id>85</id>
+<id>88</id>
 <categoryid>10</categoryid>
 <name>Flake C 12 25</name>
 <type>GE Prop</type>
@@ -1925,7 +1985,7 @@
 <notes/>
 </model>
 <model>
-<id>86</id>
+<id>89</id>
 <categoryid>10</categoryid>
 <name>Flake C 18 50</name>
 <type>GE Prop</type>
@@ -1946,7 +2006,7 @@
 <notes/>
 </model>
 <model>
-<id>87</id>
+<id>90</id>
 <categoryid>10</categoryid>
 <name>Flake D</name>
 <type>GE Prop</type>
@@ -1968,7 +2028,7 @@
 <notes/>
 </model>
 <model>
-<id>88</id>
+<id>91</id>
 <categoryid>10</categoryid>
 <name>Flake D 12 25</name>
 <type>GE Prop</type>
@@ -1989,7 +2049,7 @@
 <notes/>
 </model>
 <model>
-<id>89</id>
+<id>92</id>
 <categoryid>10</categoryid>
 <name>Flake D 18 50</name>
 <type>GE Prop</type>
@@ -2010,7 +2070,7 @@
 <notes/>
 </model>
 <model>
-<id>90</id>
+<id>93</id>
 <categoryid>10</categoryid>
 <name>Flake E</name>
 <type>GE Prop</type>
@@ -2031,7 +2091,7 @@
 <notes/>
 </model>
 <model>
-<id>91</id>
+<id>94</id>
 <categoryid>10</categoryid>
 <name>Flake F</name>
 <type>GE Prop</type>
@@ -2052,7 +2112,7 @@
 <notes/>
 </model>
 <model>
-<id>92</id>
+<id>95</id>
 <categoryid>10</categoryid>
 <name>Flake G</name>
 <type>GE Prop</type>
@@ -2074,7 +2134,7 @@
 <notes/>
 </model>
 <model>
-<id>93</id>
+<id>96</id>
 <categoryid>10</categoryid>
 <name>Flake H</name>
 <type>GE Prop</type>
@@ -2095,7 +2155,7 @@
 <notes/>
 </model>
 <model>
-<id>94</id>
+<id>97</id>
 <categoryid>10</categoryid>
 <name>Flake I - 24</name>
 <type>GE Prop</type>
@@ -2117,7 +2177,7 @@
 <notes/>
 </model>
 <model>
-<id>95</id>
+<id>98</id>
 <categoryid>10</categoryid>
 <name>Flake I - 36</name>
 <type>GE Prop</type>
@@ -2139,7 +2199,7 @@
 <notes/>
 </model>
 <model>
-<id>96</id>
+<id>99</id>
 <categoryid>10</categoryid>
 <name>Flake J</name>
 <type>GE Prop</type>
@@ -2160,7 +2220,7 @@
 <notes/>
 </model>
 <model>
-<id>97</id>
+<id>100</id>
 <categoryid>10</categoryid>
 <name>Flake K</name>
 <type>GE Prop</type>
@@ -2182,7 +2242,7 @@
 <notes/>
 </model>
 <model>
-<id>98</id>
+<id>101</id>
 <categoryid>10</categoryid>
 <name>Flake L - 23</name>
 <type>GE Prop</type>
@@ -2204,7 +2264,7 @@
 <notes/>
 </model>
 <model>
-<id>99</id>
+<id>102</id>
 <categoryid>10</categoryid>
 <name>Flake L - 30</name>
 <type>GE Prop</type>
@@ -2225,7 +2285,7 @@
 <notes/>
 </model>
 <model>
-<id>100</id>
+<id>103</id>
 <categoryid>10</categoryid>
 <name>Flake M</name>
 <type>GE Prop</type>
@@ -2246,7 +2306,7 @@
 <notes/>
 </model>
 <model>
-<id>101</id>
+<id>104</id>
 <categoryid>10</categoryid>
 <name>Flake N</name>
 <type>GE Prop</type>
@@ -2267,7 +2327,7 @@
 <notes/>
 </model>
 <model>
-<id>102</id>
+<id>105</id>
 <categoryid>26</categoryid>
 <name>Fleur de Lis - Filled</name>
 <type>GE Prop</type>
@@ -2288,7 +2348,7 @@
 <notes/>
 </model>
 <model>
-<id>103</id>
+<id>106</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Flying Bat Jr.</name>
@@ -2310,7 +2370,7 @@
 <notes/>
 </model>
 <model>
-<id>104</id>
+<id>107</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Flying Bat Sr.</name>
@@ -2332,7 +2392,7 @@
 <notes/>
 </model>
 <model>
-<id>105</id>
+<id>108</id>
 <categoryid>8</categoryid>
 <categoryid>11</categoryid>
 <name>Franken Monster</name>
@@ -2354,7 +2414,7 @@
 <notes/>
 </model>
 <model>
-<id>106</id>
+<id>109</id>
 <categoryid>10</categoryid>
 <name>Frosty Flake</name>
 <type>GE Prop</type>
@@ -2376,7 +2436,7 @@
 <notes/>
 </model>
 <model>
-<id>107</id>
+<id>110</id>
 <categoryid>0</categoryid>
 <categoryid>13</categoryid>
 <name>G-Sphere</name>
@@ -2399,7 +2459,7 @@
 <notes/>
 </model>
 <model>
-<id>108</id>
+<id>111</id>
 <categoryid>23</categoryid>
 <name>Gear Spinner</name>
 <type>GE Prop</type>
@@ -2420,7 +2480,7 @@
 <notes/>
 </model>
 <model>
-<id>109</id>
+<id>112</id>
 <categoryid>11</categoryid>
 <name>Ghost Jr.</name>
 <type>GE Prop</type>
@@ -2441,7 +2501,7 @@
 <notes/>
 </model>
 <model>
-<id>110</id>
+<id>113</id>
 <categoryid>21</categoryid>
 <name>Gift Tag - A</name>
 <type>GE Prop</type>
@@ -2462,7 +2522,7 @@
 <notes/>
 </model>
 <model>
-<id>111</id>
+<id>114</id>
 <categoryid>8</categoryid>
 <name>Ginferbread Girl</name>
 <type>GE Prop</type>
@@ -2483,7 +2543,7 @@
 <notes/>
 </model>
 <model>
-<id>112</id>
+<id>115</id>
 <categoryid>8</categoryid>
 <name>Gingerbread Man</name>
 <type>GE Prop</type>
@@ -2504,7 +2564,7 @@
 <notes/>
 </model>
 <model>
-<id>113</id>
+<id>116</id>
 <categoryid>8</categoryid>
 <name>Girl Elf Carrying Present</name>
 <type>GE Prop</type>
@@ -2525,7 +2585,7 @@
 <notes/>
 </model>
 <model>
-<id>114</id>
+<id>117</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Gnome Talking</name>
@@ -2547,7 +2607,7 @@
 <notes/>
 </model>
 <model>
-<id>115</id>
+<id>118</id>
 <categoryid>16</categoryid>
 <name>Grad Cap</name>
 <type>GE Prop</type>
@@ -2568,7 +2628,7 @@
 <notes/>
 </model>
 <model>
-<id>116</id>
+<id>119</id>
 <categoryid>16</categoryid>
 <name>Grad Cap w Matrix</name>
 <type>GE Prop</type>
@@ -2589,7 +2649,7 @@
 <notes/>
 </model>
 <model>
-<id>117</id>
+<id>120</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Grand Illusion</name>
@@ -2611,7 +2671,7 @@
 <notes/>
 </model>
 <model>
-<id>118</id>
+<id>121</id>
 <categoryid>30</categoryid>
 <name>HOPE</name>
 <type>GE Prop</type>
@@ -2632,7 +2692,7 @@
 <notes/>
 </model>
 <model>
-<id>119</id>
+<id>122</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Half Web</name>
@@ -2654,7 +2714,7 @@
 <notes/>
 </model>
 <model>
-<id>120</id>
+<id>123</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - A</name>
 <type>GE Prop</type>
@@ -2675,7 +2735,7 @@
 <notes/>
 </model>
 <model>
-<id>121</id>
+<id>124</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - E</name>
 <type>GE Prop</type>
@@ -2696,7 +2756,7 @@
 <notes/>
 </model>
 <model>
-<id>122</id>
+<id>125</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - H</name>
 <type>GE Prop</type>
@@ -2717,7 +2777,7 @@
 <notes/>
 </model>
 <model>
-<id>123</id>
+<id>126</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - L</name>
 <type>GE Prop</type>
@@ -2738,7 +2798,7 @@
 <notes/>
 </model>
 <model>
-<id>124</id>
+<id>127</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - N</name>
 <type>GE Prop</type>
@@ -2759,7 +2819,7 @@
 <notes/>
 </model>
 <model>
-<id>125</id>
+<id>128</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - O</name>
 <type>GE Prop</type>
@@ -2780,7 +2840,7 @@
 <notes/>
 </model>
 <model>
-<id>126</id>
+<id>129</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - P</name>
 <type>GE Prop</type>
@@ -2801,7 +2861,7 @@
 <notes/>
 </model>
 <model>
-<id>127</id>
+<id>130</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - W</name>
 <type>GE Prop</type>
@@ -2822,7 +2882,7 @@
 <notes/>
 </model>
 <model>
-<id>128</id>
+<id>131</id>
 <categoryid>14</categoryid>
 <name>Halloween Font Alphabet - Y</name>
 <type>GE Prop</type>
@@ -2843,7 +2903,7 @@
 <notes/>
 </model>
 <model>
-<id>129</id>
+<id>132</id>
 <categoryid>8</categoryid>
 <name>Hanging Elf</name>
 <type>GE Prop</type>
@@ -2864,7 +2924,7 @@
 <notes/>
 </model>
 <model>
-<id>130</id>
+<id>133</id>
 <categoryid>8</categoryid>
 <name>Hanging Elf - Singing</name>
 <type>GE Prop</type>
@@ -2885,7 +2945,7 @@
 <notes/>
 </model>
 <model>
-<id>131</id>
+<id>134</id>
 <categoryid>26</categoryid>
 <categoryid>12</categoryid>
 <name>Hanukkah Dreidels - Blank</name>
@@ -2907,7 +2967,7 @@
 <notes/>
 </model>
 <model>
-<id>132</id>
+<id>135</id>
 <categoryid>26</categoryid>
 <categoryid>12</categoryid>
 <name>Hanukkah Dreidels - G (Gimel)</name>
@@ -2929,7 +2989,7 @@
 <notes/>
 </model>
 <model>
-<id>133</id>
+<id>136</id>
 <categoryid>26</categoryid>
 <categoryid>12</categoryid>
 <name>Hanukkah Dreidels - H (Hei)</name>
@@ -2951,7 +3011,7 @@
 <notes/>
 </model>
 <model>
-<id>134</id>
+<id>137</id>
 <categoryid>26</categoryid>
 <categoryid>12</categoryid>
 <name>Hanukkah Dreidels - N (Nun)</name>
@@ -2973,7 +3033,7 @@
 <notes/>
 </model>
 <model>
-<id>135</id>
+<id>138</id>
 <categoryid>26</categoryid>
 <categoryid>12</categoryid>
 <name>Hanukkah Dreidels - S (Shin)</name>
@@ -2995,7 +3055,7 @@
 <notes/>
 </model>
 <model>
-<id>136</id>
+<id>139</id>
 <categoryid>4</categoryid>
 <categoryid>22</categoryid>
 <name>Hattitude Quartet</name>
@@ -3019,7 +3079,7 @@
 <notes/>
 </model>
 <model>
-<id>137</id>
+<id>140</id>
 <categoryid>4</categoryid>
 <categoryid>22</categoryid>
 <name>Hattitude Triune 1</name>
@@ -3044,29 +3104,7 @@
 <notes/>
 </model>
 <model>
-<id>138</id>
-<categoryid>4</categoryid>
-<categoryid>22</categoryid>
-<name>Hattitude Triune 2</name>
-<type>GE Prop</type>
-<weblink><![CDATA[]]></weblink>
-<material>Coro</material>
-<width>47" (119cm)</width>
-<height>47" (119cm)</height>
-<thickness>12mm</thickness>
-<pixelcount>589</pixelcount>
-<pixeldescription>12mm bullet</pixeldescription>
-<pixelspacing>0" (cm)</pixelspacing>
-<imagefile/>
-<wiring>
-<xmodellink>
-<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Hattitude-Triune-2.xmodel]]>
-</xmodellink>
-</wiring>
-<notes/>
-</model>
-<model>
-<id>139</id>
+<id>141</id>
 <categoryid>8</categoryid>
 <categoryid>11</categoryid>
 <name>Headless Horseman</name>
@@ -3089,7 +3127,7 @@
 <notes/>
 </model>
 <model>
-<id>140</id>
+<id>142</id>
 <categoryid>16</categoryid>
 <categoryid>29</categoryid>
 <name>Heart - Filled</name>
@@ -3111,7 +3149,7 @@
 <notes/>
 </model>
 <model>
-<id>141</id>
+<id>143</id>
 <categoryid>16</categoryid>
 <categoryid>29</categoryid>
 <categoryid>30</categoryid>
@@ -3134,7 +3172,7 @@
 <notes/>
 </model>
 <model>
-<id>142</id>
+<id>144</id>
 <categoryid>16</categoryid>
 <categoryid>29</categoryid>
 <name>Heart - Outline</name>
@@ -3156,7 +3194,7 @@
 <notes/>
 </model>
 <model>
-<id>143</id>
+<id>145</id>
 <categoryid>23</categoryid>
 <categoryid>15</categoryid>
 <name>Holiday House Grande Wonder Wheel</name>
@@ -3178,7 +3216,7 @@
 <notes/>
 </model>
 <model>
-<id>144</id>
+<id>146</id>
 <categoryid>16</categoryid>
 <name>Holly Leaves</name>
 <type>GE Prop</type>
@@ -3200,7 +3238,7 @@
 <notes/>
 </model>
 <model>
-<id>145</id>
+<id>147</id>
 <categoryid>8</categoryid>
 <categoryid>20</categoryid>
 <name>Holly the Girl Elf</name>
@@ -3222,7 +3260,7 @@
 <notes/>
 </model>
 <model>
-<id>146</id>
+<id>148</id>
 <categoryid>30</categoryid>
 <name>Joy</name>
 <type>GE Prop</type>
@@ -3243,7 +3281,7 @@
 <notes/>
 </model>
 <model>
-<id>147</id>
+<id>149</id>
 <categoryid>8</categoryid>
 <name>JustIn Traffic</name>
 <type>GE Prop</type>
@@ -3265,7 +3303,7 @@
 <notes/>
 </model>
 <model>
-<id>148</id>
+<id>150</id>
 <categoryid>10</categoryid>
 <name>Kings Ransom</name>
 <type>GE Prop</type>
@@ -3286,7 +3324,7 @@
 <notes/>
 </model>
 <model>
-<id>149</id>
+<id>151</id>
 <categoryid>30</categoryid>
 <categoryid>29</categoryid>
 <name>LOVE</name>
@@ -3299,7 +3337,7 @@
 <pixelcount>280</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20191222-175533.jpg?v=1579548137]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/love-pixel-props-687_500x.jpg?v=1610318100]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/love.xmodel]]>
@@ -3308,9 +3346,9 @@
 <notes/>
 </model>
 <model>
-<id>150</id>
+<id>152</id>
 <categoryid>23</categoryid>
-<name>Lawn Disc - 4”</name>
+<name>Lawn Disc - 4</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material>Coro</material>
@@ -3325,9 +3363,9 @@
 <notes>Use Native xLights Model 'Spinner': 8 arms, 2 Lights/Arm</notes>
 </model>
 <model>
-<id>151</id>
+<id>153</id>
 <categoryid>23</categoryid>
-<name>Lawn Disc - 5.5”</name>
+<name>Lawn Disc - 5.5</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material>Coro</material>
@@ -3342,7 +3380,7 @@
 <notes>Use Native xLights Model 'Spinner': 8 arms, 3 Lights/Arm</notes>
 </model>
 <model>
-<id>152</id>
+<id>154</id>
 <categoryid>16</categoryid>
 <name>Leg Lamp</name>
 <type>GE Prop</type>
@@ -3364,7 +3402,7 @@
 <notes/>
 </model>
 <model>
-<id>153</id>
+<id>155</id>
 <categoryid>7</categoryid>
 <name>Longhorn - Non Talking</name>
 <type>GE Prop</type>
@@ -3385,7 +3423,7 @@
 <notes/>
 </model>
 <model>
-<id>154</id>
+<id>156</id>
 <categoryid>7</categoryid>
 <categoryid>22</categoryid>
 <name>Longhorn - Talking</name>
@@ -3407,7 +3445,7 @@
 <notes/>
 </model>
 <model>
-<id>155</id>
+<id>157</id>
 <categoryid>16</categoryid>
 <categoryid>29</categoryid>
 <name>Loving Hands</name>
@@ -3420,7 +3458,7 @@
 <pixelcount>270</pixelcount>
 <pixeldescription>12mm bullet</pixeldescription>
 <pixelspacing>0" (cm)</pixelspacing>
-<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/20200419_191725_800x.jpg?v=1587349120]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/love-pixel-props-687_500x.jpg?v=1610318100]]></imagefile>
 <wiring>
 <xmodellink>
 <![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Loving Hands.xmodel]]>
@@ -3429,7 +3467,7 @@
 <notes/>
 </model>
 <model>
-<id>156</id>
+<id>158</id>
 <categoryid>31</categoryid>
 <categoryid>13</categoryid>
 <name>MOAW</name>
@@ -3453,7 +3491,7 @@
 <notes/>
 </model>
 <model>
-<id>157</id>
+<id>159</id>
 <categoryid>16</categoryid>
 <categoryid>15</categoryid>
 <name>Magic Castle</name>
@@ -3475,7 +3513,7 @@
 <notes/>
 </model>
 <model>
-<id>158</id>
+<id>160</id>
 <categoryid>10</categoryid>
 <categoryid>15</categoryid>
 <name>Magic Flake</name>
@@ -3498,7 +3536,7 @@
 <notes/>
 </model>
 <model>
-<id>159</id>
+<id>161</id>
 <categoryid>8</categoryid>
 <categoryid>15</categoryid>
 <name>Magic Wizard</name>
@@ -3520,7 +3558,7 @@
 <notes/>
 </model>
 <model>
-<id>160</id>
+<id>162</id>
 <categoryid>23</categoryid>
 <categoryid>15</categoryid>
 <name>Magical Spinner Jr.</name>
@@ -3542,7 +3580,7 @@
 <notes/>
 </model>
 <model>
-<id>161</id>
+<id>163</id>
 <categoryid>23</categoryid>
 <categoryid>15</categoryid>
 <name>Magical Spinner Sr.</name>
@@ -3564,7 +3602,7 @@
 <notes/>
 </model>
 <model>
-<id>162</id>
+<id>164</id>
 <categoryid>26</categoryid>
 <name>Maltese Cross</name>
 <type>GE Prop</type>
@@ -3586,7 +3624,7 @@
 <notes/>
 </model>
 <model>
-<id>163</id>
+<id>165</id>
 <categoryid>1</categoryid>
 <categoryid>23</categoryid>
 <name>Matrix Arch Spinner 4 Foot (SpinArchy)</name>
@@ -3608,7 +3646,7 @@
 <notes/>
 </model>
 <model>
-<id>164</id>
+<id>166</id>
 <categoryid>1</categoryid>
 <categoryid>23</categoryid>
 <name>Matrix Arch Spinner 6 Foot (SpinArchy)</name>
@@ -3630,7 +3668,7 @@
 <notes/>
 </model>
 <model>
-<id>165</id>
+<id>167</id>
 <categoryid>23</categoryid>
 <name>Mega Fidget Spinner</name>
 <type>GE Prop</type>
@@ -3651,7 +3689,7 @@
 <notes/>
 </model>
 <model>
-<id>166</id>
+<id>168</id>
 <categoryid>23</categoryid>
 <categoryid>15</categoryid>
 <name>Mega Magic Wheel</name>
@@ -3674,7 +3712,7 @@
 <notes/>
 </model>
 <model>
-<id>167</id>
+<id>169</id>
 <categoryid>16</categoryid>
 <name>Mega Rainbow</name>
 <type>GE Prop</type>
@@ -3695,7 +3733,7 @@
 <notes/>
 </model>
 <model>
-<id>168</id>
+<id>170</id>
 <categoryid>8</categoryid>
 <categoryid>11</categoryid>
 <name>Mega Skull Rev 2</name>
@@ -3717,7 +3755,7 @@
 <notes/>
 </model>
 <model>
-<id>169</id>
+<id>171</id>
 <categoryid>31</categoryid>
 <name>Mega Wreath 320</name>
 <type>GE Prop</type>
@@ -3737,7 +3775,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64</notes>
 </model>
 <model>
-<id>170</id>
+<id>172</id>
 <categoryid>31</categoryid>
 <categoryid>10</categoryid>
 <name>Mega Wreath 320 - Flake-1</name>
@@ -3759,7 +3797,7 @@
 <notes/>
 </model>
 <model>
-<id>171</id>
+<id>173</id>
 <categoryid>31</categoryid>
 <categoryid>23</categoryid>
 <categoryid>15</categoryid>
@@ -3782,7 +3820,7 @@
 <notes/>
 </model>
 <model>
-<id>172</id>
+<id>174</id>
 <categoryid>30</categoryid>
 <categoryid>23</categoryid>
 <name>Mega Wreath 320 - Spinner</name>
@@ -3804,7 +3842,7 @@
 <notes/>
 </model>
 <model>
-<id>173</id>
+<id>175</id>
 <categoryid>30</categoryid>
 <categoryid>21</categoryid>
 <name>Merry Christmas</name>
@@ -3826,7 +3864,7 @@
 <notes/>
 </model>
 <model>
-<id>174</id>
+<id>176</id>
 <categoryid>30</categoryid>
 <categoryid>21</categoryid>
 <name>Merry Christmas Boxed Sign</name>
@@ -3848,7 +3886,7 @@
 <notes/>
 </model>
 <model>
-<id>175</id>
+<id>177</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Bob</name>
@@ -3870,7 +3908,7 @@
 <notes/>
 </model>
 <model>
-<id>176</id>
+<id>178</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Bob w Hat</name>
@@ -3892,7 +3930,7 @@
 <notes/>
 </model>
 <model>
-<id>177</id>
+<id>179</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Kevin</name>
@@ -3914,7 +3952,7 @@
 <notes/>
 </model>
 <model>
-<id>178</id>
+<id>180</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Kevin w Hat</name>
@@ -3936,7 +3974,7 @@
 <notes/>
 </model>
 <model>
-<id>179</id>
+<id>181</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Stuart</name>
@@ -3958,7 +3996,7 @@
 <notes/>
 </model>
 <model>
-<id>180</id>
+<id>182</id>
 <categoryid>8</categoryid>
 <categoryid>22</categoryid>
 <name>Mini Men Stuart w Hat</name>
@@ -3980,7 +4018,7 @@
 <notes/>
 </model>
 <model>
-<id>181</id>
+<id>183</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Mini Spider</name>
@@ -4003,7 +4041,7 @@
 <notes/>
 </model>
 <model>
-<id>182</id>
+<id>184</id>
 <categoryid>1</categoryid>
 <name>Monster Arch</name>
 <type>GE Prop</type>
@@ -4024,7 +4062,7 @@
 <notes/>
 </model>
 <model>
-<id>183</id>
+<id>185</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4047,7 +4085,7 @@
 <notes/>
 </model>
 <model>
-<id>184</id>
+<id>186</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4070,7 +4108,7 @@
 <notes/>
 </model>
 <model>
-<id>185</id>
+<id>187</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4093,7 +4131,7 @@
 <notes/>
 </model>
 <model>
-<id>186</id>
+<id>188</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4116,7 +4154,7 @@
 <notes/>
 </model>
 <model>
-<id>187</id>
+<id>189</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4139,7 +4177,7 @@
 <notes/>
 </model>
 <model>
-<id>188</id>
+<id>190</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -4162,7 +4200,7 @@
 <notes/>
 </model>
 <model>
-<id>189</id>
+<id>191</id>
 <categoryid>10</categoryid>
 <name>Monster Flake 7.5 Ft</name>
 <type>GE Prop</type>
@@ -4184,7 +4222,7 @@
 <notes/>
 </model>
 <model>
-<id>190</id>
+<id>192</id>
 <categoryid>31</categoryid>
 <name>Monster Wreath</name>
 <type>GE Prop</type>
@@ -4202,7 +4240,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64,64,64,64,64,64,64,64</notes>
 </model>
 <model>
-<id>191</id>
+<id>193</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Mother of all Webs</name>
@@ -4225,7 +4263,7 @@
 <notes/>
 </model>
 <model>
-<id>192</id>
+<id>194</id>
 <categoryid>30</categoryid>
 <categoryid>20</categoryid>
 <name>North Pole Sign</name>
@@ -4247,7 +4285,7 @@
 <notes/>
 </model>
 <model>
-<id>193</id>
+<id>195</id>
 <categoryid>21</categoryid>
 <categoryid>20</categoryid>
 <name>North Pole sign with Matrix</name>
@@ -4270,7 +4308,7 @@
 <notes/>
 </model>
 <model>
-<id>194</id>
+<id>196</id>
 <categoryid>8</categoryid>
 <name>Nutcracker 4ft - Rev 1</name>
 <type>GE Prop</type>
@@ -4291,7 +4329,7 @@
 <notes/>
 </model>
 <model>
-<id>195</id>
+<id>197</id>
 <categoryid>8</categoryid>
 <name>Nutcracker 4ft - Singing</name>
 <type>GE Prop</type>
@@ -4312,7 +4350,7 @@
 <notes/>
 </model>
 <model>
-<id>196</id>
+<id>198</id>
 <categoryid>8</categoryid>
 <name>Nutcracker 7ft - Singing</name>
 <type>GE Prop</type>
@@ -4333,7 +4371,7 @@
 <notes/>
 </model>
 <model>
-<id>197</id>
+<id>199</id>
 <categoryid>17</categoryid>
 <name>Ornament - A</name>
 <type>GE Prop</type>
@@ -4354,7 +4392,7 @@
 <notes/>
 </model>
 <model>
-<id>198</id>
+<id>200</id>
 <categoryid>17</categoryid>
 <name>Ornament - B</name>
 <type>GE Prop</type>
@@ -4375,7 +4413,7 @@
 <notes/>
 </model>
 <model>
-<id>199</id>
+<id>201</id>
 <categoryid>17</categoryid>
 <name>Ornament - C</name>
 <type>GE Prop</type>
@@ -4396,7 +4434,7 @@
 <notes/>
 </model>
 <model>
-<id>200</id>
+<id>202</id>
 <categoryid>17</categoryid>
 <name>Ornament - E</name>
 <type>GE Prop</type>
@@ -4417,7 +4455,7 @@
 <notes/>
 </model>
 <model>
-<id>201</id>
+<id>203</id>
 <categoryid>17</categoryid>
 <name>Ornament - F</name>
 <type>GE Prop</type>
@@ -4438,7 +4476,7 @@
 <notes/>
 </model>
 <model>
-<id>202</id>
+<id>204</id>
 <categoryid>19</categoryid>
 <categoryid>0</categoryid>
 <categoryid>13</categoryid>
@@ -4463,7 +4501,7 @@
 <notes/>
 </model>
 <model>
-<id>203</id>
+<id>205</id>
 <categoryid>19</categoryid>
 <categoryid>0</categoryid>
 <categoryid>13</categoryid>
@@ -4488,7 +4526,7 @@
 <notes/>
 </model>
 <model>
-<id>204</id>
+<id>206</id>
 <categoryid>27</categoryid>
 <name>Passenger Car - Matrix</name>
 <type>GE Prop</type>
@@ -4509,7 +4547,7 @@
 <notes/>
 </model>
 <model>
-<id>205</id>
+<id>207</id>
 <categoryid>27</categoryid>
 <name>Passenger Car - Merry Christmas</name>
 <type>GE Prop</type>
@@ -4531,7 +4569,7 @@
 <notes/>
 </model>
 <model>
-<id>206</id>
+<id>208</id>
 <categoryid>27</categoryid>
 <name>Passenger Car - Plain</name>
 <type>GE Prop</type>
@@ -4552,7 +4590,7 @@
 <notes/>
 </model>
 <model>
-<id>207</id>
+<id>209</id>
 <categoryid>8</categoryid>
 <categoryid>15</categoryid>
 <name>Pixel Fairy</name>
@@ -4574,7 +4612,7 @@
 <notes/>
 </model>
 <model>
-<id>208</id>
+<id>210</id>
 <categoryid>16</categoryid>
 <categoryid>2</categoryid>
 <name>Poinsettia - 3 Candles</name>
@@ -4597,7 +4635,7 @@
 <notes/>
 </model>
 <model>
-<id>209</id>
+<id>211</id>
 <categoryid>26</categoryid>
 <categoryid>9</categoryid>
 <name>Police Shield</name>
@@ -4619,7 +4657,7 @@
 <notes/>
 </model>
 <model>
-<id>210</id>
+<id>212</id>
 <categoryid>19</categoryid>
 <name>Present A - 28</name>
 <type>GE Prop</type>
@@ -4640,7 +4678,7 @@
 <notes/>
 </model>
 <model>
-<id>211</id>
+<id>213</id>
 <categoryid>19</categoryid>
 <name>Present A - 36</name>
 <type>GE Prop</type>
@@ -4661,7 +4699,7 @@
 <notes/>
 </model>
 <model>
-<id>212</id>
+<id>214</id>
 <categoryid>19</categoryid>
 <name>Present A - 48</name>
 <type>GE Prop</type>
@@ -4682,7 +4720,7 @@
 <notes/>
 </model>
 <model>
-<id>213</id>
+<id>215</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Preying Spider 150</name>
@@ -4704,7 +4742,7 @@
 <notes/>
 </model>
 <model>
-<id>214</id>
+<id>216</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Preying Spider 350</name>
@@ -4726,7 +4764,7 @@
 <notes/>
 </model>
 <model>
-<id>215</id>
+<id>217</id>
 <categoryid>16</categoryid>
 <name>Quarter Note</name>
 <type>GE Prop</type>
@@ -4747,7 +4785,7 @@
 <notes/>
 </model>
 <model>
-<id>216</id>
+<id>218</id>
 <categoryid>27</categoryid>
 <categoryid>21</categoryid>
 <name>RR Crossing Gate</name>
@@ -4769,7 +4807,7 @@
 <notes/>
 </model>
 <model>
-<id>217</id>
+<id>219</id>
 <categoryid>27</categoryid>
 <categoryid>21</categoryid>
 <name>RR Crossing Sign</name>
@@ -4791,7 +4829,7 @@
 <notes/>
 </model>
 <model>
-<id>218</id>
+<id>220</id>
 <categoryid>8</categoryid>
 <categoryid>11</categoryid>
 <name>Reaper</name>
@@ -4813,7 +4851,7 @@
 <notes/>
 </model>
 <model>
-<id>219</id>
+<id>221</id>
 <categoryid>26</categoryid>
 <name>Rebel Symbol</name>
 <type>GE Prop</type>
@@ -4834,7 +4872,7 @@
 <notes/>
 </model>
 <model>
-<id>220</id>
+<id>222</id>
 <categoryid>8</categoryid>
 <categoryid>20</categoryid>
 <name>Reindeer</name>
@@ -4856,7 +4894,7 @@
 <notes/>
 </model>
 <model>
-<id>221</id>
+<id>223</id>
 <categoryid>8</categoryid>
 <categoryid>20</categoryid>
 <name>Reindeer - Rudolf</name>
@@ -4878,7 +4916,7 @@
 <notes/>
 </model>
 <model>
-<id>222</id>
+<id>224</id>
 <categoryid>21</categoryid>
 <categoryid>5</categoryid>
 <name>Reindeer Crossing</name>
@@ -4900,7 +4938,7 @@
 <notes/>
 </model>
 <model>
-<id>223</id>
+<id>225</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Rosa Grande</name>
@@ -4922,7 +4960,7 @@
 <notes/>
 </model>
 <model>
-<id>224</id>
+<id>226</id>
 <categoryid>31</categoryid>
 <name>Rosa Wreath</name>
 <type>GE Prop</type>
@@ -4943,7 +4981,7 @@
 <notes/>
 </model>
 <model>
-<id>225</id>
+<id>227</id>
 <categoryid>7</categoryid>
 <categoryid>22</categoryid>
 <name>Rudolf Face Singing</name>
@@ -4965,7 +5003,7 @@
 <notes/>
 </model>
 <model>
-<id>226</id>
+<id>228</id>
 <categoryid>7</categoryid>
 <categoryid>20</categoryid>
 <name>Rudolph Face</name>
@@ -4988,7 +5026,7 @@
 <notes/>
 </model>
 <model>
-<id>227</id>
+<id>229</id>
 <categoryid>16</categoryid>
 <name>Saguaro Cactus</name>
 <type>GE Prop</type>
@@ -5009,7 +5047,7 @@
 <notes/>
 </model>
 <model>
-<id>228</id>
+<id>230</id>
 <categoryid>7</categoryid>
 <categoryid>20</categoryid>
 <name>Santa Face - Non Singing</name>
@@ -5031,7 +5069,7 @@
 <notes/>
 </model>
 <model>
-<id>229</id>
+<id>231</id>
 <categoryid>7</categoryid>
 <categoryid>20</categoryid>
 <categoryid>22</categoryid>
@@ -5055,7 +5093,7 @@
 <notes/>
 </model>
 <model>
-<id>230</id>
+<id>232</id>
 <categoryid>20</categoryid>
 <categoryid>16</categoryid>
 <name>Santa Sleigh - 1</name>
@@ -5077,7 +5115,7 @@
 <notes/>
 </model>
 <model>
-<id>231</id>
+<id>233</id>
 <categoryid>20</categoryid>
 <categoryid>16</categoryid>
 <name>Santa Sleigh - 1 w Santa</name>
@@ -5099,7 +5137,7 @@
 <notes/>
 </model>
 <model>
-<id>232</id>
+<id>234</id>
 <categoryid>20</categoryid>
 <categoryid>16</categoryid>
 <name>Santa Sleigh - 2</name>
@@ -5121,7 +5159,7 @@
 <notes/>
 </model>
 <model>
-<id>233</id>
+<id>235</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Serenity</name>
@@ -5143,7 +5181,7 @@
 <notes/>
 </model>
 <model>
-<id>234</id>
+<id>236</id>
 <categoryid>16</categoryid>
 <name>Shark Fins - Fins Up - 39" with Matrix</name>
 <type>GE Prop</type>
@@ -5164,7 +5202,7 @@
 <notes/>
 </model>
 <model>
-<id>235</id>
+<id>237</id>
 <categoryid>25</categoryid>
 <name>Shooting Star Bouquet</name>
 <type>GE Prop</type>
@@ -5185,7 +5223,7 @@
 <notes/>
 </model>
 <model>
-<id>236</id>
+<id>238</id>
 <categoryid>7</categoryid>
 <categoryid>22</categoryid>
 <name>Singing Bulb - Hanging</name>
@@ -5207,7 +5245,7 @@
 <notes/>
 </model>
 <model>
-<id>237</id>
+<id>239</id>
 <categoryid>7</categoryid>
 <categoryid>22</categoryid>
 <name>Singing Bulb - Upright</name>
@@ -5229,7 +5267,7 @@
 <notes/>
 </model>
 <model>
-<id>238</id>
+<id>240</id>
 <categoryid>7</categoryid>
 <categoryid>22</categoryid>
 <name>Singing Pixel - 32</name>
@@ -5251,7 +5289,7 @@
 <notes/>
 </model>
 <model>
-<id>239</id>
+<id>241</id>
 <categoryid>7</categoryid>
 <name>Singing Pixel - 47</name>
 <type>GE Prop</type>
@@ -5272,7 +5310,7 @@
 <notes/>
 </model>
 <model>
-<id>240</id>
+<id>242</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5295,7 +5333,7 @@
 <notes/>
 </model>
 <model>
-<id>241</id>
+<id>243</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5318,7 +5356,7 @@
 <notes/>
 </model>
 <model>
-<id>242</id>
+<id>244</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5341,7 +5379,7 @@
 <notes/>
 </model>
 <model>
-<id>243</id>
+<id>245</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5364,7 +5402,7 @@
 <notes/>
 </model>
 <model>
-<id>244</id>
+<id>246</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5387,7 +5425,7 @@
 <notes/>
 </model>
 <model>
-<id>245</id>
+<id>247</id>
 <categoryid>7</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5410,7 +5448,7 @@
 <notes/>
 </model>
 <model>
-<id>246</id>
+<id>248</id>
 <categoryid>7</categoryid>
 <categoryid>25</categoryid>
 <categoryid>22</categoryid>
@@ -5434,7 +5472,7 @@
 <notes/>
 </model>
 <model>
-<id>247</id>
+<id>249</id>
 <categoryid>7</categoryid>
 <categoryid>28</categoryid>
 <categoryid>22</categoryid>
@@ -5460,7 +5498,7 @@
 <notes/>
 </model>
 <model>
-<id>248</id>
+<id>250</id>
 <categoryid>7</categoryid>
 <categoryid>28</categoryid>
 <categoryid>22</categoryid>
@@ -5483,7 +5521,7 @@
 <notes/>
 </model>
 <model>
-<id>249</id>
+<id>251</id>
 <categoryid>7</categoryid>
 <categoryid>28</categoryid>
 <categoryid>22</categoryid>
@@ -5506,7 +5544,7 @@
 <notes/>
 </model>
 <model>
-<id>250</id>
+<id>252</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Skull Post</name>
@@ -5528,7 +5566,7 @@
 <notes/>
 </model>
 <model>
-<id>251</id>
+<id>253</id>
 <categoryid>16</categoryid>
 <name>Small Rainbow</name>
 <type>GE Prop</type>
@@ -5549,7 +5587,7 @@
 <notes/>
 </model>
 <model>
-<id>252</id>
+<id>254</id>
 <categoryid>8</categoryid>
 <name>Snowman - No Matrix No Spinner</name>
 <type>GE Prop</type>
@@ -5570,7 +5608,7 @@
 <notes/>
 </model>
 <model>
-<id>253</id>
+<id>255</id>
 <categoryid>8</categoryid>
 <name>Snowman - Spinner No Matrix</name>
 <type>GE Prop</type>
@@ -5591,7 +5629,7 @@
 <notes/>
 </model>
 <model>
-<id>254</id>
+<id>256</id>
 <categoryid>8</categoryid>
 <name>Snowman - With Matrix and Spinner</name>
 <type>GE Prop</type>
@@ -5612,7 +5650,28 @@
 <notes/>
 </model>
 <model>
-<id>255</id>
+<id>257</id>
+<categoryid>8</categoryid>
+<name>Snowman 8Ft</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/snowman-large?_pos=1&_sid=b15e73e6e&_ss=r]]></weblink>
+<material>Coro</material>
+<width>47" (119cm)</width>
+<height>94" (239cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>472</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/snowman-large-pixel-props-868_500x.jpg?v=1610321517]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Snowman 8 ft.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>258</id>
 <categoryid>16</categoryid>
 <name>Speech Bubble Matrix - A</name>
 <type>GE Prop</type>
@@ -5633,7 +5692,7 @@
 <notes/>
 </model>
 <model>
-<id>256</id>
+<id>259</id>
 <categoryid>16</categoryid>
 <name>Speech Bubble Matrix - B</name>
 <type>GE Prop</type>
@@ -5654,7 +5713,7 @@
 <notes/>
 </model>
 <model>
-<id>257</id>
+<id>260</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Spider Web 3x3</name>
@@ -5676,7 +5735,7 @@
 <notes/>
 </model>
 <model>
-<id>258</id>
+<id>261</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Spider Web 4x4</name>
@@ -5698,7 +5757,7 @@
 <notes/>
 </model>
 <model>
-<id>259</id>
+<id>262</id>
 <categoryid>23</categoryid>
 <name>Spider in Web - Large HDPE</name>
 <type>GE Prop</type>
@@ -5720,7 +5779,7 @@
 <notes/>
 </model>
 <model>
-<id>260</id>
+<id>263</id>
 <categoryid>23</categoryid>
 <categoryid>11</categoryid>
 <name>Spider in Web - Small Coro</name>
@@ -5743,7 +5802,7 @@
 <notes/>
 </model>
 <model>
-<id>261</id>
+<id>264</id>
 <categoryid>23</categoryid>
 <name>Spin Reel - 36</name>
 <type>GE Prop</type>
@@ -5764,7 +5823,7 @@
 <notes/>
 </model>
 <model>
-<id>262</id>
+<id>265</id>
 <categoryid>23</categoryid>
 <name>Spin Reel - 46</name>
 <type>GE Prop</type>
@@ -5786,7 +5845,7 @@
 <notes/>
 </model>
 <model>
-<id>263</id>
+<id>266</id>
 <categoryid>23</categoryid>
 <name>Spin Reel Max</name>
 <type>GE Prop</type>
@@ -5808,9 +5867,9 @@
 <notes/>
 </model>
 <model>
-<id>264</id>
+<id>267</id>
 <categoryid>23</categoryid>
-<name>Spinner - 14”</name>
+<name>Spinner - 14</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5829,9 +5888,9 @@
 <notes/>
 </model>
 <model>
-<id>265</id>
+<id>268</id>
 <categoryid>23</categoryid>
-<name>Spinner - 20”</name>
+<name>Spinner - 20</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5853,9 +5912,9 @@
 <notes/>
 </model>
 <model>
-<id>266</id>
+<id>269</id>
 <categoryid>23</categoryid>
-<name>Spinner - 24”</name>
+<name>Spinner - 24</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5877,9 +5936,9 @@
 <notes/>
 </model>
 <model>
-<id>267</id>
+<id>270</id>
 <categoryid>23</categoryid>
-<name>Spinner - 32”</name>
+<name>Spinner - 32</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5900,9 +5959,9 @@
 <notes/>
 </model>
 <model>
-<id>268</id>
+<id>271</id>
 <categoryid>23</categoryid>
-<name>Spinner - 47”</name>
+<name>Spinner - 47</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5923,9 +5982,9 @@
 <notes/>
 </model>
 <model>
-<id>269</id>
+<id>272</id>
 <categoryid>23</categoryid>
-<name>Spinner - 9*</name>
+<name>Spinner - 9</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
 <material></material>
@@ -5945,7 +6004,7 @@
 <notes/>
 </model>
 <model>
-<id>270</id>
+<id>273</id>
 <categoryid>28</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5968,7 +6027,7 @@
 <notes/>
 </model>
 <model>
-<id>271</id>
+<id>274</id>
 <categoryid>28</categoryid>
 <categoryid>11</categoryid>
 <categoryid>22</categoryid>
@@ -5991,7 +6050,7 @@
 <notes/>
 </model>
 <model>
-<id>272</id>
+<id>275</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Square Peg</name>
@@ -6013,7 +6072,7 @@
 <notes/>
 </model>
 <model>
-<id>273</id>
+<id>276</id>
 <categoryid>24</categoryid>
 <categoryid>21</categoryid>
 <name>St. Patricks Day Shamrock (24 Inch)</name>
@@ -6035,7 +6094,7 @@
 <notes/>
 </model>
 <model>
-<id>274</id>
+<id>277</id>
 <categoryid>24</categoryid>
 <categoryid>21</categoryid>
 <name>St. Patricks Day Shamrock (47 Inch) - Matrix</name>
@@ -6057,7 +6116,7 @@
 <notes/>
 </model>
 <model>
-<id>275</id>
+<id>278</id>
 <categoryid>24</categoryid>
 <categoryid>21</categoryid>
 <name>St. Patricks Day Shamrock (47 Inch) - No Matrix</name>
@@ -6079,7 +6138,7 @@
 <notes/>
 </model>
 <model>
-<id>276</id>
+<id>279</id>
 <categoryid>25</categoryid>
 <name>Star Cross</name>
 <type>GE Prop</type>
@@ -6101,7 +6160,7 @@
 <notes/>
 </model>
 <model>
-<id>277</id>
+<id>280</id>
 <categoryid>26</categoryid>
 <categoryid>21</categoryid>
 <categoryid>9</categoryid>
@@ -6124,7 +6183,7 @@
 <notes/>
 </model>
 <model>
-<id>278</id>
+<id>281</id>
 <categoryid>10</categoryid>
 <name>StarFlake 640</name>
 <type>GE Prop</type>
@@ -6145,7 +6204,7 @@
 <notes/>
 </model>
 <model>
-<id>279</id>
+<id>282</id>
 <categoryid>25</categoryid>
 <name>Starburst 60 - Filled</name>
 <type>GE Prop</type>
@@ -6166,7 +6225,7 @@
 <notes/>
 </model>
 <model>
-<id>280</id>
+<id>283</id>
 <categoryid>25</categoryid>
 <name>Starburst 60 - Unfilled</name>
 <type>GE Prop</type>
@@ -6187,7 +6246,7 @@
 <notes/>
 </model>
 <model>
-<id>281</id>
+<id>284</id>
 <categoryid>10</categoryid>
 <name>Starlord</name>
 <type>GE Prop</type>
@@ -6208,7 +6267,7 @@
 <notes/>
 </model>
 <model>
-<id>282</id>
+<id>285</id>
 <categoryid>16</categoryid>
 <categoryid>21</categoryid>
 <name>State Love TX</name>
@@ -6230,7 +6289,7 @@
 <notes/>
 </model>
 <model>
-<id>283</id>
+<id>286</id>
 <categoryid>27</categoryid>
 <name>Steam Locomotive</name>
 <type>GE Prop</type>
@@ -6252,7 +6311,7 @@
 <notes/>
 </model>
 <model>
-<id>284</id>
+<id>287</id>
 <categoryid>23</categoryid>
 <categoryid>13</categoryid>
 <name>Steampunk Spinner</name>
@@ -6280,7 +6339,7 @@
 <notes/>
 </model>
 <model>
-<id>285</id>
+<id>288</id>
 <categoryid>16</categoryid>
 <name>Strawberry Large</name>
 <type>GE Prop</type>
@@ -6301,7 +6360,7 @@
 <notes/>
 </model>
 <model>
-<id>286</id>
+<id>289</id>
 <categoryid>16</categoryid>
 <name>Strawberry Small</name>
 <type>GE Prop</type>
@@ -6322,7 +6381,7 @@
 <notes/>
 </model>
 <model>
-<id>287</id>
+<id>290</id>
 <categoryid>1</categoryid>
 <name>Sunset Arch</name>
 <type>GE Prop</type>
@@ -6343,7 +6402,7 @@
 <notes/>
 </model>
 <model>
-<id>288</id>
+<id>291</id>
 <categoryid>25</categoryid>
 <name>Superstar</name>
 <type>GE Prop</type>
@@ -6364,7 +6423,7 @@
 <notes/>
 </model>
 <model>
-<id>289</id>
+<id>292</id>
 <categoryid>16</categoryid>
 <name>T-Fighter</name>
 <type>GE Prop</type>
@@ -6385,7 +6444,7 @@
 <notes/>
 </model>
 <model>
-<id>290</id>
+<id>293</id>
 <categoryid>21</categoryid>
 <categoryid>30</categoryid>
 <categoryid>9</categoryid>
@@ -6409,7 +6468,7 @@
 <notes/>
 </model>
 <model>
-<id>291</id>
+<id>294</id>
 <categoryid>8</categoryid>
 <name>The Boo's Brothers - Big Boo</name>
 <type>GE Prop</type>
@@ -6430,7 +6489,7 @@
 <notes/>
 </model>
 <model>
-<id>292</id>
+<id>295</id>
 <categoryid>8</categoryid>
 <name>The Boo's Brothers - Big Boo Singing</name>
 <type>GE Prop</type>
@@ -6451,7 +6510,7 @@
 <notes/>
 </model>
 <model>
-<id>293</id>
+<id>296</id>
 <categoryid>8</categoryid>
 <categoryid>11</categoryid>
 <name>The Boo's Brothers - Lil Boo</name>
@@ -6473,7 +6532,7 @@
 <notes/>
 </model>
 <model>
-<id>294</id>
+<id>297</id>
 <categoryid>8</categoryid>
 <name>The Mean One - Non Talking</name>
 <type>GE Prop</type>
@@ -6494,7 +6553,7 @@
 <notes/>
 </model>
 <model>
-<id>295</id>
+<id>298</id>
 <categoryid>8</categoryid>
 <name>The Mean One - Talking</name>
 <type>GE Prop</type>
@@ -6515,7 +6574,7 @@
 <notes/>
 </model>
 <model>
-<id>296</id>
+<id>299</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Tomb Warp Tombstone</name>
@@ -6537,7 +6596,7 @@
 <notes/>
 </model>
 <model>
-<id>297</id>
+<id>300</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Tombstone - RIP</name>
@@ -6559,7 +6618,7 @@
 <notes/>
 </model>
 <model>
-<id>298</id>
+<id>301</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Tombstone - With Matrix and Skull</name>
@@ -6581,7 +6640,7 @@
 <notes/>
 </model>
 <model>
-<id>299</id>
+<id>302</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Tombstone - Without Matrix</name>
@@ -6603,7 +6662,7 @@
 <notes/>
 </model>
 <model>
-<id>300</id>
+<id>303</id>
 <categoryid>16</categoryid>
 <name>Treble Clef</name>
 <type>GE Prop</type>
@@ -6624,7 +6683,7 @@
 <notes/>
 </model>
 <model>
-<id>301</id>
+<id>304</id>
 <categoryid>16</categoryid>
 <name>Trippy Triangle</name>
 <type>GE Prop</type>
@@ -6645,7 +6704,7 @@
 <notes/>
 </model>
 <model>
-<id>302</id>
+<id>305</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Triune Tomb</name>
@@ -6667,7 +6726,7 @@
 <notes/>
 </model>
 <model>
-<id>303</id>
+<id>306</id>
 <categoryid>8</categoryid>
 <categoryid>15</categoryid>
 <name>Warm Hugs Snowman 139 Node (2019)</name>
@@ -6689,7 +6748,7 @@
 <notes/>
 </model>
 <model>
-<id>304</id>
+<id>307</id>
 <categoryid>8</categoryid>
 <categoryid>15</categoryid>
 <name>Warm Hugs Snowman 146 Node (2020)</name>
@@ -6711,7 +6770,7 @@
 <notes/>
 </model>
 <model>
-<id>305</id>
+<id>308</id>
 <categoryid>16</categoryid>
 <categoryid>11</categoryid>
 <name>Widowmaker 300</name>
@@ -6734,7 +6793,7 @@
 <notes/>
 </model>
 <model>
-<id>306</id>
+<id>309</id>
 <categoryid>31</categoryid>
 <name>Wreath 32</name>
 <type>GE Prop</type>
@@ -6751,7 +6810,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
 </model>
 <model>
-<id>307</id>
+<id>310</id>
 <categoryid>16</categoryid>
 <name>X-Fighter</name>
 <type>GE Prop</type>
@@ -6772,7 +6831,7 @@
 <notes/>
 </model>
 <model>
-<id>308</id>
+<id>311</id>
 <categoryid>10</categoryid>
 <name>XKF330 Snowflake</name>
 <type>GE Prop</type>
@@ -6793,7 +6852,7 @@
 <notes/>
 </model>
 <model>
-<id>309</id>
+<id>312</id>
 <categoryid>10</categoryid>
 <name>XLS 450 47 &amp; 37 Inch</name>
 <type>GE Prop</type>
@@ -6814,7 +6873,7 @@
 <notes/>
 </model>
 <model>
-<id>310</id>
+<id>313</id>
 <categoryid>28</categoryid>
 <name>Xmas Tree 53</name>
 <type>GE Prop</type>
@@ -6835,7 +6894,7 @@
 <notes/>
 </model>
 <model>
-<id>311</id>
+<id>314</id>
 <categoryid>10</categoryid>
 <categoryid>11</categoryid>
 <name>Zombie Flake A</name>
@@ -6858,7 +6917,7 @@
 <notes/>
 </model>
 <model>
-<id>312</id>
+<id>315</id>
 <categoryid>10</categoryid>
 <categoryid>11</categoryid>
 <name>Zombie Flake B</name>
@@ -6881,7 +6940,7 @@
 <notes/>
 </model>
 <model>
-<id>313</id>
+<id>316</id>
 <categoryid>10</categoryid>
 <categoryid>11</categoryid>
 <name>Zombie Flake C</name>
