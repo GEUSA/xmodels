@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel name="GE_23_Inch_Letter_C" parm1="12" parm2="20" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StrandNames="MyCustomModel" NodeNames="" CustomModel=",,,,41,40,,39,,,,;,,,42,,,,,38,,,;,,43,,,26,27,,,37,,;,44,,25,,,,28,,,36,;45,,,24,,,,,29,,,35;46,,,,,,,,30,,,34;,,,23,,,,,,,,;47,,,22,,,,,31,,32,33;48,,,,,,,,,,,;,,,21,,,,,,,,;49,,,20,,,,,,,,;50,,,,,,,,,,,;,,,19,,,,,10,,9,8;51,,,18,,,,,11,,,7;52,,,17,,,,,,,,;,53,,,,,,,12,,,6;,,,16,,15,,13,,,5,;,54,,,,,14,,,4,,;,,55,56,,,,,3,,,;,,,,57,1,,2,,,," SourceVersion="2018.10">
+    
+</custommodel>
