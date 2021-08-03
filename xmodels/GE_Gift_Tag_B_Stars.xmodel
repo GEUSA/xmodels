@@ -13,3 +13,4 @@ name="GE_Gift_Tag_B_Stars" parm1="214" parm2="436" Depth="1" StringType="RGB Nod
 <subModel name="Bottom Star" layout="horizontal" type="ranges" bufferstyle="Default" line0="32-81">
   <ControllerConnection/>
 </subModel>
+</custommodel>
