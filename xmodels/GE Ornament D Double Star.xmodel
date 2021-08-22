@@ -13,3 +13,4 @@ name="GE Ornament D Double Star" parm1="64" parm2="100" Depth="1" StringType="RG
 <subModel name="Top" layout="horizontal" type="ranges" bufferstyle="Default" line0="58-65,73-76">
   <ControllerConnection/>
 </subModel>
+</custommodel>
