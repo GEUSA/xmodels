@@ -10108,5 +10108,27 @@
 </wiring>
 <notes/>
 </model>
+<model>
+<id>447</id>
+<categoryid>30</categoryid>
+<name>Battle Cross No Tags</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/battle-cross-47-125?_pos=1&_sid=ae756eaba&_ss=r]]></weblink>
+<material>Coro</material>
+<width></width>
+<height>47" (119cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>114</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-battle-cross-pixel-props-727_364x.jpg?v=1610320984]]></imagefile>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/battle-cross-pixel-props-104_1000x.jpg?v=1626122882]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Battle Cross No Tags.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
 </models>
 </modelinventory>
