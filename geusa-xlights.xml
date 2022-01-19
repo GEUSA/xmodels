@@ -9994,9 +9994,9 @@
 <model>
 <id>442</id>
 <categoryid>40</categoryid>
-<name>Warm Hugs Snowman 139 Node (2019)</name>
+<name>Warm Hugs Snowman 139 Node Original(2019)</name>
 <type>GE Prop</type>
-<weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>38" (97cm)</height>
@@ -10016,9 +10016,9 @@
 <model>
 <id>443</id>
 <categoryid>40</categoryid>
-<name>Warm Hugs Snowman 146 Node (2020)</name>
+<name>Warm Hugs Snowman 146 Node Original w updated Mouth(2020)</name>
 <type>GE Prop</type>
-<weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
 <material>Coro</material>
 <width>46" (117cm)</width>
 <height>37" (94cm)</height>
@@ -10037,6 +10037,27 @@
 </model>
 <model>
 <id>444</id>
+<categoryid>40</categoryid>
+<name>Warm Hugs Snowman 175 Node V2</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>37" (94cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>175</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/warm-hugs-snowman-pixel-props-576_376x.jpg?v=1642458484]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Warm_Hugs_175_Node.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>445</id>
 <categoryid>40</categoryid>
 <name>Warm Hugs Snowman 379 Node (X-Large)</name>
 <type>GE Prop</type>
@@ -10057,7 +10078,7 @@
 <notes/>
 </model>
 <model>
-<id>445</id>
+<id>446</id>
 <categoryid>20</categoryid>
 <categoryid>62</categoryid>
 <name>Whimsical Tree</name>
@@ -10080,7 +10101,7 @@
 <notes/>
 </model>
 <model>
-<id>446</id>
+<id>447</id>
 <categoryid>34</categoryid>
 <categoryid>55</categoryid>
 <name>Widowmaker 300</name>
@@ -10103,7 +10124,7 @@
 <notes/>
 </model>
 <model>
-<id>447</id>
+<id>448</id>
 <categoryid>66</categoryid>
 <name>Wreath 32</name>
 <type>GE Prop</type>
@@ -10121,7 +10142,7 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
 </model>
 <model>
-<id>448</id>
+<id>449</id>
 <categoryid>40</categoryid>
 <name>X-Fighter</name>
 <type>GE Prop</type>
@@ -10143,7 +10164,7 @@
 <notes/>
 </model>
 <model>
-<id>449</id>
+<id>450</id>
 <categoryid>31</categoryid>
 <categoryid>11</categoryid>
 <name>XKF330 Snowflake</name>
@@ -10166,7 +10187,7 @@
 <notes/>
 </model>
 <model>
-<id>450</id>
+<id>451</id>
 <categoryid>31</categoryid>
 <categoryid>11</categoryid>
 <name>XLS 450 47 &amp; 37 Inch</name>
@@ -10189,7 +10210,7 @@
 <notes/>
 </model>
 <model>
-<id>451</id>
+<id>452</id>
 <categoryid>20</categoryid>
 <categoryid>62</categoryid>
 <name>Xmas Tree 53</name>
@@ -10212,7 +10233,7 @@
 <notes/>
 </model>
 <model>
-<id>452</id>
+<id>453</id>
 <categoryid>34</categoryid>
 <categoryid>31</categoryid>
 <name>Zombie Flake A</name>
@@ -10235,7 +10256,7 @@
 <notes/>
 </model>
 <model>
-<id>453</id>
+<id>454</id>
 <categoryid>34</categoryid>
 <categoryid>31</categoryid>
 <name>Zombie Flake B</name>
@@ -10258,7 +10279,7 @@
 <notes/>
 </model>
 <model>
-<id>454</id>
+<id>455</id>
 <categoryid>34</categoryid>
 <categoryid>31</categoryid>
 <name>Zombie Flake C</name>
