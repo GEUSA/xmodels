@@ -586,22 +586,22 @@ name="GE Flake I Tree" parm1="500" parm2="500" Depth="1" StringType="RGB Nodes" 
 <subModel name="Flake 7 Spoke 6" layout="horizontal" type="ranges" bufferstyle="Default" line0="1102,1090,1101,1095,1100,1096,1098">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 1" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 1" layout="horizontal" type="ranges" bufferstyle="Default" line0="774,762,773,767,772,768,770">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 2" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 2" layout="horizontal" type="ranges" bufferstyle="Default" line0="790,778,789,783,788,784,786">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 3" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 3" layout="horizontal" type="ranges" bufferstyle="Default" line0="806,794,805,799,804,800,802">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 4" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 4" layout="horizontal" type="ranges" bufferstyle="Default" line0="810-811,814,817-818,821-822">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 5" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 5" layout="horizontal" type="ranges" bufferstyle="Default" line0="688,684,692,681-680,678,670">
   <ControllerConnection/>
 </subModel>
-<subModel name="Flake 8 Spoke 6" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713" line1="688,684,692,681-680,678,670" line2="810-811,814,817-818,821-822" line3="806,794,805,799,804,800,802" line4="790,778,789,783,788,784,786" line5="774,762,773,767,772,768,770">
+<subModel name="Flake 8 Spoke 6" layout="horizontal" type="ranges" bufferstyle="Default" line0="758-756,751-750,747,713">
   <ControllerConnection/>
 </subModel>
 <subModel name="Flake 9 Spoke 1" layout="horizontal" type="ranges" bufferstyle="Default" line0="1029-1028,1030,1033-1034,1037-1038" line1="1023-1021,1014,1019,1015,1017" line2="1008,996,1007,1001,1006,1002,1004" line3="961-959,954-953,950,919" line4="965,972,966,969,666,668-669" line5="976,987,977,982,978,980,655">
