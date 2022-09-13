@@ -20,75 +20,76 @@
 <category><id>8</id><name>37"</name></category>
 <category><id>9</id><name>4 Foot</name></category>
 <category><id>10</id><name>42"</name></category>
-<category><id>11</id><name>47</name></category>
-<category><id>12</id><name>47"</name></category>
-<category><id>13</id><name>6 Foot</name></category>
-<category><id>14</id><name>Alpha Bulbs</name></category>
-<category><id>15</id><name>Alpha Bulbs Boxed</name></category>
-<category><id>16</id><name>Arches</name></category>
-<category><id>17</id><name>Bats</name></category>
-<category><id>18</id><name>Bulbs</name></category>
-<category><id>19</id><name>Candles</name></category>
-<category><id>20</id><name>Candy Canes</name></category>
-<category><id>21</id><name>Christmas</name></category>
-<category><id>22</id><name>Christmas Cookies</name></category>
-<category><id>23</id><name>Coffin</name></category>
-<category><id>24</id><name>Combo Props</name></category>
-<category><id>25</id><name>Cross</name></category>
-<category><id>26</id><name>Deer</name></category>
-<category><id>27</id><name>Easter</name></category>
-<category><id>28</id><name>Eggs</name></category>
-<category><id>29</id><name>Faces</name></category>
-<category><id>30</id><name>Fence</name></category>
-<category><id>31</id><name>Figures</name></category>
-<category><id>32</id><name>First Responder and Military</name></category>
-<category><id>33</id><name>Flakes</name></category>
-<category><id>34</id><name>Ghosts</name></category>
-<category><id>35</id><name>Gift Tags</name></category>
-<category><id>36</id><name>Halloween</name></category>
-<category><id>37</id><name>Halloween Font</name></category>
-<category><id>38</id><name>Hanukhah</name></category>
-<category><id>39</id><name>High Density</name></category>
-<category><id>40</id><name>Jeep</name></category>
-<category><id>41</id><name>Large</name></category>
-<category><id>42</id><name>Letters</name></category>
-<category><id>43</id><name>Magical</name></category>
-<category><id>44</id><name>Mardi Gras</name></category>
-<category><id>45</id><name>Medium</name></category>
-<category><id>46</id><name>Military</name></category>
-<category><id>47</id><name>Misc</name></category>
-<category><id>48</id><name>Music Notes</name></category>
-<category><id>49</id><name>Nativity</name></category>
-<category><id>50</id><name>Numbers</name></category>
-<category><id>51</id><name>Ornaments</name></category>
-<category><id>52</id><name>Pirates</name></category>
-<category><id>53</id><name>Poles</name></category>
-<category><id>54</id><name>Presents</name></category>
-<category><id>55</id><name>Signs</name></category>
-<category><id>56</id><name>Skull</name></category>
-<category><id>57</id><name>Small</name></category>
-<category><id>58</id><name>Snowflake</name></category>
-<category><id>59</id><name>Snowman</name></category>
-<category><id>60</id><name>Spiders</name></category>
-<category><id>61</id><name>Spinners</name></category>
-<category><id>62</id><name>St Patricks Day</name></category>
-<category><id>63</id><name>Stars</name></category>
-<category><id>64</id><name>Symbols</name></category>
-<category><id>65</id><name>Tombstones</name></category>
-<category><id>66</id><name>Train</name></category>
-<category><id>67</id><name>Trees</name></category>
-<category><id>68</id><name>Valentines Day</name></category>
-<category><id>69</id><name>Webs</name></category>
-<category><id>70</id><name>Wings</name></category>
-<category><id>71</id><name>Words</name></category>
-<category><id>72</id><name>Wreaths</name></category>
-<category><id>73</id><name>x-Large</name></category>
+<category><id>11</id><name>46"</name></category>
+<category><id>12</id><name>47</name></category>
+<category><id>13</id><name>47"</name></category>
+<category><id>14</id><name>6 Foot</name></category>
+<category><id>15</id><name>Alpha Bulbs</name></category>
+<category><id>16</id><name>Alpha Bulbs Boxed</name></category>
+<category><id>17</id><name>Arches</name></category>
+<category><id>18</id><name>Bats</name></category>
+<category><id>19</id><name>Bulbs</name></category>
+<category><id>20</id><name>Candles</name></category>
+<category><id>21</id><name>Candy Canes</name></category>
+<category><id>22</id><name>Christmas</name></category>
+<category><id>23</id><name>Christmas Cookies</name></category>
+<category><id>24</id><name>Coffin</name></category>
+<category><id>25</id><name>Combo Props</name></category>
+<category><id>26</id><name>Cross</name></category>
+<category><id>27</id><name>Deer</name></category>
+<category><id>28</id><name>Easter</name></category>
+<category><id>29</id><name>Eggs</name></category>
+<category><id>30</id><name>Faces</name></category>
+<category><id>31</id><name>Fence</name></category>
+<category><id>32</id><name>Figures</name></category>
+<category><id>33</id><name>First Responder and Military</name></category>
+<category><id>34</id><name>Flakes</name></category>
+<category><id>35</id><name>Ghosts</name></category>
+<category><id>36</id><name>Gift Tags</name></category>
+<category><id>37</id><name>Halloween</name></category>
+<category><id>38</id><name>Halloween Font</name></category>
+<category><id>39</id><name>Hanukhah</name></category>
+<category><id>40</id><name>High Density</name></category>
+<category><id>41</id><name>Jeep</name></category>
+<category><id>42</id><name>Large</name></category>
+<category><id>43</id><name>Letters</name></category>
+<category><id>44</id><name>Magical</name></category>
+<category><id>45</id><name>Mardi Gras</name></category>
+<category><id>46</id><name>Medium</name></category>
+<category><id>47</id><name>Military</name></category>
+<category><id>48</id><name>Misc</name></category>
+<category><id>49</id><name>Music Notes</name></category>
+<category><id>50</id><name>Nativity</name></category>
+<category><id>51</id><name>Numbers</name></category>
+<category><id>52</id><name>Ornaments</name></category>
+<category><id>53</id><name>Pirates</name></category>
+<category><id>54</id><name>Poles</name></category>
+<category><id>55</id><name>Presents</name></category>
+<category><id>56</id><name>Signs</name></category>
+<category><id>57</id><name>Skull</name></category>
+<category><id>58</id><name>Small</name></category>
+<category><id>59</id><name>Snowflake</name></category>
+<category><id>60</id><name>Snowman</name></category>
+<category><id>61</id><name>Spiders</name></category>
+<category><id>62</id><name>Spinners</name></category>
+<category><id>63</id><name>St Patricks Day</name></category>
+<category><id>64</id><name>Stars</name></category>
+<category><id>65</id><name>Symbols</name></category>
+<category><id>66</id><name>Tombstones</name></category>
+<category><id>67</id><name>Train</name></category>
+<category><id>68</id><name>Trees</name></category>
+<category><id>69</id><name>Valentines Day</name></category>
+<category><id>70</id><name>Webs</name></category>
+<category><id>71</id><name>Wings</name></category>
+<category><id>72</id><name>Words</name></category>
+<category><id>73</id><name>Wreaths</name></category>
+<category><id>74</id><name>x-Large</name></category>
 </categories>
 <models>
 <model>
 <id>0</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>7 Ft Letter E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=9&_sid=d00acfc63&_ss=r]]></weblink>
@@ -110,8 +111,8 @@
 </model>
 <model>
 <id>1</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>7 Ft Letter L</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=9&_sid=d00acfc63&_ss=r]]></weblink>
@@ -133,8 +134,8 @@
 </model>
 <model>
 <id>2</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>7 Ft Letter O</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=9&_sid=d00acfc63&_ss=r]]></weblink>
@@ -156,8 +157,8 @@
 </model>
 <model>
 <id>3</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>7 Ft Letter V</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=9&_sid=d00acfc63&_ss=r]]></weblink>
@@ -179,7 +180,7 @@
 </model>
 <model>
 <id>4</id>
-<categoryid>32</categoryid>
+<categoryid>33</categoryid>
 <name>Aircraft Carrier</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/aircraft-carrier]]></weblink>
@@ -200,8 +201,8 @@
 </model>
 <model>
 <id>5</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -222,8 +223,8 @@
 </model>
 <model>
 <id>6</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -244,8 +245,8 @@
 </model>
 <model>
 <id>7</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -266,8 +267,8 @@
 </model>
 <model>
 <id>8</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging H</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -288,8 +289,8 @@
 </model>
 <model>
 <id>9</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging I</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -310,8 +311,8 @@
 </model>
 <model>
 <id>10</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging M</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -332,8 +333,8 @@
 </model>
 <model>
 <id>11</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging R</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -354,8 +355,8 @@
 </model>
 <model>
 <id>12</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging T</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -376,8 +377,8 @@
 </model>
 <model>
 <id>13</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Hanging Y</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -398,8 +399,8 @@
 </model>
 <model>
 <id>14</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Upright A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -420,8 +421,8 @@
 </model>
 <model>
 <id>15</id>
-<categoryid>42</categoryid>
-<categoryid>14</categoryid>
+<categoryid>43</categoryid>
+<categoryid>15</categoryid>
 <name>Alpha Bulb - Upright S</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-bulbs?_pos=1&_sid=86e13f544&_ss=r]]></weblink>
@@ -443,8 +444,8 @@
 </model>
 <model>
 <id>16</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -465,8 +466,8 @@
 </model>
 <model>
 <id>17</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -487,8 +488,8 @@
 </model>
 <model>
 <id>18</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -509,8 +510,8 @@
 </model>
 <model>
 <id>19</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - D</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -531,8 +532,8 @@
 </model>
 <model>
 <id>20</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -553,8 +554,8 @@
 </model>
 <model>
 <id>21</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - F</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -575,8 +576,8 @@
 </model>
 <model>
 <id>22</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - G</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -597,8 +598,8 @@
 </model>
 <model>
 <id>23</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - H</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -619,8 +620,8 @@
 </model>
 <model>
 <id>24</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - I</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -641,8 +642,8 @@
 </model>
 <model>
 <id>25</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - J</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -663,8 +664,8 @@
 </model>
 <model>
 <id>26</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - K</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -685,8 +686,8 @@
 </model>
 <model>
 <id>27</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - L</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -707,8 +708,8 @@
 </model>
 <model>
 <id>28</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - M</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -729,8 +730,8 @@
 </model>
 <model>
 <id>29</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - N</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -751,8 +752,8 @@
 </model>
 <model>
 <id>30</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - O</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -773,8 +774,8 @@
 </model>
 <model>
 <id>31</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - P</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -795,8 +796,8 @@
 </model>
 <model>
 <id>32</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - Q</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -817,8 +818,8 @@
 </model>
 <model>
 <id>33</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - R</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -839,8 +840,8 @@
 </model>
 <model>
 <id>34</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - S</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -861,8 +862,8 @@
 </model>
 <model>
 <id>35</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - T</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -883,8 +884,8 @@
 </model>
 <model>
 <id>36</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - U</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -905,8 +906,8 @@
 </model>
 <model>
 <id>37</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - V</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -927,8 +928,8 @@
 </model>
 <model>
 <id>38</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - W</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -949,8 +950,8 @@
 </model>
 <model>
 <id>39</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - X</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -971,8 +972,8 @@
 </model>
 <model>
 <id>40</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - Y</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -993,8 +994,8 @@
 </model>
 <model>
 <id>41</id>
-<categoryid>42</categoryid>
-<categoryid>15</categoryid>
+<categoryid>43</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Letter - Box Style Font - Z</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1015,8 +1016,8 @@
 </model>
 <model>
 <id>42</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 0</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1037,8 +1038,8 @@
 </model>
 <model>
 <id>43</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1059,8 +1060,8 @@
 </model>
 <model>
 <id>44</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1081,8 +1082,8 @@
 </model>
 <model>
 <id>45</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 3</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1103,8 +1104,8 @@
 </model>
 <model>
 <id>46</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 4</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1125,8 +1126,8 @@
 </model>
 <model>
 <id>47</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 5</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1147,8 +1148,8 @@
 </model>
 <model>
 <id>48</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 6</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1169,8 +1170,8 @@
 </model>
 <model>
 <id>49</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 7</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1191,8 +1192,8 @@
 </model>
 <model>
 <id>50</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 8</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1213,8 +1214,8 @@
 </model>
 <model>
 <id>51</id>
-<categoryid>50</categoryid>
-<categoryid>15</categoryid>
+<categoryid>51</categoryid>
+<categoryid>16</categoryid>
 <name>Alpha Number - Box Style Font - 9</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=29ae772c8&_ss=r]]></weblink>
@@ -1235,7 +1236,7 @@
 </model>
 <model>
 <id>52</id>
-<categoryid>64</categoryid>
+<categoryid>65</categoryid>
 <name>American Flag</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/american-flag?_pos=1&_sid=51a2546d5&_ss=r]]></weblink>
@@ -1258,7 +1259,7 @@
 </model>
 <model>
 <id>53</id>
-<categoryid>31</categoryid>
+<categoryid>32</categoryid>
 <name>Angel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -1280,7 +1281,7 @@
 </model>
 <model>
 <id>54</id>
-<categoryid>31</categoryid>
+<categoryid>32</categoryid>
 <name>Angels - With Cross</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/angels?variant=31712928596070]]></weblink>
@@ -1302,7 +1303,7 @@
 </model>
 <model>
 <id>55</id>
-<categoryid>31</categoryid>
+<categoryid>32</categoryid>
 <name>Angels - With Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/angels?variant=31702975905894]]></weblink>
@@ -1324,7 +1325,7 @@
 </model>
 <model>
 <id>56</id>
-<categoryid>31</categoryid>
+<categoryid>32</categoryid>
 <name>Angels - With Star</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/angels?_pos=1&_sid=dda45ebbe&_ss=r]]></weblink>
@@ -1346,7 +1347,7 @@
 </model>
 <model>
 <id>57</id>
-<categoryid>16</categoryid>
+<categoryid>17</categoryid>
 <categoryid>9</categoryid>
 <name>Arch 4ft - Double</name>
 <type>GE Prop</type>
@@ -1369,7 +1370,7 @@
 </model>
 <model>
 <id>58</id>
-<categoryid>16</categoryid>
+<categoryid>17</categoryid>
 <categoryid>9</categoryid>
 <name>Arch 4ft - Single</name>
 <type>GE Prop</type>
@@ -1388,8 +1389,8 @@
 </model>
 <model>
 <id>59</id>
-<categoryid>16</categoryid>
-<categoryid>13</categoryid>
+<categoryid>17</categoryid>
+<categoryid>14</categoryid>
 <name>Arch 6ft - Single</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/copy-of-arches-6ft?_pos=5&_sid=ec787bd7f&_ss=r]]></weblink>
@@ -1406,8 +1407,8 @@
 </model>
 <model>
 <id>60</id>
-<categoryid>16</categoryid>
-<categoryid>13</categoryid>
+<categoryid>17</categoryid>
+<categoryid>14</categoryid>
 <name>Arch 6ft - Triple</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/copy-of-arches-6ft?_pos=5&_sid=ec787bd7f&_ss=r]]></weblink>
@@ -1429,7 +1430,7 @@
 </model>
 <model>
 <id>61</id>
-<categoryid>16</categoryid>
+<categoryid>17</categoryid>
 <categoryid>9</categoryid>
 <name>Arch Peacock</name>
 <type>GE Prop</type>
@@ -1447,8 +1448,8 @@
 </model>
 <model>
 <id>62</id>
-<categoryid>16</categoryid>
-<categoryid>73</categoryid>
+<categoryid>17</categoryid>
+<categoryid>74</categoryid>
 <name>Arch Rosa Grande - Grande</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rosa-grande-arch?_pos=2&_sid=d3c982e2f&_ss=r]]></weblink>
@@ -1470,8 +1471,8 @@
 </model>
 <model>
 <id>63</id>
-<categoryid>16</categoryid>
-<categoryid>73</categoryid>
+<categoryid>17</categoryid>
+<categoryid>74</categoryid>
 <name>Arch Rosa Grande - XL</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rosa-grande-arch?_pos=2&_sid=d3c982e2f&_ss=r]]></weblink>
@@ -1493,8 +1494,8 @@
 </model>
 <model>
 <id>64</id>
-<categoryid>16</categoryid>
-<categoryid>73</categoryid>
+<categoryid>17</categoryid>
+<categoryid>74</categoryid>
 <name>Arch Rosa Grande - XXL</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rosa-grande-arch?_pos=2&_sid=d3c982e2f&_ss=r]]></weblink>
@@ -1516,8 +1517,8 @@
 </model>
 <model>
 <id>65</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>AzTec</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/aztec]]></weblink>
@@ -1539,7 +1540,7 @@
 </model>
 <model>
 <id>66</id>
-<categoryid>27</categoryid>
+<categoryid>28</categoryid>
 <name>B Rabbit</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-hop?_pos=1&_sid=02602d7ab&_ss=r]]></weblink>
@@ -1561,8 +1562,8 @@
 </model>
 <model>
 <id>67</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>Baby Grand Illusion</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/grand-illusion]]></weblink>
@@ -1584,7 +1585,7 @@
 </model>
 <model>
 <id>68</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>Baby Pod</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/yoda-baby-matrix?_pos=2&_sid=7f72353ee&_ss=r]]></weblink>
@@ -1606,8 +1607,8 @@
 </model>
 <model>
 <id>69</id>
-<categoryid>36</categoryid>
-<categoryid>17</categoryid>
+<categoryid>37</categoryid>
+<categoryid>18</categoryid>
 <name>Bat 50</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/bat?_pos=1&_sid=6262ec977&_ss=r]]></weblink>
@@ -1629,7 +1630,7 @@
 </model>
 <model>
 <id>70</id>
-<categoryid>32</categoryid>
+<categoryid>33</categoryid>
 <name>Battle Cross no Tags V2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/battle-cross-47-125?_pos=1&_sid=ae756eaba&_ss=r]]></weblink>
@@ -1650,7 +1651,7 @@
 </model>
 <model>
 <id>71</id>
-<categoryid>32</categoryid>
+<categoryid>33</categoryid>
 <name>Battle Cross w dog tags</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/battle-cross-47-125?_pos=1&_sid=ae756eaba&_ss=r]]></weblink>
@@ -1672,8 +1673,8 @@
 </model>
 <model>
 <id>72</id>
-<categoryid>64</categoryid>
-<categoryid>36</categoryid>
+<categoryid>65</categoryid>
+<categoryid>37</categoryid>
 <name>Biohazard Symbol</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/biohazard-symbol?_pos=1&_sid=231c1f387&_ss=r]]></weblink>
@@ -1695,7 +1696,7 @@
 </model>
 <model>
 <id>73</id>
-<categoryid>66</categoryid>
+<categoryid>67</categoryid>
 <name>Caboose</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-caboose?_pos=2&_sid=09a20af27&_ss=r]]></weblink>
@@ -1717,7 +1718,7 @@
 </model>
 <model>
 <id>74</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>Cactus Jr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cactus-jr?_pos=2&_sid=4765ebcf7&_ss=r]]></weblink>
@@ -1739,7 +1740,7 @@
 </model>
 <model>
 <id>75</id>
-<categoryid>64</categoryid>
+<categoryid>65</categoryid>
 <name>Cancer Ribbon</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/cancer-ribbon?_pos=1&_sid=69cea23ed&_ss=r]]></weblink>
@@ -1761,8 +1762,8 @@
 </model>
 <model>
 <id>76</id>
-<categoryid>19</categoryid>
-<categoryid>57</categoryid>
+<categoryid>20</categoryid>
+<categoryid>58</categoryid>
 <name>Candle - HOPE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impressions-candle-4?_pos=3&_sid=73b206402&_ss=r]]></weblink>
@@ -1784,8 +1785,8 @@
 </model>
 <model>
 <id>77</id>
-<categoryid>19</categoryid>
-<categoryid>57</categoryid>
+<categoryid>20</categoryid>
+<categoryid>58</categoryid>
 <name>Candle - JOY</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impressions-candle-4?_pos=3&_sid=73b206402&_ss=r]]></weblink>
@@ -1807,8 +1808,8 @@
 </model>
 <model>
 <id>78</id>
-<categoryid>19</categoryid>
-<categoryid>57</categoryid>
+<categoryid>20</categoryid>
+<categoryid>58</categoryid>
 <name>Candle - LOVE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impressions-candle-4?_pos=3&_sid=73b206402&_ss=r]]></weblink>
@@ -1830,8 +1831,8 @@
 </model>
 <model>
 <id>79</id>
-<categoryid>19</categoryid>
-<categoryid>57</categoryid>
+<categoryid>20</categoryid>
+<categoryid>58</categoryid>
 <name>Candle - NOEL</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impressions-candle-4?_pos=3&_sid=73b206402&_ss=r]]></weblink>
@@ -1853,8 +1854,8 @@
 </model>
 <model>
 <id>80</id>
-<categoryid>19</categoryid>
-<categoryid>57</categoryid>
+<categoryid>20</categoryid>
+<categoryid>58</categoryid>
 <name>Candle - Plain</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/candle?_pos=3&_sid=15fea890d&_ss=r]]></weblink>
@@ -1876,8 +1877,8 @@
 </model>
 <model>
 <id>81</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - BELIEVE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -1898,8 +1899,8 @@
 </model>
 <model>
 <id>82</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - CHRISTMAS</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?variant=31988855636070]]></weblink>
@@ -1921,8 +1922,8 @@
 </model>
 <model>
 <id>83</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - FAITH</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -1943,8 +1944,8 @@
 </model>
 <model>
 <id>84</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - HO HO HO</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/candle-8-ho-ho-ho?_pos=3&_sid=5b95f93b7&_ss=r]]></weblink>
@@ -1966,8 +1967,8 @@
 </model>
 <model>
 <id>85</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - HOPE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -1988,8 +1989,8 @@
 </model>
 <model>
 <id>86</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - JOY</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -2010,8 +2011,8 @@
 </model>
 <model>
 <id>87</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - LOVE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -2032,8 +2033,8 @@
 </model>
 <model>
 <id>88</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - MERRY</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?variant=31988857405542]]></weblink>
@@ -2055,8 +2056,8 @@
 </model>
 <model>
 <id>89</id>
-<categoryid>19</categoryid>
-<categoryid>41</categoryid>
+<categoryid>20</categoryid>
+<categoryid>42</categoryid>
 <name>Candle 8' - NOEL</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&_sid=7b6591de3&_ss=r]]></weblink>
@@ -2077,7 +2078,7 @@
 </model>
 <model>
 <id>90</id>
-<categoryid>20</categoryid>
+<categoryid>21</categoryid>
 <name>Candy Cane 150</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-candy-cane?_pos=2&_sid=70617abc5&_ss=r]]></weblink>
@@ -2099,7 +2100,7 @@
 </model>
 <model>
 <id>91</id>
-<categoryid>20</categoryid>
+<categoryid>21</categoryid>
 <name>Candy Cane 5Ft</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cane-132?variant=20388759437376]]></weblink>
@@ -2121,8 +2122,8 @@
 </model>
 <model>
 <id>92</id>
-<categoryid>20</categoryid>
-<categoryid>41</categoryid>
+<categoryid>21</categoryid>
+<categoryid>42</categoryid>
 <name>Candy Cane Giant 7'4"</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cane-132?variant=32004899930214]]></weblink>
@@ -2144,8 +2145,8 @@
 </model>
 <model>
 <id>93</id>
-<categoryid>20</categoryid>
-<categoryid>41</categoryid>
+<categoryid>21</categoryid>
+<categoryid>42</categoryid>
 <name>Candy Cane Giant 7'4" Lite</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cane-132?variant=39291180351590]]></weblink>
@@ -2166,7 +2167,7 @@
 </model>
 <model>
 <id>94</id>
-<categoryid>68</categoryid>
+<categoryid>69</categoryid>
 <name>Candy Cane Spinner - With Love</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/candy-cane-spinners-love-is-optional?_pos=1&_sid=0624bd444&_ss=r]]></weblink>
@@ -2188,7 +2189,7 @@
 </model>
 <model>
 <id>95</id>
-<categoryid>68</categoryid>
+<categoryid>69</categoryid>
 <name>Candy Cane Spinner - Without Love</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/candy-cane-spinners-love-is-optional?_pos=1&_sid=0624bd444&_ss=r]]></weblink>
@@ -2210,7 +2211,7 @@
 </model>
 <model>
 <id>96</id>
-<categoryid>36</categoryid>
+<categoryid>37</categoryid>
 <name>Candy Corn</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/received-153433779440607_500x.png?v=1618083638]]></weblink>
@@ -2232,7 +2233,7 @@
 </model>
 <model>
 <id>97</id>
-<categoryid>36</categoryid>
+<categoryid>37</categoryid>
 <name>Cauldron - Jr</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/cauldron-jr-or-sr?_pos=1&_sid=37341243f&_ss=r]]></weblink>
@@ -2254,7 +2255,7 @@
 </model>
 <model>
 <id>98</id>
-<categoryid>36</categoryid>
+<categoryid>37</categoryid>
 <name>Cauldron - Sr</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/cauldron-jr-or-sr?_pos=1&_sid=37341243f&_ss=r]]></weblink>
@@ -2276,7 +2277,7 @@
 </model>
 <model>
 <id>99</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Chimney Topper Mean One</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/chimney-with-toppers?variant=31746028601446]]></weblink>
@@ -2298,7 +2299,7 @@
 </model>
 <model>
 <id>100</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Chimney Topper Santa</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/chimney-with-toppers?variant=31746028535910]]></weblink>
@@ -2320,7 +2321,7 @@
 </model>
 <model>
 <id>101</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Chimney Topper Santa Legs</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/chimney-with-toppers?variant=31746028568678]]></weblink>
@@ -2342,7 +2343,7 @@
 </model>
 <model>
 <id>102</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Chimney w matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/chimney-with-toppers]]></weblink>
@@ -2364,7 +2365,7 @@
 </model>
 <model>
 <id>103</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Chimney w no matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/chimney-with-toppers]]></weblink>
@@ -2385,7 +2386,7 @@
 </model>
 <model>
 <id>104</id>
-<categoryid>66</categoryid>
+<categoryid>67</categoryid>
 <name>Choo Choo Train</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/choo-choo-train?_pos=1&_sid=ee6ce6950&_ss=r]]></weblink>
@@ -2407,7 +2408,7 @@
 </model>
 <model>
 <id>105</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Christmas Stocking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/stocking?_pos=1&_sid=cba52a87c&_ss=r]]></weblink>
@@ -2429,7 +2430,7 @@
 </model>
 <model>
 <id>106</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Christmas Truck</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/holiday-truck?_pos=1&_sid=0336a6c72&_ss=r]]></weblink>
@@ -2451,7 +2452,7 @@
 </model>
 <model>
 <id>107</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>Class Of Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/class-of-2020-sign?_pos=2&_sid=e4b4926fc&_ss=r]]></weblink>
@@ -2473,7 +2474,7 @@
 </model>
 <model>
 <id>108</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>Class of 2020 Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/class-of-2020-sign?_pos=2&_sid=e4b4926fc&_ss=r]]></weblink>
@@ -2495,7 +2496,7 @@
 </model>
 <model>
 <id>109</id>
-<categoryid>66</categoryid>
+<categoryid>67</categoryid>
 <name>Coal Car</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impressions-coal-car?_pos=2&_sid=78aefd69f&_ss=r]]></weblink>
@@ -2517,8 +2518,8 @@
 </model>
 <model>
 <id>110</id>
-<categoryid>36</categoryid>
-<categoryid>23</categoryid>
+<categoryid>37</categoryid>
+<categoryid>24</categoryid>
 <name>Coffin - Small</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coffin?_pos=1&_sid=62498b5df&_ss=r]]></weblink>
@@ -2540,8 +2541,8 @@
 </model>
 <model>
 <id>111</id>
-<categoryid>36</categoryid>
-<categoryid>23</categoryid>
+<categoryid>37</categoryid>
+<categoryid>24</categoryid>
 <name>Coffin Lg w Matrix,Bat,Cross - Large</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coffin?variant=32311822483558]]></weblink>
@@ -2563,8 +2564,8 @@
 </model>
 <model>
 <id>112</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2587,8 +2588,8 @@
 </model>
 <model>
 <id>113</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2611,8 +2612,8 @@
 </model>
 <model>
 <id>114</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2635,8 +2636,8 @@
 </model>
 <model>
 <id>115</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - H</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2659,8 +2660,8 @@
 </model>
 <model>
 <id>116</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - I</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2683,8 +2684,8 @@
 </model>
 <model>
 <id>117</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - M</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2707,8 +2708,8 @@
 </model>
 <model>
 <id>118</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - R</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2731,8 +2732,8 @@
 </model>
 <model>
 <id>119</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - S</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2755,8 +2756,8 @@
 </model>
 <model>
 <id>120</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - T</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2779,8 +2780,8 @@
 </model>
 <model>
 <id>121</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>Cookie Letter - Y</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?variant=32021813035110]]></weblink>
@@ -2803,7 +2804,7 @@
 </model>
 <model>
 <id>122</id>
-<categoryid>36</categoryid>
+<categoryid>37</categoryid>
 <name>Copy Cat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/copy-cat?_pos=1&_sid=c229b0c3e&_ss=r]]></weblink>
@@ -2825,8 +2826,8 @@
 </model>
 <model>
 <id>123</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Corner Web</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spider-webs?variant=31893065957478]]></weblink>
@@ -2848,8 +2849,8 @@
 </model>
 <model>
 <id>124</id>
-<categoryid>21</categoryid>
-<categoryid>49</categoryid>
+<categoryid>22</categoryid>
+<categoryid>50</categoryid>
 <name>Corotivity Scene</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/corotivity-scene?_pos=1&_sid=47ace91b3&_ss=r]]></weblink>
@@ -2871,8 +2872,8 @@
 </model>
 <model>
 <id>125</id>
-<categoryid>36</categoryid>
-<categoryid>25</categoryid>
+<categoryid>37</categoryid>
+<categoryid>26</categoryid>
 <name>Cross - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cross-3-options?variant=31724820594790]]></weblink>
@@ -2894,8 +2895,8 @@
 </model>
 <model>
 <id>126</id>
-<categoryid>36</categoryid>
-<categoryid>25</categoryid>
+<categoryid>37</categoryid>
+<categoryid>26</categoryid>
 <name>Cross - 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cross-3-options?variant=20388755767360]]></weblink>
@@ -2917,8 +2918,8 @@
 </model>
 <model>
 <id>127</id>
-<categoryid>36</categoryid>
-<categoryid>25</categoryid>
+<categoryid>37</categoryid>
+<categoryid>26</categoryid>
 <name>Cross - 3</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cross-3-options?variant=20388755800128]]></weblink>
@@ -2940,8 +2941,8 @@
 </model>
 <model>
 <id>128</id>
-<categoryid>36</categoryid>
-<categoryid>25</categoryid>
+<categoryid>37</categoryid>
+<categoryid>26</categoryid>
 <name>Cross 1 Double Row - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-cross-3-options?variant=31724820594790]]></weblink>
@@ -2962,8 +2963,8 @@
 </model>
 <model>
 <id>129</id>
-<categoryid>39</categoryid>
-<categoryid>58</categoryid>
+<categoryid>40</categoryid>
+<categoryid>59</categoryid>
 <name>Crystal Flake</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ice-crystal]]></weblink>
@@ -2984,7 +2985,7 @@
 </model>
 <model>
 <id>130</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>DITTO Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ditto-sign?_pos=1&_sid=84532b3c1&_ss=r]]></weblink>
@@ -3006,8 +3007,8 @@
 </model>
 <model>
 <id>131</id>
-<categoryid>36</categoryid>
-<categoryid>31</categoryid>
+<categoryid>37</categoryid>
+<categoryid>32</categoryid>
 <name>Dark Angel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-dark-angel?_pos=1&_sid=033eb9260&_ss=r]]></weblink>
@@ -3028,7 +3029,7 @@
 </model>
 <model>
 <id>132</id>
-<categoryid>29</categoryid>
+<categoryid>30</categoryid>
 <name>Dark Helmet</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/dark-helmet?_pos=1&_sid=de9e0d40b&_ss=r]]></weblink>
@@ -3050,7 +3051,7 @@
 </model>
 <model>
 <id>133</id>
-<categoryid>39</categoryid>
+<categoryid>40</categoryid>
 <name>Dazzler</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/dazzler?_pos=1&_sid=b525131a7&_ss=r]]></weblink>
@@ -3072,8 +3073,8 @@
 </model>
 <model>
 <id>134</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Decorated Christmas Tree - Non Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/decorated-christmas-trees?_pos=1&_sid=6b5b5b10d&_ss=r]]></weblink>
@@ -3095,8 +3096,8 @@
 </model>
 <model>
 <id>135</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Decorated Christmas Tree - Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/decorated-christmas-trees?_pos=1&_sid=6b5b5b10d&_ss=r]]></weblink>
@@ -3118,8 +3119,8 @@
 </model>
 <model>
 <id>136</id>
-<categoryid>47</categoryid>
 <categoryid>48</categoryid>
+<categoryid>49</categoryid>
 <name>Double Quarter Note</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/musical-notes?variant=31617267892326]]></weblink>
@@ -3141,8 +3142,8 @@
 </model>
 <model>
 <id>137</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>Dragonfly</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/aztec-dragonfly]]></weblink>
@@ -3163,7 +3164,7 @@
 </model>
 <model>
 <id>138</id>
-<categoryid>47</categoryid>
+<categoryid>48</categoryid>
 <name>Dream Catcher - B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/dream-catcher-b?_pos=1&_sid=06a33c670&_ss=r]]></weblink>
@@ -3185,8 +3186,8 @@
 </model>
 <model>
 <id>139</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Flower</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3208,8 +3209,8 @@
 </model>
 <model>
 <id>140</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Line</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3231,8 +3232,8 @@
 </model>
 <model>
 <id>141</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3254,8 +3255,8 @@
 </model>
 <model>
 <id>142</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Outline</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3277,8 +3278,8 @@
 </model>
 <model>
 <id>143</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Wavy Zag</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3300,8 +3301,8 @@
 </model>
 <model>
 <id>144</id>
-<categoryid>27</categoryid>
 <categoryid>28</categoryid>
+<categoryid>29</categoryid>
 <name>Easter Egg - Zig Zag Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-easter-eggs?_pos=2&_sid=a60852466&_ss=r]]></weblink>
@@ -3323,8 +3324,8 @@
 </model>
 <model>
 <id>145</id>
-<categoryid>47</categoryid>
 <categoryid>48</categoryid>
+<categoryid>49</categoryid>
 <name>Eighth Note</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/musical-notes?variant=31617267695718]]></weblink>
@@ -3346,7 +3347,7 @@
 </model>
 <model>
 <id>146</id>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Elf Hat Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -3368,7 +3369,7 @@
 </model>
 <model>
 <id>147</id>
-<categoryid>36</categoryid>
+<categoryid>37</categoryid>
 <name>Evil Clown</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-e-ville-clown?_pos=2&_sid=ff6cff4f9&_ss=r/]]></weblink>
@@ -3389,7 +3390,7 @@
 </model>
 <model>
 <id>148</id>
-<categoryid>71</categoryid>
+<categoryid>72</categoryid>
 <name>FAITH</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=32ab1fe48&_ss=r]]></weblink>
@@ -3411,7 +3412,7 @@
 </model>
 <model>
 <id>149</id>
-<categoryid>70</categoryid>
+<categoryid>71</categoryid>
 <name>Fairy Wings Large</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-fairy-wings?variant=39567829336166]]></weblink>
@@ -3432,7 +3433,7 @@
 </model>
 <model>
 <id>150</id>
-<categoryid>70</categoryid>
+<categoryid>71</categoryid>
 <name>Fairy Wings Small</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-fairy-wings?_pos=2&_sid=74eec1e20&_ss=r]]></weblink>
@@ -3453,7 +3454,7 @@
 </model>
 <model>
 <id>151</id>
-<categoryid>30</categoryid>
+<categoryid>31</categoryid>
 <name>Fence Section</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/fence?_pos=1&_sid=4d4bde4cc&_ss=r]]></weblink>
@@ -3474,7 +3475,7 @@
 </model>
 <model>
 <id>152</id>
-<categoryid>32</categoryid>
+<categoryid>33</categoryid>
 <name>Fire Hydrant</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/fire-hydrant?_pos=1&_sid=a607bc699&_ss=r]]></weblink>
@@ -3496,8 +3497,8 @@
 </model>
 <model>
 <id>153</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>Fireworks Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/firework-spinner]]></weblink>
@@ -3518,7 +3519,7 @@
 </model>
 <model>
 <id>154</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>6</categoryid>
 <name>Flake 32-192</name>
 <type>GE Prop</type>
@@ -3540,9 +3541,9 @@
 </model>
 <model>
 <id>155</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>8</categoryid>
-<categoryid>12</categoryid>
+<categoryid>13</categoryid>
 <name>Flake 37 - 47 (2020) - V2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coroflake-48-48-inch-216-nodeyuge?_pos=1&_sid=b1d071724&_ss=r]]></weblink>
@@ -3564,7 +3565,7 @@
 </model>
 <model>
 <id>156</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>8</categoryid>
 <name>Flake 37 - V1</name>
 <type>GE Prop</type>
@@ -3587,8 +3588,8 @@
 </model>
 <model>
 <id>157</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>Flake 400</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/flake-400?_pos=1&_sid=9613799ee&_ss=r]]></weblink>
@@ -3610,8 +3611,8 @@
 </model>
 <model>
 <id>158</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>Flake 47 - V1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coroflake-48-48-inch-216-nodeyuge?_pos=1&_sid=b1d071724&_ss=r]]></weblink>
@@ -3633,7 +3634,7 @@
 </model>
 <model>
 <id>159</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake A</name>
 <type>GE Prop</type>
@@ -3656,7 +3657,7 @@
 </model>
 <model>
 <id>160</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>0</categoryid>
 <name>Flake A 12 25</name>
 <type>GE Prop</type>
@@ -3679,7 +3680,7 @@
 </model>
 <model>
 <id>161</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>2</categoryid>
 <name>Flake A 18 50</name>
 <type>GE Prop</type>
@@ -3702,7 +3703,7 @@
 </model>
 <model>
 <id>162</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake B - 24</name>
 <type>GE Prop</type>
@@ -3725,7 +3726,7 @@
 </model>
 <model>
 <id>163</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake B - 30</name>
 <type>GE Prop</type>
@@ -3748,7 +3749,7 @@
 </model>
 <model>
 <id>164</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>7</categoryid>
 <name>Flake B - 36</name>
 <type>GE Prop</type>
@@ -3771,7 +3772,7 @@
 </model>
 <model>
 <id>165</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>0</categoryid>
 <name>Flake B 12 25</name>
 <type>GE Prop</type>
@@ -3794,7 +3795,7 @@
 </model>
 <model>
 <id>166</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>2</categoryid>
 <name>Flake B 18 50</name>
 <type>GE Prop</type>
@@ -3817,7 +3818,7 @@
 </model>
 <model>
 <id>167</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake C</name>
 <type>GE Prop</type>
@@ -3840,7 +3841,7 @@
 </model>
 <model>
 <id>168</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>0</categoryid>
 <name>Flake C 12 25</name>
 <type>GE Prop</type>
@@ -3863,7 +3864,7 @@
 </model>
 <model>
 <id>169</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>2</categoryid>
 <name>Flake C 18 50</name>
 <type>GE Prop</type>
@@ -3886,7 +3887,7 @@
 </model>
 <model>
 <id>170</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake D</name>
 <type>GE Prop</type>
@@ -3909,7 +3910,7 @@
 </model>
 <model>
 <id>171</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>0</categoryid>
 <name>Flake D 12 25</name>
 <type>GE Prop</type>
@@ -3932,7 +3933,7 @@
 </model>
 <model>
 <id>172</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>2</categoryid>
 <name>Flake D 18 50</name>
 <type>GE Prop</type>
@@ -3955,7 +3956,7 @@
 </model>
 <model>
 <id>173</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake E</name>
 <type>GE Prop</type>
@@ -3978,7 +3979,7 @@
 </model>
 <model>
 <id>174</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake F</name>
 <type>GE Prop</type>
@@ -4001,7 +4002,7 @@
 </model>
 <model>
 <id>175</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake G</name>
 <type>GE Prop</type>
@@ -4024,7 +4025,7 @@
 </model>
 <model>
 <id>176</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake H</name>
 <type>GE Prop</type>
@@ -4047,7 +4048,7 @@
 </model>
 <model>
 <id>177</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake I - 24</name>
 <type>GE Prop</type>
@@ -4070,7 +4071,7 @@
 </model>
 <model>
 <id>178</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>7</categoryid>
 <name>Flake I - 36</name>
 <type>GE Prop</type>
@@ -4093,8 +4094,8 @@
 </model>
 <model>
 <id>179</id>
-<categoryid>33</categoryid>
-<categoryid>67</categoryid>
+<categoryid>34</categoryid>
+<categoryid>68</categoryid>
 <name>Flake I Tree</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/flake-i-tree]]></weblink>
@@ -4115,7 +4116,7 @@
 </model>
 <model>
 <id>180</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>1</categoryid>
 <name>Flake I YAI YAI - 17.25 Ft</name>
 <type>GE Prop</type>
@@ -4137,7 +4138,7 @@
 </model>
 <model>
 <id>181</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake J</name>
 <type>GE Prop</type>
@@ -4160,7 +4161,7 @@
 </model>
 <model>
 <id>182</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake K</name>
 <type>GE Prop</type>
@@ -4183,7 +4184,7 @@
 </model>
 <model>
 <id>183</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake L - 23</name>
 <type>GE Prop</type>
@@ -4206,7 +4207,7 @@
 </model>
 <model>
 <id>184</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>5</categoryid>
 <name>Flake L - 30</name>
 <type>GE Prop</type>
@@ -4229,7 +4230,7 @@
 </model>
 <model>
 <id>185</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>3</categoryid>
 <name>Flake M</name>
 <type>GE Prop</type>
@@ -4252,7 +4253,7 @@
 </model>
 <model>
 <id>186</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>7</categoryid>
 <name>Flake N</name>
 <type>GE Prop</type>
@@ -4275,7 +4276,7 @@
 </model>
 <model>
 <id>187</id>
-<categoryid>33</categoryid>
+<categoryid>34</categoryid>
 <categoryid>10</categoryid>
 <name>Flake O</name>
 <type>GE Prop</type>
@@ -4297,7 +4298,29 @@
 </model>
 <model>
 <id>188</id>
-<categoryid>64</categoryid>
+<categoryid>34</categoryid>
+<categoryid>11</categoryid>
+<name>Flake Wreath</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>511</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake Wreath.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>189</id>
+<categoryid>65</categoryid>
 <name>Fleur de Lis - Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/fleur-de-lis?_pos=1&_sid=d19023945&_ss=r]]></weblink>
@@ -4318,9 +4341,9 @@
 <notes/>
 </model>
 <model>
-<id>189</id>
-<categoryid>36</categoryid>
-<categoryid>17</categoryid>
+<id>190</id>
+<categoryid>37</categoryid>
+<categoryid>18</categoryid>
 <name>Flying Bat Jr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/evil-flying-bat-jr?_pos=3&_sid=058fb1198&_ss=r]]></weblink>
@@ -4341,9 +4364,9 @@
 <notes/>
 </model>
 <model>
-<id>190</id>
-<categoryid>36</categoryid>
-<categoryid>17</categoryid>
+<id>191</id>
+<categoryid>37</categoryid>
+<categoryid>18</categoryid>
 <name>Flying Bat Sr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/evil-flying-bat-sr?_pos=2&_sid=058fb1198&_ss=r]]></weblink>
@@ -4364,8 +4387,8 @@
 <notes/>
 </model>
 <model>
-<id>191</id>
-<categoryid>21</categoryid>
+<id>192</id>
+<categoryid>22</categoryid>
 <name>Fragile</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/fragile-box]]></weblink>
@@ -4385,8 +4408,8 @@
 <notes/>
 </model>
 <model>
-<id>192</id>
-<categoryid>36</categoryid>
+<id>193</id>
+<categoryid>37</categoryid>
 <name>Franken Monster</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-frankenmonster?_pos=2&_sid=831cf6379&_ss=r]]></weblink>
@@ -4407,8 +4430,8 @@
 <notes/>
 </model>
 <model>
-<id>193</id>
-<categoryid>70</categoryid>
+<id>194</id>
+<categoryid>71</categoryid>
 <name>Frankies Angel Wings</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/frankies-angel-wings]]></weblink>
@@ -4428,9 +4451,9 @@
 <notes/>
 </model>
 <model>
-<id>194</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<id>195</id>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>Frosty Flake</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/frosty-flake?_pos=1&_sid=f2165625f&_ss=r]]></weblink>
@@ -4451,9 +4474,9 @@
 <notes/>
 </model>
 <model>
-<id>195</id>
-<categoryid>61</categoryid>
-<categoryid>11</categoryid>
+<id>196</id>
+<categoryid>62</categoryid>
+<categoryid>12</categoryid>
 <name>G-Spasm</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/g-spasm]]></weblink>
@@ -4473,7 +4496,7 @@
 <notes/>
 </model>
 <model>
-<id>196</id>
+<id>197</id>
 <categoryid>4</categoryid>
 <name>G-Sphere - All Sizes</name>
 <type>GE Prop</type>
@@ -4495,8 +4518,8 @@
 <notes/>
 </model>
 <model>
-<id>197</id>
-<categoryid>43</categoryid>
+<id>198</id>
+<categoryid>44</categoryid>
 <name>GE Mouse</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/magical-singing-mouse?_pos=1&_sid=054a5837e&_ss=r]]></weblink>
@@ -4517,8 +4540,8 @@
 <notes/>
 </model>
 <model>
-<id>198</id>
-<categoryid>43</categoryid>
+<id>199</id>
+<categoryid>44</categoryid>
 <name>GE Mousette</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/copy-of-magical-singing-mouse?_pos=2&_sid=36860ee65&_ss=r]]></weblink>
@@ -4539,9 +4562,9 @@
 <notes/>
 </model>
 <model>
-<id>199</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>200</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>GE Puppy</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-ge-pup?pr_prod_strat=copurchase&pr_rec_pid=5005131612262&pr_ref_pid=5015521984614&pr_seq=uniform]]></weblink>
@@ -4562,9 +4585,9 @@
 <notes/>
 </model>
 <model>
-<id>200</id>
-<categoryid>61</categoryid>
-<categoryid>12</categoryid>
+<id>201</id>
+<categoryid>62</categoryid>
+<categoryid>13</categoryid>
 <name>Gear Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gear-spinner?_pos=1&_sid=ccb82f0c6&_ss=r]]></weblink>
@@ -4585,8 +4608,8 @@
 <notes/>
 </model>
 <model>
-<id>201</id>
-<categoryid>36</categoryid>
+<id>202</id>
+<categoryid>37</categoryid>
 <name>Ghost Jr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-ghost-jr?_pos=1&_sid=92e1c9412&_ss=r]]></weblink>
@@ -4607,9 +4630,9 @@
 <notes/>
 </model>
 <model>
-<id>202</id>
-<categoryid>21</categoryid>
-<categoryid>35</categoryid>
+<id>203</id>
+<categoryid>22</categoryid>
+<categoryid>36</categoryid>
 <name>Gift Tag - Double Star</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gift-tags?variant=29190629818432]]></weblink>
@@ -4630,9 +4653,9 @@
 <notes/>
 </model>
 <model>
-<id>203</id>
-<categoryid>21</categoryid>
-<categoryid>35</categoryid>
+<id>204</id>
+<categoryid>22</categoryid>
+<categoryid>36</categoryid>
 <name>Gift Tag - Ho Ho Ho</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gift-tags?variant=29190864404544]]></weblink>
@@ -4653,9 +4676,9 @@
 <notes/>
 </model>
 <model>
-<id>204</id>
-<categoryid>21</categoryid>
-<categoryid>35</categoryid>
+<id>205</id>
+<categoryid>22</categoryid>
+<categoryid>36</categoryid>
 <name>Gift Tag - Stocking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gift-tags?variant=29190622609472]]></weblink>
@@ -4676,9 +4699,9 @@
 <notes/>
 </model>
 <model>
-<id>205</id>
-<categoryid>21</categoryid>
-<categoryid>35</categoryid>
+<id>206</id>
+<categoryid>22</categoryid>
+<categoryid>36</categoryid>
 <name>Gift Tag - Tree</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gift-tags?variant=29190806601792]]></weblink>
@@ -4699,9 +4722,9 @@
 <notes/>
 </model>
 <model>
-<id>206</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>207</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Ginger Mouse Female</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-ginger-mice?_pos=2&_sid=51e7492a8&_ss=r&variant=39532065226854]]></weblink>
@@ -4721,9 +4744,9 @@
 <notes/>
 </model>
 <model>
-<id>207</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>208</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Ginger Mouse Male</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-ginger-mice?_pos=2&_sid=51e7492a8&_ss=r&variant=39532065226854]]></weblink>
@@ -4743,9 +4766,9 @@
 <notes/>
 </model>
 <model>
-<id>208</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>209</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>GingerBread Girl</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gingerbread-girl?_pos=1&_sid=2b896748d&_ss=r]]></weblink>
@@ -4766,8 +4789,8 @@
 <notes/>
 </model>
 <model>
-<id>209</id>
-<categoryid>21</categoryid>
+<id>210</id>
+<categoryid>22</categoryid>
 <name>GingerBread House</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-gingerbread-house?_pos=4&_sid=ef51e21fb&_ss=r]]></weblink>
@@ -4787,8 +4810,8 @@
 <notes/>
 </model>
 <model>
-<id>210</id>
-<categoryid>21</categoryid>
+<id>211</id>
+<categoryid>22</categoryid>
 <name>GingerBread House 8x8</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-gingerbread-house-8ft]]></weblink>
@@ -4808,9 +4831,9 @@
 <notes/>
 </model>
 <model>
-<id>211</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>212</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>GingerBread Man</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/gingerbread-man?_pos=1&_sid=c0e95acc7&_ss=r]]></weblink>
@@ -4831,9 +4854,9 @@
 <notes/>
 </model>
 <model>
-<id>212</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>213</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Girl Elf Carrying Present</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -4853,9 +4876,9 @@
 <notes/>
 </model>
 <model>
-<id>213</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>214</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Gnome Non Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-christmas-gnome?_pos=2&_sid=cd0b8e8f6&_ss=r]]></weblink>
@@ -4876,9 +4899,9 @@
 <notes/>
 </model>
 <model>
-<id>214</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>215</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Gnome Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-christmas-gnome?_pos=2&_sid=d6649697a&_ss=r]]></weblink>
@@ -4899,9 +4922,9 @@
 <notes/>
 </model>
 <model>
-<id>215</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>216</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Gnome Talking 8Ft</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/christmas-gnome?variant=31876907892838]]></weblink>
@@ -4922,8 +4945,8 @@
 <notes/>
 </model>
 <model>
-<id>216</id>
-<categoryid>31</categoryid>
+<id>217</id>
+<categoryid>32</categoryid>
 <name>Goat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/goat]]></weblink>
@@ -4943,8 +4966,8 @@
 <notes/>
 </model>
 <model>
-<id>217</id>
-<categoryid>47</categoryid>
+<id>218</id>
+<categoryid>48</categoryid>
 <name>Grad Cap</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/graduation-cap?_pos=1&_sid=6cabe1c34&_ss=r]]></weblink>
@@ -4965,8 +4988,8 @@
 <notes/>
 </model>
 <model>
-<id>218</id>
-<categoryid>47</categoryid>
+<id>219</id>
+<categoryid>48</categoryid>
 <name>Grad Cap w Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/graduation-cap?_pos=1&_sid=6cabe1c34&_ss=r]]></weblink>
@@ -4987,9 +5010,9 @@
 <notes/>
 </model>
 <model>
-<id>219</id>
-<categoryid>39</categoryid>
-<categoryid>12</categoryid>
+<id>220</id>
+<categoryid>40</categoryid>
+<categoryid>13</categoryid>
 <name>Grand Illusion</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/grand-illusion?_pos=1&_sid=8567989b5&_ss=r]]></weblink>
@@ -5010,9 +5033,9 @@
 <notes/>
 </model>
 <model>
-<id>220</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>221</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Grumpy Tree</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-grumpy-tree?_pos=2&_sid=5affa526c&_ss=r]]></weblink>
@@ -5033,9 +5056,9 @@
 <notes/>
 </model>
 <model>
-<id>221</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<id>222</id>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>H for HO HO HO</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-ho-ho-ho?_pos=2&_sid=3bdb63f13&_ss=r]]></weblink>
@@ -5056,8 +5079,8 @@
 <notes/>
 </model>
 <model>
-<id>222</id>
-<categoryid>21</categoryid>
+<id>223</id>
+<categoryid>22</categoryid>
 <name>HO HO HO</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5078,8 +5101,8 @@
 <notes/>
 </model>
 <model>
-<id>223</id>
-<categoryid>71</categoryid>
+<id>224</id>
+<categoryid>72</categoryid>
 <name>HOPE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alpha-letters-box-style-font?_pos=1&_sid=32ab1fe48&_ss=r]]></weblink>
@@ -5100,9 +5123,9 @@
 <notes/>
 </model>
 <model>
-<id>224</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>225</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Half Web</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spider-webs?_pos=1&_sid=4b3540904&_ss=r]]></weblink>
@@ -5123,9 +5146,9 @@
 <notes/>
 </model>
 <model>
-<id>225</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>226</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5146,9 +5169,9 @@
 <notes/>
 </model>
 <model>
-<id>226</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>227</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5169,9 +5192,9 @@
 <notes/>
 </model>
 <model>
-<id>227</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>228</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - H</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5192,9 +5215,9 @@
 <notes/>
 </model>
 <model>
-<id>228</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>229</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - L</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5215,9 +5238,9 @@
 <notes/>
 </model>
 <model>
-<id>229</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>230</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - N</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5238,9 +5261,9 @@
 <notes/>
 </model>
 <model>
-<id>230</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>231</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - O</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5261,9 +5284,9 @@
 <notes/>
 </model>
 <model>
-<id>231</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>232</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - P</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5284,9 +5307,9 @@
 <notes/>
 </model>
 <model>
-<id>232</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>233</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - W</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5307,9 +5330,9 @@
 <notes/>
 </model>
 <model>
-<id>233</id>
-<categoryid>42</categoryid>
-<categoryid>37</categoryid>
+<id>234</id>
+<categoryid>43</categoryid>
+<categoryid>38</categoryid>
 <name>Halloween Font Alphabet - Y</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5330,9 +5353,9 @@
 <notes/>
 </model>
 <model>
-<id>234</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>235</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Hanging Elf</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hanging-elf?_pos=1&_sid=82c77486c&_ss=r]]></weblink>
@@ -5353,9 +5376,9 @@
 <notes/>
 </model>
 <model>
-<id>235</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>236</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Hanging Elf - Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hanging-elf?_pos=1&_sid=82c77486c&_ss=r]]></weblink>
@@ -5376,8 +5399,8 @@
 <notes/>
 </model>
 <model>
-<id>236</id>
-<categoryid>38</categoryid>
+<id>237</id>
+<categoryid>39</categoryid>
 <name>Hanukkah Dreidels - Blank</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5398,8 +5421,8 @@
 <notes/>
 </model>
 <model>
-<id>237</id>
-<categoryid>38</categoryid>
+<id>238</id>
+<categoryid>39</categoryid>
 <name>Hanukkah Dreidels - G (Gimel)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5420,8 +5443,8 @@
 <notes/>
 </model>
 <model>
-<id>238</id>
-<categoryid>38</categoryid>
+<id>239</id>
+<categoryid>39</categoryid>
 <name>Hanukkah Dreidels - H (Hei)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5442,8 +5465,8 @@
 <notes/>
 </model>
 <model>
-<id>239</id>
-<categoryid>38</categoryid>
+<id>240</id>
+<categoryid>39</categoryid>
 <name>Hanukkah Dreidels - N (Nun)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5464,8 +5487,8 @@
 <notes/>
 </model>
 <model>
-<id>240</id>
-<categoryid>38</categoryid>
+<id>241</id>
+<categoryid>39</categoryid>
 <name>Hanukkah Dreidels - S (Shin)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5486,8 +5509,8 @@
 <notes/>
 </model>
 <model>
-<id>241</id>
-<categoryid>24</categoryid>
+<id>242</id>
+<categoryid>25</categoryid>
 <name>Hattitude Quartet</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/halloween-letters-a?_pos=2&_sid=61e27d8f7&_ss=r]]></weblink>
@@ -5509,8 +5532,8 @@
 <notes/>
 </model>
 <model>
-<id>242</id>
-<categoryid>24</categoryid>
+<id>243</id>
+<categoryid>25</categoryid>
 <name>Hattitude Triune 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbert-engineering-usa.myshopify.com/admin/products/4614254133350]]></weblink>
@@ -5533,8 +5556,8 @@
 <notes/>
 </model>
 <model>
-<id>243</id>
-<categoryid>70</categoryid>
+<id>244</id>
+<categoryid>71</categoryid>
 <name>Hawn Men Wings</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hawkmen-wings?_pos=1&_sid=e3c043eb9&_ss=r]]></weblink>
@@ -5554,8 +5577,8 @@
 <notes/>
 </model>
 <model>
-<id>244</id>
-<categoryid>36</categoryid>
+<id>245</id>
+<categoryid>37</categoryid>
 <name>Headless Horseman</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/headless-horseman?_pos=1&_sid=c885b516b&_ss=r]]></weblink>
@@ -5576,8 +5599,8 @@
 <notes/>
 </model>
 <model>
-<id>245</id>
-<categoryid>68</categoryid>
+<id>246</id>
+<categoryid>69</categoryid>
 <name>Heart - Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5598,8 +5621,8 @@
 <notes/>
 </model>
 <model>
-<id>246</id>
-<categoryid>68</categoryid>
+<id>247</id>
+<categoryid>69</categoryid>
 <name>Heart - LOVE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5620,8 +5643,8 @@
 <notes/>
 </model>
 <model>
-<id>247</id>
-<categoryid>68</categoryid>
+<id>248</id>
+<categoryid>69</categoryid>
 <name>Heart - Outline</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/heart?_pos=1&_sid=35af6f54b&_ss=r]]></weblink>
@@ -5642,8 +5665,8 @@
 <notes/>
 </model>
 <model>
-<id>248</id>
-<categoryid>43</categoryid>
+<id>249</id>
+<categoryid>44</categoryid>
 <name>Holiday House Grande Wonder Wheel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/holiday-house-grande-wonder-wheel?_pos=1&_sid=941ff0833&_ss=r]]></weblink>
@@ -5665,8 +5688,8 @@
 <notes/>
 </model>
 <model>
-<id>249</id>
-<categoryid>21</categoryid>
+<id>250</id>
+<categoryid>22</categoryid>
 <name>Holly Leaves</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5687,8 +5710,8 @@
 <notes/>
 </model>
 <model>
-<id>250</id>
-<categoryid>21</categoryid>
+<id>251</id>
+<categoryid>22</categoryid>
 <name>Holly the Girl Elf</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5709,8 +5732,29 @@
 <notes/>
 </model>
 <model>
-<id>251</id>
-<categoryid>47</categoryid>
+<id>252</id>
+<categoryid>48</categoryid>
+<name>Horseshoe</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-horseshoe?_pos=5&_sid=6df70cdbe&_ss=r]]></weblink>
+<material>Coro</material>
+<width>37" (94cm)</width>
+<height>39" (99cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>200</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-horseshoe-pixel-props-377_130x.jpg?v=1657915868]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Horseshoe.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>253</id>
+<categoryid>48</categoryid>
 <name>Hot Air Ballon No Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hot-air-balloon?variant=39532031475814]]></weblink>
@@ -5730,8 +5774,8 @@
 <notes/>
 </model>
 <model>
-<id>252</id>
-<categoryid>47</categoryid>
+<id>254</id>
+<categoryid>48</categoryid>
 <name>Hot Air Balloon with Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hot-air-balloon?variant=39532031508582]]></weblink>
@@ -5751,8 +5795,8 @@
 <notes/>
 </model>
 <model>
-<id>253</id>
-<categoryid>21</categoryid>
+<id>255</id>
+<categoryid>22</categoryid>
 <name>Icicles</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-icicle-roofline-combo-mounting-system?_pos=1&_sid=35615e911&_ss=r&variant=31323903164518]]></weblink>
@@ -5772,8 +5816,8 @@
 <notes/>
 </model>
 <model>
-<id>254</id>
-<categoryid>40</categoryid>
+<id>256</id>
+<categoryid>41</categoryid>
 <name>Jeep</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -5793,8 +5837,8 @@
 <notes/>
 </model>
 <model>
-<id>255</id>
-<categoryid>46</categoryid>
+<id>257</id>
+<categoryid>47</categoryid>
 <name>Jet Fighter</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/jet-fighter]]></weblink>
@@ -5814,8 +5858,8 @@
 <notes/>
 </model>
 <model>
-<id>256</id>
-<categoryid>71</categoryid>
+<id>258</id>
+<categoryid>72</categoryid>
 <name>Joy</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/alphabet-words-letters?_pos=1&_sid=63a71a213&_ss=r]]></weblink>
@@ -5836,8 +5880,8 @@
 <notes/>
 </model>
 <model>
-<id>257</id>
-<categoryid>47</categoryid>
+<id>259</id>
+<categoryid>48</categoryid>
 <name>JustIn Traffic</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5858,9 +5902,9 @@
 <notes/>
 </model>
 <model>
-<id>258</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<id>260</id>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>Kaleidoscope</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/kaleidoscope]]></weblink>
@@ -5880,8 +5924,8 @@
 <notes/>
 </model>
 <model>
-<id>259</id>
-<categoryid>63</categoryid>
+<id>261</id>
+<categoryid>64</categoryid>
 <name>King Diamond</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-king-diamond-star?_pos=2&_sid=736229c9d&_ss=r]]></weblink>
@@ -5901,8 +5945,8 @@
 <notes/>
 </model>
 <model>
-<id>260</id>
-<categoryid>39</categoryid>
+<id>262</id>
+<categoryid>40</categoryid>
 <name>Kings Ransom</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/kings-ransom?variant=32259197698150]]></weblink>
@@ -5923,9 +5967,9 @@
 <notes/>
 </model>
 <model>
-<id>261</id>
+<id>263</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>LOVE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5946,9 +5990,9 @@
 <notes/>
 </model>
 <model>
-<id>262</id>
-<categoryid>61</categoryid>
-<categoryid>57</categoryid>
+<id>264</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
 <name>Lawn Disc - 4</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5965,9 +6009,9 @@
 <notes>Use Native xLights Model 'Spinner': 8 arms, 2 Lights/Arm</notes>
 </model>
 <model>
-<id>263</id>
-<categoryid>61</categoryid>
-<categoryid>57</categoryid>
+<id>265</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
 <name>Lawn Disc - 5.5</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -5984,8 +6028,8 @@
 <notes>Use Native xLights Model 'Spinner': 8 arms, 3 Lights/Arm</notes>
 </model>
 <model>
-<id>264</id>
-<categoryid>21</categoryid>
+<id>266</id>
+<categoryid>22</categoryid>
 <name>Leg Lamp</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6006,8 +6050,8 @@
 <notes/>
 </model>
 <model>
-<id>265</id>
-<categoryid>21</categoryid>
+<id>267</id>
+<categoryid>22</categoryid>
 <name>Leg Lamp w Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/coro-leg-lamp-with-matrix?_pos=2&_sid=81ad5416c&_ss=r]]></weblink>
@@ -6027,8 +6071,8 @@
 <notes/>
 </model>
 <model>
-<id>266</id>
-<categoryid>39</categoryid>
+<id>268</id>
+<categoryid>40</categoryid>
 <name>Light Speed</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-lightspeed?_pos=3&_sid=70a04c104&_ss=r]]></weblink>
@@ -6048,8 +6092,8 @@
 <notes/>
 </model>
 <model>
-<id>267</id>
-<categoryid>53</categoryid>
+<id>269</id>
+<categoryid>54</categoryid>
 <name>Lollipop - Large</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6070,8 +6114,8 @@
 <notes/>
 </model>
 <model>
-<id>268</id>
-<categoryid>53</categoryid>
+<id>270</id>
+<categoryid>54</categoryid>
 <name>Lollipop - Medium</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6092,8 +6136,8 @@
 <notes/>
 </model>
 <model>
-<id>269</id>
-<categoryid>53</categoryid>
+<id>271</id>
+<categoryid>54</categoryid>
 <name>Lollipop - Small</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6114,8 +6158,8 @@
 <notes/>
 </model>
 <model>
-<id>270</id>
-<categoryid>47</categoryid>
+<id>272</id>
+<categoryid>48</categoryid>
 <name>Longhorn - Non Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6136,8 +6180,8 @@
 <notes/>
 </model>
 <model>
-<id>271</id>
-<categoryid>47</categoryid>
+<id>273</id>
+<categoryid>48</categoryid>
 <name>Longhorn - Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6158,8 +6202,8 @@
 <notes/>
 </model>
 <model>
-<id>272</id>
-<categoryid>43</categoryid>
+<id>274</id>
+<categoryid>44</categoryid>
 <name>Loving Hands</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6180,8 +6224,8 @@
 <notes/>
 </model>
 <model>
-<id>273</id>
-<categoryid>39</categoryid>
+<id>275</id>
+<categoryid>40</categoryid>
 <name>MOAW</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mother-of-all-wreaths-640?pr_prod_strat=copurchase&pr_rec_pid=2534006161472&pr_ref_pid=2912690896960&pr_seq=uniform]]></weblink>
@@ -6203,8 +6247,8 @@
 <notes/>
 </model>
 <model>
-<id>274</id>
-<categoryid>43</categoryid>
+<id>276</id>
+<categoryid>44</categoryid>
 <name>Magic Castle</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6225,8 +6269,8 @@
 <notes/>
 </model>
 <model>
-<id>275</id>
-<categoryid>43</categoryid>
+<id>277</id>
+<categoryid>44</categoryid>
 <name>Magic Flake</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6247,8 +6291,8 @@
 <notes/>
 </model>
 <model>
-<id>276</id>
-<categoryid>43</categoryid>
+<id>278</id>
+<categoryid>44</categoryid>
 <name>Magic Wizard</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6269,8 +6313,8 @@
 <notes/>
 </model>
 <model>
-<id>277</id>
-<categoryid>43</categoryid>
+<id>279</id>
+<categoryid>44</categoryid>
 <name>Magical Singing Mouse w Spinners</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/magical-singing-mouse?_pos=1&_sid=0bbfad65a&_ss=r]]></weblink>
@@ -6290,8 +6334,8 @@
 <notes/>
 </model>
 <model>
-<id>278</id>
-<categoryid>43</categoryid>
+<id>280</id>
+<categoryid>44</categoryid>
 <name>Magical Spinner HD</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/magical-spinner-sr-hd]]></weblink>
@@ -6312,8 +6356,8 @@
 <notes/>
 </model>
 <model>
-<id>279</id>
-<categoryid>43</categoryid>
+<id>281</id>
+<categoryid>44</categoryid>
 <name>Magical Spinner Jr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6334,8 +6378,8 @@
 <notes/>
 </model>
 <model>
-<id>280</id>
-<categoryid>43</categoryid>
+<id>282</id>
+<categoryid>44</categoryid>
 <name>Magical Spinner Sr.</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6356,9 +6400,9 @@
 <notes/>
 </model>
 <model>
-<id>281</id>
+<id>283</id>
 <categoryid>4</categoryid>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Mailbox Back</name>
 <type>GE Prop</type>
 <weblink><![CDATA[gilbertengineeringusa.com/products/impression-magical-mailbox?_pos=1&_sid=63305c543&_ss=r]]></weblink>
@@ -6378,9 +6422,9 @@
 <notes/>
 </model>
 <model>
-<id>282</id>
+<id>284</id>
 <categoryid>4</categoryid>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Mailbox Front</name>
 <type>GE Prop</type>
 <weblink><![CDATA[gilbertengineeringusa.com/products/impression-magical-mailbox?_pos=1&_sid=63305c543&_ss=r]]></weblink>
@@ -6400,9 +6444,9 @@
 <notes/>
 </model>
 <model>
-<id>283</id>
+<id>285</id>
 <categoryid>4</categoryid>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Mailbox Left</name>
 <type>GE Prop</type>
 <weblink><![CDATA[gilbertengineeringusa.com/products/impression-magical-mailbox?_pos=1&_sid=63305c543&_ss=r]]></weblink>
@@ -6422,9 +6466,9 @@
 <notes/>
 </model>
 <model>
-<id>284</id>
+<id>286</id>
 <categoryid>4</categoryid>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Mailbox Right</name>
 <type>GE Prop</type>
 <weblink><![CDATA[gilbertengineeringusa.com/products/impression-magical-mailbox?_pos=1&_sid=63305c543&_ss=r]]></weblink>
@@ -6444,9 +6488,9 @@
 <notes/>
 </model>
 <model>
-<id>285</id>
+<id>287</id>
 <categoryid>4</categoryid>
-<categoryid>21</categoryid>
+<categoryid>22</categoryid>
 <name>Mailbox Top</name>
 <type>GE Prop</type>
 <weblink><![CDATA[gilbertengineeringusa.com/products/impression-magical-mailbox?_pos=1&_sid=63305c543&_ss=r]]></weblink>
@@ -6466,8 +6510,8 @@
 <notes/>
 </model>
 <model>
-<id>286</id>
-<categoryid>32</categoryid>
+<id>288</id>
+<categoryid>33</categoryid>
 <name>Maltese Cross</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6488,8 +6532,8 @@
 <notes/>
 </model>
 <model>
-<id>287</id>
-<categoryid>44</categoryid>
+<id>289</id>
+<categoryid>45</categoryid>
 <name>Mardi Gras Mask 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-mardi-gras-masks?variant=32307554746470]]></weblink>
@@ -6509,8 +6553,8 @@
 <notes/>
 </model>
 <model>
-<id>288</id>
-<categoryid>44</categoryid>
+<id>290</id>
+<categoryid>45</categoryid>
 <name>Mardi Gras Mask 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-mardi-gras-masks?variant=32307554779238]]></weblink>
@@ -6530,8 +6574,8 @@
 <notes/>
 </model>
 <model>
-<id>289</id>
-<categoryid>16</categoryid>
+<id>291</id>
+<categoryid>17</categoryid>
 <categoryid>9</categoryid>
 <name>Matrix Arch Spinner 4 Foot (SpinArchy)</name>
 <type>GE Prop</type>
@@ -6553,9 +6597,9 @@
 <notes/>
 </model>
 <model>
-<id>290</id>
-<categoryid>16</categoryid>
-<categoryid>13</categoryid>
+<id>292</id>
+<categoryid>17</categoryid>
+<categoryid>14</categoryid>
 <name>Matrix Arch Spinner 6 Foot (SpinArchy)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6576,8 +6620,8 @@
 <notes/>
 </model>
 <model>
-<id>291</id>
-<categoryid>61</categoryid>
+<id>293</id>
+<categoryid>62</categoryid>
 <name>Mega Fidget Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6598,8 +6642,8 @@
 <notes/>
 </model>
 <model>
-<id>292</id>
-<categoryid>43</categoryid>
+<id>294</id>
+<categoryid>44</categoryid>
 <name>Mega Magic Wheel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6620,8 +6664,8 @@
 <notes/>
 </model>
 <model>
-<id>293</id>
-<categoryid>47</categoryid>
+<id>295</id>
+<categoryid>48</categoryid>
 <name>Mega Rainbow</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rainbows?_pos=1&_sid=3740e82d5&_ss=r]]></weblink>
@@ -6642,9 +6686,9 @@
 <notes/>
 </model>
 <model>
-<id>294</id>
-<categoryid>36</categoryid>
-<categoryid>56</categoryid>
+<id>296</id>
+<categoryid>37</categoryid>
+<categoryid>57</categoryid>
 <name>Mega Skull Rev 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mega-skull-tree-topper?_pos=2&_sid=d295cdea5&_ss=r]]></weblink>
@@ -6665,8 +6709,8 @@
 <notes/>
 </model>
 <model>
-<id>295</id>
-<categoryid>72</categoryid>
+<id>297</id>
+<categoryid>73</categoryid>
 <name>Mega Wreath 320</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6685,8 +6729,8 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64</notes>
 </model>
 <model>
-<id>296</id>
-<categoryid>72</categoryid>
+<id>298</id>
+<categoryid>73</categoryid>
 <name>Mega Wreath 320 - Flake-1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6707,8 +6751,8 @@
 <notes/>
 </model>
 <model>
-<id>297</id>
-<categoryid>72</categoryid>
+<id>299</id>
+<categoryid>73</categoryid>
 <name>Mega Wreath 320 - Magic Head</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6729,8 +6773,8 @@
 <notes/>
 </model>
 <model>
-<id>298</id>
-<categoryid>71</categoryid>
+<id>300</id>
+<categoryid>72</categoryid>
 <name>Mega Wreath 320 - Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6751,9 +6795,30 @@
 <notes/>
 </model>
 <model>
-<id>299</id>
-<categoryid>21</categoryid>
-<categoryid>71</categoryid>
+<id>301</id>
+<categoryid>39</categoryid>
+<name>Menorah</name>
+<type>GE Prop</type>
+<weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-menorah?_pos=2&_sid=8423a3752&_ss=r]]></weblink>
+<material>Coro</material>
+<width>39" (99cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>375</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile><![CDATA[https://cdn.shopify.com/s/files/1/0165/4439/9424/products/impression-menorah-pixel-props-yellow-art-161_130x.jpg?v=1642799022]]></imagefile>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Menorah.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>302</id>
+<categoryid>22</categoryid>
+<categoryid>72</categoryid>
 <name>Merry Christmas</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6775,9 +6840,9 @@
 <notes/>
 </model>
 <model>
-<id>300</id>
-<categoryid>21</categoryid>
-<categoryid>71</categoryid>
+<id>303</id>
+<categoryid>22</categoryid>
+<categoryid>72</categoryid>
 <name>Merry Christmas Boxed Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6798,8 +6863,30 @@
 <notes/>
 </model>
 <model>
-<id>301</id>
-<categoryid>31</categoryid>
+<id>304</id>
+<categoryid>62</categoryid>
+<categoryid>2</categoryid>
+<name>Micro Rosa</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>18" (46cm)</width>
+<height>19" (48cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>0</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Micro Rosa.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>305</id>
+<categoryid>32</categoryid>
 <name>Mini Men Bob</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6820,8 +6907,8 @@
 <notes/>
 </model>
 <model>
-<id>302</id>
-<categoryid>31</categoryid>
+<id>306</id>
+<categoryid>32</categoryid>
 <name>Mini Men Bob w Hat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6842,8 +6929,8 @@
 <notes/>
 </model>
 <model>
-<id>303</id>
-<categoryid>31</categoryid>
+<id>307</id>
+<categoryid>32</categoryid>
 <name>Mini Men Kevin</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6864,8 +6951,8 @@
 <notes/>
 </model>
 <model>
-<id>304</id>
-<categoryid>31</categoryid>
+<id>308</id>
+<categoryid>32</categoryid>
 <name>Mini Men Kevin w Hat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6886,8 +6973,8 @@
 <notes/>
 </model>
 <model>
-<id>305</id>
-<categoryid>31</categoryid>
+<id>309</id>
+<categoryid>32</categoryid>
 <name>Mini Men Stuart</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6908,8 +6995,8 @@
 <notes/>
 </model>
 <model>
-<id>306</id>
-<categoryid>31</categoryid>
+<id>310</id>
+<categoryid>32</categoryid>
 <name>Mini Men Stuart w Hat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/mini-men-bob-stuart-kevin?_pos=1&_sid=c45f7cbe3&_ss=r]]></weblink>
@@ -6930,9 +7017,9 @@
 <notes/>
 </model>
 <model>
-<id>307</id>
-<categoryid>36</categoryid>
-<categoryid>60</categoryid>
+<id>311</id>
+<categoryid>37</categoryid>
+<categoryid>61</categoryid>
 <name>Mini Spider</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6953,9 +7040,9 @@
 <notes/>
 </model>
 <model>
-<id>308</id>
-<categoryid>16</categoryid>
-<categoryid>41</categoryid>
+<id>312</id>
+<categoryid>17</categoryid>
+<categoryid>42</categoryid>
 <name>Monster Arch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -6977,9 +7064,9 @@
 <notes/>
 </model>
 <model>
-<id>309</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>313</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 23 - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7000,9 +7087,9 @@
 <notes/>
 </model>
 <model>
-<id>310</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>314</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 23 - 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7023,9 +7110,9 @@
 <notes/>
 </model>
 <model>
-<id>311</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>315</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 23 - 3</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7046,9 +7133,9 @@
 <notes/>
 </model>
 <model>
-<id>312</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>316</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 23 - 4</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7069,9 +7156,9 @@
 <notes/>
 </model>
 <model>
-<id>313</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>317</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 46 - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7092,9 +7179,9 @@
 <notes/>
 </model>
 <model>
-<id>314</id>
-<categoryid>36</categoryid>
-<categoryid>29</categoryid>
+<id>318</id>
+<categoryid>37</categoryid>
+<categoryid>30</categoryid>
 <name>Monster Face 46 - 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7115,9 +7202,9 @@
 <notes/>
 </model>
 <model>
-<id>315</id>
-<categoryid>33</categoryid>
-<categoryid>41</categoryid>
+<id>319</id>
+<categoryid>34</categoryid>
+<categoryid>42</categoryid>
 <name>Monster Flake 7.5 Ft</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7139,8 +7226,8 @@
 <notes/>
 </model>
 <model>
-<id>316</id>
-<categoryid>72</categoryid>
+<id>320</id>
+<categoryid>73</categoryid>
 <name>Monster Wreath</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7157,9 +7244,9 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64,64,64,64,64,64,64,64,64,64</notes>
 </model>
 <model>
-<id>317</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>321</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Mother of all Webs</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7180,9 +7267,31 @@
 <notes/>
 </model>
 <model>
-<id>318</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>322</id>
+<categoryid>62</categoryid>
+<categoryid>11</categoryid>
+<name>Multi Shape Spinner</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>46" (117cm)</width>
+<height>46" (117cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>900</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Multi Shape.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>323</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Nativity Angel</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-angel?_pos=2&_sid=1df8a7c54&_ss=r]]></weblink>
@@ -7202,8 +7311,8 @@
 <notes/>
 </model>
 <model>
-<id>319</id>
-<categoryid>71</categoryid>
+<id>324</id>
+<categoryid>72</categoryid>
 <name>North Pole Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7224,8 +7333,8 @@
 <notes/>
 </model>
 <model>
-<id>320</id>
-<categoryid>21</categoryid>
+<id>325</id>
+<categoryid>22</categoryid>
 <name>North Pole sign with Matrix Left</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/north-pole-sign-with-matrix?_pos=3&_sid=d29741e6d&_ss=r]]></weblink>
@@ -7246,8 +7355,8 @@
 <notes/>
 </model>
 <model>
-<id>321</id>
-<categoryid>21</categoryid>
+<id>326</id>
+<categoryid>22</categoryid>
 <name>North Pole sign with Matrix Right</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/north-pole-sign-with-matrix?_pos=3&_sid=d29741e6d&_ss=r]]></weblink>
@@ -7267,9 +7376,9 @@
 <notes/>
 </model>
 <model>
-<id>322</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>327</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Nutcracker 8 ft V2 - Singing V2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-nutcracker?_pos=2&_sid=3537e9eeb&_ss=r]]></weblink>
@@ -7290,9 +7399,9 @@
 <notes/>
 </model>
 <model>
-<id>323</id>
-<categoryid>42</categoryid>
-<categoryid>22</categoryid>
+<id>328</id>
+<categoryid>43</categoryid>
+<categoryid>23</categoryid>
 <name>O for HO HO HO</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-ho-ho-ho?_pos=2&_sid=3bdb63f13&_ss=r]]></weblink>
@@ -7313,9 +7422,9 @@
 <notes/>
 </model>
 <model>
-<id>324</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>329</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7336,9 +7445,9 @@
 <notes/>
 </model>
 <model>
-<id>325</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>330</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7359,9 +7468,9 @@
 <notes/>
 </model>
 <model>
-<id>326</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>331</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7382,9 +7491,9 @@
 <notes/>
 </model>
 <model>
-<id>327</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>332</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - D</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7405,9 +7514,9 @@
 <notes/>
 </model>
 <model>
-<id>328</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>333</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - E</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7428,9 +7537,9 @@
 <notes/>
 </model>
 <model>
-<id>329</id>
-<categoryid>21</categoryid>
-<categoryid>51</categoryid>
+<id>334</id>
+<categoryid>22</categoryid>
+<categoryid>52</categoryid>
 <name>Ornament - F</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7451,9 +7560,9 @@
 <notes/>
 </model>
 <model>
-<id>330</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>335</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Ornament Girl</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/who-girl?_pos=1&_sid=289e658b7&_ss=r]]></weblink>
@@ -7474,8 +7583,8 @@
 <notes/>
 </model>
 <model>
-<id>331</id>
-<categoryid>39</categoryid>
+<id>336</id>
+<categoryid>40</categoryid>
 <name>PRIEMium Cube - 16 Inch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7497,8 +7606,8 @@
 <notes/>
 </model>
 <model>
-<id>332</id>
-<categoryid>39</categoryid>
+<id>337</id>
+<categoryid>40</categoryid>
 <name>PRIEMium Cube - 26 Inch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7520,8 +7629,8 @@
 <notes/>
 </model>
 <model>
-<id>333</id>
-<categoryid>47</categoryid>
+<id>338</id>
+<categoryid>48</categoryid>
 <name>Palm Tree 375 Node</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/palm-trees?_pos=1&_sid=0352d2a76&_ss=r]]></weblink>
@@ -7541,8 +7650,8 @@
 <notes/>
 </model>
 <model>
-<id>334</id>
-<categoryid>46</categoryid>
+<id>339</id>
+<categoryid>47</categoryid>
 <name>Paratrooper</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -7562,8 +7671,8 @@
 <notes/>
 </model>
 <model>
-<id>335</id>
-<categoryid>66</categoryid>
+<id>340</id>
+<categoryid>67</categoryid>
 <name>Passenger Car - Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7584,8 +7693,8 @@
 <notes/>
 </model>
 <model>
-<id>336</id>
-<categoryid>66</categoryid>
+<id>341</id>
+<categoryid>67</categoryid>
 <name>Passenger Car - Merry Christmas</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7606,8 +7715,8 @@
 <notes/>
 </model>
 <model>
-<id>337</id>
-<categoryid>66</categoryid>
+<id>342</id>
+<categoryid>67</categoryid>
 <name>Passenger Car - Plain</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7628,9 +7737,9 @@
 <notes/>
 </model>
 <model>
-<id>338</id>
-<categoryid>47</categoryid>
-<categoryid>31</categoryid>
+<id>343</id>
+<categoryid>48</categoryid>
+<categoryid>32</categoryid>
 <name>Pineapple</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -7650,8 +7759,8 @@
 <notes/>
 </model>
 <model>
-<id>339</id>
-<categoryid>36</categoryid>
+<id>344</id>
+<categoryid>37</categoryid>
 <name>Pirate Face</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -7671,8 +7780,8 @@
 <notes/>
 </model>
 <model>
-<id>340</id>
-<categoryid>43</categoryid>
+<id>345</id>
+<categoryid>44</categoryid>
 <name>Pixel Fairy</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7693,8 +7802,8 @@
 <notes/>
 </model>
 <model>
-<id>341</id>
-<categoryid>19</categoryid>
+<id>346</id>
+<categoryid>20</categoryid>
 <name>Poinsettia - 1 Candle</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-poinsettia-candle-cluster?_pos=2&_sid=9a9927c64&_ss=r]]></weblink>
@@ -7714,8 +7823,8 @@
 <notes/>
 </model>
 <model>
-<id>342</id>
-<categoryid>19</categoryid>
+<id>347</id>
+<categoryid>20</categoryid>
 <name>Poinsettia - 3 Candles</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-poinsettia-candle-cluster?_pos=2&_sid=9a9927c64&_ss=r]]></weblink>
@@ -7736,8 +7845,8 @@
 <notes/>
 </model>
 <model>
-<id>343</id>
-<categoryid>32</categoryid>
+<id>348</id>
+<categoryid>33</categoryid>
 <name>Police Shield</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7758,9 +7867,9 @@
 <notes/>
 </model>
 <model>
-<id>344</id>
-<categoryid>21</categoryid>
-<categoryid>54</categoryid>
+<id>349</id>
+<categoryid>22</categoryid>
+<categoryid>55</categoryid>
 <name>Present A - 28</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7781,9 +7890,9 @@
 <notes/>
 </model>
 <model>
-<id>345</id>
-<categoryid>21</categoryid>
-<categoryid>54</categoryid>
+<id>350</id>
+<categoryid>22</categoryid>
+<categoryid>55</categoryid>
 <name>Present A - 36</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7804,9 +7913,9 @@
 <notes/>
 </model>
 <model>
-<id>346</id>
-<categoryid>21</categoryid>
-<categoryid>54</categoryid>
+<id>351</id>
+<categoryid>22</categoryid>
+<categoryid>55</categoryid>
 <name>Present A - 48</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7827,9 +7936,9 @@
 <notes/>
 </model>
 <model>
-<id>347</id>
-<categoryid>36</categoryid>
-<categoryid>60</categoryid>
+<id>352</id>
+<categoryid>37</categoryid>
+<categoryid>61</categoryid>
 <name>Preying Spider 150</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/preying-spider?_pos=1&_sid=26fa76b7d&_ss=r]]></weblink>
@@ -7850,9 +7959,9 @@
 <notes/>
 </model>
 <model>
-<id>348</id>
-<categoryid>36</categoryid>
-<categoryid>60</categoryid>
+<id>353</id>
+<categoryid>37</categoryid>
+<categoryid>61</categoryid>
 <name>Preying Spider 350</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/preying-spider?_pos=1&_sid=26fa76b7d&_ss=r]]></weblink>
@@ -7873,8 +7982,8 @@
 <notes/>
 </model>
 <model>
-<id>349</id>
-<categoryid>36</categoryid>
+<id>354</id>
+<categoryid>37</categoryid>
 <name>Pumpkin Stack</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/singing-pumpkins-stack?_pos=5&_sid=b3604d5b2&_ss=r]]></weblink>
@@ -7894,9 +8003,9 @@
 <notes/>
 </model>
 <model>
-<id>350</id>
-<categoryid>36</categoryid>
-<categoryid>31</categoryid>
+<id>355</id>
+<categoryid>37</categoryid>
+<categoryid>32</categoryid>
 <name>Pumpkin with Witch Hat</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/pumpkin-with-witch-hat?_pos=2&_sid=cf7980fab&_ss=r]]></weblink>
@@ -7917,9 +8026,9 @@
 <notes/>
 </model>
 <model>
-<id>351</id>
-<categoryid>47</categoryid>
+<id>356</id>
 <categoryid>48</categoryid>
+<categoryid>49</categoryid>
 <name>Quarter Note</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/musical-notes?variant=31617267761254]]></weblink>
@@ -7940,8 +8049,8 @@
 <notes/>
 </model>
 <model>
-<id>352</id>
-<categoryid>66</categoryid>
+<id>357</id>
+<categoryid>67</categoryid>
 <name>RR Crossing Gate</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7962,8 +8071,8 @@
 <notes/>
 </model>
 <model>
-<id>353</id>
-<categoryid>66</categoryid>
+<id>358</id>
+<categoryid>67</categoryid>
 <name>RR Crossing Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -7984,9 +8093,9 @@
 <notes/>
 </model>
 <model>
-<id>354</id>
-<categoryid>36</categoryid>
-<categoryid>31</categoryid>
+<id>359</id>
+<categoryid>37</categoryid>
+<categoryid>32</categoryid>
 <name>Reaper</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8007,8 +8116,8 @@
 <notes/>
 </model>
 <model>
-<id>355</id>
-<categoryid>64</categoryid>
+<id>360</id>
+<categoryid>65</categoryid>
 <name>Rebel Symbol</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ge-rebel-symbol?_pos=1&_sid=d895ef82f&_ss=r]]></weblink>
@@ -8029,9 +8138,9 @@
 <notes/>
 </model>
 <model>
-<id>356</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>361</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8052,9 +8161,9 @@
 <notes/>
 </model>
 <model>
-<id>357</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>362</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer - Rudolph</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8075,9 +8184,9 @@
 <notes/>
 </model>
 <model>
-<id>358</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>363</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Crossing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-x-ing-sign?_pos=4&_sid=baca3b46d&_ss=r]]></weblink>
@@ -8098,9 +8207,9 @@
 <notes/>
 </model>
 <model>
-<id>359</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>364</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stables?_pos=2&_sid=4211ff230&_ss=r]]></weblink>
@@ -8120,9 +8229,9 @@
 <notes/>
 </model>
 <model>
-<id>360</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>365</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Blitzen</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8142,9 +8251,9 @@
 <notes/>
 </model>
 <model>
-<id>361</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>366</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Comet</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8164,9 +8273,9 @@
 <notes/>
 </model>
 <model>
-<id>362</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>367</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Cupid</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8186,9 +8295,9 @@
 <notes/>
 </model>
 <model>
-<id>363</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>368</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Dancer</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8208,9 +8317,9 @@
 <notes/>
 </model>
 <model>
-<id>364</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>369</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Dasher</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8230,9 +8339,9 @@
 <notes/>
 </model>
 <model>
-<id>365</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>370</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Donner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8252,9 +8361,9 @@
 <notes/>
 </model>
 <model>
-<id>366</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>371</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Prancer</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8274,9 +8383,9 @@
 <notes/>
 </model>
 <model>
-<id>367</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>372</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Rudolph</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8296,9 +8405,9 @@
 <notes/>
 </model>
 <model>
-<id>368</id>
-<categoryid>21</categoryid>
-<categoryid>26</categoryid>
+<id>373</id>
+<categoryid>22</categoryid>
+<categoryid>27</categoryid>
 <name>Reindeer Stable Topper - Vixen</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-reindeer-stable-toppers?_pos=1&_sid=e2d17d1f3&_ss=r]]></weblink>
@@ -8318,8 +8427,8 @@
 <notes/>
 </model>
 <model>
-<id>369</id>
-<categoryid>39</categoryid>
+<id>374</id>
+<categoryid>40</categoryid>
 <name>Ring Master</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ring-master]]></weblink>
@@ -8339,9 +8448,9 @@
 <notes/>
 </model>
 <model>
-<id>370</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>375</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Roo Medium</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-christmas-roo?_pos=1&_sid=290157292&_ss=r]]></weblink>
@@ -8361,9 +8470,9 @@
 <notes/>
 </model>
 <model>
-<id>371</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>376</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Roo Small</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-christmas-roo?_pos=1&_sid=290157292&_ss=r]]></weblink>
@@ -8383,8 +8492,8 @@
 <notes/>
 </model>
 <model>
-<id>372</id>
-<categoryid>39</categoryid>
+<id>377</id>
+<categoryid>40</categoryid>
 <name>Rosa Grande</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rosa-grande?_pos=1&_sid=a804d00c2&_ss=r]]></weblink>
@@ -8405,8 +8514,8 @@
 <notes/>
 </model>
 <model>
-<id>373</id>
-<categoryid>39</categoryid>
+<id>378</id>
+<categoryid>40</categoryid>
 <name>Rosa Wreath</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rosas-wreath?_pos=1&_sid=5c5d36366&_ss=r]]></weblink>
@@ -8427,9 +8536,9 @@
 <notes/>
 </model>
 <model>
-<id>374</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>379</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Rudolf Face Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-rudolph-face?_pos=2&_sid=10389ccda&_ss=r]]></weblink>
@@ -8450,9 +8559,9 @@
 <notes/>
 </model>
 <model>
-<id>375</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>380</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Rudolph Face</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8473,8 +8582,8 @@
 <notes/>
 </model>
 <model>
-<id>376</id>
-<categoryid>47</categoryid>
+<id>381</id>
+<categoryid>48</categoryid>
 <name>Saguaro Cactus</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8495,9 +8604,9 @@
 <notes/>
 </model>
 <model>
-<id>377</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>382</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Face - Non Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8518,9 +8627,9 @@
 <notes/>
 </model>
 <model>
-<id>378</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>383</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Face - Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8541,9 +8650,9 @@
 <notes/>
 </model>
 <model>
-<id>379</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>384</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Sin Sleigh Waving - Impression</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-sleigh-with-santa-waving?_pos=7&_sid=ba37b4758&_ss=r]]></weblink>
@@ -8564,9 +8673,9 @@
 <notes/>
 </model>
 <model>
-<id>380</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>385</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Sleigh - 1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8587,9 +8696,9 @@
 <notes/>
 </model>
 <model>
-<id>381</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>386</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Sleigh - 1 w Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-santa-sleigh-1-with-santa?_pos=5&_sid=d1ed6fd9f&_ss=r]]></weblink>
@@ -8610,9 +8719,9 @@
 <notes/>
 </model>
 <model>
-<id>382</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>387</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Sleigh - 1 w Santa</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8633,9 +8742,9 @@
 <notes/>
 </model>
 <model>
-<id>383</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>388</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Santa Sleigh - 2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8656,8 +8765,8 @@
 <notes/>
 </model>
 <model>
-<id>384</id>
-<categoryid>21</categoryid>
+<id>389</id>
+<categoryid>22</categoryid>
 <name>Santas Workshop Sign - Impression</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-santas-workshop-sign?_pos=8&_sid=e1f3e1bd6&_ss=r]]></weblink>
@@ -8677,8 +8786,8 @@
 <notes/>
 </model>
 <model>
-<id>385</id>
-<categoryid>39</categoryid>
+<id>390</id>
+<categoryid>40</categoryid>
 <name>Serenity</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/serenity-spinner?_pos=1&_sid=b777c5455&_ss=r]]></weblink>
@@ -8699,8 +8808,8 @@
 <notes/>
 </model>
 <model>
-<id>386</id>
-<categoryid>47</categoryid>
+<id>391</id>
+<categoryid>48</categoryid>
 <name>Shark Fins - Fins Up - 39" with Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8721,8 +8830,8 @@
 <notes/>
 </model>
 <model>
-<id>387</id>
-<categoryid>63</categoryid>
+<id>392</id>
+<categoryid>64</categoryid>
 <name>Shooting Star Bouquet</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8743,8 +8852,8 @@
 <notes/>
 </model>
 <model>
-<id>388</id>
-<categoryid>63</categoryid>
+<id>393</id>
+<categoryid>64</categoryid>
 <name>Shooting Star Bouquet Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/shooting-stars]]></weblink>
@@ -8764,8 +8873,8 @@
 <notes/>
 </model>
 <model>
-<id>389</id>
-<categoryid>63</categoryid>
+<id>394</id>
+<categoryid>64</categoryid>
 <name>Shooting Star Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8785,8 +8894,8 @@
 <notes/>
 </model>
 <model>
-<id>390</id>
-<categoryid>63</categoryid>
+<id>395</id>
+<categoryid>64</categoryid>
 <name>Shooting Star Single</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8807,8 +8916,8 @@
 <notes/>
 </model>
 <model>
-<id>391</id>
-<categoryid>18</categoryid>
+<id>396</id>
+<categoryid>19</categoryid>
 <name>Singing Bulb - Hanging</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8829,8 +8938,8 @@
 <notes/>
 </model>
 <model>
-<id>392</id>
-<categoryid>18</categoryid>
+<id>397</id>
+<categoryid>19</categoryid>
 <name>Singing Bulb - Upright</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8851,8 +8960,8 @@
 <notes/>
 </model>
 <model>
-<id>393</id>
-<categoryid>18</categoryid>
+<id>398</id>
+<categoryid>19</categoryid>
 <name>Singing Bulb 95 Inch - Upright</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/copy-of-singing-bulbs-mother-and-baby?_pos=5&_sid=63d650c81&_ss=r]]></weblink>
@@ -8873,8 +8982,8 @@
 <notes/>
 </model>
 <model>
-<id>394</id>
-<categoryid>18</categoryid>
+<id>399</id>
+<categoryid>19</categoryid>
 <name>Singing Pixel - 32</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8895,8 +9004,8 @@
 <notes/>
 </model>
 <model>
-<id>395</id>
-<categoryid>18</categoryid>
+<id>400</id>
+<categoryid>19</categoryid>
 <name>Singing Pixel - 47</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8917,8 +9026,8 @@
 <notes/>
 </model>
 <model>
-<id>396</id>
-<categoryid>36</categoryid>
+<id>401</id>
+<categoryid>37</categoryid>
 <name>Singing Pumpkin</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -8939,8 +9048,8 @@
 <notes/>
 </model>
 <model>
-<id>397</id>
-<categoryid>36</categoryid>
+<id>402</id>
+<categoryid>37</categoryid>
 <name>Singing Spooky Pumpkin 1 - Triangle Eyes</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-spooky-pumpkins?variant=32307586039910]]></weblink>
@@ -8961,8 +9070,8 @@
 <notes/>
 </model>
 <model>
-<id>398</id>
-<categoryid>36</categoryid>
+<id>403</id>
+<categoryid>37</categoryid>
 <name>Singing Spooky Pumpkin 2 - Round Eyes</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-spooky-pumpkins?variant=32307586072678]]></weblink>
@@ -8983,8 +9092,8 @@
 <notes/>
 </model>
 <model>
-<id>399</id>
-<categoryid>36</categoryid>
+<id>404</id>
+<categoryid>37</categoryid>
 <name>Singing Spooky Pumpkin 3 - Oval Eyes</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-spooky-pumpkins?variant=32307586105446]]></weblink>
@@ -9005,8 +9114,8 @@
 <notes/>
 </model>
 <model>
-<id>400</id>
-<categoryid>36</categoryid>
+<id>405</id>
+<categoryid>37</categoryid>
 <name>Singing Spooky Pumpkin 4 - Slanted Eyes</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-spooky-pumpkins?variant=32307586138214]]></weblink>
@@ -9027,8 +9136,8 @@
 <notes/>
 </model>
 <model>
-<id>401</id>
-<categoryid>36</categoryid>
+<id>406</id>
+<categoryid>37</categoryid>
 <name>Singing Spooky Pumpkin 5 - X Eyes</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-spooky-pumpkins?variant=32307586170982]]></weblink>
@@ -9049,8 +9158,8 @@
 <notes/>
 </model>
 <model>
-<id>402</id>
-<categoryid>63</categoryid>
+<id>407</id>
+<categoryid>64</categoryid>
 <name>Singing Star - Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/singing-star?_pos=1&_sid=5fca731a0&_ss=r]]></weblink>
@@ -9071,9 +9180,9 @@
 <notes/>
 </model>
 <model>
-<id>403</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>408</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Singing Xmas Tree</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9096,9 +9205,9 @@
 <notes/>
 </model>
 <model>
-<id>404</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>409</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Singing Xmas Tree 30 Inch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9119,9 +9228,9 @@
 <notes/>
 </model>
 <model>
-<id>405</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>410</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Singing Xmas Tree 30 Inch w Bow</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/singing-xmas-tree?variant=32222810538086]]></weblink>
@@ -9141,9 +9250,9 @@
 <notes/>
 </model>
 <model>
-<id>406</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>411</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Singing Xmas Tree Boxed</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9164,8 +9273,8 @@
 <notes/>
 </model>
 <model>
-<id>407</id>
-<categoryid>36</categoryid>
+<id>412</id>
+<categoryid>37</categoryid>
 <name>Skull Post</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/skull-post?_pos=1&_sid=af400b63f&_ss=r]]></weblink>
@@ -9186,8 +9295,8 @@
 <notes/>
 </model>
 <model>
-<id>408</id>
-<categoryid>36</categoryid>
+<id>413</id>
+<categoryid>37</categoryid>
 <name>Skull Post Large</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/skull-post?variant=39638300754022]]></weblink>
@@ -9207,8 +9316,8 @@
 <notes/>
 </model>
 <model>
-<id>409</id>
-<categoryid>47</categoryid>
+<id>414</id>
+<categoryid>48</categoryid>
 <name>Small Rainbow</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/rainbows?_pos=1&_sid=3740e82d5&_ss=r]]></weblink>
@@ -9229,9 +9338,9 @@
 <notes/>
 </model>
 <model>
-<id>410</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>415</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman 8Ft</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/snowman-large?_pos=1&_sid=b15e73e6e&_ss=r]]></weblink>
@@ -9252,9 +9361,9 @@
 <notes/>
 </model>
 <model>
-<id>411</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>416</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman 8ft Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/snowman-large?variant=39265249230950]]></weblink>
@@ -9274,9 +9383,9 @@
 <notes/>
 </model>
 <model>
-<id>412</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>417</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman V2 - Matrix No Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9296,9 +9405,9 @@
 <notes/>
 </model>
 <model>
-<id>413</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>418</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman V2 - No Matrix No Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9319,9 +9428,9 @@
 <notes/>
 </model>
 <model>
-<id>414</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>419</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman V2 - Spinner No Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9342,9 +9451,9 @@
 <notes/>
 </model>
 <model>
-<id>415</id>
-<categoryid>21</categoryid>
-<categoryid>59</categoryid>
+<id>420</id>
+<categoryid>22</categoryid>
+<categoryid>60</categoryid>
 <name>Snowman V2 - With Matrix and Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9365,9 +9474,9 @@
 <notes/>
 </model>
 <model>
-<id>416</id>
-<categoryid>39</categoryid>
-<categoryid>61</categoryid>
+<id>421</id>
+<categoryid>40</categoryid>
+<categoryid>62</categoryid>
 <name>Space Odyssey</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/space-odyssey]]></weblink>
@@ -9387,8 +9496,8 @@
 <notes/>
 </model>
 <model>
-<id>417</id>
-<categoryid>47</categoryid>
+<id>422</id>
+<categoryid>48</categoryid>
 <name>Speech Bubble Matrix - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9409,8 +9518,8 @@
 <notes/>
 </model>
 <model>
-<id>418</id>
-<categoryid>47</categoryid>
+<id>423</id>
+<categoryid>48</categoryid>
 <name>Speech Bubble Matrix - B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9431,9 +9540,9 @@
 <notes/>
 </model>
 <model>
-<id>419</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>424</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Spider Web 3x3</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spider-webs?_pos=1&_sid=4b3540904&_ss=r]]></weblink>
@@ -9454,9 +9563,9 @@
 <notes/>
 </model>
 <model>
-<id>420</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>425</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Spider Web 4x4</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spider-webs?variant=31893065957478]]></weblink>
@@ -9477,9 +9586,9 @@
 <notes/>
 </model>
 <model>
-<id>421</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>426</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Spider in Web Coro 174 Node - Small Coro</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9500,9 +9609,9 @@
 <notes/>
 </model>
 <model>
-<id>422</id>
-<categoryid>36</categoryid>
-<categoryid>69</categoryid>
+<id>427</id>
+<categoryid>37</categoryid>
+<categoryid>70</categoryid>
 <name>Spider in Web HDPE 200 Node - Large HDPE</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9523,7 +9632,7 @@
 <notes/>
 </model>
 <model>
-<id>423</id>
+<id>428</id>
 
 <name>Spin Archy w Tree &amp; Bulbs</name>
 <type>GE Prop</type>
@@ -9544,8 +9653,8 @@
 <notes/>
 </model>
 <model>
-<id>424</id>
-<categoryid>39</categoryid>
+<id>429</id>
+<categoryid>40</categoryid>
 <name>Spin Reel "The Reel Deal" - 47</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/the-reel-max?_pos=1&_sid=96b4eb2b9&_ss=r]]></weblink>
@@ -9565,8 +9674,8 @@
 <notes/>
 </model>
 <model>
-<id>425</id>
-<categoryid>61</categoryid>
+<id>430</id>
+<categoryid>62</categoryid>
 <name>Spin Reel - 36</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9587,8 +9696,8 @@
 <notes/>
 </model>
 <model>
-<id>426</id>
-<categoryid>61</categoryid>
+<id>431</id>
+<categoryid>62</categoryid>
 <name>Spin Reel - 46</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9609,8 +9718,8 @@
 <notes/>
 </model>
 <model>
-<id>427</id>
-<categoryid>39</categoryid>
+<id>432</id>
+<categoryid>40</categoryid>
 <name>Spin Reel Max - 36</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spin-reel-max?variant=32065831698534]]></weblink>
@@ -9631,8 +9740,8 @@
 <notes/>
 </model>
 <model>
-<id>428</id>
-<categoryid>39</categoryid>
+<id>433</id>
+<categoryid>40</categoryid>
 <name>Spin Reel Max - 46</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9653,9 +9762,9 @@
 <notes/>
 </model>
 <model>
-<id>429</id>
-<categoryid>61</categoryid>
-<categoryid>57</categoryid>
+<id>434</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
 <name>Spinner - 14</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9676,9 +9785,9 @@
 <notes/>
 </model>
 <model>
-<id>430</id>
-<categoryid>61</categoryid>
-<categoryid>57</categoryid>
+<id>435</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
 <name>Spinner - 20</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9701,9 +9810,9 @@
 <notes/>
 </model>
 <model>
-<id>431</id>
-<categoryid>61</categoryid>
-<categoryid>45</categoryid>
+<id>436</id>
+<categoryid>62</categoryid>
+<categoryid>46</categoryid>
 <name>Spinner - 24</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9726,9 +9835,9 @@
 <notes/>
 </model>
 <model>
-<id>432</id>
-<categoryid>61</categoryid>
-<categoryid>45</categoryid>
+<id>437</id>
+<categoryid>62</categoryid>
+<categoryid>46</categoryid>
 <name>Spinner - 32</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9750,9 +9859,9 @@
 <notes/>
 </model>
 <model>
-<id>433</id>
-<categoryid>61</categoryid>
-<categoryid>45</categoryid>
+<id>438</id>
+<categoryid>62</categoryid>
+<categoryid>46</categoryid>
 <name>Spinner - 32</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/spinners-options?variant=32009068970086]]></weblink>
@@ -9772,9 +9881,9 @@
 <notes/>
 </model>
 <model>
-<id>434</id>
-<categoryid>61</categoryid>
-<categoryid>41</categoryid>
+<id>439</id>
+<categoryid>62</categoryid>
+<categoryid>42</categoryid>
 <name>Spinner - 47</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9796,9 +9905,9 @@
 <notes/>
 </model>
 <model>
-<id>435</id>
-<categoryid>61</categoryid>
-<categoryid>57</categoryid>
+<id>440</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
 <name>Spinner - 9</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9818,9 +9927,31 @@
 <notes/>
 </model>
 <model>
-<id>436</id>
-<categoryid>36</categoryid>
-<categoryid>67</categoryid>
+<id>441</id>
+<categoryid>62</categoryid>
+<categoryid>58</categoryid>
+<name>Spinner 97</name>
+<type>GE Prop</type>
+<weblink><![CDATA[]]></weblink>
+<material>Coro</material>
+<width>18" (46cm)</width>
+<height>18" (46cm)</height>
+<thickness>12mm</thickness>
+<pixelcount>97</pixelcount>
+<pixeldescription>12mm bullet</pixeldescription>
+<pixelspacing>0" (cm)</pixelspacing>
+<imagefile/>
+<wiring>
+<xmodellink>
+<![CDATA[https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Spinner 97.xmodel]]>
+</xmodellink>
+</wiring>
+<notes/>
+</model>
+<model>
+<id>442</id>
+<categoryid>37</categoryid>
+<categoryid>68</categoryid>
 <name>Spooky Tree - A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9841,9 +9972,9 @@
 <notes/>
 </model>
 <model>
-<id>437</id>
-<categoryid>36</categoryid>
-<categoryid>67</categoryid>
+<id>443</id>
+<categoryid>37</categoryid>
+<categoryid>68</categoryid>
 <name>Spooky Tree - B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9864,9 +9995,9 @@
 <notes/>
 </model>
 <model>
-<id>438</id>
-<categoryid>36</categoryid>
-<categoryid>67</categoryid>
+<id>444</id>
+<categoryid>37</categoryid>
+<categoryid>68</categoryid>
 <name>Spooky Tree - C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9887,9 +10018,9 @@
 <notes/>
 </model>
 <model>
-<id>439</id>
-<categoryid>61</categoryid>
-<categoryid>39</categoryid>
+<id>445</id>
+<categoryid>62</categoryid>
+<categoryid>40</categoryid>
 <name>Square Peg</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/hatt-squared?_pos=1&_sid=fc4c545c6&_ss=r]]></weblink>
@@ -9910,9 +10041,9 @@
 <notes/>
 </model>
 <model>
-<id>440</id>
-<categoryid>62</categoryid>
-<categoryid>55</categoryid>
+<id>446</id>
+<categoryid>63</categoryid>
+<categoryid>56</categoryid>
 <name>St. Patricks Day Shamrock (24 Inch)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9933,9 +10064,9 @@
 <notes/>
 </model>
 <model>
-<id>441</id>
-<categoryid>62</categoryid>
-<categoryid>55</categoryid>
+<id>447</id>
+<categoryid>63</categoryid>
+<categoryid>56</categoryid>
 <name>St. Patricks Day Shamrock (47 Inch) - Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9956,9 +10087,9 @@
 <notes/>
 </model>
 <model>
-<id>442</id>
-<categoryid>62</categoryid>
-<categoryid>55</categoryid>
+<id>448</id>
+<categoryid>63</categoryid>
+<categoryid>56</categoryid>
 <name>St. Patricks Day Shamrock (47 Inch) - No Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -9979,8 +10110,8 @@
 <notes/>
 </model>
 <model>
-<id>443</id>
-<categoryid>63</categoryid>
+<id>449</id>
+<categoryid>64</categoryid>
 <name>Star Cross</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10001,8 +10132,8 @@
 <notes/>
 </model>
 <model>
-<id>444</id>
-<categoryid>39</categoryid>
+<id>450</id>
+<categoryid>40</categoryid>
 <name>Star Gazer</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/star-gazer?_pos=1&_sid=7cd16161a&_ss=r]]></weblink>
@@ -10022,8 +10153,8 @@
 <notes/>
 </model>
 <model>
-<id>445</id>
-<categoryid>39</categoryid>
+<id>451</id>
+<categoryid>40</categoryid>
 <name>Star Gazer Back</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -10043,8 +10174,8 @@
 <notes/>
 </model>
 <model>
-<id>446</id>
-<categoryid>32</categoryid>
+<id>452</id>
+<categoryid>33</categoryid>
 <name>Star of Life - Staff/Serpent</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10065,9 +10196,9 @@
 <notes/>
 </model>
 <model>
-<id>447</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<id>453</id>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>StarFlake 640</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/the-beast?_pos=1&_sid=d7736d99b&_ss=r]]></weblink>
@@ -10088,9 +10219,9 @@
 <notes/>
 </model>
 <model>
-<id>448</id>
-<categoryid>63</categoryid>
-<name>Starburst 60 &amp; 72 R1 - Filled</name>
+<id>454</id>
+<categoryid>64</categoryid>
+<name>Starburst 48 &amp; 60 - Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/starburst?variant=29565650174054]]></weblink>
 <material>Coro</material>
@@ -10110,9 +10241,9 @@
 <notes/>
 </model>
 <model>
-<id>449</id>
-<categoryid>63</categoryid>
-<name>Starburst 60 &amp; 72 R1 - Unfilled</name>
+<id>455</id>
+<categoryid>64</categoryid>
+<name>Starburst 48 &amp; 60 - Unfilled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/starburst?variant=29565650108518]]></weblink>
 <material>Coro</material>
@@ -10132,8 +10263,8 @@
 <notes/>
 </model>
 <model>
-<id>450</id>
-<categoryid>63</categoryid>
+<id>456</id>
+<categoryid>64</categoryid>
 <name>Starburst 72 R2 - Filled</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/starburst?variant=29565650108518]]></weblink>
@@ -10154,8 +10285,8 @@
 <notes/>
 </model>
 <model>
-<id>451</id>
-<categoryid>39</categoryid>
+<id>457</id>
+<categoryid>40</categoryid>
 <name>Starlord</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10176,9 +10307,9 @@
 <notes/>
 </model>
 <model>
-<id>452</id>
-<categoryid>47</categoryid>
-<categoryid>55</categoryid>
+<id>458</id>
+<categoryid>48</categoryid>
+<categoryid>56</categoryid>
 <name>State 48 - AZ</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/state-love-tx-more-on-their-way?variant=31312665608294]]></weblink>
@@ -10198,9 +10329,9 @@
 <notes/>
 </model>
 <model>
-<id>453</id>
-<categoryid>47</categoryid>
-<categoryid>55</categoryid>
+<id>459</id>
+<categoryid>48</categoryid>
+<categoryid>56</categoryid>
 <name>State Love TX</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/state-love-tx-more-on-their-way?_pos=1&_sid=a90114e50&_ss=r]]></weblink>
@@ -10221,8 +10352,8 @@
 <notes/>
 </model>
 <model>
-<id>454</id>
-<categoryid>66</categoryid>
+<id>460</id>
+<categoryid>67</categoryid>
 <name>Steam Clouds</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/train-smoke-clouds?_pos=1&_sid=c40196a21&_ss=r]]></weblink>
@@ -10243,8 +10374,8 @@
 <notes/>
 </model>
 <model>
-<id>455</id>
-<categoryid>66</categoryid>
+<id>461</id>
+<categoryid>67</categoryid>
 <name>Steam Locomotive</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10265,8 +10396,8 @@
 <notes/>
 </model>
 <model>
-<id>456</id>
-<categoryid>39</categoryid>
+<id>462</id>
+<categoryid>40</categoryid>
 <name>Steampunk Spinner</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10292,8 +10423,8 @@
 <notes/>
 </model>
 <model>
-<id>457</id>
-<categoryid>47</categoryid>
+<id>463</id>
+<categoryid>48</categoryid>
 <name>Strawberry Large</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-strawberries?_pos=1&_sid=d3cd66bc7&_ss=r]]></weblink>
@@ -10314,8 +10445,8 @@
 <notes/>
 </model>
 <model>
-<id>458</id>
-<categoryid>47</categoryid>
+<id>464</id>
+<categoryid>48</categoryid>
 <name>Strawberry Small</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-strawberries?_pos=1&_sid=d3cd66bc7&_ss=r]]></weblink>
@@ -10336,8 +10467,8 @@
 <notes/>
 </model>
 <model>
-<id>459</id>
-<categoryid>47</categoryid>
+<id>465</id>
+<categoryid>48</categoryid>
 <name>Sunflower 30/36/46</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -10357,9 +10488,9 @@
 <notes/>
 </model>
 <model>
-<id>460</id>
-<categoryid>16</categoryid>
-<categoryid>41</categoryid>
+<id>466</id>
+<categoryid>17</categoryid>
+<categoryid>42</categoryid>
 <name>Sunset Arch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10380,9 +10511,9 @@
 <notes/>
 </model>
 <model>
-<id>461</id>
-<categoryid>63</categoryid>
-<categoryid>41</categoryid>
+<id>467</id>
+<categoryid>64</categoryid>
+<categoryid>42</categoryid>
 <name>Superstar</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/monster-star?_pos=1&_sid=54beee62c&_ss=r]]></weblink>
@@ -10403,8 +10534,8 @@
 <notes/>
 </model>
 <model>
-<id>462</id>
-<categoryid>43</categoryid>
+<id>468</id>
+<categoryid>44</categoryid>
 <name>T-Fighter</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ge-t-fighter?_pos=1&_sid=52050e8b5&_ss=r]]></weblink>
@@ -10425,8 +10556,8 @@
 <notes/>
 </model>
 <model>
-<id>463</id>
-<categoryid>46</categoryid>
+<id>469</id>
+<categoryid>47</categoryid>
 <name>Tank</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-tank]]></weblink>
@@ -10446,8 +10577,8 @@
 <notes/>
 </model>
 <model>
-<id>464</id>
-<categoryid>31</categoryid>
+<id>470</id>
+<categoryid>32</categoryid>
 <name>Teddy Bear</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -10467,8 +10598,8 @@
 <notes/>
 </model>
 <model>
-<id>465</id>
-<categoryid>47</categoryid>
+<id>471</id>
+<categoryid>48</categoryid>
 <name>Thank You Sign</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10489,9 +10620,9 @@
 <notes/>
 </model>
 <model>
-<id>466</id>
-<categoryid>36</categoryid>
-<categoryid>34</categoryid>
+<id>472</id>
+<categoryid>37</categoryid>
+<categoryid>35</categoryid>
 <name>The Boo's Brothers - Big Boo</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10512,9 +10643,9 @@
 <notes/>
 </model>
 <model>
-<id>467</id>
-<categoryid>36</categoryid>
-<categoryid>34</categoryid>
+<id>473</id>
+<categoryid>37</categoryid>
+<categoryid>35</categoryid>
 <name>The Boo's Brothers - Big Boo Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10535,9 +10666,9 @@
 <notes/>
 </model>
 <model>
-<id>468</id>
-<categoryid>36</categoryid>
-<categoryid>34</categoryid>
+<id>474</id>
+<categoryid>37</categoryid>
+<categoryid>35</categoryid>
 <name>The Boo's Brothers - Lil Boo</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10558,9 +10689,9 @@
 <notes/>
 </model>
 <model>
-<id>469</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>475</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>The Mean One - Non Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10581,9 +10712,9 @@
 <notes/>
 </model>
 <model>
-<id>470</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>476</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>The Mean One - Talking</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10604,9 +10735,9 @@
 <notes/>
 </model>
 <model>
-<id>471</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>477</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tomb Warp Tombstone</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/tomb-warp-tombstone?_pos=1&_sid=9d01086b9&_ss=r]]></weblink>
@@ -10627,9 +10758,9 @@
 <notes/>
 </model>
 <model>
-<id>472</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>478</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tomb Warp with Skull Tombstone</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/tomb-warp-tombstone?variant=39326378655846]]></weblink>
@@ -10650,9 +10781,9 @@
 <notes/>
 </model>
 <model>
-<id>473</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>479</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tombstone - RIP</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10673,9 +10804,9 @@
 <notes/>
 </model>
 <model>
-<id>474</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>480</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tombstone - With Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/tombstone-w-skull-matrix?variant=20388670865472]]></weblink>
@@ -10695,9 +10826,9 @@
 <notes/>
 </model>
 <model>
-<id>475</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>481</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tombstone - With Matrix and Skull</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10718,9 +10849,9 @@
 <notes/>
 </model>
 <model>
-<id>476</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>482</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Tombstone - Without Matrix</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10741,9 +10872,9 @@
 <notes/>
 </model>
 <model>
-<id>477</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>483</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Toy Soldier 4 Ft - REV2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/nutcracker]]></weblink>
@@ -10764,9 +10895,9 @@
 <notes/>
 </model>
 <model>
-<id>478</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>484</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Toy Soldier 4ft - REV1</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -10787,9 +10918,9 @@
 <notes/>
 </model>
 <model>
-<id>479</id>
-<categoryid>21</categoryid>
-<categoryid>31</categoryid>
+<id>485</id>
+<categoryid>22</categoryid>
+<categoryid>32</categoryid>
 <name>Toy Soldier 7 Ft - Singing</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/nutcracker]]></weblink>
@@ -10810,8 +10941,8 @@
 <notes/>
 </model>
 <model>
-<id>480</id>
-<categoryid>66</categoryid>
+<id>486</id>
+<categoryid>67</categoryid>
 <name>Train Flatbed Car</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/flat-train-car?_pos=3&_sid=d03c0bc3f&_ss=r]]></weblink>
@@ -10832,9 +10963,9 @@
 <notes/>
 </model>
 <model>
-<id>481</id>
-<categoryid>47</categoryid>
+<id>487</id>
 <categoryid>48</categoryid>
+<categoryid>49</categoryid>
 <name>Treble Clef</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/musical-notes?_pos=1&_sid=6702586f5&_ss=r]]></weblink>
@@ -10855,8 +10986,8 @@
 <notes/>
 </model>
 <model>
-<id>482</id>
-<categoryid>63</categoryid>
+<id>488</id>
+<categoryid>64</categoryid>
 <name>Tri Star 100</name>
 <type>GE Prop</type>
 <weblink><![CDATA[]]></weblink>
@@ -10876,8 +11007,8 @@
 <notes/>
 </model>
 <model>
-<id>483</id>
-<categoryid>47</categoryid>
+<id>489</id>
+<categoryid>48</categoryid>
 <name>Trippy Triangle</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/search?type=product&q=triangle*]]></weblink>
@@ -10898,9 +11029,9 @@
 <notes/>
 </model>
 <model>
-<id>484</id>
-<categoryid>36</categoryid>
-<categoryid>65</categoryid>
+<id>490</id>
+<categoryid>37</categoryid>
+<categoryid>66</categoryid>
 <name>Triune Tomb</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/triune-tomb?_pos=1&_sid=1fefd5776&_ss=r]]></weblink>
@@ -10921,7 +11052,7 @@
 <notes/>
 </model>
 <model>
-<id>485</id>
+<id>491</id>
 
 <name>Trophy 1st Place</name>
 <type>GE Prop</type>
@@ -10942,7 +11073,7 @@
 <notes/>
 </model>
 <model>
-<id>486</id>
+<id>492</id>
 
 <name>Trophy 2nd Place</name>
 <type>GE Prop</type>
@@ -10963,7 +11094,7 @@
 <notes/>
 </model>
 <model>
-<id>487</id>
+<id>493</id>
 
 <name>Trophy 3rd Place</name>
 <type>GE Prop</type>
@@ -10984,8 +11115,8 @@
 <notes/>
 </model>
 <model>
-<id>488</id>
-<categoryid>32</categoryid>
+<id>494</id>
+<categoryid>33</categoryid>
 <name>US Air Force</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-air-force-sign?_pos=2&_sid=55fc8a41e&_ss=r]]></weblink>
@@ -11005,8 +11136,8 @@
 <notes/>
 </model>
 <model>
-<id>489</id>
-<categoryid>32</categoryid>
+<id>495</id>
+<categoryid>33</categoryid>
 <name>US Army</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-army-sign?_pos=1&_sid=b905b0f36&_ss=r]]></weblink>
@@ -11026,8 +11157,8 @@
 <notes/>
 </model>
 <model>
-<id>490</id>
-<categoryid>32</categoryid>
+<id>496</id>
+<categoryid>33</categoryid>
 <name>US Coast Guard</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-coast-guard-sign?_pos=1&_sid=4be24745b&_ss=r]]></weblink>
@@ -11047,8 +11178,8 @@
 <notes/>
 </model>
 <model>
-<id>491</id>
-<categoryid>32</categoryid>
+<id>497</id>
+<categoryid>33</categoryid>
 <name>US Marines</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-marines-sign?_pos=1&_sid=6eec80ebe&_ss=r]]></weblink>
@@ -11068,8 +11199,8 @@
 <notes/>
 </model>
 <model>
-<id>492</id>
-<categoryid>32</categoryid>
+<id>498</id>
+<categoryid>33</categoryid>
 <name>US Navy</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-navy-sign?_pos=2&_sid=b0c5692d6&_ss=r]]></weblink>
@@ -11089,8 +11220,8 @@
 <notes/>
 </model>
 <model>
-<id>493</id>
-<categoryid>32</categoryid>
+<id>499</id>
+<categoryid>33</categoryid>
 <name>US Space Force</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-space-force-sign?_pos=2&_sid=f494f3bbf&_ss=r]]></weblink>
@@ -11110,9 +11241,9 @@
 <notes/>
 </model>
 <model>
-<id>494</id>
+<id>500</id>
+<categoryid>43</categoryid>
 <categoryid>42</categoryid>
-<categoryid>41</categoryid>
 <name>USA 8 Foot</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/impression-usa?_pos=1&_sid=b4ede2514&_ss=r]]></weblink>
@@ -11133,8 +11264,8 @@
 <notes/>
 </model>
 <model>
-<id>495</id>
-<categoryid>39</categoryid>
+<id>501</id>
+<categoryid>40</categoryid>
 <name>Warlock</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/warlock?_pos=1&_sid=9adc3956c&_ss=r]]></weblink>
@@ -11154,8 +11285,8 @@
 <notes/>
 </model>
 <model>
-<id>496</id>
-<categoryid>43</categoryid>
+<id>502</id>
+<categoryid>44</categoryid>
 <name>Warm Hugs Snowman 139 Node Original(2019)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
@@ -11176,8 +11307,8 @@
 <notes/>
 </model>
 <model>
-<id>497</id>
-<categoryid>43</categoryid>
+<id>503</id>
+<categoryid>44</categoryid>
 <name>Warm Hugs Snowman 146 Node Original w updated Mouth(2020)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
@@ -11198,8 +11329,8 @@
 <notes/>
 </model>
 <model>
-<id>498</id>
-<categoryid>43</categoryid>
+<id>504</id>
+<categoryid>44</categoryid>
 <name>Warm Hugs Snowman 175 Node V2</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?_pos=1&_sid=39cbecf93&_ss=r]]></weblink>
@@ -11219,8 +11350,8 @@
 <notes/>
 </model>
 <model>
-<id>499</id>
-<categoryid>43</categoryid>
+<id>505</id>
+<categoryid>44</categoryid>
 <name>Warm Hugs Snowman 379 Node (X-Large)</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/warm-hugs-snowman?variant=32230881558630]]></weblink>
@@ -11240,9 +11371,9 @@
 <notes/>
 </model>
 <model>
-<id>500</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>506</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Whimsical Tree</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/whimsical-trees?_pos=1&_sid=01566138f&_ss=r]]></weblink>
@@ -11263,9 +11394,9 @@
 <notes/>
 </model>
 <model>
-<id>501</id>
-<categoryid>36</categoryid>
-<categoryid>60</categoryid>
+<id>507</id>
+<categoryid>37</categoryid>
+<categoryid>61</categoryid>
 <name>Widowmaker 300</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11286,8 +11417,8 @@
 <notes/>
 </model>
 <model>
-<id>502</id>
-<categoryid>72</categoryid>
+<id>508</id>
+<categoryid>73</categoryid>
 <name>Wreath 32</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11304,8 +11435,8 @@
 <notes>Use Native xLights Model 'Circle': Layer Sizes = 64,64,64</notes>
 </model>
 <model>
-<id>503</id>
-<categoryid>43</categoryid>
+<id>509</id>
+<categoryid>44</categoryid>
 <name>X-Fighter</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/ge-x-fighter?_pos=1&_sid=187a81f7c&_ss=r]]></weblink>
@@ -11326,9 +11457,9 @@
 <notes/>
 </model>
 <model>
-<id>504</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<id>510</id>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>XKF330 Snowflake</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11349,9 +11480,9 @@
 <notes/>
 </model>
 <model>
-<id>505</id>
-<categoryid>33</categoryid>
-<categoryid>12</categoryid>
+<id>511</id>
+<categoryid>34</categoryid>
+<categoryid>13</categoryid>
 <name>XLS 450 47 &amp; 37 Inch</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/products/xlf450-flake?_pos=1&_sid=d8fa90579&_ss=r]]></weblink>
@@ -11372,9 +11503,9 @@
 <notes/>
 </model>
 <model>
-<id>506</id>
-<categoryid>21</categoryid>
-<categoryid>67</categoryid>
+<id>512</id>
+<categoryid>22</categoryid>
+<categoryid>68</categoryid>
 <name>Xmas Tree 53</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11395,9 +11526,9 @@
 <notes/>
 </model>
 <model>
-<id>507</id>
-<categoryid>36</categoryid>
-<categoryid>33</categoryid>
+<id>513</id>
+<categoryid>37</categoryid>
+<categoryid>34</categoryid>
 <name>Zombie Flake A</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11418,9 +11549,9 @@
 <notes/>
 </model>
 <model>
-<id>508</id>
-<categoryid>36</categoryid>
-<categoryid>33</categoryid>
+<id>514</id>
+<categoryid>37</categoryid>
+<categoryid>34</categoryid>
 <name>Zombie Flake B</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
@@ -11441,9 +11572,9 @@
 <notes/>
 </model>
 <model>
-<id>509</id>
-<categoryid>36</categoryid>
-<categoryid>33</categoryid>
+<id>515</id>
+<categoryid>37</categoryid>
+<categoryid>34</categoryid>
 <name>Zombie Flake C</name>
 <type>GE Prop</type>
 <weblink><![CDATA[https://gilbertengineeringusa.com/]]></weblink>
