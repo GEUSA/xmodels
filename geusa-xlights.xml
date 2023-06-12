@@ -6926,20 +6926,20 @@
     <model>
       <id>344</id>
       <categoryid>60</categoryid>
-      <name>Battle Cross no Tags V2</name>
+      <name>Battle Cross no Tags V3</name>
       <type>Coro</type>
       <weblink><![CDATA[https://gilbertengineeringusa.com/products/battle-cross-47-125?_pos=1&amp;_sid=ae756eaba&amp;_ss=r]]></weblink>
       <material>Coro</material>
       <width/>
       <height>47"</height>
       <thickness>10</thickness>
-      <pixelcount>114</pixelcount>
+      <pixelcount>100</pixelcount>
       <pixeldescription>Confirm on product page</pixeldescription>
       <pixelspacing>Confirm on product page</pixelspacing>
       <imagefile>https://github.com/GEUSA/Images/blob/main/Battle%20Cross/4_Battle%20Cross.jpg?raw=true</imagefile>
       <notes/>
       <wiring>
-        <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Battle Cross No Tags.xmodel</xmodellink>
+        <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Battle_Cross_V3_100_Node.xmodel</xmodellink>
       </wiring>
     </model>
     <model>
