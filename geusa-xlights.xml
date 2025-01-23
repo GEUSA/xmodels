@@ -481,6 +481,9 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixeldescription>12mm, Bullet, Blackout, Evo</pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-overlord-spinner?_pos=3&amp;_sid=56c5926f8&amp;_ss=r</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/34cc2093-d4b4-479d-a0fb-21d831c3ddb3_1000x.jpg?v=1736459143</imagefile>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Overlord.xmodel</xmodellink>
+            </wiring>
             <categoryid>2</categoryid>
         </model>
         <model>
