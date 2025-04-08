@@ -5221,7 +5221,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/North%20Pole/1_North%20Pole.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-North-Pole.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE North Pole Script.xmodel</xmodellink>
             </wiring>
             <categoryid>46</categoryid>
         </model>
