@@ -481,6 +481,9 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-cowboy-tx-edition?variant=49309755867448</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/4a0c6c59-f6b4-4c13-8e11-454de8956da0-Photoroom_1000x.jpg?v=1735933781</imagefile>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE-Gingerbread-Cowboy-Singing-TX-Edition.xmodel</xmodellink>
+            </wiring>
             <categoryid>82</categoryid>
             <categoryid>82</categoryid>
         </model>
