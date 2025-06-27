@@ -468,21 +468,21 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
     </categories>
     <models>
         <model>
-            <name>GE Gingerbread Cowboy Singing TX Edition</name>
+            <name>GE Grinch 8 Foot Head</name>
             <id>1</id>
             <notes></notes>
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
-            <width>47&quot;</width>
-            <height>94&quot;</height>
-            <pixelCount></pixelCount>
+            <width>63&quot;</width>
+            <height>74&quot;</height>
+            <pixelCount>955</pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
-            <pixeldescription></pixeldescription>
-            <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-cowboy-tx-edition?variant=49309755867448</weblink>
-            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/4a0c6c59-f6b4-4c13-8e11-454de8956da0-Photoroom_1000x.jpg?v=1735933781</imagefile>
+            <pixeldescription>See Content on website</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a56950e3-6a4c-49cb-9f36-07b21fdd6cf5-Photoroom_500x.jpg?v=1750288828</imagefile>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE-Gingerbread-Cowboy-Singing-TX-Edition.xmodel</xmodellink>
+                <xmodellink>https://github.com/GEUSA/xmodels/blob/master/xmodels/GE%20Grinch%208Ft%20Head%20675%20Node.xmodel</xmodellink>
             </wiring>
             <categoryid>82</categoryid>
             <categoryid>82</categoryid>
@@ -503,6 +503,8 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Mailbox-Front.xmodel</xmodellink>
             </wiring>
+            <pixelCount>325</pixelCount>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/285448366_733539417843440_108972251702616322_n_500x.jpg?v=1735930553</imagefile>
             <categoryid>2</categoryid>
         </model>
         <model>
