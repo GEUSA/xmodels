@@ -23,10 +23,14 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>2</id>
                     <name>3-D</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>3</id>
                     <name>Angels</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>4</id>
                     <name>Arches</name>
@@ -35,16 +39,22 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                             <id>5</id>
                             <name>4 Ft</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>6</id>
                             <name>6 Ft</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>7</id>
                             <name>6.8 Ft</name>
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>8</id>
                     <name>Bulbs</name>
@@ -59,6 +69,8 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                                 </category>
                             </categories>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>11</id>
                             <name>Upright</name>
@@ -67,6 +79,8 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                                     <id>12</id>
                                     <name>Large</name>
                                 </category>
+                            </categories>
+                            <categories>
                                 <category>
                                     <id>13</id>
                                     <name>Small &amp; Med</name>
@@ -75,6 +89,8 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>14</id>
                     <name>Candles</name>
@@ -83,28 +99,40 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                             <id>15</id>
                             <name>Large</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>16</id>
                             <name>Small</name>
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>17</id>
                     <name>Candy Canes</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>18</id>
                     <name>Cookies</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>19</id>
                     <name>Deer</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>20</id>
                     <name>Figures</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>21</id>
                     <name>Flakes</name>
@@ -113,64 +141,94 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                             <id>22</id>
                             <name>12&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>23</id>
                             <name>17 Ft</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>24</id>
                             <name>18&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>25</id>
                             <name>24&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>26</id>
                             <name>30&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>27</id>
                             <name>32&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>28</id>
                             <name>36&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>29</id>
                             <name>37&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>30</id>
                             <name>42&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>31</id>
                             <name>46&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>32</id>
                             <name>47&quot;</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>33</id>
                             <name>7.5 Ft</name>
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>34</id>
                     <name>Flowers</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>35</id>
                     <name>Gift Tags</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>36</id>
                     <name>GingerBread</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>37</id>
                     <name>Letters</name>
@@ -183,6 +241,8 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                                     <id>39</id>
                                     <name>Boxed</name>
                                 </category>
+                            </categories>
+                            <categories>
                                 <category>
                                     <id>40</id>
                                     <name>Hanging</name>
@@ -191,34 +251,50 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>41</id>
                     <name>Lollipop</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>42</id>
                     <name>Magical</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>43</id>
                     <name>Nativity</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>44</id>
                     <name>Ornaments</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>45</id>
                     <name>Presents</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>46</id>
                     <name>Signs</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>47</id>
                     <name>Snowman</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>48</id>
                     <name>Spinners</name>
@@ -227,16 +303,22 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                             <id>49</id>
                             <name>Large</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>50</id>
                             <name>Medium</name>
                         </category>
+                    </categories>
+                    <categories>
                         <category>
                             <id>51</id>
                             <name>Small</name>
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>52</id>
                     <name>Stars</name>
@@ -247,22 +329,32 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>54</id>
                     <name>Trains</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>55</id>
                     <name>Trees</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>56</id>
                     <name>Wings</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>57</id>
                     <name>Words</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>58</id>
                     <name>Wreaths</name>
@@ -277,14 +369,20 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>60</id>
                     <name>Fire Dept</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>61</id>
                     <name>Military</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>62</id>
                     <name>Police Dept</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>63</id>
                     <name>USA</name>
@@ -299,50 +397,74 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>65</id>
                     <name>Bats</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>66</id>
                     <name>Cross</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>67</id>
                     <name>Faces</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>68</id>
                     <name>Figures</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>69</id>
                     <name>Flakes</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>70</id>
                     <name>Ghosts</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>71</id>
                     <name>Letters</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>72</id>
                     <name>Pumpkins</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>73</id>
                     <name>Skull</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>74</id>
                     <name>Spiders</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>75</id>
                     <name>Tombstones</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>76</id>
                     <name>Trees</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>77</id>
                     <name>Webs</name>
@@ -357,10 +479,14 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>79</id>
                     <name>3-D</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>80</id>
                     <name>Arches</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>81</id>
                     <name>Spinners</name>
@@ -375,54 +501,80 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>83</id>
                     <name>Animals</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>84</id>
                     <name>Arches</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>85</id>
                     <name>Figures</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>86</id>
                     <name>Flowers</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>87</id>
                     <name>Fruit &amp; Veggies</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>88</id>
                     <name>Graduation</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>89</id>
                     <name>Magical</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>90</id>
                     <name>Misc</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>91</id>
                     <name>Music Notes</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>92</id>
                     <name>Rainbow</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>93</id>
                     <name>Signs</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>94</id>
                     <name>Symbol</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>95</id>
                     <name>Trees</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>96</id>
                     <name>Trophies</name>
@@ -443,22 +595,32 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                         </category>
                     </categories>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>100</id>
                     <name>Hanukah</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>101</id>
                     <name>Mardi Gras</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>102</id>
                     <name>Music Notes</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>103</id>
                     <name>St Patricks Day</name>
                 </category>
+            </categories>
+            <categories>
                 <category>
                     <id>104</id>
                     <name>Valentines Day</name>
@@ -468,28 +630,33 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
     </categories>
     <models>
         <model>
-            <name>GE Grinch 8 Foot Left Hand</name>
+            <name>Eye of the Widow</name>
             <id>1</id>
             <notes></notes>
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
-            <width>36.7&quot;</width>
-            <height>36&quot;</height>
-            <pixelCount>140</pixelCount>
+            <width>28&quot;</width>
+            <height>44&quot;</height>
+            <pixelCount>325</pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription>See Content on website</pixeldescription>
-            <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
-            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a56950e3-6a4c-49cb-9f36-07b21fdd6cf5-Photoroom_500x.jpg?v=1750288828</imagefile>
+            <weblink>https://gilbertengineeringusa.com/products/arachno-trio?variant=50511129936184</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/fb1fae6c-b25b-4653-8154-962959c9c80c-Photoroom_500x.jpg?v=1750796323</imagefile>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Grinch 8 Ft Left Hand.xmodel</xmodellink>
+                <0>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Eye of the Widow.xmodel</xmodellink>
+                </0>
             </wiring>
-            <categoryid>1</categoryid>
-            <categoryid>1</categoryid>
-            <categoryid>1</categoryid>
-            <categoryid>1</categoryid>
-            <categoryid>1</categoryid>
-            <categoryid>1</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
+            <categoryid>74</categoryid>
         </model>
         <model>
             <id>2</id>
