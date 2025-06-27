@@ -476,13 +476,13 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>47&quot;</width>
             <height>47&quot;</height>
-            <pixelCount></pixelCount>
+            <pixelCount>397</pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription>See Content on website</pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-star-of-life?_pos=2&amp;_sid=c7676b7a7&amp;_ss=r&amp;variant=39286299492454</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/2e5e5ddb-55e6-4eff-b02d-a969f889e174-Photoroom_500x.jpg?v=1748897682</imagefile>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE-EMS.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_EMS.xmodel</xmodellink>
             </wiring>
             <categoryid>59</categoryid>
             <categoryid>59</categoryid>
