@@ -476,7 +476,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>63&quot;</width>
             <height>74&quot;</height>
-            <pixelCount></pixelCount>
+            <pixelCount>655</pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription>See Content on website</pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
@@ -484,8 +484,9 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Grinch 8Ft Head 675 Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>82</categoryid>
-            <categoryid>82</categoryid>
+            <categoryid>1</categoryid>
+            <categoryid>1</categoryid>
+            <categoryid>1</categoryid>
         </model>
         <model>
             <id>2</id>
