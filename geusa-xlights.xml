@@ -644,11 +644,9 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <weblink>https://gilbertengineeringusa.com/products/arachno-trio?variant=50511129936184</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/fb1fae6c-b25b-4653-8154-962959c9c80c-Photoroom_500x.jpg?v=1750796323</imagefile>
             <wiring>
-                <0>
-                    <name></name>
-                    <imagefile></imagefile>
-                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Eye of the Widow.xmodel</xmodellink>
-                </0>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Eye of the Widow.xmodel</xmodellink>
             </wiring>
             <categoryid>74</categoryid>
             <categoryid>74</categoryid>
