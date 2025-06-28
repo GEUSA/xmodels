@@ -10938,5 +10938,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             </wiring>
             <categoryid>105</categoryid>
         </model>
+        <model>
+            <name>Shadow Spinner</name>
+            <id>${maxId}</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>28&quot;</width>
+            <height>44&quot;</height>
+            <pixelCount>350</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/arachno-trio?variant=50511130067256</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a3368dd6-574a-4ea8-a932-d38c3e486ac7-Photoroom_500x.jpg?v=1750796323</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Shadow Spinner.xmodel</xmodellink>
+            </wiring>
+            <categoryid>75</categoryid>
+        </model>
     </models>
 </modelinventory>
