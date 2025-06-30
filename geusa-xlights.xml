@@ -11180,6 +11180,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>83</categoryid>
         </model>
         <model>
+            <name>Nar Whale 4 Foot</name>
+            <id>564</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>28&quot;</width>
+            <height>47&quot;</height>
+            <pixelCount>200</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-narwhale?variant=50537721561400</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/b122fee2-dfcc-4438-a52b-166a170471a4-Photoroom_1000x.jpg?v=1750952051</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE NarWhale 4 Ft.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
