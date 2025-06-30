@@ -817,7 +817,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <id>19</id>
             <name>Spin Archy w Tree &amp; Bulbs</name>
             <type>Coro</type>
-            <weblink></weblink>
+            <weblink>https://gilbertengineeringusa.com/products/matrix-arch-with-bulbs-tree?_pos=18&amp;_sid=c481d4ea3&amp;_ss=r</weblink>
             <material>Coro</material>
             <width>72&quot;</width>
             <height>36&quot;</height>
@@ -827,8 +827,30 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
+                <0>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Arch W Tree and Bulbs.xmodel</xmodellink>
+                </0>
+                <1>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Arch W Tree and Bulbs.xmodel</xmodellink>
+                </1>
+                <2>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Arch W Tree and Bulbs.xmodel</xmodellink>
+                </2>
+                <3>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Arch W Tree and Bulbs.xmodel</xmodellink>
+                </3>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Arch W Tree and Bulbs.xmodel</xmodellink>
             </wiring>
+            <pixelCount>989</pixelCount>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/411680bf-01b0-4867-823d-5b0a07466f49_1000x.jpg?v=1735933393</imagefile>
             <categoryid>6</categoryid>
         </model>
         <model>
@@ -865,8 +887,30 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
+                <0>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
+                </0>
+                <1>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
+                </1>
+                <2>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
+                </2>
+                <3>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
+                </3>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
             </wiring>
+            <pixelCount>450</pixelCount>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/20210209_142450_1000x.jpg?v=1735926398</imagefile>
             <categoryid>12</categoryid>
         </model>
         <model>
@@ -11093,6 +11137,68 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <name></name>
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Big Ass TV.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
+            <name>Gingerbread Cowboy Texas Edition</name>
+            <id>562</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>44&quot;</width>
+            <height>92&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-cowboy-tx-edition?_pos=1&amp;_sid=e11bb72d2&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/GingerbreadCowboy-Photoroom_1000x.jpg?v=1735933773</imagefile>
+            <wiring>
+                <0>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy TX Edition.xmodel.xmodel</xmodellink>
+                </0>
+                <1>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
+                </1>
+                <2>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
+                </2>
+                <3>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
+                </3>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
+            <name>Gingerbread Cowboy Texas Edition Singing</name>
+            <id>563</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>44&quot;</width>
+            <height>92&quot;</height>
+            <pixelCount>680</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-cowboy-tx-edition?variant=49309755867448</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/4a0c6c59-f6b4-4c13-8e11-454de8956da0-Photoroom_1000x.jpg?v=1735933781</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
             </wiring>
             <categoryid>83</categoryid>
         </model>
