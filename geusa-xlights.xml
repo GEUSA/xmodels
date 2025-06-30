@@ -11077,6 +11077,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>1</categoryid>
         </model>
         <model>
+            <name>Big Ass TV</name>
+            <id>561</id>
+            <notes>Coming To the Website Soon!!!</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>129&quot;</width>
+            <height>113&quot;</height>
+            <pixelCount>750</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Big Ass TV.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
