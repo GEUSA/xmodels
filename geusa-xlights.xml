@@ -11014,6 +11014,69 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>83</categoryid>
         </model>
         <model>
+            <name>GE Grinch 8 Foot Head</name>
+            <id>558</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>63&quot;</width>
+            <height>94&quot;</height>
+            <pixelCount>655</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a56950e3-6a4c-49cb-9f36-07b21fdd6cf5-Photoroom_1000x.jpg?v=1750288828</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Grinch 8Ft Head 675 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
+            <name>GE Grinch 8 Foot Left Hand</name>
+            <id>559</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36.7&quot;</width>
+            <height>38&quot;</height>
+            <pixelCount>140</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a56950e3-6a4c-49cb-9f36-07b21fdd6cf5-Photoroom_1000x.jpg?v=1750288828</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE 8 Ft Grinch Left Hand.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
+            <name>GE Grinch 8 Foot Right Hand</name>
+            <id>560</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36.7&quot;</width>
+            <height>36&quot;</height>
+            <pixelCount>140</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-lurking-mean-one</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/a56950e3-6a4c-49cb-9f36-07b21fdd6cf5-Photoroom_1000x.jpg?v=1750288828</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE 8 Ft Grinch Right Hand.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
