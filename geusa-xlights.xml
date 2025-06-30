@@ -879,27 +879,19 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
-                <0>
-                    <name></name>
+                                <name></name>
                     <imagefile></imagefile>
                     <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
-                </0>
-                <1>
-                    <name></name>
+                                                <name></name>
                     <imagefile></imagefile>
                     <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
-                </1>
-                <2>
-                    <name></name>
+                                                <name></name>
                     <imagefile></imagefile>
                     <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
-                </2>
-                <3>
-                    <name></name>
+                                            <name></name>
                     <imagefile></imagefile>
                     <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
-                </3>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
+                            <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8ft Singing Bulb.xmodel</xmodellink>
             </wiring>
             <pixelCount>450</pixelCount>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/20210209_142450_1000x.jpg?v=1735926398</imagefile>
