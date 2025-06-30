@@ -11201,6 +11201,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>83</categoryid>
         </model>
         <model>
+            <name>Nar Whale 6 Foot Talking</name>
+            <id>565</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>44&quot;</width>
+            <height>72&quot;</height>
+            <pixelCount>350</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-narwhale?variant=50537721692472</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/954720c0-6c74-46c3-be20-b1d5011fc957-Photoroom_1000x.jpg?v=1750952051</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE NarWhale 6 Ft.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
