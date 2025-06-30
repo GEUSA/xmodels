@@ -10939,6 +10939,89 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>105</categoryid>
         </model>
         <model>
+            <name>Faithful Weaver</name>
+            <id>555</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>28&quot;</width>
+            <height>44&quot;</height>
+            <pixelCount>300</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/arachno-trio?variant=50511130001720</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/728c3c27-64ee-4e43-a15e-0926313a6995-Photoroom_1000x.jpg?v=1750796323</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Faithful Weaver.xmodel</xmodellink>
+            </wiring>
+            <categoryid>75</categoryid>
+        </model>
+        <model>
+            <name>GE Gumdrop 46 Inch Large</name>
+            <id>556</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>43</width>
+            <height>47</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gumdrop-candies?variant=50494966989112</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/6ab384b5-0c23-42ef-b00a-30b694c04201-Photoroom_1000x.jpg?v=1750951674</imagefile>
+            <wiring>
+                <0>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
+                </0>
+                <1>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
+                </1>
+                <2>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
+                </2>
+                <3>
+                    <name></name>
+                    <imagefile></imagefile>
+                    <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
+                </3>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
+            <name>GE Gumdrop 23 Inch Medium</name>
+            <id>557</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>22&quot;</width>
+            <height>23&quot;</height>
+            <pixelCount>150</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gumdrop-candies?variant=50494966858040</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/3a623c0f-c8b3-4fee-a787-7e6dfc639129-Photoroom_1000x.jpg?v=1750951674</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 23 Inch.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
