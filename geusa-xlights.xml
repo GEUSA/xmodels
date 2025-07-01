@@ -11167,7 +11167,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>44&quot;</width>
             <height>92&quot;</height>
-            <pixelCount>680</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-cowboy-tx-edition?variant=49309755867448</weblink>
@@ -11175,7 +11175,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy Singing TX Edition.xmodel</xmodellink>
             </wiring>
             <categoryid>83</categoryid>
         </model>
