@@ -11231,6 +11231,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>25</categoryid>
         </model>
         <model>
+            <name>Overlord</name>
+            <id>567</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>47</width>
+            <height>47</height>
+            <pixelCount>1529</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-overlord-spinner?_pos=3&amp;_sid=46dfc56b4&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/34cc2093-d4b4-479d-a0fb-21d831c3ddb3_1000x.jpg?v=1736459143</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Overlord.xmodel</xmodellink>
+            </wiring>
+            <categoryid>82</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
