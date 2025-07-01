@@ -11210,6 +11210,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>83</categoryid>
         </model>
         <model>
+            <name>Flake I 100 Node</name>
+            <id>566</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>23</width>
+            <height>23</height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch?_pos=1&amp;_sid=d4a0bc896&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/1f63c041-3ba6-40db-a812-dba1cddc00c9-Photoroom_900x.jpg?v=1744224269</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Flake I 100.xmodel</xmodellink>
+            </wiring>
+            <categoryid>25</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
