@@ -11252,6 +11252,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>82</categoryid>
         </model>
         <model>
+            <name>Santa&apos;s Scroll 6 Foot for Panels</name>
+            <id>568</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>43&quot;</width>
+            <height>71&quot;</height>
+            <pixelCount>350</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-santas-scroll?variant=50537687941432</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/b1b6c56d-8e08-4dbe-8261-405f078aa32f-Photoroom_1000x.jpg?v=1750951708</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Santas Scroll 6Ft for Panels.xmodel</xmodellink>
+            </wiring>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
