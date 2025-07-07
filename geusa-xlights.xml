@@ -11305,7 +11305,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>20.5</width>
             <height>45.5</height>
-            <pixelCount>350</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-singing-bulb-hd?variant=49961166340408</weblink>
@@ -11313,9 +11313,30 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/46 Inch Upright Singing Bulb 350 Bode.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/46 Inch Upright Singing Bulb 350 Node.xmodel</xmodellink>
             </wiring>
             <categoryid>11</categoryid>
+        </model>
+        <model>
+            <name>46 Inch Hanging Singing Bulb 350 Node</name>
+            <id>571</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>20.5</width>
+            <height>45.5</height>
+            <pixelCount>350</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-singing-bulb-hd?variant=47634247090488</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/8e431976-0618-4f35-8002-4524c4f9c9ae-Photoroom_900x.jpg?v=1735934901https://gilbertengineeringusa.com/cdn/shop/files/8e431976-0618-4f35-8002-4524c4f9c9ae-Photoroom_900x.jpg?v=1735934901</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/46 Inch Hanging Singing Bulb 350 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>9</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
