@@ -11277,6 +11277,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>46</categoryid>
         </model>
         <model>
+            <name>Wave 4 Foot</name>
+            <id>569</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>67.3&quot;</width>
+            <height>47.7</height>
+            <pixelCount>750</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Wave 4 Foot.xmodel</xmodellink>
+            </wiring>
+            <categoryid>84</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
