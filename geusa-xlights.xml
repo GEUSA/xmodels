@@ -11339,6 +11339,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>9</categoryid>
         </model>
         <model>
+            <name>Singing Christmas Tree w Santa Hat 500 Node</name>
+            <id>572</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>46&quot;</width>
+            <height>61&quot;</height>
+            <pixelCount>500</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-singing-tree-with-santa-hat-1?pr_prod_strat=e5_desc&amp;pr_rec_id=fb15abf25&amp;pr_rec_pid=8930913288504&amp;pr_ref_pid=8930911060280&amp;pr_seq=uniform</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/62c2be87-894e-46a4-989e-fc7ea8faee20_1000x.jpg?v=1735934872</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Singing Tree 500 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>56</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
