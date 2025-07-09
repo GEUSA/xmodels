@@ -11402,6 +11402,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>84</categoryid>
         </model>
         <model>
+            <name>Pyrothar</name>
+            <id>575</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>51&quot;</width>
+            <height>39&quot;</height>
+            <pixelCount>490</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-pyrothar-head?_pos=2&amp;_sid=e4df09ab8&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/Screenshot_2024-10-18_074534_c29037ac-0a41-438d-9137-566eae31daef_800x.png?v=1750267279</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Pyrothar.xmodel</xmodellink>
+            </wiring>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
@@ -11420,7 +11440,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Shadow Spinner.xmodel</xmodellink>
             </wiring>
-            <categoryid>83</categoryid>
+            <categoryid>76</categoryid>
         </model>
     </models>
 </modelinventory>
