@@ -11368,7 +11368,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>38&quot;</width>
             <height>46&quot;</height>
-            <pixelCount>364</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-duck-duck-jeep?variant=49464104419640</weblink>
@@ -11376,7 +11376,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Rubber Duckie with Hat.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Rubber Duckie With Hat.xmodel</xmodellink>
             </wiring>
             <categoryid>84</categoryid>
         </model>
