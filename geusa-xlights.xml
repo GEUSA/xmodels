@@ -11360,6 +11360,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>56</categoryid>
         </model>
         <model>
+            <name>Rubber Duckie No Hat</name>
+            <id>573</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>34&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount>250</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-duck-duck-jeep?variant=49464104452408</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.hfAlO2-tBT9Em_m07eWYPiNdJPiX1Y5dRe5sA89ipEc-Photoroom_800x.jpg?v=1735937260</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Rubber Duckie No Hat.xmodel</xmodellink>
+            </wiring>
+            <categoryid>84</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
