@@ -11420,6 +11420,28 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Pyrothar.xmodel</xmodellink>
             </wiring>
+            <categoryid>84</categoryid>
+        </model>
+        <model>
+            <name>Pyrothar Wings</name>
+            <id>576</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>41&quot;</width>
+            <height>41&quot;</height>
+            <pixelCount>500</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/pyrothar-wings?_pos=1&amp;_sid=aeb2b4af6&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.3_A7lJHWWqdS3XWj7buCAuv2ook3_STSFQi1VUII_3s-Photoroom_9b394706-55f0-4896-89c7-65cebbfa3c32_1000x.jpg?v=1750267279</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Pyrothar_Left_Wing.xmodel</xmodellink>
+            </wiring>
+            <categoryid>84</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
