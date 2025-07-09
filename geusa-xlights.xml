@@ -11679,6 +11679,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>2</categoryid>
         </model>
         <model>
+            <name>Snow Globe 1400 Node</name>
+            <id>588</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>46&quot;</width>
+            <height>47&quot;</height>
+            <pixelCount>1400</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-snow-globe?_pos=3&amp;_sid=69800cb1c&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/b50e8be0-2a86-4703-96fb-4a4546322552-Photoroom_1_1000x.jpg?v=1735935019</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Snow Globe 1400.xmodela</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
