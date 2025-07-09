@@ -11444,6 +11444,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>84</categoryid>
         </model>
         <model>
+            <name>Jeep 500 Node</name>
+            <id>577</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>73&quot;</width>
+            <height>74&quot;</height>
+            <pixelCount>500</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/jeep?_pos=1&amp;_sid=cab9b1614&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/JeepXLwiring-Photoroom_1000x.jpg?v=1735931003</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Jeep 500 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>84</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
