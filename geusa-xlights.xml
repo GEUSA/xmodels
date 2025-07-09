@@ -11486,6 +11486,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>84</categoryid>
         </model>
         <model>
+            <name>Jeep Wave With Santa Hat</name>
+            <id>579</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>46&quot;</width>
+            <height>72&quot;</height>
+            <pixelCount>430</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/jeep-wave?variant=48697972949304</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/381446f3-4884-4963-a5c7-80c8bad227b8-Photoroom_1000x.jpg?v=1735935779</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Jeep Wave w Hat 430 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>84</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
