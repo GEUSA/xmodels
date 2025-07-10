@@ -11851,6 +11851,48 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>88</categoryid>
         </model>
         <model>
+            <name>Criss Cross Candy Cane w Bow Small 36 Inch</name>
+            <id>596</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>35&quot;</width>
+            <height>36&quot;</height>
+            <pixelCount>200</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/criss-cross-candy-canes?_pos=2&amp;_sid=0c2891b59&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.f3jkqJoJ4MjrjmqLEfRei21ysZH2nravk2mIs0c8gwc-Photoroom_800x.jpg?v=1735936693</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Criss Cross Candy Cane w Bow 36.xmodel</xmodellink>
+            </wiring>
+            <categoryid>18</categoryid>
+        </model>
+        <model>
+            <name>Criss Cross Candy Cane w Bow Small 46 Inch</name>
+            <id>597</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>45&quot;</width>
+            <height>47&quot;</height>
+            <pixelCount>400</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/criss-cross-candy-canes?variant=49311749407032</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.f3jkqJoJ4MjrjmqLEfRei21ysZH2nravk2mIs0c8gwc-Photoroom_800x.jpg?v=1735936693</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Criss Cross Candy Cane w Bow 46.xmodel</xmodellink>
+            </wiring>
+            <categoryid>18</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
