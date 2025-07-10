@@ -12143,6 +12143,60 @@ Optional wiring diagram available
             <categoryid>80</categoryid>
         </model>
         <model>
+            <name>TombWarp Mini or Small RIP</name>
+            <id>608</id>
+            <notes>These are Tomb Warp Tombstones designed for 12mm bullet pixels.
+
+Medium - Measures approximately 34 inches tall and 22.5 inches wide - optional wiring diagram available
+Outline - 3 rings of 49 nodes for a total of 147 nodes
+RIP - additional 36 nodes - seed pixel version also available
+Small - 200 node - Measures approximately 27 inches tall and 17 inches wide
+Mini - 200 node - Measures approximately 23 inches tall and 15 inches wide
+Material is 10mm heavy duty black coroplast</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>15&quot;</width>
+            <height>23&quot;</height>
+            <pixelCount>200</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/tomb-warp-tombstone?_pos=1&amp;_sid=92318ce9a&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/7b3717bf-8d41-4a17-8d21-fd48408bac0c-Photoroom_1000x.jpg?v=1750957432</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Mini RIP Tombwarp 200 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
+            <name>Talking Tombstones</name>
+            <id>609</id>
+            <notes>This is a 400 node Talking Tombstone designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm white coroplast with uv print
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount>400</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-talking-tombstones?_pos=1&amp;_sid=6ae130d09&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/021ad50f-af4a-499f-8789-88d190a14974-Photoroom_1000x.jpg?v=1748897282</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Talking Tombstones.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
