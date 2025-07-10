@@ -11981,6 +11981,27 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>68</categoryid>
         </model>
         <model>
+            <name>Halloween Candy Spinner</name>
+            <id>602</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>45&quot;</width>
+            <height>20&quot;</height>
+            <pixelCount>225</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-halloween-candies?variant=49312107561272</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att._U3DB3H9hKkIKNBznVUfpDKNGH27NT4b6L63vL4nhp8_1000x.jpg?v=1735936779</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Halloween Candy Spinner.xmodel</xmodellink>
+            </wiring>
+            <categoryid>68</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
