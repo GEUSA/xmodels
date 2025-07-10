@@ -5,7 +5,7 @@
         <contact>Jason or Christina Gilbert</contact>
         <email>info@gilbertengineeringusa.com</email>
         <phone>480-626-7800</phone>
-        <website>https://geprops.com</website>
+        <website>https://coroprops.com</website>
         <facebook>https://www.facebook.com/GilbertEngineering/</facebook>
         <notes>Looking for top-tier Coro prop designs to elevate your holiday lighting display? Look no further than GEUSA! We’re a small, family-owned business located just outside of Phoenix in the historic town of Florence, AZ.
 
@@ -12768,6 +12768,27 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/King 3.xmodel</xmodellink>
             </wiring>
             <categoryid>47</categoryid>
+        </model>
+        <model>
+            <name>Flying V Guitar</name>
+            <id>624</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>40</width>
+            <height>91</height>
+            <pixelCount>339</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-flying-v-guitar</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/443e40f6-03e7-4287-b8d1-d3e7a4a78c68-Photoroom_1000x.jpg?v=1746722364</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_Flying_V.xmodel</xmodellink>
+            </wiring>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
