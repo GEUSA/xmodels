@@ -11893,6 +11893,48 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>18</categoryid>
         </model>
         <model>
+            <name>Gingerbread Boy with Candy and Spinner</name>
+            <id>598</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>48&quot;</width>
+            <height>46&quot;</height>
+            <pixelCount>500</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-people-with-candy?_pos=2&amp;_sid=91367c8ea&amp;_ss=r&amp;variant=49311870583096</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.lKb8US8t3CAQScsf6eMluY4TqcGtLTaOthgTMfq8_Hc-Photoroom_700x.jpg?v=1735936735</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Boy CC Spinner.xmodel</xmodellink>
+            </wiring>
+            <categoryid>36</categoryid>
+        </model>
+        <model>
+            <name>Gingerbread Girl with Candy and Spinner</name>
+            <id>599</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>49&quot;</width>
+            <height>42&quot;</height>
+            <pixelCount>500</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-gingerbread-people-with-candy?variant=49311870615864</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.8Zt5vDFjgX5Ndl8ss4MvX3zNB6FWwwALqmFwcSvRr7s-Photoroom_700x.jpg?v=1735936729</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Girl CC Spinner.xmodel</xmodellink>
+            </wiring>
+            <categoryid>36</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
