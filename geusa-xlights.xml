@@ -357,133 +357,139 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <category>
                     <id>79</id>
                     <name>Tombstones</name>
-                </category>
-                <category>
-                    <id>80</id>
-                    <name>Trees</name>
+                    <categories>
+                        <category>
+                            <id>80</id>
+                            <name>Angry Tombs</name>
+                        </category>
+                    </categories>
                 </category>
                 <category>
                     <id>81</id>
+                    <name>Trees</name>
+                </category>
+                <category>
+                    <id>82</id>
                     <name>Webs</name>
                 </category>
             </categories>
         </category>
         <category>
-            <id>82</id>
+            <id>83</id>
             <name>High Density</name>
             <categories>
                 <category>
-                    <id>83</id>
+                    <id>84</id>
                     <name>3-D</name>
                 </category>
                 <category>
-                    <id>84</id>
+                    <id>85</id>
                     <name>Arches</name>
                 </category>
                 <category>
-                    <id>85</id>
+                    <id>86</id>
                     <name>Spinners</name>
                 </category>
             </categories>
         </category>
         <category>
-            <id>86</id>
+            <id>87</id>
             <name>Misc Props</name>
             <categories>
                 <category>
-                    <id>87</id>
+                    <id>88</id>
                     <name>Animals</name>
                 </category>
                 <category>
-                    <id>88</id>
+                    <id>89</id>
                     <name>Arches</name>
                 </category>
                 <category>
-                    <id>89</id>
+                    <id>90</id>
                     <name>Candies</name>
                 </category>
                 <category>
-                    <id>90</id>
+                    <id>91</id>
                     <name>Figures</name>
                 </category>
                 <category>
-                    <id>91</id>
+                    <id>92</id>
                     <name>Flowers</name>
                 </category>
                 <category>
-                    <id>92</id>
+                    <id>93</id>
                     <name>Fruit &amp; Veggies</name>
                 </category>
                 <category>
-                    <id>93</id>
+                    <id>94</id>
                     <name>Graduation</name>
                 </category>
                 <category>
-                    <id>94</id>
+                    <id>95</id>
                     <name>Magical</name>
                 </category>
                 <category>
-                    <id>95</id>
+                    <id>96</id>
                     <name>Misc</name>
                 </category>
                 <category>
-                    <id>96</id>
+                    <id>97</id>
                     <name>Music Notes</name>
                 </category>
                 <category>
-                    <id>97</id>
+                    <id>98</id>
                     <name>Rainbow</name>
                 </category>
                 <category>
-                    <id>98</id>
+                    <id>99</id>
                     <name>Signs</name>
                 </category>
                 <category>
-                    <id>99</id>
+                    <id>100</id>
                     <name>Symbol</name>
                 </category>
                 <category>
-                    <id>100</id>
+                    <id>101</id>
                     <name>Trees</name>
                 </category>
                 <category>
-                    <id>101</id>
+                    <id>102</id>
                     <name>Trophies</name>
                 </category>
             </categories>
         </category>
         <category>
-            <id>102</id>
+            <id>103</id>
             <name>Other Holidays</name>
             <categories>
                 <category>
-                    <id>103</id>
+                    <id>104</id>
                     <name>Easter</name>
                     <categories>
                         <category>
-                            <id>104</id>
+                            <id>105</id>
                             <name>Eggs</name>
                         </category>
                     </categories>
                 </category>
                 <category>
-                    <id>105</id>
+                    <id>106</id>
                     <name>Hanukah</name>
                 </category>
                 <category>
-                    <id>106</id>
+                    <id>107</id>
                     <name>Mardi Gras</name>
                 </category>
                 <category>
-                    <id>107</id>
+                    <id>108</id>
                     <name>Music Notes</name>
                 </category>
                 <category>
-                    <id>108</id>
+                    <id>109</id>
                     <name>St Patricks Day</name>
                 </category>
                 <category>
-                    <id>109</id>
+                    <id>110</id>
                     <name>Valentines Day</name>
                 </category>
             </categories>
@@ -8627,7 +8633,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Spooky Tree A.xmodel</xmodellink>
             </wiring>
-            <categoryid>80</categoryid>
+            <categoryid>81</categoryid>
         </model>
         <model>
             <id>431</id>
@@ -8646,7 +8652,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Spooky Tree - B.xmodel</xmodellink>
             </wiring>
-            <categoryid>80</categoryid>
+            <categoryid>81</categoryid>
         </model>
         <model>
             <id>432</id>
@@ -8665,7 +8671,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Spooky Tree - C.xmodel</xmodellink>
             </wiring>
-            <categoryid>80</categoryid>
+            <categoryid>81</categoryid>
         </model>
         <model>
             <id>433</id>
@@ -8684,7 +8690,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE 8x8  Web 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>434</id>
@@ -8703,7 +8709,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Spider_in_Web_174_Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>435</id>
@@ -8721,7 +8727,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Spider in Web.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>436</id>
@@ -8740,7 +8746,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Small-Web.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>437</id>
@@ -8759,7 +8765,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Large-Web.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>438</id>
@@ -8778,7 +8784,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Half-Web.xmodel</xmodellink>
             </wiring>
-            <categoryid>81</categoryid>
+            <categoryid>82</categoryid>
         </model>
         <model>
             <id>439</id>
@@ -8930,7 +8936,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Priem Cube SM 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>83</categoryid>
+            <categoryid>84</categoryid>
         </model>
         <model>
             <id>447</id>
@@ -8949,7 +8955,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Priem Cube LG 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>83</categoryid>
+            <categoryid>84</categoryid>
         </model>
         <model>
             <id>448</id>
@@ -8968,7 +8974,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Rosa Grande Arch.xmodel</xmodellink>
             </wiring>
-            <categoryid>84</categoryid>
+            <categoryid>85</categoryid>
         </model>
         <model>
             <id>449</id>
@@ -8987,7 +8993,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Rosa Grande Arch.xmodel</xmodellink>
             </wiring>
-            <categoryid>84</categoryid>
+            <categoryid>85</categoryid>
         </model>
         <model>
             <id>450</id>
@@ -9005,7 +9011,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Rosa Grande Arch.xmodel</xmodellink>
             </wiring>
-            <categoryid>84</categoryid>
+            <categoryid>85</categoryid>
         </model>
         <model>
             <id>451</id>
@@ -9025,7 +9031,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Crystal Flake.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>452</id>
@@ -9045,7 +9051,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Aztec.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>453</id>
@@ -9064,7 +9070,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE BOAW.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>454</id>
@@ -9082,7 +9088,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dazzler 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>455</id>
@@ -9102,7 +9108,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dragonfly.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>456</id>
@@ -9120,7 +9126,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Firework Spinner.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>457</id>
@@ -9140,7 +9146,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Fuzion.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>458</id>
@@ -9159,7 +9165,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Gear Spinner.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>459</id>
@@ -9178,7 +9184,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Grand-Illusion.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>460</id>
@@ -9197,7 +9203,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE G-Spasm.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>461</id>
@@ -9217,7 +9223,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Hattitude-Quartet.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>462</id>
@@ -9236,7 +9242,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Hattitude-Triune-1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>463</id>
@@ -9256,7 +9262,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE kaleidoscope.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>464</id>
@@ -9276,7 +9282,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE King Diamond.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>465</id>
@@ -9296,7 +9302,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Kings Ransom 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>466</id>
@@ -9315,7 +9321,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Lightspeed.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>467</id>
@@ -9334,7 +9340,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE MOAW 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>468</id>
@@ -9352,7 +9358,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Multi Shape.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>469</id>
@@ -9371,7 +9377,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ringmaster.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>470</id>
@@ -9390,7 +9396,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Rosa Grande 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>471</id>
@@ -9410,7 +9416,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE RosaWreath.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>472</id>
@@ -9429,7 +9435,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/serenity.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>473</id>
@@ -9448,7 +9454,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Shape Shifter.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>474</id>
@@ -9468,7 +9474,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Space Odyssey.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>475</id>
@@ -9487,7 +9493,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Spin Reel.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>476</id>
@@ -9506,7 +9512,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Spin Reel - 36.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>477</id>
@@ -9524,7 +9530,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE MegaSpinReel Max 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>478</id>
@@ -9543,7 +9549,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/SpinReelMax36.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>479</id>
@@ -9562,7 +9568,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Reel-Max.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>480</id>
@@ -9581,7 +9587,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Spiro.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>481</id>
@@ -9600,7 +9606,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Squared 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>482</id>
@@ -9620,7 +9626,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Star Gazer.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>483</id>
@@ -9638,7 +9644,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Star Gazer Back Flake.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>484</id>
@@ -9657,7 +9663,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Starlord 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>485</id>
@@ -9676,7 +9682,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Steampunk Spinner 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>486</id>
@@ -9695,7 +9701,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Warlock.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <id>487</id>
@@ -9715,7 +9721,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Rocking Horse (1).xmodel</xmodellink>
             </wiring>
-            <categoryid>87</categoryid>
+            <categoryid>88</categoryid>
         </model>
         <model>
             <id>488</id>
@@ -9734,7 +9740,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Goat.xmodel</xmodellink>
             </wiring>
-            <categoryid>87</categoryid>
+            <categoryid>88</categoryid>
         </model>
         <model>
             <id>489</id>
@@ -9753,7 +9759,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Horseshoe.xmodel</xmodellink>
             </wiring>
-            <categoryid>87</categoryid>
+            <categoryid>88</categoryid>
         </model>
         <model>
             <id>490</id>
@@ -9771,7 +9777,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Sleigh 1 w Santa and Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>87</categoryid>
+            <categoryid>88</categoryid>
         </model>
         <model>
             <id>491</id>
@@ -9789,7 +9795,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Sunset Arch.xmodel</xmodellink>
             </wiring>
-            <categoryid>88</categoryid>
+            <categoryid>89</categoryid>
         </model>
         <model>
             <id>492</id>
@@ -9808,7 +9814,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Peacock Arch.xmodel</xmodellink>
             </wiring>
-            <categoryid>88</categoryid>
+            <categoryid>89</categoryid>
         </model>
         <model>
             <id>493</id>
@@ -9827,7 +9833,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Cactus Jr.xmodel</xmodellink>
             </wiring>
-            <categoryid>90</categoryid>
+            <categoryid>91</categoryid>
         </model>
         <model>
             <id>494</id>
@@ -9846,7 +9852,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Justin Traffic.xmodel</xmodellink>
             </wiring>
-            <categoryid>90</categoryid>
+            <categoryid>91</categoryid>
         </model>
         <model>
             <id>495</id>
@@ -9866,7 +9872,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Sunflower.xmodel</xmodellink>
             </wiring>
-            <categoryid>91</categoryid>
+            <categoryid>92</categoryid>
         </model>
         <model>
             <id>496</id>
@@ -9884,7 +9890,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Pineapple V2.xmodel</xmodellink>
             </wiring>
-            <categoryid>92</categoryid>
+            <categoryid>93</categoryid>
         </model>
         <model>
             <id>497</id>
@@ -9902,7 +9908,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Strawberry Large.xmodel</xmodellink>
             </wiring>
-            <categoryid>92</categoryid>
+            <categoryid>93</categoryid>
         </model>
         <model>
             <id>498</id>
@@ -9920,7 +9926,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Strawberry Small.xmodel</xmodellink>
             </wiring>
-            <categoryid>92</categoryid>
+            <categoryid>93</categoryid>
         </model>
         <model>
             <id>499</id>
@@ -9939,7 +9945,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Class of 2020 Sign.xmodel</xmodellink>
             </wiring>
-            <categoryid>93</categoryid>
+            <categoryid>94</categoryid>
         </model>
         <model>
             <id>500</id>
@@ -9958,7 +9964,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Class Of Sign.xmodel</xmodellink>
             </wiring>
-            <categoryid>93</categoryid>
+            <categoryid>94</categoryid>
         </model>
         <model>
             <id>501</id>
@@ -9977,7 +9983,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Grad Cap.xmodel</xmodellink>
             </wiring>
-            <categoryid>93</categoryid>
+            <categoryid>94</categoryid>
         </model>
         <model>
             <id>502</id>
@@ -9996,7 +10002,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Grad Cap w-matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>93</categoryid>
+            <categoryid>94</categoryid>
         </model>
         <model>
             <id>503</id>
@@ -10016,7 +10022,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Baby Pod Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>94</categoryid>
+            <categoryid>95</categoryid>
         </model>
         <model>
             <id>504</id>
@@ -10035,7 +10041,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Fence.xmodel</xmodellink>
             </wiring>
-            <categoryid>95</categoryid>
+            <categoryid>96</categoryid>
         </model>
         <model>
             <id>505</id>
@@ -10054,7 +10060,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Hot Air Balloon.xmodel</xmodellink>
             </wiring>
-            <categoryid>95</categoryid>
+            <categoryid>96</categoryid>
         </model>
         <model>
             <id>506</id>
@@ -10073,7 +10079,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Hot Air Balloon Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>95</categoryid>
+            <categoryid>96</categoryid>
         </model>
         <model>
             <id>507</id>
@@ -10091,7 +10097,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Jeep.xmodel</xmodellink>
             </wiring>
-            <categoryid>95</categoryid>
+            <categoryid>96</categoryid>
         </model>
         <model>
             <id>508</id>
@@ -10110,7 +10116,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Double Quarter Note.xmodel</xmodellink>
             </wiring>
-            <categoryid>96</categoryid>
+            <categoryid>97</categoryid>
         </model>
         <model>
             <id>509</id>
@@ -10129,7 +10135,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Eighth Note.xmodel</xmodellink>
             </wiring>
-            <categoryid>96</categoryid>
+            <categoryid>97</categoryid>
         </model>
         <model>
             <id>510</id>
@@ -10148,7 +10154,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Quarter Note.xmodel</xmodellink>
             </wiring>
-            <categoryid>96</categoryid>
+            <categoryid>97</categoryid>
         </model>
         <model>
             <id>511</id>
@@ -10166,7 +10172,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Mega Rainbow.xmodel</xmodellink>
             </wiring>
-            <categoryid>97</categoryid>
+            <categoryid>98</categoryid>
         </model>
         <model>
             <id>512</id>
@@ -10184,7 +10190,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Rainbow_1137.xmodel</xmodellink>
             </wiring>
-            <categoryid>97</categoryid>
+            <categoryid>98</categoryid>
         </model>
         <model>
             <id>513</id>
@@ -10203,7 +10209,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Rainbow.xmodel</xmodellink>
             </wiring>
-            <categoryid>97</categoryid>
+            <categoryid>98</categoryid>
         </model>
         <model>
             <id>514</id>
@@ -10222,7 +10228,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Ditto Sign.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>515</id>
@@ -10241,7 +10247,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE State 48.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>516</id>
@@ -10260,7 +10266,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Speech Bubble Matrix - A.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>517</id>
@@ -10279,7 +10285,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Speech Bubble B.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>518</id>
@@ -10297,7 +10303,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Longhorn - Non Talking.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>519</id>
@@ -10316,7 +10322,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Longhorn - Talking.xmodel</xmodellink>
             </wiring>
-            <categoryid>98</categoryid>
+            <categoryid>99</categoryid>
         </model>
         <model>
             <id>520</id>
@@ -10336,7 +10342,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Bio-hazard Sign.xmodel</xmodellink>
             </wiring>
-            <categoryid>99</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>521</id>
@@ -10355,7 +10361,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Cancer Ribbon.xmodel</xmodellink>
             </wiring>
-            <categoryid>99</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>522</id>
@@ -10374,7 +10380,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Dream Catcher - B.xmodel</xmodellink>
             </wiring>
-            <categoryid>99</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>523</id>
@@ -10393,7 +10399,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Rebel Symbol.xmodel</xmodellink>
             </wiring>
-            <categoryid>99</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>524</id>
@@ -10412,7 +10418,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Trippy Triangle.xmodel</xmodellink>
             </wiring>
-            <categoryid>99</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>525</id>
@@ -10431,7 +10437,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Palm Tree 375 Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>100</categoryid>
+            <categoryid>101</categoryid>
         </model>
         <model>
             <id>526</id>
@@ -10451,7 +10457,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Saguaro Cactus.xmodel</xmodellink>
             </wiring>
-            <categoryid>100</categoryid>
+            <categoryid>101</categoryid>
         </model>
         <model>
             <id>527</id>
@@ -10470,7 +10476,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Trophy 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>101</categoryid>
+            <categoryid>102</categoryid>
         </model>
         <model>
             <id>528</id>
@@ -10489,7 +10495,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Trophy 2.xmodel</xmodellink>
             </wiring>
-            <categoryid>101</categoryid>
+            <categoryid>102</categoryid>
         </model>
         <model>
             <id>529</id>
@@ -10508,7 +10514,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Trophy 3.xmodel</xmodellink>
             </wiring>
-            <categoryid>101</categoryid>
+            <categoryid>102</categoryid>
         </model>
         <model>
             <id>530</id>
@@ -10527,7 +10533,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - WavyZag.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>531</id>
@@ -10546,7 +10552,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - ZigZag.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>532</id>
@@ -10565,7 +10571,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>533</id>
@@ -10584,7 +10590,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Outline.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>534</id>
@@ -10603,7 +10609,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Flower.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>535</id>
@@ -10622,7 +10628,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Easter-Egg-Line.xmodel</xmodellink>
             </wiring>
-            <categoryid>104</categoryid>
+            <categoryid>105</categoryid>
         </model>
         <model>
             <id>536</id>
@@ -10640,7 +10646,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE B Rabbit.xmodel</xmodellink>
             </wiring>
-            <categoryid>103</categoryid>
+            <categoryid>104</categoryid>
         </model>
         <model>
             <id>537</id>
@@ -10659,7 +10665,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel H.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>538</id>
@@ -10678,7 +10684,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel s.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>539</id>
@@ -10697,7 +10703,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel G.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>540</id>
@@ -10715,7 +10721,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel N.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>541</id>
@@ -10734,7 +10740,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel Blank.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>542</id>
@@ -10753,7 +10759,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Menorah.xmodel</xmodellink>
             </wiring>
-            <categoryid>105</categoryid>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <id>543</id>
@@ -10772,7 +10778,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Fleur Di Lis - Filled.xmodel</xmodellink>
             </wiring>
-            <categoryid>106</categoryid>
+            <categoryid>107</categoryid>
         </model>
         <model>
             <id>544</id>
@@ -10791,7 +10797,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Mardi Gras Mask 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>106</categoryid>
+            <categoryid>107</categoryid>
         </model>
         <model>
             <id>545</id>
@@ -10810,7 +10816,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Mardi Gras Mask 2.xmodel</xmodellink>
             </wiring>
-            <categoryid>106</categoryid>
+            <categoryid>107</categoryid>
         </model>
         <model>
             <id>546</id>
@@ -10829,7 +10835,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Treble Clef.xmodel</xmodellink>
             </wiring>
-            <categoryid>107</categoryid>
+            <categoryid>108</categoryid>
         </model>
         <model>
             <id>547</id>
@@ -10848,7 +10854,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 24.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>548</id>
@@ -10867,7 +10873,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 47 - No Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>549</id>
@@ -10886,7 +10892,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 47 - Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>550</id>
@@ -10905,7 +10911,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Candy_Cane_Spinner_no_Love.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>551</id>
@@ -10924,7 +10930,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candy Cane Spinner w Love.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>552</id>
@@ -10943,7 +10949,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Heart Outline.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>553</id>
@@ -10962,7 +10968,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Heart w LOVE.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>554</id>
@@ -10981,7 +10987,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Heart_Filled_200_Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <name>Faithful Weaver</name>
@@ -11035,7 +11041,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 46 Inch.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>GE Gumdrop 23 Inch Medium</name>
@@ -11056,7 +11062,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gumdrop 23 Inch.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>GE Grinch 8 Foot Head</name>
@@ -11139,7 +11145,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Big Ass TV.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Gingerbread Cowboy Texas Edition</name>
@@ -11160,7 +11166,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Gingerbread Cowboy TX Edition.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Gingerbread Cowboy Texas Edition Singing</name>
@@ -11181,7 +11187,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE-Gingerbread-Cowboy-Singing-TX-Edition.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Nar Whale 4 Foot</name>
@@ -11202,7 +11208,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE NarWhale 4 Ft.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Nar Whale 6 Foot Talking</name>
@@ -11223,7 +11229,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE NarWhale 6 Ft.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Flake I 100 Node</name>
@@ -11265,7 +11271,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Overlord.xmodel</xmodellink>
             </wiring>
-            <categoryid>85</categoryid>
+            <categoryid>86</categoryid>
         </model>
         <model>
             <name>Santa Scroll 6 Ft for Panels</name>
@@ -11306,7 +11312,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Wave 4 Foot.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>46 Inch Upright Singing Bulb 350 Node</name>
@@ -11390,7 +11396,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Rubber Duckie With Hat.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>GE Rubber Duckie No Hat</name>
@@ -11411,7 +11417,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Rubber Duckie No Hat.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Pyrothar</name>
@@ -11432,7 +11438,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Pyrothar.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Pyrothar Wings</name>
@@ -11453,7 +11459,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Pyrothar_Left_Wing.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Jeep 500 Node</name>
@@ -11474,7 +11480,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Jeep 500 Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Jeep Wave</name>
@@ -11495,7 +11501,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Jeep Wave.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Jeep Wave With Santa Hat</name>
@@ -11516,7 +11522,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Jeep Wave w Hat 430 Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>86</categoryid>
+            <categoryid>87</categoryid>
         </model>
         <model>
             <name>Caroler Boy 1 Singing</name>
@@ -11726,7 +11732,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Oval 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Oval 2</name>
@@ -11747,7 +11753,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Oval 2.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Oval 3</name>
@@ -11768,7 +11774,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Oval 3.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Long 1</name>
@@ -11789,7 +11795,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Long 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Long 2</name>
@@ -11810,7 +11816,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Long 2.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Long 3</name>
@@ -11831,7 +11837,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Long 3.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Candy Long 4</name>
@@ -11852,7 +11858,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Candy Long 4.xmodel</xmodellink>
             </wiring>
-            <categoryid>89</categoryid>
+            <categoryid>90</categoryid>
         </model>
         <model>
             <name>Criss Cross Candy Cane w Bow Small 36 Inch</name>
@@ -12000,6 +12006,141 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Halloween Candy Spinner.xmodel</xmodellink>
             </wiring>
             <categoryid>68</categoryid>
+        </model>
+        <model>
+            <name>Angry Tomb 1</name>
+            <id>603</id>
+            <notes>These are 400 node Angry Tombs designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm black or white coroplast
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/angry-tombs?variant=49037602914616</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.RPRN5lHMCWvoOuDYBkNupY36Yi6N3MYNLNkD84xW2as_800x.jpg?v=1735936101</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Angry Tomb 1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
+            <name>Angry Tomb 2</name>
+            <id>604</id>
+            <notes>These are 400 node Angry Tombs designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm black or white coroplast
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/angry-tombs?variant=49050940211512</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.1KAzRjUHgizEAb0uZdFT32lz3JInwO1XLD_IaZEmepk_800x.jpg?v=1735936094</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Angry Tomb 2.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
+            <name>Angry Tomb 3</name>
+            <id>605</id>
+            <notes>These are 400 node Angry Tombs designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm black or white coroplast
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/angry-tombs?variant=49050940375352</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.BKiExujqlE6tcT3Mib9bQ6j36NuzJ2UxoqU2xwi6bFg_800x.jpg?v=1735936087</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Angry Tomb 3.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
+            <name>Angry Tomb 4</name>
+            <id>606</id>
+            <notes>These are 400 node Angry Tombs designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm black or white coroplast
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/angry-tombs?variant=49050940506424</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.etWsgDyQWuOZq8QHK_lfuBRejFD4I_TFM0Hgj4FfNbA_800x.jpg?v=1735936084</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Angry Tomb 4.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
+            <name>Angry Tomb 5</name>
+            <id>607</id>
+            <notes>These are 400 node Angry Tombs designed for 12mm bullet pixels
+
+Measures approximately 42.5 inches tall and 36 inches wide
+Material is heavy duty 10mm black or white coroplast
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36&quot;</width>
+            <height>43&quot;</height>
+            <pixelCount>400</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/angry-tombs?variant=49050940637496</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.Ic8KRbc5WKzZjW94qK1fyIuQYM0kskGU9EJre-y8G80_800x.jpg?v=1735936073</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Angry Tomb 5.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
