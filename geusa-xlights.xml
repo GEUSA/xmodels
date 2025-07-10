@@ -12861,6 +12861,27 @@ Good for:
             <categoryid>95</categoryid>
         </model>
         <model>
+            <name>Santa Scroll 6 Ft for Pixels</name>
+            <id>628</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>43</width>
+            <height>71</height>
+            <pixelCount>1450</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-santas-scroll</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/29e3c452-4404-4613-8af9-c9a152fb1278-Photoroom_1000x.jpg?v=1750708734</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Santas Scroll 6 Foot.xmodel</xmodellink>
+            </wiring>
+            <categoryid>38</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
