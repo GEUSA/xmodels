@@ -470,40 +470,44 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                     <id>105</id>
                     <name>Trophies</name>
                 </category>
+                <category>
+                    <id>106</id>
+                    <name>Sports</name>
+                </category>
             </categories>
         </category>
         <category>
-            <id>106</id>
+            <id>107</id>
             <name>Other Holidays</name>
             <categories>
                 <category>
-                    <id>107</id>
+                    <id>108</id>
                     <name>Easter</name>
                     <categories>
                         <category>
-                            <id>108</id>
+                            <id>109</id>
                             <name>Eggs</name>
                         </category>
                     </categories>
                 </category>
                 <category>
-                    <id>109</id>
+                    <id>110</id>
                     <name>Hanukah</name>
                 </category>
                 <category>
-                    <id>110</id>
+                    <id>111</id>
                     <name>Mardi Gras</name>
                 </category>
                 <category>
-                    <id>111</id>
+                    <id>112</id>
                     <name>Music Notes</name>
                 </category>
                 <category>
-                    <id>112</id>
+                    <id>113</id>
                     <name>St Patricks Day</name>
                 </category>
                 <category>
-                    <id>113</id>
+                    <id>114</id>
                     <name>Valentines Day</name>
                 </category>
             </categories>
@@ -10560,7 +10564,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - WavyZag.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>531</id>
@@ -10579,7 +10583,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - ZigZag.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>532</id>
@@ -10598,7 +10602,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>533</id>
@@ -10617,7 +10621,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Outline.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>534</id>
@@ -10636,7 +10640,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Easter Egg - Flower.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>535</id>
@@ -10655,7 +10659,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Easter-Egg-Line.xmodel</xmodellink>
             </wiring>
-            <categoryid>108</categoryid>
+            <categoryid>109</categoryid>
         </model>
         <model>
             <id>536</id>
@@ -10673,7 +10677,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE B Rabbit.xmodel</xmodellink>
             </wiring>
-            <categoryid>107</categoryid>
+            <categoryid>108</categoryid>
         </model>
         <model>
             <id>537</id>
@@ -10692,7 +10696,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel H.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>538</id>
@@ -10711,7 +10715,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel s.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>539</id>
@@ -10730,7 +10734,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel G.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>540</id>
@@ -10748,7 +10752,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel N.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>541</id>
@@ -10767,7 +10771,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Dreidel Blank.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>542</id>
@@ -10786,7 +10790,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Menorah.xmodel</xmodellink>
             </wiring>
-            <categoryid>109</categoryid>
+            <categoryid>110</categoryid>
         </model>
         <model>
             <id>543</id>
@@ -10805,7 +10809,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Fleur Di Lis - Filled.xmodel</xmodellink>
             </wiring>
-            <categoryid>110</categoryid>
+            <categoryid>111</categoryid>
         </model>
         <model>
             <id>544</id>
@@ -10824,7 +10828,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Mardi Gras Mask 1.xmodel</xmodellink>
             </wiring>
-            <categoryid>110</categoryid>
+            <categoryid>111</categoryid>
         </model>
         <model>
             <id>545</id>
@@ -10843,7 +10847,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Mardi Gras Mask 2.xmodel</xmodellink>
             </wiring>
-            <categoryid>110</categoryid>
+            <categoryid>111</categoryid>
         </model>
         <model>
             <id>546</id>
@@ -10862,7 +10866,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE - Treble Clef.xmodel</xmodellink>
             </wiring>
-            <categoryid>111</categoryid>
+            <categoryid>112</categoryid>
         </model>
         <model>
             <id>547</id>
@@ -10881,7 +10885,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 24.xmodel</xmodellink>
             </wiring>
-            <categoryid>112</categoryid>
+            <categoryid>113</categoryid>
         </model>
         <model>
             <id>548</id>
@@ -10900,7 +10904,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 47 - No Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>112</categoryid>
+            <categoryid>113</categoryid>
         </model>
         <model>
             <id>549</id>
@@ -10919,7 +10923,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Shamrock 47 - Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>112</categoryid>
+            <categoryid>113</categoryid>
         </model>
         <model>
             <id>550</id>
@@ -10938,7 +10942,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Candy_Cane_Spinner_no_Love.xmodel</xmodellink>
             </wiring>
-            <categoryid>113</categoryid>
+            <categoryid>114</categoryid>
         </model>
         <model>
             <id>551</id>
@@ -10957,7 +10961,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candy Cane Spinner w Love.xmodel</xmodellink>
             </wiring>
-            <categoryid>113</categoryid>
+            <categoryid>114</categoryid>
         </model>
         <model>
             <id>552</id>
@@ -10976,7 +10980,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Heart Outline.xmodel</xmodellink>
             </wiring>
-            <categoryid>113</categoryid>
+            <categoryid>114</categoryid>
         </model>
         <model>
             <id>553</id>
@@ -10995,7 +10999,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Heart w LOVE.xmodel</xmodellink>
             </wiring>
-            <categoryid>113</categoryid>
+            <categoryid>114</categoryid>
         </model>
         <model>
             <id>554</id>
@@ -11014,7 +11018,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Heart_Filled_200_Node.xmodel</xmodellink>
             </wiring>
-            <categoryid>113</categoryid>
+            <categoryid>114</categoryid>
         </model>
         <model>
             <name>Faithful Weaver</name>
@@ -12789,6 +12793,46 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_Flying_V.xmodel</xmodellink>
             </wiring>
             <categoryid>90</categoryid>
+        </model>
+        <model>
+            <name>Football 1</name>
+            <id>625</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount>300</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/KC Logo 300 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>106</categoryid>
+        </model>
+        <model>
+            <name>Football 2</name>
+            <id>626</id>
+            <notes></notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount>275</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Bills 275.xmodel</xmodellink>
+            </wiring>
+            <categoryid>106</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
