@@ -13106,6 +13106,36 @@ Optional wiring diagram available
             <categoryid>37</categoryid>
         </model>
         <model>
+            <name>Big Ass Santa 10 Ft Tall</name>
+            <id>636</id>
+            <notes>his is a 600 node Waving Singing Santa designed for 12mm bullet pixels
+
+Measures approximately 122 inches tall and 81 inches wide
+Legs - 81&quot; x 46.5&quot;
+Mid Section - 79&quot; x 47.5&quot;
+Arm - 54.5 x 21&quot;
+Head - 55&quot; x 45&quot;
+Material is 10mm heavy duty white coroplast with UV print
+Slit for shipping - this will be oversize and additional shipping will be invoiced when boxed up and ready to go - approximately an additional $180 to ship
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>81</width>
+            <height>122</height>
+            <pixelCount>600</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-waving-santa?_pos=4&amp;_sid=3f8a79f9c&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/291810175_1139571360235058_8206546386733446951_n_1_500x.jpg?v=1735932305</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Santa Large.xmodel</xmodellink>
+            </wiring>
+            <categoryid>38</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
