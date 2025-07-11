@@ -11732,7 +11732,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <thickness>10mm</thickness>
             <width>46&quot;</width>
             <height>47&quot;</height>
-            <pixelCount>1400</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-snow-globe?_pos=3&amp;_sid=69800cb1c&amp;_ss=r</weblink>
@@ -11740,7 +11740,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Snow Globe 1400.xmodela</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Snow Globe 1400.xmodel</xmodellink>
             </wiring>
             <categoryid>1</categoryid>
         </model>
