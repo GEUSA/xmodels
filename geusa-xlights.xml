@@ -13136,6 +13136,32 @@ Slit for shipping - this will be oversize and additional shipping will be invoic
             <categoryid>38</categoryid>
         </model>
         <model>
+            <name>Kneeling Soldier</name>
+            <id>637</id>
+            <notes>This is a 350 node Kneeling Soldier designed for 12mm bullet pixels.
+Measures approximately 56.5 inches wide and 45 inches tall
+Material is 10mm heavy duty white coroplast with uv print
+Optional wiring diagram available
+Slit for shipping - backer plate included - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>56.5</width>
+            <height>45</height>
+            <pixelCount>350</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-kneeling-soldier?_pos=2&amp;_sid=6655704cf&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/66a580d9-cc81-4cab-b75d-52e3150e1176-Photoroom_500x.jpg?v=1735935348</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Kneeling Soldier 350.xmodel</xmodellink>
+            </wiring>
+            <categoryid>54</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
