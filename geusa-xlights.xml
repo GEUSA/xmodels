@@ -13069,7 +13069,7 @@ Optional wiring diagram available
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present G 24.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present F 24.xmodel</xmodellink>
             </wiring>
             <categoryid>37</categoryid>
         </model>
@@ -13101,7 +13101,7 @@ Optional wiring diagram available
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodelsGE Present G 24.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present G 24.xmodel</xmodellink>
             </wiring>
             <categoryid>37</categoryid>
         </model>
