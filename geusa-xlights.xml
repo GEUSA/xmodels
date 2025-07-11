@@ -12882,6 +12882,230 @@ Good for:
             <categoryid>38</categoryid>
         </model>
         <model>
+            <name>Present A</name>
+            <id>629</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>22</width>
+            <height>23</height>
+            <pixelCount>200</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?_pos=2&amp;_sid=db7cc3d4d&amp;_ss=r&amp;variant=49330257559864</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.SIB0VkjkTDVg3XmAYfijGhaA9qA06QlgOM2bx9BjuZA-Photoroom_500x.jpg?v=1735936999</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present A 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present B</name>
+            <id>630</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>21</width>
+            <height>22</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257625400</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.tpMVNbFIgB8RZDCu-SJjSfJ6EmfRDwhJpOocCZTDbKg-Photoroom_ec4c0449-aa1f-406b-992c-3e26fdcfccc3_500x.jpg?v=1735936985</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present B 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present C</name>
+            <id>631</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>26</width>
+            <height>22</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257625400</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.AN37_K7p3utPbjJXScDhtPg9_Y62iDv6dPj4lfMIj-g-Photoroom_500x.jpg?v=1735936992</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present C 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present D</name>
+            <id>632</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>18</width>
+            <height>23</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257690936</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.OEZnQb0yDMhOpx2VhA4P1GRylOZUPlHh1p7LVmMFccY-Photoroom_500x.jpg?v=1735936978</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present D 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present E</name>
+            <id>633</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>18</width>
+            <height>23</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257822008</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.PL9oWeMqhQvxSax3A5Sfu1VJG1HZFrPtQrzlPPVN1og-Photoroom_500x.jpg?v=1735937017</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present E 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present F</name>
+            <id>634</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>17</width>
+            <height>23</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257887544</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.79OstF6ArrwaIjw22UIF-A-yT2fDCvAcylBgKssRWhs-Photoroom_500x.jpg?v=1735937005</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Present G 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <name>Present G</name>
+            <id>635</id>
+            <notes>These are Presents designed for 12mm bullet pixels
+
+Present A - 200 nodes - measures approximately 23 inches tall and 22 inches wide
+Present B - 175 nodes- measures approximately 22 inches tall and 21 inches wide
+Present C - 150 nodes- measures approximately 22 inches tall and 26 inches wide
+Present D - 150 nodes- measures approximately 23 inches tall and 18 inches wide
+Present E - 200 nodes- measures approximately 23 inches tall and 28 inches wide
+Present F - 150 nodes- measures approximately 23 inches tall and 17 inches wide
+Present G - 190 nodes- measures approximately 22 inches tall and 36 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36</width>
+            <height>22</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-presents-1?variant=49330257953080</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.ii9H3RUjGRto-bXWRXpjYL5UFl4GOy7Qb6bhpNkNhec-Photoroom_500x.jpg?v=1735937011</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodelsGE Present G 24.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
