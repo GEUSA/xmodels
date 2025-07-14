@@ -13321,6 +13321,26 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>65</categoryid>
         </model>
         <model>
+            <name>Flake H 24 Inch 175 Node</name>
+            <id>644</id>
+            <notes>Seed or Pixels</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>24</width>
+            <height>24</height>
+            <pixelCount>175</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Flake H 24 Inch 175 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>99</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
