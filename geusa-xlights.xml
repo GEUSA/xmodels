@@ -13341,6 +13341,30 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>99</categoryid>
         </model>
         <model>
+            <name>Flake A 24-30 150 Node</name>
+            <id>645</id>
+            <notes>This is the new 150 node Flake A Model. 
+
+Good for:
+24 Inch
+30 Inch</notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Flake A-24-30-150.xmodel</xmodellink>
+            </wiring>
+            <categoryid>96</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
