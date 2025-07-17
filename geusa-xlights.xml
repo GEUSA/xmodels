@@ -2836,7 +2836,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>122</id>
-            <name>Flake A</name>
+            <name>Flake A 139 Node (legacy)</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-a-139?_pos=1&amp;_sid=7ae2d5dd9&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2850,13 +2850,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20A/2_Flake%20A.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake A 1.xmodel</xmodellink>
             </wiring>
+            <pixelCount>139</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>123</id>
-            <name>Flake B 24</name>
+            <name>Flake B 186 Node (legacy)</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-b-186?_pos=13&amp;_sid=e339b44cf&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2869,13 +2872,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20B/1_Flake%20B.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake B - 24.xmodel</xmodellink>
             </wiring>
+            <pixelCount>186</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>124</id>
-            <name>Flake C</name>
+            <name>Flake C 65 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-1-24-130?_pos=1&amp;_sid=e339b44cf&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2888,13 +2894,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20C/1_Flake%20C.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake C.xmodel</xmodellink>
             </wiring>
+            <pixelCount>65</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>125</id>
-            <name>Flake H</name>
+            <name>Flake H 157 Node (legacy)</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-h-157-24-inch?_pos=1&amp;_sid=b767d1257&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2907,13 +2916,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20H/1_Flake%20H.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake H.xmodel</xmodellink>
             </wiring>
+            <pixelCount>157</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>126</id>
-            <name>Flake I 24</name>
+            <name>Flake I 96 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch?_pos=1&amp;_sid=9b8c2702c&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2926,13 +2938,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20I/1_Flake%20I.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake I - 24.xmodel</xmodellink>
             </wiring>
+            <pixelCount>96</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>127</id>
-            <name>Flake J</name>
+            <name>Flake J 156 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-j-156-24-inch?_pos=1&amp;_sid=2f6d3ccc9&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2945,13 +2960,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20J/1_Flake%20J.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake J.xmodel</xmodellink>
             </wiring>
+            <pixelCount>156</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>128</id>
-            <name>Flake K</name>
+            <name>Flake K 112 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-k-112-24-inch?_pos=1&amp;_sid=c88ba6f4b&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2965,13 +2983,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20K/6_Flake%20K.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake K.xmodel</xmodellink>
             </wiring>
+            <pixelCount>112</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>129</id>
-            <name>Flake L 24</name>
+            <name>Flake L 78 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-l?_pos=1&amp;_sid=5f5674e2f&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2984,13 +3005,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20L/1_Flake%20L.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake L - 23.xmodel</xmodellink>
             </wiring>
+            <pixelCount>78</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
             <id>130</id>
-            <name>Flake M</name>
+            <name>Flake M 84 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/</weblink>
             <material>Coro</material>
@@ -3003,8 +3027,11 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20M/1_Flake%20M.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake M.xmodel</xmodellink>
             </wiring>
+            <pixelCount>84</pixelCount>
             <categoryid>99</categoryid>
         </model>
         <model>
@@ -12839,7 +12866,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <categoryid>95</categoryid>
         </model>
         <model>
-            <name>Flake B 24-30-36-46 Inch 240 Node</name>
+            <name>Flake B 24-30-36-46 Inch 240 Node (new)</name>
             <id>627</id>
             <notes>This is the new 240 node Flake B Model. 
 
@@ -12853,7 +12880,7 @@ Good for:
             <thickness>10mm</thickness>
             <width></width>
             <height></height>
-            <pixelCount>240</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink></weblink>
@@ -13321,7 +13348,7 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>65</categoryid>
         </model>
         <model>
-            <name>Flake H 24 Inch 175 Node</name>
+            <name>Flake H Inch 175 Node</name>
             <id>644</id>
             <notes>Seed or Pixels</notes>
             <type>Coro Prop</type>
@@ -13329,7 +13356,7 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <thickness>10mm</thickness>
             <width>24</width>
             <height>24</height>
-            <pixelCount>175</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink></weblink>
@@ -13341,7 +13368,7 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>99</categoryid>
         </model>
         <model>
-            <name>Flake A 24-30 150 Node</name>
+            <name>Flake A 24-30 150 Node (new)</name>
             <id>645</id>
             <notes>This is the new 150 node Flake A Model. 
 
