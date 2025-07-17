@@ -13365,6 +13365,48 @@ Good for:
             <categoryid>96</categoryid>
         </model>
         <model>
+            <name>Winged Reaper 50</name>
+            <id>646</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>29</width>
+            <height>16</height>
+            <pixelCount>50</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-nightmare-bats?_pos=1&amp;_sid=0639b0c49&amp;_ss=r&amp;variant=49311890702648</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.p0VwvQG5UItYwG2Q1Upwt7XD-ZZVGrg2qVMBDR7FDIc_1000x.jpg?v=1735936665</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Winged Reaper 50.xmodel</xmodellink>
+            </wiring>
+            <categoryid>58</categoryid>
+        </model>
+        <model>
+            <name>Night Stalker 100</name>
+            <id>647</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>29</width>
+            <height>16</height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-nightmare-bats?variant=49311574753592</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/att.ai6xcgTpNWdwZmRt1PT8FxuX-f73KoID9Zt2yZ2bDlo_1000x.jpg?v=1735936662</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Night Stalker Bat 100.xmodel</xmodellink>
+            </wiring>
+            <categoryid>58</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
