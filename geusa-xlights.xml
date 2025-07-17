@@ -1937,17 +1937,28 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/impression-fence-elf?_pos=2&amp;_sid=76f8d2d04&amp;_ss=r</weblink>
             <material>Coro</material>
-            <width>46&quot;</width>
-            <height>70&quot;</height>
+            <width>46</width>
+            <height>70</height>
             <thickness>10</thickness>
             <pixelcount>625</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Fence%20Elf/1_Fence%20Elf.jpg?raw=true</imagefile>
-            <notes></notes>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/330022660_580976544044897_572899400396401315_n_1000x.jpg?v=1735931713</imagefile>
+            <notes>This is our Fence Elf designed for 12mm bullet pixels
+
+Non-Singing - 675 nodes
+Singing - 700 nodes
+Measures approximately 70 inches tall and 46 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+100% Designed &amp; Made in the USA</notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Fence Elf.xmodel</xmodellink>
             </wiring>
+            <pixelCount>625</pixelCount>
             <categoryid>2</categoryid>
         </model>
         <model>
@@ -1972,7 +1983,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>77</id>
-            <name>Girl Elf Carrying Present</name>
+            <name>Girl Elf Carrying Present (COMING SOON!!)</name>
             <type>Coro</type>
             <weblink></weblink>
             <material>Coro</material>
@@ -1982,10 +1993,13 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelcount>210</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <notes></notes>
+            <notes>COMING SOON!!!!!</notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Girl Elf Carrying Present.xmodel</xmodellink>
             </wiring>
+            <pixelCount>210</pixelCount>
             <categoryid>2</categoryid>
         </model>
         <model>
@@ -2044,7 +2058,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>81</id>
-            <name>Hanging Elf Non singing</name>
+            <name>Hanging Elf Non Singing</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/hanging-elf?_pos=1&amp;_sid=82c77486c&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -2057,8 +2071,11 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Hanging%20Elf/1_Hanging%20Elf.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Hanging-Elf.xmodel</xmodellink>
             </wiring>
+            <pixelCount>222</pixelCount>
             <categoryid>2</categoryid>
         </model>
         <model>
@@ -2073,11 +2090,14 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelcount>250</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Hanging%20Elf/2_Hanging%20Elf.jpg?raw=true</imagefile>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/20200614_175935_1000x.jpg?v=1735925519</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Hanging Elf Singing.xmodel</xmodellink>
             </wiring>
+            <pixelCount>250</pixelCount>
             <categoryid>2</categoryid>
         </model>
         <model>
@@ -2503,7 +2523,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <id>105</id>
             <name>Selfie Elf BALS Creation</name>
             <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/products/the-selfie-elf</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/the-selfie-elf?_pos=1&amp;_sid=ede2183ed&amp;_ss=r</weblink>
             <material>Coro</material>
             <width></width>
             <height></height>
@@ -2511,11 +2531,14 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelcount>350</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/The%20sELFie%20Elf/2_The%20sELFie%20Elf.jpg?raw=true</imagefile>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/the-selfie-elf_1_800x.jpg?v=1735932135</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/sELFie.xmodel</xmodellink>
             </wiring>
+            <pixelCount>350</pixelCount>
             <categoryid>2</categoryid>
         </model>
         <model>
@@ -13465,21 +13488,55 @@ Good for:
         <model>
             <name>Fence Elf Singing</name>
             <id>648</id>
-            <notes></notes>
-            <type></type>
+            <notes>This is our Fence Elf designed for 12mm bullet pixels
+
+Non-Singing - 675 nodes
+Singing - 700 nodes
+Measures approximately 70 inches tall and 46 inches wide
+Material is 10mm heavy duty white coroplast with UV print
+Optional wiring diagram available
+Slit for shipping - you can add &quot;no slit&quot; to the notes section when checking out and you will be invoiced for the additional shipping
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
             <width>46</width>
             <height>70</height>
             <pixelCount>700</pixelCount>
-            <pixelspacing></pixelspacing>
-            <pixeldescription></pixeldescription>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription>See Content on website</pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-fence-elf?_pos=1&amp;_sid=41b219874&amp;_ss=r</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/330022660_580976544044897_572899400396401315_n_1000x.jpg?v=1735931713</imagefile>
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Fence Elf Singing.xmodel</xmodellink>
+            </wiring>
+            <categoryid>2</categoryid>
+        </model>
+        <model>
+            <name>Elf Stocking</name>
+            <id>649</id>
+            <notes>This is a 130 node Elf Stocking designed for 12mm bullet pixels
+
+Measures approximately 24 inches tall and 17 inches wide
+Optional wiring diagram available
+Material is 10mm heavy duty white coroplast with uv print
+100% Made in the USA</notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>17</width>
+            <height>34</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-elf-stocking?_pos=9&amp;_sid=ede2183ed&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/bdf7d5b0-ac98-4c83-8601-557273af2156_1000x.jpg?v=1735934789</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Elf Stocking.xmodel</xmodellink>
             </wiring>
             <categoryid>2</categoryid>
         </model>
