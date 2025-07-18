@@ -13541,6 +13541,34 @@ Material is 10mm heavy duty white coroplast with uv print
             <categoryid>2</categoryid>
         </model>
         <model>
+            <name>Flying Bat Flake Combo</name>
+            <id>650</id>
+            <notes>This is a 189 node Flying Bat Flake designed for 12mm bullet pixels.
+
+Measures approximately 24 inches around
+This is a combination of our Flying Bat Jr and Flake A - Great for Halloween AND Christmas
+Each one is submodeled to match the original props
+Material is 10mm heavy duty black or white coroplast
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>24</width>
+            <height>24</height>
+            <pixelCount>189</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/flying-bat-flake-1?_pos=1&amp;_sid=e9ab96dc5&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/355489513_938929747378491_8105729073745781114_n_500x.jpg?v=1735933417</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Flying Bat Flake.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
