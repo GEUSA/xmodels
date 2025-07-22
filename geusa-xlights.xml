@@ -13569,6 +13569,26 @@ Optional wiring diagram available
             <categoryid>79</categoryid>
         </model>
         <model>
+            <name>Large Elf Drummer (COMING SOON!!)</name>
+            <id>651</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>47</width>
+            <height>88</height>
+            <pixelCount>1650</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Elf Drummer 1650 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>2</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
