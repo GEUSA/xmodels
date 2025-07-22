@@ -13571,21 +13571,28 @@ Optional wiring diagram available
         <model>
             <name>Large Elf Drummer (COMING SOON!!)</name>
             <id>651</id>
-            <notes></notes>
+            <notes>This is a 1650 node Drumming Elf designed for 12mm bullet pixels
+
+Measures approximately 88 inches tall and 47 inches wide
+Material is 10mm heavy duty white or black coroplast
+Optional wiring diagram available
+Cut in half and Slit for shipping - come with backers
+100% Designed in AUS &amp; Made in the USA</notes>
             <type></type>
             <material>Coro</material>
             <thickness>10mm</thickness>
             <width>47</width>
             <height>88</height>
-            <pixelCount>1650</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
-            <weblink></weblink>
+            <weblink>https://gilbertengineeringusa.com/products/drumming-elf</weblink>
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Elf Drummer 1650 Node.xmodel</xmodellink>
             </wiring>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/2aaf68d4-63c4-463b-8b38-ceffbd844365-Photoroom_1000x.jpg?v=1753222043</imagefile>
             <categoryid>2</categoryid>
         </model>
         <model>
