@@ -13596,6 +13596,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>2</categoryid>
         </model>
         <model>
+            <name>Believe 150 Node</name>
+            <id>652</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount>150</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-believe?_pos=1&amp;_sid=567dfe18e&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/294171155_609690427427607_3061742724380184727_n_1000x.jpg?v=1735930918</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Believe 150 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>50</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
