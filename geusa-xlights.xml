@@ -13617,6 +13617,26 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>50</categoryid>
         </model>
         <model>
+            <name>GE Big Penguin 600 Node</name>
+            <id>653</id>
+            <notes>Coming Soon!</notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>48&quot;</width>
+            <height>90&quot;</height>
+            <pixelCount>600</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Penguin Large 600 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
