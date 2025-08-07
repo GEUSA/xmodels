@@ -13637,6 +13637,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>79</categoryid>
         </model>
         <model>
+            <name>Franks Bride</name>
+            <id>654</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>35.5&quot;</width>
+            <height>46.5</height>
+            <pixelCount>425</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-franks-bride?_pos=2&amp;_sid=adb6e3ce5&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/365423819_252415691070818_512937734183790914_n_1000x.jpg?v=1735933870</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Bride of Franken Monster - modified.xmodel</xmodellink>
+            </wiring>
+            <categoryid>62</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
