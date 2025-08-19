@@ -1652,8 +1652,11 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Reindeer%20%20Rudolf/13_Reindeer%20%20Rudolf.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Small Deer Rudolf.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Small Deer Rudolph.xmodel</xmodellink>
             </wiring>
+            <pixelCount>117</pixelCount>
             <categoryid>21</categoryid>
         </model>
         <model>
