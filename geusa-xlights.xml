@@ -1328,7 +1328,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>43</id>
-            <name>Candy Cane 150</name>
+            <name>Candy Cane 3Ft 150 node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/impression-candy-cane?_pos=2&amp;_sid=70617abc5&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -1341,13 +1341,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Candy%20Canes/3_Candy%20Canes.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Candy Cane.xmodel</xmodellink>
             </wiring>
+            <pixelCount>150</pixelCount>
             <categoryid>19</categoryid>
         </model>
         <model>
             <id>44</id>
-            <name>Candy Cane 5Ft</name>
+            <name>Candy Cane 5Ft 133 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/coro-cane-132?variant=20388759437376</weblink>
             <material>Coro</material>
@@ -1360,13 +1363,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Candy%20Canes/4_Candy%20Canes.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Candy_Cane_5Ft.xmodel</xmodellink>
             </wiring>
+            <pixelCount>133</pixelCount>
             <categoryid>19</categoryid>
         </model>
         <model>
             <id>45</id>
-            <name>Candy Cane Giant 7&apos;4&quot;</name>
+            <name>Candy Cane Giant 7 760 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/coro-cane-132?variant=32004899930214</weblink>
             <material>Coro</material>
@@ -1378,13 +1384,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Giant-Candy-Cane.xmodel</xmodellink>
             </wiring>
+            <pixelCount>760</pixelCount>
             <categoryid>19</categoryid>
         </model>
         <model>
             <id>46</id>
-            <name>Candy Cane Giant 7&apos;4&quot; Lite</name>
+            <name>Candy Cane Giant 7 265 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/coro-cane-132?variant=39291180351590</weblink>
             <material>Coro</material>
@@ -1396,13 +1405,16 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Candy_Cane_8ft_Lite.xmodel</xmodellink>
             </wiring>
+            <pixelCount>265</pixelCount>
             <categoryid>19</categoryid>
         </model>
         <model>
             <id>47</id>
-            <name>Insane Candy Cane Small or Large</name>
+            <name>Insane Candy Cane Small or Large 189 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/impression-insane-canes</weblink>
             <material>Coro</material>
@@ -1415,8 +1427,11 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <imagefile>https://github.com/GEUSA/Images/blob/main/Candy%20Canes/impression-insane-canes-pixel-props-887.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Insane-Cane-1.xmodel</xmodellink>
             </wiring>
+            <pixelCount>189</pixelCount>
             <categoryid>19</categoryid>
         </model>
         <model>
@@ -13659,6 +13674,26 @@ Cut in half and Slit for shipping - come with backers
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Bride of Franken Monster - modified.xmodel</xmodellink>
             </wiring>
             <categoryid>62</categoryid>
+        </model>
+        <model>
+            <name>Candy Cane 2Ft 50 Node</name>
+            <id>655</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height>24</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-candy-cane?variant=49437071868216</weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_2Ft_Candy_Cane.xmodel</xmodellink>
+            </wiring>
+            <categoryid>19</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
