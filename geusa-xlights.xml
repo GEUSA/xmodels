@@ -1107,7 +1107,7 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>31</id>
-            <name>Candle 8&apos; - JOY</name>
+            <name>Candle 8 R2 Model</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=8&amp;_sid=7b6591de3&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -1117,10 +1117,13 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <pixelcount></pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <notes></notes>
+            <notes>Model has been updated. You can find the original model on our website.</notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Candle Joy.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Candle 8Ft Joy R2.xmodel</xmodellink>
             </wiring>
+            <pixelCount></pixelCount>
             <categoryid>17</categoryid>
         </model>
         <model>
