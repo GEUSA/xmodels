@@ -818,21 +818,24 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>17</id>
-            <name>Matrix Arch Spinner 6 Foot (SpinArchy)</name>
+            <name>Matrix Arch Spinner 6 Foot (SpinArchy) V1 839 Node</name>
             <type>HDPE</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/matrix-arch-spinner-6-foot?_pos=1&amp;_sid=ef1b6ed67&amp;_ss=r</weblink>
             <material>HDPE</material>
             <width>72&quot;</width>
             <height>37&quot;</height>
-            <thickness>0</thickness>
+            <thickness>040</thickness>
             <pixelcount>839</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Matrix%20Arch%20Spinner%20(SpinArchy)/2_Matrix%20Arch%20Spinner%20(SpinArchy).jpg?raw=true</imagefile>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/268890036_4870620829700516_2550629032389224710_n_900x.jpg?v=1735923116</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE SpinArchy 1.xmodel</xmodellink>
             </wiring>
+            <pixelCount>839</pixelCount>
             <categoryid>8</categoryid>
         </model>
         <model>
@@ -13697,6 +13700,27 @@ Cut in half and Slit for shipping - come with backers
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_2Ft_Candy_Cane.xmodel</xmodellink>
             </wiring>
             <categoryid>19</categoryid>
+        </model>
+        <model>
+            <name>Matrix Arch Spinner 6 Foot (SpinArchy) V2 985 Node</name>
+            <id>656</id>
+            <notes></notes>
+            <type></type>
+            <material>HDPE</material>
+            <thickness>040</thickness>
+            <width>72</width>
+            <height>37</height>
+            <pixelCount></pixelCount>
+            <pixelspacing>Confirm on product page</pixelspacing>
+            <pixeldescription>See Content on website</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/matrix-arch-spinner-6-foot?_pos=1&amp;_sid=ef1b6ed67&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/258136573_309743537640191_5137816196796966027_n_900x.jpg?v=1735923113</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE SpinArchy-72-985.xmodel</xmodellink>
+            </wiring>
+            <categoryid>8</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
