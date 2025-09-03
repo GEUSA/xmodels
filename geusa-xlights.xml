@@ -13723,6 +13723,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>8</categoryid>
         </model>
         <model>
+            <name>Leg Lamp XL w Matrix 250 Node</name>
+            <id>657</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>33</width>
+            <height>73</height>
+            <pixelCount>250</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>See Content on website</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-xl-leg-lamp-with-matrix?_pos=5&amp;_sid=1b3b51048&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/394493480_1427822574472709_560689184381566297_n_800x.jpg?v=1735928345</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Large Leg Lamp 250 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
