@@ -13752,7 +13752,7 @@ Cut in half and Slit for shipping - come with backers
             <thickness>10mm</thickness>
             <width>42</width>
             <height>46</height>
-            <pixelCount>400</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-singing-witch?_pos=1&amp;_sid=9e3e614ad&amp;_ss=r</weblink>
@@ -13760,7 +13760,7 @@ Cut in half and Slit for shipping - come with backers
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/witch.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Witch.xmodel</xmodellink>
             </wiring>
             <categoryid>57</categoryid>
         </model>
