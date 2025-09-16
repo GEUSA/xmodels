@@ -13744,6 +13744,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>1</categoryid>
         </model>
         <model>
+            <name>Singing Witch</name>
+            <id>658</id>
+            <notes></notes>
+            <type>Coro</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>42</width>
+            <height>46</height>
+            <pixelCount>400</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-singing-witch?_pos=1&amp;_sid=9e3e614ad&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/8dea38d1-b229-47fe-aac8-5a82c5459028_500x.jpg?v=1735936601</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/witch.xmodel</xmodellink>
+            </wiring>
+            <categoryid>57</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
