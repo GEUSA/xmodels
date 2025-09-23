@@ -9666,8 +9666,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE MegaSpinReel Max 1.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/spin reel max.xmodel</xmodellink>
             </wiring>
+            <pixelCount>540</pixelCount>
             <categoryid>78</categoryid>
         </model>
         <model>
