@@ -13768,6 +13768,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>57</categoryid>
         </model>
         <model>
+            <name>Tune To Sign 279 Node</name>
+            <id>659</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount>279</pixelCount>
+            <pixelspacing>4&quot;</pixelspacing>
+            <pixeldescription>See Content on website</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/matrix-12-x-22-tune-to-signor-use-your-imagination?_pos=1&amp;_sid=0e9fc1bb7&amp;_ss=r&amp;variant=44792436883768</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/08b70961-1114-4fc3-a9cc-dfb9c6a578a1-Photoroom_1000x.jpg?v=1756158615</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/TuneTo279.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
