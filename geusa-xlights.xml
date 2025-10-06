@@ -13447,7 +13447,7 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>99</categoryid>
         </model>
         <model>
-            <name>Flake A (24,30 Inch) 150 Node (new)</name>
+            <name>Flake A (24,30 Inch) 150 Node R2</name>
             <id>645</id>
             <notes>This is the new 150 node Flake A Model. 
 
@@ -13466,7 +13466,7 @@ Good for:
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Flake A-24-30-150.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Flake A-24-30-150-R2.xmodel</xmodellink>
             </wiring>
             <categoryid>96</categoryid>
         </model>
