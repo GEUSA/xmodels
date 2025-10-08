@@ -3035,7 +3035,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
         </model>
         <model>
             <id>129</id>
-            <name>Flake L 78 Node</name>
+            <name>Flake L-24-78</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-l?_pos=1&amp;_sid=5f5674e2f&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -3050,7 +3050,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake L - 23.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake L-24-78.xmodel</xmodellink>
             </wiring>
             <pixelCount>78</pixelCount>
             <categoryid>99</categoryid>
