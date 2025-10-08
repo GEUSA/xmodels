@@ -5369,9 +5369,9 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
         </model>
         <model>
             <id>251</id>
-            <name>Merry Christmas</name>
+            <name>Merry Christmas Script</name>
             <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/merry-christmas?_pos=3&amp;_sid=a5f00a175&amp;_ss=r</weblink>
             <material>Coro</material>
             <width></width>
             <height>30&quot;</height>
@@ -5379,11 +5379,14 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <pixelcount>397</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Merry%20Christmas/2_Merry%20Christmas.jpg?raw=true</imagefile>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/IMG_6028_1000x.heic?v=1735921986</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Merry Christmas.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Merry Christmas Script 600 Node.xmodel</xmodellink>
             </wiring>
+            <pixelCount>600</pixelCount>
             <categoryid>39</categoryid>
         </model>
         <model>
