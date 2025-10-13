@@ -8481,7 +8481,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
         </model>
         <model>
             <id>415</id>
-            <name>Mega Skull Rev 2</name>
+            <name>Mega Skull Rev 2 250 Node</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/mega-skull-tree-topper?_pos=2&amp;_sid=d295cdea5&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -8494,8 +8494,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/Mega%20Skull%20-%20Rev%202%20for%202020/1_Mega%20Skull%20-%20Rev%202%20for%202020.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Mega Skull.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Mega Skull 250 node.xmodel</xmodellink>
             </wiring>
+            <pixelCount>250</pixelCount>
             <categoryid>68</categoryid>
         </model>
         <model>
