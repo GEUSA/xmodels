@@ -8020,8 +8020,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/My%203%20Ghosts/impression-my-3-ghosts-pixel-props-672_1024x.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - 1.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - Oooky.xmodel</xmodellink>
             </wiring>
+            <pixelCount>135</pixelCount>
             <categoryid>64</categoryid>
         </model>
         <model>
@@ -8040,8 +8043,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/My%203%20Ghosts/impression-my-3-ghosts-pixel-props-969_1024x.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - 2.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - Raggy.xmodel</xmodellink>
             </wiring>
+            <pixelCount>135</pixelCount>
             <categoryid>64</categoryid>
         </model>
         <model>
@@ -8060,8 +8066,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/My%203%20Ghosts/impression-my-3-ghosts-pixel-props-969_1024x.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - 3.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE My 3 Ghosts - Spirit.xmodel</xmodellink>
             </wiring>
+            <pixelCount>122</pixelCount>
             <categoryid>64</categoryid>
         </model>
         <model>
