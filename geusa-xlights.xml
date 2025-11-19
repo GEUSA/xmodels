@@ -13804,6 +13804,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>79</categoryid>
         </model>
         <model>
+            <name>Whoville Sign Large</name>
+            <id>660</id>
+            <notes></notes>
+            <type>coro</type>
+            <material>coro</material>
+            <thickness>10mm</thickness>
+            <width>47&quot;</width>
+            <height>91&quot;</height>
+            <pixelCount>1000</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-hooville-sign?_pos=1&amp;_sid=0064f4502&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/330629562_1214824669158535_7562883826841822639_n_900x.jpg?v=1735931815</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Whoville-Sign-Large-V1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>39</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
