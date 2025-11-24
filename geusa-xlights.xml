@@ -5429,7 +5429,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
         </model>
         <model>
             <id>254</id>
-            <name>North Pole sign with Matrix Left</name>
+            <name>North Pole sign with Matrix Left R2</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/north-pole-sign-with-matrix?_pos=3&amp;_sid=d29741e6d&amp;_ss=r</weblink>
             <material>Coro</material>
@@ -5442,8 +5442,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/North%20Pole%20sign%20with%20Matrix/1_North%20Pole%20sign%20with%20Matrix.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE North Pole Left.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/North Pole Left 335 R2.xmodel</xmodellink>
             </wiring>
+            <pixelCount>335</pixelCount>
             <categoryid>39</categoryid>
         </model>
         <model>
