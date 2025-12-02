@@ -9717,7 +9717,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <id>479</id>
             <name>Spin Reel &quot;The Reel Deal&quot; 47</name>
             <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/products/the-reel-max?_pos=1&amp;_sid=96b4eb2b9&amp;_ss=r</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/impression-the-reel-deal?_pos=3&amp;_sid=0d997556e&amp;_ss=r</weblink>
             <material>Coro</material>
             <width>47&quot;</width>
             <height>47&quot;</height>
@@ -9725,11 +9725,14 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <pixelcount>1158</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
             <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Spin%20Reel%20Max/1_Spin%20Reel%20Max.jpg?raw=true</imagefile>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/233132886_3022905414624770_1412958451638433835_n_023ec47a-171b-414a-975d-469f22261ceb_1000x.png?v=1735928581</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Reel-Max.xmodel</xmodellink>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Reel Deal.xmodel</xmodellink>
             </wiring>
+            <pixelCount>1158</pixelCount>
             <categoryid>78</categoryid>
         </model>
         <model>
