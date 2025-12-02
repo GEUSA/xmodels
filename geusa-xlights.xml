@@ -6057,8 +6057,8 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/impression-caboose?_pos=2&amp;_sid=09a20af27&amp;_ss=r</weblink>
             <material>Coro</material>
-            <width>47&quot;</width>
-            <height></height>
+            <width>52</width>
+            <height>48</height>
             <thickness>10</thickness>
             <pixelcount>648</pixelcount>
             <pixeldescription>Confirm on product page</pixeldescription>
@@ -6066,8 +6066,11 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/Caboose/1_Caboose.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Caboose.xmodel</xmodellink>
             </wiring>
+            <pixelCount>405</pixelCount>
             <categoryid>47</categoryid>
         </model>
         <model>
@@ -13826,6 +13829,27 @@ Cut in half and Slit for shipping - come with backers
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Whoville-Sign-Large-V1.xmodel</xmodellink>
             </wiring>
             <categoryid>39</categoryid>
+        </model>
+        <model>
+            <name>Caboose w Matrix</name>
+            <id>661</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>52</width>
+            <height>48</height>
+            <pixelCount>645</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-caboose?_pos=2&amp;_sid=c407afafd&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/IMG_6486_1000x.heic?v=1735923613</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_Caboose_w_Matrix.xmodel</xmodellink>
+            </wiring>
+            <categoryid>47</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
