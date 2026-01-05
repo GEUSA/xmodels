@@ -13882,6 +13882,69 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>21</categoryid>
         </model>
         <model>
+            <name>Cookie Letter H 100</name>
+            <id>663</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?_pos=1&amp;_sid=6d0182c35&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/received_290973871976544_1000x.gif?v=1735925876</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Letter H2 100 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>21</categoryid>
+        </model>
+        <model>
+            <name>Cookie Letter T 75</name>
+            <id>664</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?_pos=1&amp;_sid=6d0182c35&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/received_290973871976544_1000x.gif?v=1735925876</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Letter T2 75 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>21</categoryid>
+        </model>
+        <model>
+            <name>Cookie Letter Y 75</name>
+            <id>665</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-merry-christmas-cookie-font?_pos=1&amp;_sid=6d0182c35&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/received_290973871976544_1000x.gif?v=1735925876</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/LEtter Y2 75 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>21</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
