@@ -14071,6 +14071,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>21</categoryid>
         </model>
         <model>
+            <name>Click Click Boom</name>
+            <id>672</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>47&quot;</width>
+            <height>47&quot;</height>
+            <pixelCount>1600</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-click-click-boom?_pos=3&amp;_sid=91572df8d&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/white-Photoroom_20_1000x.jpg?v=1757276260</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Click Click Boom.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
