@@ -14092,6 +14092,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>79</categoryid>
         </model>
         <model>
+            <name>Big Ass Truck</name>
+            <id>673</id>
+            <notes>Some strings require 6 Inch spacing. See Product Page. Submodels coming shortly</notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>193&quot;</width>
+            <height>88&quot;</height>
+            <pixelCount>1016</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-holiday-truck?_pos=1&amp;_sid=34e98a082&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/bf86aec5-36d5-4a79-90cf-c1ccaf016a76_1000x.jpg?v=1768515005</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Big Ass Truck No Subs.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
