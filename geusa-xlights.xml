@@ -14100,7 +14100,7 @@ Cut in half and Slit for shipping - come with backers
             <thickness>10mm</thickness>
             <width>193&quot;</width>
             <height>88&quot;</height>
-            <pixelCount>1016</pixelCount>
+            <pixelCount></pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
             <weblink>https://gilbertengineeringusa.com/products/impression-holiday-truck?_pos=1&amp;_sid=34e98a082&amp;_ss=r</weblink>
@@ -14108,7 +14108,7 @@ Cut in half and Slit for shipping - come with backers
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Big Ass Truck No Subs.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Big Ass Truck.xmodel</xmodellink>
             </wiring>
             <categoryid>80</categoryid>
         </model>
