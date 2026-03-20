@@ -14134,6 +14134,26 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>80</categoryid>
         </model>
         <model>
+            <name>G-TRAX   Twisted Rail Array! Xtreme Edition</name>
+            <id>675</id>
+            <notes>A combo of Pixels and Pucks. Meshed Media. Wiring Included</notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>6mm</thickness>
+            <width>40&quot;</width>
+            <height>9&quot;</height>
+            <pixelCount>205</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/G-TRAX Section 1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
@@ -14156,5 +14176,3 @@ Cut in half and Slit for shipping - come with backers
         </model>
     </models>
 </modelinventory>
-
-                
