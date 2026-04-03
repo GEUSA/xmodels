@@ -14154,6 +14154,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>80</categoryid>
         </model>
         <model>
+            <name>Feliz Navidad 1000 Node</name>
+            <id>676</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>46&quot;</width>
+            <height>30&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/feliz-navidad?_pos=2&amp;_sid=2f1baf723&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/4d125db2-a84c-451b-98ea-78ef1cc0e05c_500x.jpg?v=1735934563</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Feliz Navidad 1000.xmodel</xmodellink>
+            </wiring>
+            <categoryid>51</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
