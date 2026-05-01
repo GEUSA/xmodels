@@ -14175,6 +14175,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>51</categoryid>
         </model>
         <model>
+            <name>Tune To 300 Node</name>
+            <id>677</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>36.5</width>
+            <height>22</height>
+            <pixelCount>300</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/matrix-12-x-22-tune-to-signor-use-your-imagination?_pos=1&amp;_sid=776ec7dcf&amp;_ss=r&amp;variant=44792436883768</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/08b70961-1114-4fc3-a9cc-dfb9c6a578a1-Photoroom_500x.jpg?v=1773951987</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Tune To-300.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
