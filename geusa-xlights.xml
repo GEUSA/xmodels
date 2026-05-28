@@ -3495,7 +3495,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
         </model>
         <model>
             <id>151</id>
-            <name>Flake I Tree</name>
+            <name>Flake I Tree V2</name>
             <type>Coro</type>
             <weblink>https://gilbertengineeringusa.com/products/flake-i-tree</weblink>
             <material>Coro</material>
@@ -3507,9 +3507,12 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
+                <name></name>
+                <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake I Tree.xmodel</xmodellink>
             </wiring>
-            <categoryid>107</categoryid>
+            <pixelCount>1248</pixelCount>
+            <categoryid>49</categoryid>
         </model>
         <model>
             <id>152</id>
@@ -14194,6 +14197,27 @@ Cut in half and Slit for shipping - come with backers
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Tune To-300.xmodel</xmodellink>
             </wiring>
             <categoryid>80</categoryid>
+        </model>
+        <model>
+            <name>Flake I Tree V1</name>
+            <id>678</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>90&quot;</width>
+            <height>79&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/flake-i-tree?_pos=1&amp;_sid=cca1f0148&amp;_ss=r</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/rn-image_picker_lib_temp_edee5fc2-5009-4296-b663-b131fd136b50_700x.jpg?v=1757641770</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake I Tree V1 - Kitty2.xmodel</xmodellink>
+            </wiring>
+            <categoryid>49</categoryid>
         </model>
         <model>
             <name>Shadow Spinner</name>
