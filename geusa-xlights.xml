@@ -14220,6 +14220,26 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>49</categoryid>
         </model>
         <model>
+            <name>Starburst 250</name>
+            <id>679</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>22&quot;</width>
+            <height>41&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink></weblink>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Starburst 250.xmodel</xmodellink>
+            </wiring>
+            <categoryid>47</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
