@@ -14240,6 +14240,22 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>47</categoryid>
         </model>
         <model>
+            <name>StarDust 1500</name>
+            <id>680</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>47&quot;</width>
+            <height>47&quot;</height>
+            <pixelCount>1500</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/stardust-1500</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/b14e058c-1bad-421f-b286-0ab11ae93eec_1_1000x.jpg?v=1781550730</imagefile>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
