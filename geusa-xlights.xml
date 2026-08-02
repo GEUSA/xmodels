@@ -11841,7 +11841,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Caroller 3.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Caroller 1.xmodel</xmodellink>
             </wiring>
             <categoryid>3</categoryid>
         </model>
@@ -11862,7 +11862,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Caroller 1.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Caroller 3.xmodel</xmodellink>
             </wiring>
             <categoryid>3</categoryid>
         </model>
