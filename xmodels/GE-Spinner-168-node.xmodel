@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<models type="exported">
+	<model name="Spinner 1" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="110" CustomWidth="110" Depth="1" Dir="L" heightmm="615" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="-64.034851" RotateZ="0.000000" ScaleX="0.279610" ScaleY="0.279610" ScaleZ="1.000000" SourceVersion="2026.15.1" StartChannel="332815" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" widthmm="615" WorldPosX="-1001.699951" WorldPosY="84.634598" WorldPosZ="368.705139" CustomModelCompressed="29,1,47;28,1,54;27,1,60;30,2,41;26,2,66;31,4,35;25,4,72;32,6,29;24,6,78;64,8,54;33,9,24;23,9,83;65,11,38;63,11,69;34,13,19;22,13,88;82,16,54;35,17,14;21,17,93;83,18,40;81,18,67;66,19,24;62,19,83;36,22,10;20,22,97;100,24,54;84,25,29;80,25,78;101,26,43;99,26,64;37,28,7;19,28,100;67,31,13;102,31,34;118,31,54;98,31,73;61,31,94;38,33,4;119,33,46;117,33,61;18,33,103;85,35,20;79,35,87;120,37,39;116,37,68;39,39,2;103,39,27;136,39,54;97,39,80;17,39,105;137,40,48;135,40,59;121,43,33;138,43,44;134,43,63;115,43,74;40,45,0;16,45,107;68,46,8;60,46,99;139,47,40;155,47,51;154,47,54;153,47,56;133,47,67;86,48,16;78,48,91;104,49,23;156,49,49;152,49,58;96,49,84;122,50,31;114,50,76;41,51,0;157,51,47;151,51,60;15,51,107;140,52,38;132,52,69;158,53,46;150,53,61;163,55,54;159,56,46;149,56,61;141,57,38;131,57,69;42,58,0;160,58,47;148,58,60;14,58,107;123,59,31;113,59,76;105,60,23;161,60,49;147,60,58;95,60,84;87,61,16;77,61,91;142,62,40;162,62,51;145,62,54;146,62,56;130,62,67;69,63,8;59,63,99;43,64,0;13,64,107;124,66,33;143,66,44;129,66,63;112,66,74;144,69,48;128,69,59;44,70,2;106,70,27;127,70,54;94,70,80;12,70,105;125,72,39;111,72,68;88,74,20;76,74,87;45,76,4;126,76,46;110,76,61;11,76,103;70,78,13;107,78,34;109,78,54;93,78,73;58,78,94;46,82,7;10,82,100;108,83,43;92,83,64;89,84,29;75,84,78;91,85,54;47,87,10;9,87,97;71,90,24;57,90,83;90,91,40;74,91,67;48,92,14;8,92,93;73,93,54;49,96,19;7,96,88;72,98,38;56,98,69;50,100,24;6,100,83;55,101,54;51,103,29;5,103,78;52,105,35;4,105,72;53,107,41;3,107,66;54,108,47;2,108,60;1,109,54">
+		<subModel name="Spokes" bufferstyle="Default" layout="horizontal" line0="154,136,118,100,82,64,28" line1="153,135,117,99,81,63,25" line10="162,144,126,108,90,72,52" line11="161,143,125,107,89,71,49" line12="160,142,124,106,88,70,46" line13="159,141,123,105,87,69,43" line14="158,140,122,104,86,68,40" line15="157,139,121,103,85,67,37" line16="156,138,120,102,84,66,34" line17="155,137,119,101,83,65,31" line2="152,134,116,98,80,62,22" line3="151,133,115,97,79,61,19" line4="150,132,114,96,78,60,16" line5="149,131,113,95,77,59,13" line6="148,130,112,94,76,58,10" line7="147,129,111,93,75,57,7" line8="146,128,110,92,74,56,4" line9="145,127,109,91,73,55,1" type="ranges" />
+		<subModel name="Hook CCW" bufferstyle="Default" layout="horizontal" line0="154,137,120,103,86,69,45" line1="153,136,119,102,85,68,42" line10="162,127,110,93,76,59,15" line11="161,144,109,92,75,58,12" line12="160,143,126,91,74,57,9" line13="159,142,125,108,73,56,6" line14="158,141,124,107,90,55,3" line15="157,140,123,106,89,72,54" line16="156,139,122,105,88,71,51" line17="155,138,121,104,87,70,48" line2="152,135,118,101,84,67,39" line3="151,134,117,100,83,66,36" line4="150,133,116,99,82,65,33" line5="149,132,115,98,81,64,30" line6="148,131,114,97,80,63,27" line7="147,130,113,96,79,62,24" line8="146,129,112,95,78,61,21" line9="145,128,111,94,77,60,18" type="ranges" />
+		<subModel name="Hook CW" bufferstyle="Default" layout="horizontal" line0="154,135,116,97,78,59,11" line1="155,136,117,98,79,60,14" line10="146,127-126,107,88,69,41" line11="147,128,109-108,89,70,44" line12="148,129,110,91-90,71,47" line13="149,130,111,92,73-72,50" line14="150,131,112,93,74,55,53" line15="151,132,113,94,75,56,2" line16="152,133,114,95,76,57,5" line17="153,134,115,96,77,58,8" line2="156,137,118,99,80,61,17" line3="157,138,119,100,81,62,20" line4="158,139,120,101,82,63,23" line5="159,140,121,102,83,64,26" line6="160,141,122,103,84,65,29" line7="161,142,123,104,85,66,32" line8="162,143,124,105,86,67,35" line9="145-144,125,106,87,68,38" type="ranges" />
+		<subModel name="Spokes-01" bufferstyle="Default" layout="horizontal" line0="154,136,118,100,82,64,28" type="ranges" />
+		<subModel name="Spokes-02" bufferstyle="Default" layout="horizontal" line0="153,135,117,99,81,63,25" type="ranges" />
+		<subModel name="Spokes-03" bufferstyle="Default" layout="horizontal" line0="152,134,116,98,80,62,22" type="ranges" />
+		<subModel name="Spokes-04" bufferstyle="Default" layout="horizontal" line0="151,133,115,97,79,61,19" type="ranges" />
+		<subModel name="Spokes-05" bufferstyle="Default" layout="horizontal" line0="150,132,114,96,78,60,16" type="ranges" />
+		<subModel name="Spokes-06" bufferstyle="Default" layout="horizontal" line0="149,131,113,95,77,59,13" type="ranges" />
+		<subModel name="Spokes-07" bufferstyle="Default" layout="horizontal" line0="148,130,112,94,76,58,10" type="ranges" />
+		<subModel name="Spokes-08" bufferstyle="Default" layout="horizontal" line0="147,129,111,93,75,57,7" type="ranges" />
+		<subModel name="Spokes-09" bufferstyle="Default" layout="horizontal" line0="146,128,110,92,74,56,4" type="ranges" />
+		<subModel name="Spokes-10" bufferstyle="Default" layout="horizontal" line0="145,127,109,91,73,55,1" type="ranges" />
+		<subModel name="Spokes-11" bufferstyle="Default" layout="horizontal" line0="162,144,126,108,90,72,52" type="ranges" />
+		<subModel name="Spokes-12" bufferstyle="Default" layout="horizontal" line0="161,143,125,107,89,71,49" type="ranges" />
+		<subModel name="Spokes-13" bufferstyle="Default" layout="horizontal" line0="160,142,124,106,88,70,46" type="ranges" />
+		<subModel name="Spokes-14" bufferstyle="Default" layout="horizontal" line0="159,141,123,105,87,69,43" type="ranges" />
+		<subModel name="Spokes-15" bufferstyle="Default" layout="horizontal" line0="158,140,122,104,86,68,40" type="ranges" />
+		<subModel name="Spokes-16" bufferstyle="Default" layout="horizontal" line0="157,139,121,103,85,67,37" type="ranges" />
+		<subModel name="Spokes-17" bufferstyle="Default" layout="horizontal" line0="156,138,120,102,84,66,34" type="ranges" />
+		<subModel name="Spokes-18" bufferstyle="Default" layout="horizontal" line0="155,137,119,101,83,65,31" type="ranges" />
+		<subModel name="Hook CCW-01" bufferstyle="Default" layout="horizontal" line0="154,137,120,103,86,69,45" type="ranges" />
+		<subModel name="Hook CCW-02" bufferstyle="Default" layout="horizontal" line0="153,136,119,102,85,68,42" type="ranges" />
+		<subModel name="Hook CCW-03" bufferstyle="Default" layout="horizontal" line0="152,135,118,101,84,67,39" type="ranges" />
+		<subModel name="Hook CCW-04" bufferstyle="Default" layout="horizontal" line0="151,134,117,100,83,66,36" type="ranges" />
+		<subModel name="Hook CCW-05" bufferstyle="Default" layout="horizontal" line0="150,133,116,99,82,65,33" type="ranges" />
+		<subModel name="Hook CCW-06" bufferstyle="Default" layout="horizontal" line0="149,132,115,98,81,64,30" type="ranges" />
+		<subModel name="Hook CCW-07" bufferstyle="Default" layout="horizontal" line0="148,131,114,97,80,63,27" type="ranges" />
+		<subModel name="Hook CCW-08" bufferstyle="Default" layout="horizontal" line0="147,130,113,96,79,62,24" type="ranges" />
+		<subModel name="Hook CCW-09" bufferstyle="Default" layout="horizontal" line0="146,129,112,95,78,61,21" type="ranges" />
+		<subModel name="Hook CCW-10" bufferstyle="Default" layout="horizontal" line0="145,128,111,94,77,60,18" type="ranges" />
+		<subModel name="Hook CCW-11" bufferstyle="Default" layout="horizontal" line0="162,127,110,93,76,59,15" type="ranges" />
+		<subModel name="Hook CCW-12" bufferstyle="Default" layout="horizontal" line0="161,144,109,92,75,58,12" type="ranges" />
+		<subModel name="Hook CCW-13" bufferstyle="Default" layout="horizontal" line0="160,143,126,91,74,57,9" type="ranges" />
+		<subModel name="Hook CCW-14" bufferstyle="Default" layout="horizontal" line0="159,142,125,108,73,56,6" type="ranges" />
+		<subModel name="Hook CCW-15" bufferstyle="Default" layout="horizontal" line0="158,141,124,107,90,55,3" type="ranges" />
+		<subModel name="Hook CCW-16" bufferstyle="Default" layout="horizontal" line0="157,140,123,106,89,72,54" type="ranges" />
+		<subModel name="Hook CCW-17" bufferstyle="Default" layout="horizontal" line0="156,139,122,105,88,71,51" type="ranges" />
+		<subModel name="Hook CCW-18" bufferstyle="Default" layout="horizontal" line0="155,138,121,104,87,70,48" type="ranges" />
+		<subModel name="Hook CW-01" bufferstyle="Default" layout="horizontal" line0="154,135,116,97,78,59,11" type="ranges" />
+		<subModel name="Hook CW-02" bufferstyle="Default" layout="horizontal" line0="155,136,117,98,79,60,14" type="ranges" />
+		<subModel name="Hook CW-03" bufferstyle="Default" layout="horizontal" line0="156,137,118,99,80,61,17" type="ranges" />
+		<subModel name="Hook CW-04" bufferstyle="Default" layout="horizontal" line0="157,138,119,100,81,62,20" type="ranges" />
+		<subModel name="Hook CW-05" bufferstyle="Default" layout="horizontal" line0="158,139,120,101,82,63,23" type="ranges" />
+		<subModel name="Hook CW-06" bufferstyle="Default" layout="horizontal" line0="159,140,121,102,83,64,26" type="ranges" />
+		<subModel name="Hook CW-07" bufferstyle="Default" layout="horizontal" line0="160,141,122,103,84,65,29" type="ranges" />
+		<subModel name="Hook CW-08" bufferstyle="Default" layout="horizontal" line0="161,142,123,104,85,66,32" type="ranges" />
+		<subModel name="Hook CW-09" bufferstyle="Default" layout="horizontal" line0="162,143,124,105,86,67,35" type="ranges" />
+		<subModel name="Hook CW-10" bufferstyle="Default" layout="horizontal" line0="145-144,125,106,87,68,38" type="ranges" />
+		<subModel name="Hook CW-11" bufferstyle="Default" layout="horizontal" line0="146,127-126,107,88,69,41" type="ranges" />
+		<subModel name="Hook CW-12" bufferstyle="Default" layout="horizontal" line0="147,128,109-108,89,70,44" type="ranges" />
+		<subModel name="Hook CW-13" bufferstyle="Default" layout="horizontal" line0="148,129,110,91-90,71,47" type="ranges" />
+		<subModel name="Hook CW-14" bufferstyle="Default" layout="horizontal" line0="149,130,111,92,73-72,50" type="ranges" />
+		<subModel name="Hook CW-15" bufferstyle="Default" layout="horizontal" line0="150,131,112,93,74,55,53" type="ranges" />
+		<subModel name="Hook CW-16" bufferstyle="Default" layout="horizontal" line0="151,132,113,94,75,56,2" type="ranges" />
+		<subModel name="Hook CW-17" bufferstyle="Default" layout="horizontal" line0="152,133,114,95,76,57,5" type="ranges" />
+		<subModel name="Hook CW-18" bufferstyle="Default" layout="horizontal" line0="153,134,115,96,77,58,8" type="ranges" />
+		<subModel name="Arms" bufferstyle="Default" layout="horizontal" line0="154,136,118,100,82,64,28-31,65,83,101,119,137" line1="152,134,116,98,80,62,22-25,63,81,99,117,135" line2="150,132,114,96,78,60,16-19,61,79,97,115,133" line3="148,130,112,94,76,58,10-13,59,77,95,113,131" line4="146,128,110,92,74,56,4-7,57,75,93,111,129" line5="162,144,126,108,90,72,52-54,1,55,73,91,109,127" line6="160,142,124,106,88,70,46-49,71,89,107,125,143" line7="158,140,122,104,86,68,40-43,69,87,105,123,141" line8="156,138,120,102,84,66,34-37,67,85,103,121,139" type="ranges" />
+		<subModel name="Arms-01" bufferstyle="Default" layout="horizontal" line0="154,136,118,100,82,64,28-31,65,83,101,119,137" type="ranges" />
+		<subModel name="Arms-02" bufferstyle="Default" layout="horizontal" line0="152,134,116,98,80,62,22-25,63,81,99,117,135" type="ranges" />
+		<subModel name="Arms-03" bufferstyle="Default" layout="horizontal" line0="150,132,114,96,78,60,16-19,61,79,97,115,133" type="ranges" />
+		<subModel name="Arms-04" bufferstyle="Default" layout="horizontal" line0="148,130,112,94,76,58,10-13,59,77,95,113,131" type="ranges" />
+		<subModel name="Arms-05" bufferstyle="Default" layout="horizontal" line0="146,128,110,92,74,56,4-7,57,75,93,111,129" type="ranges" />
+		<subModel name="Arms-06" bufferstyle="Default" layout="horizontal" line0="162,144,126,108,90,72,52-54,1,55,73,91,109,127" type="ranges" />
+		<subModel name="Arms-07" bufferstyle="Default" layout="horizontal" line0="160,142,124,106,88,70,46-49,71,89,107,125,143" type="ranges" />
+		<subModel name="Arms-08" bufferstyle="Default" layout="horizontal" line0="158,140,122,104,86,68,40-43,69,87,105,123,141" type="ranges" />
+		<subModel name="Arms-09" bufferstyle="Default" layout="horizontal" line0="156,138,120,102,84,66,34-37,67,85,103,121,139" type="ranges" />
+		<subModel name="Outside Ring" bufferstyle="Default" layout="horizontal" line0="28-54,1-27" type="ranges" />
+		<modelGroup name="Spinner Spokes GRP" selected="0" models="Spinner 1/Spokes-01,Spinner 1/Spokes-02,Spinner 1/Spokes-03,Spinner 1/Spokes-04,Spinner 1/Spokes-05,Spinner 1/Spokes-06,Spinner 1/Spokes-07,Spinner 1/Spokes-08,Spinner 1/Spokes-09,Spinner 1/Spokes-10,Spinner 1/Spokes-11,Spinner 1/Spokes-12,Spinner 1/Spokes-13,Spinner 1/Spokes-14,Spinner 1/Spokes-15,Spinner 1/Spokes-16,Spinner 1/Spokes-17,Spinner 1/Spokes-18" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<modelGroup name="Spinners Arms GRP" selected="0" models="Spinner 1/Arms-01,Spinner 1/Arms-02,Spinner 1/Arms-03,Spinner 1/Arms-04,Spinner 1/Arms-05,Spinner 1/Arms-06,Spinner 1/Arms-07,Spinner 1/Arms-08,Spinner 1/Arms-09" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<modelGroup name="Spinners GRP" selected="0" models="Spinner 1" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<modelGroup name="Spinners Hook CCW GRP" selected="0" models="Spinner 1/Hook CCW-01,Spinner 1/Hook CCW-02,Spinner 1/Hook CCW-03,Spinner 1/Hook CCW-04,Spinner 1/Hook CCW-05,Spinner 1/Hook CCW-06,Spinner 1/Hook CCW-07,Spinner 1/Hook CCW-08,Spinner 1/Hook CCW-09,Spinner 1/Hook CCW-10,Spinner 1/Hook CCW-11,Spinner 1/Hook CCW-12,Spinner 1/Hook CCW-13,Spinner 1/Hook CCW-14,Spinner 1/Hook CCW-15,Spinner 1/Hook CCW-16,Spinner 1/Hook CCW-17,Spinner 1/Hook CCW-18" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<modelGroup name="Spinners Hook CW GRP" selected="0" models="Spinner 1/Hook CW-01,Spinner 1/Hook CW-02,Spinner 1/Hook CW-03,Spinner 1/Hook CW-04,Spinner 1/Hook CW-05,Spinner 1/Hook CW-06,Spinner 1/Hook CW-07,Spinner 1/Hook CW-08,Spinner 1/Hook CW-09,Spinner 1/Hook CW-10,Spinner 1/Hook CW-11,Spinner 1/Hook CW-12,Spinner 1/Hook CW-13,Spinner 1/Hook CW-14,Spinner 1/Hook CW-15,Spinner 1/Hook CW-16,Spinner 1/Hook CW-17,Spinner 1/Hook CW-18" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<modelGroup name="Spinners Outside Ring GRP" selected="0" models="Spinner 1/Outside Ring" LayoutGroup="Default" layout="minimalGrid" GridSize="400" centrex="0.000000" centrey="0.000000" centreDefined="0" />
+		<dimensions depth="7.152816" height="1.999999" units="f" width="1.999999" />
+	</model>
+</models>
