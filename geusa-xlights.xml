@@ -14261,6 +14261,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>79</categoryid>
         </model>
         <model>
+            <name>Flake N 24 175</name>
+            <id>681</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>24&quot;</width>
+            <height>24&quot;</height>
+            <pixelCount></pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-flake-n?_pos=2&amp;_sid=f8c35d044&amp;_ss=r&amp;variant=47555919511864</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/bf146bd9-fff3-4cc8-a4f5-274755a69e32_400x.jpg?v=1785622564</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Flake-N-24-175-w-subs.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
