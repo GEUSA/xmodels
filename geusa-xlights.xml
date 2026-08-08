@@ -14282,6 +14282,27 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>100</categoryid>
         </model>
         <model>
+            <name>Spinner 24 163 Node</name>
+            <id>682</id>
+            <notes></notes>
+            <type></type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>24&quot;</width>
+            <height>24&quot;</height>
+            <pixelCount>163</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/spinners-options?variant=32009067888742</weblink>
+            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/20200802_184938_500x.jpg?v=1785610570</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Spinner-163-node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>44</categoryid>
+        </model>
+        <model>
             <name>Shadow Spinner</name>
             <id>${maxId}</id>
             <notes></notes>
