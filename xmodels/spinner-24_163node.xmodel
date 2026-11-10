@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<models type="exported">
-	<model name="GE Spinner 163" DisplayAs="Circle" Antialias="1" centerPercent="0" Controller="No Controller" Dir="L" InsideOut="0" LayerSizes="1,18,18,18,18,18,18,54" LayoutGroup="Default" NodesPerString="163" NumStrings="1" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="3.178345" ScaleY="2.789364" ScaleZ="0.018868" SourceVersion="2026.17.1" StartChannel="511021" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="-836.020203" WorldPosY="75.128448" WorldPosZ="0.000000">
-		<dimensions depth="0.000000" height="72.564522" units="i" width="82.683769" />
-	</model>
-</models>
