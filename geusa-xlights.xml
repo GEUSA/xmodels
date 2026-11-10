@@ -2027,7 +2027,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Girl Elf Carrying Present.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Girl Elf Carrying Present.xmodel.xmodel</xmodellink>
             </wiring>
             <pixelCount>210</pixelCount>
             <categoryid>2</categoryid>
@@ -3078,7 +3078,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake M.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake-M.xmodel</xmodellink>
             </wiring>
             <pixelCount>84</pixelCount>
             <categoryid>100</categoryid>
@@ -4708,7 +4708,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/Alpha%20Bulbs/2_Alpha%20Bulbs.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/AB-23-A-Upright.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/AB_23_A_Upright.xmodel</xmodellink>
             </wiring>
             <categoryid>32</categoryid>
         </model>
@@ -6570,7 +6570,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/Alpha%20Letters%20and%20Numbers/12_Alpha%20Letters%20and%20Numbers.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/love.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Love.xmodel</xmodellink>
             </wiring>
             <categoryid>51</categoryid>
         </model>
@@ -6994,7 +6994,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Chimney.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Chimney (1).xmodel</xmodellink>
             </wiring>
             <categoryid>1</categoryid>
         </model>
@@ -9698,7 +9698,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/spin reel max.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Spin Reel Max.xmodel</xmodellink>
             </wiring>
             <pixelCount>540</pixelCount>
             <categoryid>79</categoryid>
@@ -11673,7 +11673,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Jeep Wave.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE Jeep Wave.xmodel</xmodellink>
             </wiring>
             <categoryid>80</categoryid>
         </model>
@@ -13327,7 +13327,7 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Gothic -Arch.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Gothic-Arch.xmodel</xmodellink>
             </wiring>
             <categoryid>66</categoryid>
         </model>
