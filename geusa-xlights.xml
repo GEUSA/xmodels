@@ -14323,5 +14323,26 @@ Cut in half and Slit for shipping - come with backers
             </wiring>
             <categoryid>71</categoryid>
         </model>
+        <model>
+            <name>Molly the Cat</name>
+            <id>683</id>
+            <notes>100-node black cat prop, designed in the UK by Build A Light Show.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>19&quot;</width>
+            <height>24&quot;</height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/molly-the-cat</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/molly-the-cat.jpg?v=1785624553</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Molly%20the%20Cat.xmodel</xmodellink>
+            </wiring>
+            <categoryid>63</categoryid>
+        </model>
     </models>
 </modelinventory>
