@@ -6570,7 +6570,7 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <imagefile>https://github.com/GEUSA/Images/blob/main/Alpha%20Letters%20and%20Numbers/12_Alpha%20Letters%20and%20Numbers.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Love.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/love.xmodel</xmodellink>
             </wiring>
             <categoryid>51</categoryid>
         </model>
