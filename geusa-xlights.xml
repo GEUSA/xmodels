@@ -14344,5 +14344,26 @@ Cut in half and Slit for shipping - come with backers
             </wiring>
             <categoryid>63</categoryid>
         </model>
+        <model>
+            <name>Ghost 36in</name>
+            <id>684</id>
+            <notes>100-node 36 inch ghost prop.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>28.79&quot;</width>
+            <height>36&quot;</height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink></weblink>
+            <imagefile></imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Ghost-100-36in-v1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>65</categoryid>
+        </model>
     </models>
 </modelinventory>
