@@ -14365,5 +14365,47 @@ Cut in half and Slit for shipping - come with backers
             </wiring>
             <categoryid>65</categoryid>
         </model>
+        <model>
+            <name>Flake P</name>
+            <id>685</id>
+            <notes>100-node 3 Prong Flake (also called Three Prong Fancy).</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>23.5&quot;</width>
+            <height></height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/flake-p</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/394186661_1342010203092381_8617802457857544527_n.jpg?v=1785622366</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Three%20Prong%20Fancy%20100%20node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
+        <model>
+            <name>IMPRESSION Flake P</name>
+            <id>686</id>
+            <notes>IMPRESSION (UV printed) version of the 100-node Flake P.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>23.5&quot;</width>
+            <height></height>
+            <pixelCount>100</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/impression-flake-p</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/e75b32ff-7368-4926-91a2-90fdccb252ec.jpg?v=1785622372</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Three%20Prong%20Fancy%20100%20node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
     </models>
 </modelinventory>
