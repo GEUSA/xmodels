@@ -13359,33 +13359,8 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <categoryid>66</categoryid>
         </model>
         <model>
-            <name>Gothic Fence</name>
+            <name>Gothic Fence Panel</name>
             <id>640</id>
-            <notes>The 358 node Gothic Gate is part of the Gothic Collection of Halloween products which were born from our UK Partner&apos;s &quot;Design a Prop&quot; Competition designed for 12mm bullet pixels.
-Measures approximately 40 inches tall and 29.5 inches wide (Both panels of the gate together, not per panel)
-Material is heavy duty 10mm black or white coroplast
-Optional wiring diagram available
-Designed by a customer of our UK partner as part of their design a prop competition - made in the US</notes>
-            <type>Coro Prop</type>
-            <material>Coro</material>
-            <thickness>10mm</thickness>
-            <width>29.5</width>
-            <height>40</height>
-            <pixelCount>358</pixelCount>
-            <pixelspacing></pixelspacing>
-            <pixeldescription></pixeldescription>
-            <weblink>https://gilbertengineeringusa.com/products/gothic-gate?pr_prod_strat=e5_desc&amp;pr_rec_id=1e9f68b5b&amp;pr_rec_pid=8362168549688&amp;pr_ref_pid=8362154295608&amp;pr_seq=uniform</weblink>
-            <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/353415133_6318907828192039_6506290257228203013_n_500x.jpg?v=1735933221</imagefile>
-            <wiring>
-                <name></name>
-                <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Gothic-Fence.xmodel</xmodellink>
-            </wiring>
-            <categoryid>66</categoryid>
-        </model>
-        <model>
-            <name>Gothic Fence - Gate Extension</name>
-            <id>641</id>
             <notes>The 239 node Gothic Fence Panel designed for 12mm bullet pixels is part of the Gothic Collection of Halloween products which were born from our UK Partner&apos;s &quot;Design a Prop&quot; Competition 
 There is an extension panel to the fence, with a post removed at the end, so you can extend the fence as long as you wish without having multiple posts
 Measures approximately 36 inches tall and 40.5 inches wide
@@ -13395,13 +13370,39 @@ Designed by a customer of our UK partner as part of their design a prop competit
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
-            <width>36</width>
-            <height>40.5</height>
+            <width>40.5</width>
+            <height>36</height>
             <pixelCount>239</pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
-            <weblink>https://gilbertengineeringusa.com/products/gothic-fence-panel?pr_prod_strat=e5_desc&amp;pr_rec_id=0fbf550b3&amp;pr_rec_pid=8365325812024&amp;pr_ref_pid=8362168549688&amp;pr_seq=uniform</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/gothic-fence-panel</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/GothicFencePanel_500x.jpg?v=1735933252</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Gothic-Fence.xmodel</xmodellink>
+            </wiring>
+            <categoryid>66</categoryid>
+        </model>
+        <model>
+            <name>Gothic Fence Extension</name>
+            <id>641</id>
+            <notes>The 217 node Gothic Fence Extension designed for 12mm bullet pixels is part of the Gothic Collection of Halloween products which were born from our UK Partner&apos;s &quot;Design a Prop&quot; Competition
+This is the extension panel to the fence, with a post removed at the end, so you can extend the fence as long as you wish without having multiple posts - You will need at least one main panel to start your fence off
+Measures approximately 36 inches tall and 40.5 inches wide
+Material is heavy duty 10mm black or white coroplast
+Optional wiring diagram available
+Designed by a customer of our UK partner as part of their design a prop competition - made in the US</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>40.5</width>
+            <height>36</height>
+            <pixelCount>217</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/gothic-fence</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/GothicFenceExtensionPanel.jpg?v=1785621448</imagefile>
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
@@ -14304,7 +14305,7 @@ Cut in half and Slit for shipping - come with backers
         </model>
         <model>
             <name>Shadow Spinner</name>
-            <id>${maxId}</id>
+            <id>687</id>
             <notes></notes>
             <type>Coro Prop</type>
             <material>Coro</material>
@@ -14406,6 +14407,216 @@ Cut in half and Slit for shipping - come with backers
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Three%20Prong%20Fancy%20100%20node.xmodel</xmodellink>
             </wiring>
             <categoryid>100</categoryid>
+        </model>
+        <model>
+            <name>Cheeky Chick</name>
+            <id>688</id>
+            <notes>300-node chick, designed by a UK customer in Build A Light Show's prop competition.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height>48&quot;</height>
+            <pixelcount>300</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/cheeky-chick</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/348369732_799673111741060_5345448727625242903_n.jpg?v=1785621345</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Cheeky-Chick.xmodel</xmodellink>
+            </wiring>
+            <categoryid>109</categoryid>
+        </model>
+        <model>
+            <name>Jinny The Witch</name>
+            <id>689</id>
+            <notes>275-node witch, designed in the UK (Build A Light Show design competition).</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>52&quot;</width>
+            <height>36&quot;</height>
+            <pixelcount>275</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/jinny-the-witch</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/348366324_633766728775550_230459717261010185_n.jpg?v=1785621358</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Jinny-The-Witch.xmodel</xmodellink>
+            </wiring>
+            <categoryid>63</categoryid>
+        </model>
+        <model>
+            <name>Campbell Cauldron</name>
+            <id>690</id>
+            <notes>698-node cauldron with spinner, star and matrix submodels, designed in the UK by Build A Light Show.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelcount>698</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/the-campbell-cauldron</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/the-campbell-cauldron.jpg?v=1785621383</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Campbell-Cauldron.xmodel</xmodellink>
+            </wiring>
+            <categoryid>58</categoryid>
+        </model>
+        <model>
+            <name>Witches Hat</name>
+            <id>691</id>
+            <notes>100-node witches hat, designed in the UK by Build A Light Show.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>23&quot;</width>
+            <height>23&quot;</height>
+            <pixelcount>100</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/witches-hat</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/witches-hat.jpg?v=1785624556</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Witches-Hat.xmodel</xmodellink>
+            </wiring>
+            <categoryid>58</categoryid>
+        </model>
+        <model>
+            <name>Gothic Gate (one panel)</name>
+            <id>692</id>
+            <notes>Gothic Collection gate. The gate is two panels (358 nodes total); this model is one 179-node panel - use twice, mirror for the other side.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height>40&quot;</height>
+            <pixelcount>179</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription>12mm bullet pixels</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/gothic-gate</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/353415133_6318907828192039_6506290257228203013_n.jpg?v=1785621492</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Gothic-Gate.xmodel</xmodellink>
+            </wiring>
+            <categoryid>66</categoryid>
+        </model>
+        <model>
+            <name>Insane Spinner Wreath</name>
+            <id>693</id>
+            <notes>560-node spinner wreath, Build A Light Show collaboration with Greg Macaree.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>43.3&quot;</width>
+            <height>43.3&quot;</height>
+            <pixelcount>560</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/insane-spinner-wreath</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/insane-spinner-wreath_1.jpg?v=1788225874</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Insane-Spinner-Wreath.xmodel</xmodellink>
+            </wiring>
+            <categoryid>79</categoryid>
+        </model>
+        <model>
+            <name>Baby Insane Spinner Wreath</name>
+            <id>694</id>
+            <notes>156-node small spinner, Build A Light Show collaboration with Greg Macaree.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>13.4&quot;</width>
+            <height>13.4&quot;</height>
+            <pixelcount>156</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/baby-insane-spinner-wreath</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/insane-baby-spinner.jpg?v=1788225884</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Baby-Insane-Spinner-Wreath.xmodel</xmodellink>
+            </wiring>
+            <categoryid>45</categoryid>
+        </model>
+        <model>
+            <name>Valentines Heart Pack - Large Heart</name>
+            <id>695</id>
+            <notes>50-node single-outline heart from the Valentines Day Heart Pack (UK design).</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelcount>50</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/valentines-day-heart-pack</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/46b5ecee-428b-44df-bcf1-509cd6dc538e_1.jpg?v=1785621387</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Heart-Pack-Large-Heart.xmodel</xmodellink>
+            </wiring>
+            <categoryid>115</categoryid>
+        </model>
+        <model>
+            <name>Valentines Heart Pack - Heart with LOVE</name>
+            <id>696</id>
+            <notes>Heart with LOVE text and small center heart from the Valentines Day Heart Pack.</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelcount></pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/valentines-day-heart-pack</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/46b5ecee-428b-44df-bcf1-509cd6dc538e_1.jpg?v=1785621387</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Heart-Pack-Heart-With-LOVE.xmodel</xmodellink>
+            </wiring>
+            <categoryid>115</categoryid>
+        </model>
+        <model>
+            <name>Valentines Heart Pack - Small Heart</name>
+            <id>697</id>
+            <notes>25-node small outline heart from the Valentines Day Heart Pack (3 per pack).</notes>
+            <type>Coro Prop</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width></width>
+            <height></height>
+            <pixelcount>25</pixelcount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/valentines-day-heart-pack</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/46b5ecee-428b-44df-bcf1-509cd6dc538e_1.jpg?v=1785621387</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/BALS-Heart-Pack-Small-Heart.xmodel</xmodellink>
+            </wiring>
+            <categoryid>115</categoryid>
         </model>
     </models>
 </modelinventory>
