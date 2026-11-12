@@ -14346,9 +14346,9 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>63</categoryid>
         </model>
         <model>
-            <name>Ghost 36in</name>
+            <name>Boo Bert 36in</name>
             <id>684</id>
-            <notes>100-node 36 inch ghost prop.</notes>
+            <notes>100-node 36 inch Boo Bert ghost prop.</notes>
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
@@ -14362,7 +14362,7 @@ Cut in half and Slit for shipping - come with backers
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Ghost-100-36in-v1.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Boo-Bert-100-36in-v5.xmodel</xmodellink>
             </wiring>
             <categoryid>65</categoryid>
         </model>
