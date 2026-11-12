@@ -14618,5 +14618,43 @@ Cut in half and Slit for shipping - come with backers
             </wiring>
             <categoryid>115</categoryid>
         </model>
+        <model>
+            <id>698</id>
+            <name>Maltese Cross 250</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/maltese-cross</weblink>
+            <material>Coro</material>
+            <width>47&quot;</width>
+            <height>47&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>250</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Maltese%20Cross/1_Maltese%20Cross.jpg?raw=true</imagefile>
+            <notes>250-node 47&quot; Maltese Cross (R2 cut-file outline 46.66&quot;). Submodels/states: FD 1-50, Inner Circle 51-102, Outline 103-250. Same xmodel as IMPRESSION Maltese Cross 250.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Maltese%20Cross%20250.xmodel</xmodellink>
+            </wiring>
+            <categoryid>54</categoryid>
+        </model>
+        <model>
+            <id>699</id>
+            <name>IMPRESSION Maltese Cross 250</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-maltese-cross</weblink>
+            <material>Coro</material>
+            <width>47&quot;</width>
+            <height>47&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>250</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Maltese%20Cross/1_Maltese%20Cross.jpg?raw=true</imagefile>
+            <notes>250-node 47&quot; IMPRESSION Maltese Cross (R2 cut-file outline 46.66&quot;). Submodels/states: FD 1-50, Inner Circle 51-102, Outline 103-250. Same xmodel as Maltese Cross 250.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Maltese%20Cross%20250.xmodel</xmodellink>
+            </wiring>
+            <categoryid>54</categoryid>
+        </model>
     </models>
 </modelinventory>
