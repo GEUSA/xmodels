@@ -14656,5 +14656,879 @@ Cut in half and Slit for shipping - come with backers
             </wiring>
             <categoryid>54</categoryid>
         </model>
+        <model>
+            <id>700</id>
+            <name>12 Inch Letter A</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>12&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>73</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>12-inch letter A, 73 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/12%20Inch%20Letter%20A.xmodel</xmodellink>
+            </wiring>
+            <categoryid>29</categoryid>
+        </model>
+        <model>
+            <id>701</id>
+            <name>12 Inch Letter M</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>12&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>92</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>12-inch letter M, 92 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/12%20Inch%20Letter%20M.xmodel</xmodellink>
+            </wiring>
+            <categoryid>29</categoryid>
+        </model>
+        <model>
+            <id>702</id>
+            <name>8 Ft Hanging Singing Bulb 450</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height>94&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>450</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>8-foot hanging singing bulb, 450 nodes (94-inch model).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/8Ft%20Hanging%20Singing%20450%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>11</categoryid>
+        </model>
+        <model>
+            <id>703</id>
+            <name>Burton Deer 275</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>275</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>275-node Burton-style deer.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Burton%20Deer%20275.xmodel</xmodellink>
+            </wiring>
+            <categoryid>22</categoryid>
+        </model>
+        <model>
+            <id>704</id>
+            <name>Cowboy Singing Snowman</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>565</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>565-node singing cowboy snowman.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Cowboy%20Singing%20Snowman.xmodel</xmodellink>
+            </wiring>
+            <categoryid>41</categoryid>
+        </model>
+        <model>
+            <id>705</id>
+            <name>Flake C 24 200</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>24&quot;</width>
+            <height>24&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>24-inch snowflake, 200 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Flake%20C-24-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
+        <model>
+            <id>706</id>
+            <name>Gate Left</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>179</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>179-node gothic gate (left).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Gate%20Left.xmodel</xmodellink>
+            </wiring>
+            <categoryid>66</categoryid>
+        </model>
+        <model>
+            <id>707</id>
+            <name>Gate Right</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>179</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>179-node gothic gate (right).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Gate%20Right.xmodel</xmodellink>
+            </wiring>
+            <categoryid>66</categoryid>
+        </model>
+        <model>
+            <id>708</id>
+            <name>10 Ft Corner Web 700</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>10&apos;</width>
+            <height>10&apos;</height>
+            <thickness>10</thickness>
+            <pixelcount>700</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>10-foot corner web, 700 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%2010%20Ft%20Corner%20Web%20700.xmodel</xmodellink>
+            </wiring>
+            <categoryid>75</categoryid>
+        </model>
+        <model>
+            <id>709</id>
+            <name>18 Ft x 8 Ft Web 1260</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>18&apos;</width>
+            <height>8&apos;</height>
+            <thickness>10</thickness>
+            <pixelcount>1260</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>18 by 8-foot web, 1260 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%2018%20Ft%20x%208%20Ft%20Web%201260.xmodel</xmodellink>
+            </wiring>
+            <categoryid>75</categoryid>
+        </model>
+        <model>
+            <id>710</id>
+            <name>BALLOON</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>160</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>160-node BALLOON word prop.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20BALLOON.xmodel</xmodellink>
+            </wiring>
+            <categoryid>51</categoryid>
+        </model>
+        <model>
+            <id>711</id>
+            <name>Bat 36 Inch 75</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>36&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>75</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>36-inch bat, 75 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Bat%2036%20Inch%2075%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>59</categoryid>
+        </model>
+        <model>
+            <id>712</id>
+            <name>Bat 42 Inch 100</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>42&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>42-inch bat, 100 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Bat%2042%20Inch%20100%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>59</categoryid>
+        </model>
+        <model>
+            <id>713</id>
+            <name>Bat 48 Inch 125</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>48&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>125</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>48-inch bat, 125 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Bat%2048%20Inch%20125%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>59</categoryid>
+        </model>
+        <model>
+            <id>714</id>
+            <name>Bat 70 Inch 200</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>70&quot;</width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>70-inch bat, 200 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Bat%2070%20Inch%20200%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>59</categoryid>
+        </model>
+        <model>
+            <id>715</id>
+            <name>Candy Cane 150 Node</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>150</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>150-node candy cane.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20CC%20150%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>19</categoryid>
+        </model>
+        <model>
+            <id>716</id>
+            <name>Cornstalk 337</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>337</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>337-node cornstalk.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Cornstalk%20337.xmodel</xmodellink>
+            </wiring>
+            <categoryid>89</categoryid>
+        </model>
+        <model>
+            <id>717</id>
+            <name>Cross 136</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>136</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>136-node cross.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Cross%20136%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>61</categoryid>
+        </model>
+        <model>
+            <id>718</id>
+            <name>Custom Triple 99 Node Arch</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>99</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>Custom triple arch, 99 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Custom%20Triple%2099%20Node%20Arch.xmodel</xmodellink>
+            </wiring>
+            <categoryid>6</categoryid>
+        </model>
+        <model>
+            <id>719</id>
+            <name>Davis Dream Wheel</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>1340</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>1340-node Davis Dream Wheel spinner.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Davis%20Dream%20Wheel.xmodel</xmodellink>
+            </wiring>
+            <categoryid>43</categoryid>
+        </model>
+        <model>
+            <id>720</id>
+            <name>Dill Doe 1050</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>1050</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>1050-node doe.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Dill%20Doe%201050%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>81</categoryid>
+        </model>
+        <model>
+            <id>721</id>
+            <name>Flake D 24 199</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width>24&quot;</width>
+            <height>24&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>199</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>24-inch snowflake, 199 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Flake%20D-24-199.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
+        <model>
+            <id>722</id>
+            <name>Fleur de Lis 50</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>50</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>50-node fleur de lis (V1).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Fleur%20De%20Lis%2050%20V1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>112</categoryid>
+        </model>
+        <model>
+            <id>723</id>
+            <name>Fleur de Lis Large 400</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>400</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>400-node large fleur de lis.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Fluer%20D%20Lis%20Large.xmodel</xmodellink>
+            </wiring>
+            <categoryid>112</categoryid>
+        </model>
+        <model>
+            <id>724</id>
+            <name>Fleur de Lis Small 100</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>100-node small fleur de lis.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Fluer%20D%20Lis%20Small.xmodel</xmodellink>
+            </wiring>
+            <categoryid>112</categoryid>
+        </model>
+        <model>
+            <id>725</id>
+            <name>Giant Seahorse 798</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>798</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>798-node giant seahorse.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Giant%20Seahorse.xmodel</xmodellink>
+            </wiring>
+            <categoryid>81</categoryid>
+        </model>
+        <model>
+            <id>726</id>
+            <name>GingerBread House 5ft 640 Node Hatt Edition</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height>5&apos;</height>
+            <thickness>10</thickness>
+            <pixelcount>640</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>5-foot gingerbread house, 640-node Hatt Edition.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Gingerbread%20House%205ft%20640%20Node%20Hatt%20Edition.xmodel</xmodellink>
+            </wiring>
+            <categoryid>27</categoryid>
+        </model>
+        <model>
+            <id>727</id>
+            <name>Igloo 514</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>514</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>514-node igloo.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Igloo.xmodel</xmodellink>
+            </wiring>
+            <categoryid>89</categoryid>
+        </model>
+        <model>
+            <id>728</id>
+            <name>JOY Gil 200</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>200-node JOY word prop (Gil).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20JOY%20Gil%20200%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>51</categoryid>
+        </model>
+        <model>
+            <id>729</id>
+            <name>Nightmare Bat 50</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>50</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>50-node Nightmare bat.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Nightmare%20Bat%2050%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>59</categoryid>
+        </model>
+        <model>
+            <id>730</id>
+            <name>Poinsettia 241</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>241</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>241-node poinsettia.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Poinsettia%20241%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>25</categoryid>
+        </model>
+        <model>
+            <id>731</id>
+            <name>POP</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>117</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>117-node POP word prop.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20POP.xmodel</xmodellink>
+            </wiring>
+            <categoryid>51</categoryid>
+        </model>
+        <model>
+            <id>732</id>
+            <name>Pumpkin 500</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>500</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>500-node pumpkin.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Pumpkin%20500.xmodel</xmodellink>
+            </wiring>
+            <categoryid>68</categoryid>
+        </model>
+        <model>
+            <id>733</id>
+            <name>Pumpkin Stack with Face Def</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>700</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>700-node pumpkin stack with face definition. Distinct from Pumpkin Stack (id 414).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Pumpkin%20Stack%20w%20Face%20Def.xmodel</xmodellink>
+            </wiring>
+            <categoryid>68</categoryid>
+        </model>
+        <model>
+            <id>734</id>
+            <name>Singing Bow Michele 241</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>241</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>241-node singing bow (Michele).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Singing%20Bow%20Michele.xmodel</xmodellink>
+            </wiring>
+            <categoryid>49</categoryid>
+        </model>
+        <model>
+            <id>735</id>
+            <name>Spinner 40</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>40</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>40-node spinner.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Spinner%2040%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>45</categoryid>
+        </model>
+        <model>
+            <id>736</id>
+            <name>STORE</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>120</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>120-node STORE word prop.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20STORE.xmodel</xmodellink>
+            </wiring>
+            <categoryid>51</categoryid>
+        </model>
+        <model>
+            <id>737</id>
+            <name>Urn 1 65</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>65</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>65-node nativity urn.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Urn%201.xmodel</xmodellink>
+            </wiring>
+            <categoryid>35</categoryid>
+        </model>
+        <model>
+            <id>738</id>
+            <name>Urn 2 100</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>100-node nativity urn.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Urn%202.xmodel</xmodellink>
+            </wiring>
+            <categoryid>35</categoryid>
+        </model>
+        <model>
+            <id>739</id>
+            <name>US Coast Guard 700</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>700</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>700-node US Coast Guard (V1). Distinct from US Coast Guard 573 (id 352).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20US%20Coast%20Guard%20700%20Node%20V1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>55</categoryid>
+        </model>
+        <model>
+            <id>740</id>
+            <name>Warm Hugs Flake 1075</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>1075</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>1075-node Warm Hugs flake.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Warm%20Hugs%20Flake%201075.xmodel</xmodellink>
+            </wiring>
+            <categoryid>107</categoryid>
+        </model>
+        <model>
+            <id>741</id>
+            <name>Candle 8&apos; - No Words</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height>8&apos;</height>
+            <thickness>10</thickness>
+            <pixelcount>115</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>8-foot candle without word cutout, 115 nodes. Submodels: Outline, Flame.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Candle_8_Foot%20No%20Words.xmodel</xmodellink>
+            </wiring>
+            <categoryid>17</categoryid>
+        </model>
+        <model>
+            <id>742</id>
+            <name>Gumdrop 25</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>25</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>25-node gumdrop.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Gumdrop%2025%20Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>83</categoryid>
+        </model>
+        <model>
+            <id>743</id>
+            <name>Scarecrow 600</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>600</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>600-node scarecrow.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Scarecrow600.xmodel</xmodellink>
+            </wiring>
+            <categoryid>63</categoryid>
+        </model>
+        <model>
+            <id>744</id>
+            <name>Tombstone RIP 175</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>175</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>175-node RIP tombstone (Tomb-34).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Tomb-34-RIP-175.xmodel</xmodellink>
+            </wiring>
+            <categoryid>72</categoryid>
+        </model>
+        <model>
+            <id>745</id>
+            <name>Tombstone 8 Foot RIP 551</name>
+            <type>Coro</type>
+            <weblink></weblink>
+            <material>Coro</material>
+            <width></width>
+            <height>8&apos;</height>
+            <thickness>10</thickness>
+            <pixelcount>551</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>8-foot RIP tombstone, 551 nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Tombstone%208%20Foot%20RIP.xmodel</xmodellink>
+            </wiring>
+            <categoryid>72</categoryid>
+        </model>
     </models>
 </modelinventory>

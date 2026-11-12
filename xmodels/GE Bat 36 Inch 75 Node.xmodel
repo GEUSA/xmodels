@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<models type="exported">
+	<model name="GE Bat 36 Inch 75 Node" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="100" CustomWidth="200" Depth="1" Dir="L" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="188.175385" ScaleY="228.590973" ScaleZ="188.175385" SourceVersion="2026.17" StartChannel="2" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="1138.500000" WorldPosY="3264.501953" WorldPosZ="0.000000" CustomModelCompressed="51,20,51;26,20,145;25,22,150;52,23,46;24,24,154;53,25,41;50,26,53;27,26,142;54,27,36;23,28,160;55,31,31;49,31,57;22,31,165;28,32,139;41,33,84;36,33,111;56,34,26;40,34,90;39,34,95;38,34,100;48,35,61;37,35,106;21,35,169;29,36,134;20,38,174;57,39,22;47,39,66;30,39,130;42,40,85;35,41,111;58,42,17;19,42,178;46,43,71;31,43,125;45,45,76;32,45,119;60,46,19;43,46,91;34,46,104;17,46,177;18,46,182;59,47,13;61,47,24;33,47,114;16,47,171;62,48,30;44,48,81;15,48,165;63,50,35;14,50,160;64,53,40;13,53,155;65,57,45;12,57,151;66,61,49;11,62,147;67,66,52;68,66,57;69,66,63;8,66,131;9,66,137;70,67,70;10,67,143;7,68,126;71,69,76;6,70,120;5,72,114;72,73,82;73,75,85;4,76,109;74,80,90;3,80,106;75,84,94;2,85,101;1,90,97">
+		<subModel name="Eyes" bufferstyle="Default" layout="horizontal" line0="34,43" type="ranges" />
+		<subModel name="Outline" bufferstyle="Default" layout="horizontal" line0="1-33,35-42,44-75" type="ranges" />
+	</model>
+</models>
