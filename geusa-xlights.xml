@@ -3479,6 +3479,177 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>27</categoryid>
         </model>
         <model>
+            <id>747</id>
+            <name>Nutcracker Soldier 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/nutcracker-soldier-36in</weblink>
+            <material>Coro</material>
+            <width>17.68&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/nutcracker-soldier-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>23</categoryid>
+        </model>
+        <model>
+            <id>748</id>
+            <name>Penguin with Scarf 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/penguin-with-scarf-36in</weblink>
+            <material>Coro</material>
+            <width>26.9&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/penguin-scarf-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>23</categoryid>
+        </model>
+        <model>
+            <id>749</id>
+            <name>Christmas Ornament 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-ornament-36in</weblink>
+            <material>Coro</material>
+            <width>29.03&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>150</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-ornament-36-150.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>750</id>
+            <name>Christmas Present 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-present-36in</weblink>
+            <material>Coro</material>
+            <width>30.79&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-present-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>38</categoryid>
+        </model>
+        <model>
+            <id>751</id>
+            <name>Candy Cane Pair 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/candy-cane-pair-36in</weblink>
+            <material>Coro</material>
+            <width>36&quot;</width>
+            <height>35.6&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/candy-cane-pair-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>19</categoryid>
+        </model>
+        <model>
+            <id>752</id>
+            <name>Reindeer Head 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/reindeer-head-36in</weblink>
+            <material>Coro</material>
+            <width>30.92&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/reindeer-head-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>22</categoryid>
+        </model>
+        <model>
+            <id>753</id>
+            <name>Christmas Angel 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-angel-36in</weblink>
+            <material>Coro</material>
+            <width>34.43&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-angel-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>5</categoryid>
+        </model>
+        <model>
+            <id>754</id>
+            <name>Christmas Stocking 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-stocking-36in</weblink>
+            <material>Coro</material>
+            <width>24.4&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-stocking-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>39</categoryid>
+        </model>
+        <model>
+            <id>755</id>
+            <name>Christmas Tree with Star 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-tree-with-star-36in</weblink>
+            <material>Coro</material>
+            <width>27.22&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-tree-star-36-100.xmodel</xmodellink>
+            </wiring>
+            <categoryid>49</categoryid>
+        </model>
+        <model>
             <id>331</id>
             <name>Chimney Topper Mean One</name>
             <type>Coro</type>
