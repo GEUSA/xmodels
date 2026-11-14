@@ -3460,6 +3460,25 @@ Cut in half and Slit for shipping - come with backers
             <categoryid>27</categoryid>
         </model>
         <model>
+            <id>746</id>
+            <name>Gingerbread Man 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/gingerbread-man-36in</weblink>
+            <material>Coro</material>
+            <width>35.53&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>200</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile></imagefile>
+            <notes>200-node 36&quot; Gingerbread Man. Data in at the bottom of the left foot. Submodels: Outline, Face, Eyes, Left/Right Eye, Mouth, Bow Tie, Bow Left/Right, Buttons, Button Top/Middle/Bottom, Wrist Icing, Ankle Icing, Left/Right Wrist, Left/Right Ankle, Left/Right Half; 44 states including wink, wave, button chase and bow twinkle.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/gingerbread-man-36-200.xmodel</xmodellink>
+            </wiring>
+            <categoryid>27</categoryid>
+        </model>
+        <model>
             <id>331</id>
             <name>Chimney Topper Mean One</name>
             <type>Coro</type>
