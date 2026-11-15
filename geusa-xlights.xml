@@ -5936,6 +5936,25 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <categoryid>37</categoryid>
         </model>
         <model>
+            <id>756</id>
+            <name>IMPRESSION Ornate Ornament A2</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979330872</weblink>
+            <material>Coro</material>
+            <width>14.5&quot;</width>
+            <height>22&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/70cd2db6-b33b-466b-b783-b892d7fe7943-Photoroom.jpg?v=1785625128</imagefile>
+            <notes>100-node IMPRESSION Ornate Ornament A2 (Ornament 2). Approximately 22&quot; tall and 14.5&quot; wide. Submodels: Outline, Cap, Ring, Flake, Flake Ring.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A2.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
             <id>248</id>
             <name>Present 28</name>
             <type>Coro</type>
