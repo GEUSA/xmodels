@@ -9205,6 +9205,25 @@ Good for:
             <categoryid>50</categoryid>
         </model>
         <model>
+            <id>758</id>
+            <name>GE Wing Left</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>669</pixelcount>
+            <pixeldescription>Confirm on product page</pixeldescription>
+            <pixelspacing>Confirm on product page</pixelspacing>
+            <imagefile></imagefile>
+            <notes>669-node left wing. Submodels: Outline, Feathers, Inner Feathers, Upper Feathers, Long Feathers. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Wing-Left.xmodel</xmodellink>
+            </wiring>
+            <categoryid>50</categoryid>
+        </model>
+        <model>
             <id>309</id>
             <name>Frankies Angel Wings</name>
             <type>Coro</type>
