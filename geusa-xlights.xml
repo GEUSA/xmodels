@@ -6089,6 +6089,25 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <categoryid>37</categoryid>
         </model>
         <model>
+            <id>766</id>
+            <name>Tiki Pineapple 72in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/tiki-pineapple-72in</weblink>
+            <material>Coro</material>
+            <width>22.4&quot;</width>
+            <height>72&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>993</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Tiki%20Pineapple%2072in/tiki-pineapple-72in.png?raw=true</imagefile>
+            <notes>993-node Tiki Pineapple 72in. Includes submodels and states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/tiki-pineapple-72-993.xmodel</xmodellink>
+            </wiring>
+            <categoryid>86</categoryid>
+        </model>
+        <model>
             <id>248</id>
             <name>Present 28</name>
             <type>Coro</type>
