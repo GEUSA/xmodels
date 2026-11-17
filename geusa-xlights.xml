@@ -5936,6 +5936,25 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <categoryid>37</categoryid>
         </model>
         <model>
+            <id>759</id>
+            <name>IMPRESSION Ornate Ornament A1</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979199800</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>75</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/8669eefd-078e-4390-bdf4-04f9cc088b08-Photoroom.jpg?v=1785625122</imagefile>
+            <notes>75-node IMPRESSION Ornate Ornament A1 (Ornament 1). Submodels: Outline, Cap, Ring, Stripes, Balls. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A1.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
             <id>756</id>
             <name>IMPRESSION Ornate Ornament A2</name>
             <type>Coro</type>
@@ -5955,6 +5974,82 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <categoryid>37</categoryid>
         </model>
         <model>
+            <id>760</id>
+            <name>IMPRESSION Ornate Ornament A3</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979461944</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/a6578f4e-a94e-45b4-8d85-70a9a1628b15-Photoroom.jpg?v=1785625133</imagefile>
+            <notes>100-node IMPRESSION Ornate Ornament A3 (Ornament 3). Submodels: Outline, Cap, Ring, Stripes, Stars, Squiggle. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A3.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>761</id>
+            <name>IMPRESSION Ornate Ornament A4</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979593016</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/676432a5-a7e5-4e5d-bdd2-c6725c7ea7b3-Photoroom.jpg?v=1785625138</imagefile>
+            <notes>100-node IMPRESSION Ornate Ornament A4 (Ornament 4). Submodels: Outline, Cap, Ring, Stripes, Stars, Holly Leaves, Holly Berries. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A4.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>762</id>
+            <name>IMPRESSION Ornate Ornament A5</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979724088</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>120</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/ab394d4a-d238-4fe1-85c9-887a52474cd5-Photoroom.jpg?v=1785625143</imagefile>
+            <notes>120-node IMPRESSION Ornate Ornament A5 (Ornament 5). Submodels: Outline, Cap, Ring, Sparkles, Flakes, Flake 1-4. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A5.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>763</id>
+            <name>IMPRESSION Ornate Ornament A6</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993979855160</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/796b3399-dfcc-46a3-b854-961d21cf6851-Photoroom.jpg?v=1785625149</imagefile>
+            <notes>100-node IMPRESSION Ornate Ornament A6 (Ornament 6). Submodels: Outline, Cap, Ring, Sparkles, Flakes, Flake 1-3. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A6.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
             <id>757</id>
             <name>IMPRESSION Ornate Ornament A7</name>
             <type>Coro</type>
@@ -5970,6 +6065,44 @@ Slit for shipping - you can add &quot;no slit&quot; to the notes section when ch
             <notes>100-node IMPRESSION Ornate Ornament A7 (Ornament 7). Approximately 23&quot; tall and 16.5&quot; wide. Submodels: Outline, Cap, Ring, Flake, Flake Ring, Flake Center, Arm 1-6. Includes states.</notes>
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A7.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>764</id>
+            <name>IMPRESSION Ornate Ornament A8</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993980117304</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>116</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/023cccb1-44e2-498a-ae38-447bb6803668-Photoroom.jpg?v=1785625160</imagefile>
+            <notes>116-node IMPRESSION Ornate Ornament A8 (Ornament 8). Submodels: Outline, Cap, Ring, Flake 1-5. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A8.xmodel</xmodellink>
+            </wiring>
+            <categoryid>37</categoryid>
+        </model>
+        <model>
+            <id>765</id>
+            <name>IMPRESSION Ornate Ornament A9</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/impression-ornate-ornaments?variant=49993980248376</weblink>
+            <material>Coro</material>
+            <width></width>
+            <height></height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/0196b5cb-7e53-4693-8427-1ed9718ec106-Photoroom.jpg?v=1785625165</imagefile>
+            <notes>100-node IMPRESSION Ornate Ornament A9 (Ornament 9). Submodels: Outline, Cap, Ring, Stripe 1-3. Includes states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Ornament A9.xmodel</xmodellink>
             </wiring>
             <categoryid>37</categoryid>
         </model>
