@@ -1553,24 +1553,6 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>17</categoryid>
         </model>
         <model>
-            <id>36</id>
-            <name>Candle 8&apos; - WELCOME</name>
-            <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/products/impression-candle-8-love?_pos=3&amp;_sid=c6cd03dcc&amp;_ss=r</weblink>
-            <material>Coro</material>
-            <width></width>
-            <height>94&quot;</height>
-            <thickness>10</thickness>
-            <pixelcount></pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
-            <notes></notes>
-            <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Candle Welcome.xmodel</xmodellink>
-            </wiring>
-            <categoryid>17</categoryid>
-        </model>
-        <model>
             <id>38</id>
             <name>Candle - HOPE</name>
             <type>Coro</type>
@@ -8479,24 +8461,6 @@ Good for:
             <categoryid>45</categoryid>
         </model>
         <model>
-            <id>269</id>
-            <name>Micro Rosa</name>
-            <type>Coro</type>
-            <weblink></weblink>
-            <material>Coro</material>
-            <width>18&quot;</width>
-            <height>19&quot;</height>
-            <thickness>10</thickness>
-            <pixelcount></pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
-            <notes></notes>
-            <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Micro Rosa.xmodel</xmodellink>
-            </wiring>
-            <categoryid>45</categoryid>
-        </model>
-        <model>
             <id>272</id>
             <name>Spinner 9</name>
             <type>Coro</type>
@@ -8661,7 +8625,7 @@ Good for:
             <imagefile>https://github.com/GEUSA/Images/blob/main/Shooting%20Star/2_Shooting%20Star.jpg?raw=true</imagefile>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Shooting Star.xml</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Shooting Star.xmodel</xmodellink>
             </wiring>
             <categoryid>46</categoryid>
         </model>
@@ -9683,25 +9647,6 @@ Good for:
             <notes>200-node JOY word prop (Gil).</notes>
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20JOY%20Gil%20200%20Node.xmodel</xmodellink>
-            </wiring>
-            <categoryid>51</categoryid>
-        </model>
-        <model>
-            <id>313</id>
-            <name>LOVE</name>
-            <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
-            <material>Coro</material>
-            <width></width>
-            <height>30&quot;</height>
-            <thickness>10</thickness>
-            <pixelcount>280</pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Alpha%20Letters%20and%20Numbers/12_Alpha%20Letters%20and%20Numbers.jpg?raw=true</imagefile>
-            <notes></notes>
-            <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/love.xmodel</xmodellink>
             </wiring>
             <categoryid>51</categoryid>
         </model>
@@ -13507,25 +13452,6 @@ Optional wiring diagram available
             <categoryid>79</categoryid>
         </model>
         <model>
-            <id>475</id>
-            <name>Spin Reel 46</name>
-            <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
-            <material>Coro</material>
-            <width>46&quot;</width>
-            <height>46&quot;</height>
-            <thickness>10</thickness>
-            <pixelcount>344</pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
-            <imagefile>https://github.com/GEUSA/Images/blob/main/Spin%20Reel/1_Spin%20Reel.jpg?raw=true</imagefile>
-            <notes></notes>
-            <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Spin Reel.xmodel</xmodellink>
-            </wiring>
-            <categoryid>79</categoryid>
-        </model>
-        <model>
             <id>479</id>
             <name>Spin Reel &quot;The Reel Deal&quot; 47</name>
             <type>Coro</type>
@@ -14882,7 +14808,7 @@ Optional wiring diagram available
             <pixelspacing>Confirm on product page</pixelspacing>
             <notes></notes>
             <wiring>
-                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Mega Rainbow.xmodel</xmodellink>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE-Rainbow (1).xmodel</xmodellink>
             </wiring>
             <categoryid>91</categoryid>
         </model>
