@@ -7982,6 +7982,63 @@ Good for:
             <categoryid>106</categoryid>
         </model>
         <model>
+            <id>767</id>
+            <name>Frostbyte Flake 24in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/frostbyte-flake-24in</weblink>
+            <material>Coro</material>
+            <width>21.1&quot;</width>
+            <height>24&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>300</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/frostbyte-flake-24-300-v3-shopify-preview.png?v=1795099435</imagefile>
+            <notes>300-node Frostbyte Flake 24in. Includes submodels. Ships whole.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/frostbyte-flake-24-300.xmodel</xmodellink>
+            </wiring>
+            <categoryid>100</categoryid>
+        </model>
+        <model>
+            <id>768</id>
+            <name>Frostbyte Flake 36in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/frostbyte-flake-36in</weblink>
+            <material>Coro</material>
+            <width>31.4&quot;</width>
+            <height>35.9&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>600</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/frostbyte-flake-36-600-v3-shopify-preview.png?v=1795099435</imagefile>
+            <notes>600-node Frostbyte Flake 36in. Includes submodels. Ships slit down the middle; backer plate included.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/frostbyte-flake-36-600.xmodel</xmodellink>
+            </wiring>
+            <categoryid>103</categoryid>
+        </model>
+        <model>
+            <id>769</id>
+            <name>Frostbyte Flake 48in</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/frostbyte-flake-48in</weblink>
+            <material>Coro</material>
+            <width>41.1&quot;</width>
+            <height>47.1&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>1050</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/frostbyte-flake-48-1050-v3-shopify-preview.png?v=1795099435</imagefile>
+            <notes>1050-node Frostbyte Flake 48in. Includes submodels. Ships slit down the middle; backer plate included.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/frostbyte-flake-48-1050.xmodel</xmodellink>
+            </wiring>
+            <categoryid>106</categoryid>
+        </model>
+        <model>
             <id>147</id>
             <name>Frosty Flake</name>
             <type>Coro</type>
