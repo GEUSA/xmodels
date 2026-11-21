@@ -611,6 +611,63 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             <categoryid>1</categoryid>
         </model>
         <model>
+            <id>770</id>
+            <name>Christmas Stocking Snowflake</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-stockings</weblink>
+            <material>Coro</material>
+            <width>25&quot;</width>
+            <height>46&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>184</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Christmas%20Stocking%20Snowflake/christmas-stocking-snowflake.jpg?raw=true</imagefile>
+            <notes>184-node Christmas Stocking Snowflake designed for 12mm bullet nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-stocking-snowflake-184.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
+            <id>771</id>
+            <name>Christmas Stocking Snowman</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-stockings</weblink>
+            <material>Coro</material>
+            <width>25&quot;</width>
+            <height>46&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>165</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Christmas%20Stocking%20Snowman/christmas-stocking-snowman.jpg?raw=true</imagefile>
+            <notes>165-node Christmas Stocking Snowman designed for 12mm bullet nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-stocking-snowman-165.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
+            <id>772</id>
+            <name>Christmas Stocking Tree</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/christmas-stockings</weblink>
+            <material>Coro</material>
+            <width>25&quot;</width>
+            <height>46&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>175</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Christmas%20Stocking%20Tree/christmas-stocking-tree.jpg?raw=true</imagefile>
+            <notes>175-node Christmas Stocking Tree designed for 12mm bullet nodes.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/christmas-stocking-tree-175.xmodel</xmodellink>
+            </wiring>
+            <categoryid>1</categoryid>
+        </model>
+        <model>
             <id>337</id>
             <name>Christmas Truck</name>
             <type>Coro</type>
