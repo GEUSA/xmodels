@@ -7100,6 +7100,25 @@ Slit for shipping - this will be oversize and additional shipping will be invoic
             <categoryid>40</categoryid>
         </model>
         <model>
+            <id>775</id>
+            <name>Merry Christmas Sign 1400</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/merry-christmas-sign</weblink>
+            <material>Coro</material>
+            <width>94&quot;</width>
+            <height>47.5&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>1400</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/8fbc65fa-0bb9-4af8-a78b-7aa3afb6392b-Photoroom.jpg?v=1785623127</imagefile>
+            <notes>1400-node Merry Christmas sign (Merry = 500 nodes, Christmas = 900 nodes) designed for 12mm bullet nodes. Submodels for each word, the Merry / Chris / Tmas cut pieces, and every letter.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Merry Christmas 1400.xmodel</xmodellink>
+            </wiring>
+            <categoryid>40</categoryid>
+        </model>
+        <model>
             <id>253</id>
             <name>North Pole Sign</name>
             <type>Coro</type>
