@@ -1279,19 +1279,19 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>20</id>
-            <name>Singing Bulb Hanging</name>
+            <name>Singing Bulb Hanging 150 Node</name>
             <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/singing-bulbs</weblink>
             <material>Coro</material>
-            <width></width>
-            <height>30&quot; (46cm)</height>
+            <width>14&quot; / 21.5&quot;</width>
+            <height>30&quot; / 46&quot;</height>
             <thickness>10</thickness>
             <pixelcount>150</pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
             <imagefile>https://github.com/GEUSA/Images/blob/main/Singing%20Bulbs/10_Singing%20Bulbs.jpg?raw=true</imagefile>
             <imagefile>https://github.com/GEUSA/Images/blob/main/Singing%20Bulbs/3_Singing%20Bulbs.jpg?raw=true</imagefile>
-            <notes></notes>
+            <notes>150-node hanging singing bulb. Mini is about 30 x 14 in; Small is about 46 x 21.5 in. Same layout (54 outline + 96 singing face).</notes>
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Singing Bulb - Hanging.xmodel</xmodellink>
             </wiring>
@@ -1318,6 +1318,26 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
             </wiring>
             <categoryid>13</categoryid>
         </model>
+        <model>
+            <id>774</id>
+            <name>46 Inch Upright Singing Bulb 150 Node</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/singing-bulbs</weblink>
+            <material>Coro</material>
+            <width>21.5&quot;</width>
+            <height>46&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>150</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Singing%20Bulbs/1_Singing%20Bulbs.jpg?raw=true</imagefile>
+            <notes>46-inch upright singing bulb (Small), 150 nodes (54 outline + 96 singing face). Same layout as the 30-inch Mini upright.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Singing Bulb - Upright.xmodel</xmodellink>
+            </wiring>
+            <categoryid>13</categoryid>
+        </model>
+
         <model>
             <id>21</id>
             <name>Singing Bulb 95 Inch Upright</name>
@@ -1352,19 +1372,19 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
         </model>
         <model>
             <id>22</id>
-            <name>Singing Bulb Upright</name>
+            <name>Singing Bulb Upright 150 Node</name>
             <type>Coro</type>
-            <weblink>https://gilbertengineeringusa.com/</weblink>
+            <weblink>https://gilbertengineeringusa.com/products/singing-bulbs</weblink>
             <material>Coro</material>
-            <width></width>
-            <height>30&quot; (46cm)</height>
+            <width>14&quot; / 21.5&quot;</width>
+            <height>30&quot; / 46&quot;</height>
             <thickness>10</thickness>
             <pixelcount>150</pixelcount>
-            <pixeldescription>Confirm on product page</pixeldescription>
-            <pixelspacing>Confirm on product page</pixelspacing>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
             <imagefile>https://github.com/GEUSA/Images/blob/main/Singing%20Bulbs/1_Singing%20Bulbs.jpg?raw=true</imagefile>
             <imagefile>https://github.com/GEUSA/Images/blob/main/Singing%20Bulbs/11_Singing%20Bulbs.jpg?raw=true</imagefile>
-            <notes></notes>
+            <notes>150-node upright singing bulb. Mini is about 30 x 14 in; Small is about 46 x 21.5 in. Same layout (54 outline + 96 singing face).</notes>
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Singing Bulb - Upright.xmodel</xmodellink>
             </wiring>
@@ -7552,7 +7572,7 @@ Good for:
         <model>
             <name>Flake I 100 Node</name>
             <id>566</id>
-            <notes></notes>
+            <notes>Current 100-node Flake I layout (no center hole). Same layout is used for the 24-inch and 36-inch 100-node sizes.</notes>
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
@@ -7560,8 +7580,8 @@ Good for:
             <height>23</height>
             <pixelCount>100</pixelCount>
             <pixelspacing>4&quot;</pixelspacing>
-            <pixeldescription></pixeldescription>
-            <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch?_pos=1&amp;_sid=d4a0bc896&amp;_ss=r</weblink>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch</weblink>
             <imagefile>https://gilbertengineeringusa.com/cdn/shop/files/1f63c041-3ba6-40db-a812-dba1cddc00c9-Photoroom_900x.jpg?v=1744224269</imagefile>
             <wiring>
                 <name></name>
@@ -7920,6 +7940,26 @@ Good for:
             <pixelCount>228</pixelCount>
             <categoryid>103</categoryid>
         </model>
+        <model>
+            <id>773</id>
+            <name>Flake I 36 100 Node</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch</weblink>
+            <material>Coro</material>
+            <width>36&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20I/7_Flake%20I.jpg?raw=true</imagefile>
+            <notes>36-inch Flake I, 100 nodes. Same layout as the 24-inch 100-node model (current no-center-hole version).</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake I 100.xmodel</xmodellink>
+            </wiring>
+            <categoryid>103</categoryid>
+        </model>
+
         <model>
             <id>140</id>
             <name>Flake N 168 Node</name>
