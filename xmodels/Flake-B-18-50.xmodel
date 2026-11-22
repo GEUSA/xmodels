@@ -25,28 +25,28 @@ name="GE Practicality 50 B" parm1="34" parm2="37" Depth="1" StringType="RGB Node
 <subModel name="Ball 4" layout="horizontal" type="ranges" line0="33-35,31-32">
   <ControllerConnection/>
 </subModel>
-<subModel name="Basll 5" layout="horizontal" type="ranges" line0="40-42,38-39">
+<subModel name="Ball 5" layout="horizontal" type="ranges" line0="40-42,38-39">
   <ControllerConnection/>
 </subModel>
 <subModel name="Ball 6" layout="horizontal" type="ranges" line0="47-49,45-46">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 1" layout="horizontal" type="ranges" line0="1,9-13">
+<subModel name="Arm 1" layout="horizontal" type="ranges" line0="9-15">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 2" layout="horizontal" type="ranges" line0="2,16-20">
+<subModel name="Arm 2" layout="horizontal" type="ranges" line0="16-22">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 3" layout="horizontal" type="ranges" line0="3,23-27">
+<subModel name="Arm 3" layout="horizontal" type="ranges" line0="23-29">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 4" layout="horizontal" type="ranges" line0="5,30-34">
+<subModel name="Arm 4" layout="horizontal" type="ranges" line0="30-36">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 5" layout="horizontal" type="ranges" line0="6,37-41">
+<subModel name="Arm 5" layout="horizontal" type="ranges" line0="37-43">
   <ControllerConnection/>
 </subModel>
-<subModel name="Arm 6" layout="horizontal" type="ranges" line0="7,44-48">
+<subModel name="Arm 6" layout="horizontal" type="ranges" line0="44-50">
   <ControllerConnection/>
 </subModel>
 </custommodel>
