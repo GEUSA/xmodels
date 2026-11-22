@@ -13,7 +13,7 @@
     <subModel name="Squint" bufferstyle="Default" layout="horizontal" line0="362,357,363,356,364,355,365,354,337,326,336,327,335,328,334,329" type="ranges"/>
     <subModel name="Pupil" bufferstyle="Default" layout="horizontal" line0="331-330,333-332,359,361,358,360" type="ranges"/>
     <subModel name="Hat Sash" bufferstyle="Default" layout="horizontal" line0="451-452,450,453,418,454,449,419,448,420,447,421,446,422,445,423,444,424,443,425,442,426,441,427,440,428,439,429,438-437,430-431,436,432-435" type="ranges"/>
-    <subModel name="Hot Ball" bufferstyle="Default" layout="horizontal" line0="391-393,370,388-387,394,389,385,371,390,386,384,378,383,377,379,382,372,380-381,373,376-374" type="ranges"/>
+    <subModel name="Hat Ball" bufferstyle="Default" layout="horizontal" line0="391-393,370,388-387,394,389,385,371,390,386,384,378,383,377,379,382,372,380-381,373,376-374" type="ranges"/>
     <subModel name="Hat Top" bufferstyle="Default" layout="horizontal" line0="417-395" type="ranges"/>
     <subModel name="Top Lip" bufferstyle="Default" layout="horizontal" line0="234-236,256,259-260,263-265" type="ranges"/>
     <subModel name="Mid Mouth" bufferstyle="Default" layout="horizontal" line0="238,241-242,255,244,254,246,253,248,252,250" type="ranges"/>
