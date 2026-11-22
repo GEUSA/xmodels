@@ -7168,21 +7168,21 @@ Slit for shipping - this will be oversize and additional shipping will be invoic
 Good for:
 24 Inch
 30 Inch</notes>
-            <type></type>
+            <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
-            <width></width>
-            <height></height>
-            <pixelCount></pixelCount>
+            <width>24&quot; / 30&quot;</width>
+            <height>24&quot; / 30&quot;</height>
+            <pixelCount>150</pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
-            <weblink></weblink>
+            <weblink>https://gilbertengineeringusa.com/products/impression-flake-a</weblink>
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Flake A-24-30-150-R2.xmodel</xmodellink>
             </wiring>
-            <categoryid>97</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <name>Flake B (24,30,36,46 Inch) 240 Node (new)</name>
@@ -7197,18 +7197,18 @@ Good for:
             <type>Coro Prop</type>
             <material>Coro</material>
             <thickness>10mm</thickness>
-            <width></width>
-            <height></height>
-            <pixelCount></pixelCount>
+            <width>24&quot; / 30&quot; / 36&quot; / 46&quot;</width>
+            <height>24&quot; / 30&quot; / 36&quot; / 46&quot;</height>
+            <pixelCount>240</pixelCount>
             <pixelspacing></pixelspacing>
             <pixeldescription></pixeldescription>
-            <weblink></weblink>
+            <weblink>https://gilbertengineeringusa.com/products/impression-flake-b</weblink>
             <wiring>
                 <name></name>
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/Flake B-24-30-36-46-240-Submodels Included.xmodel</xmodellink>
             </wiring>
-            <categoryid>97</categoryid>
+            <categoryid>100</categoryid>
         </model>
         <model>
             <id>144</id>
