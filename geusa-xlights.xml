@@ -280,6 +280,10 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                             <id>116</id>
                             <name>Holiday Express</name>
                         </category>
+                        <category>
+                            <id>117</id>
+                            <name>Original Red Train</name>
+                        </category>
                     </categories>
                 </category>
                 <category>
@@ -9017,7 +9021,7 @@ Good for:
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Caboose.xmodel</xmodellink>
             </wiring>
             <pixelCount>405</pixelCount>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <name>Caboose w Matrix</name>
@@ -9038,7 +9042,7 @@ Good for:
                 <imagefile></imagefile>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/refs/heads/master/xmodels/GE_Caboose_w_Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>288</id>
@@ -9076,7 +9080,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Coal Car.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>780</id>
@@ -9170,7 +9174,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Passenger Car - Matrix.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>290</id>
@@ -9189,7 +9193,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Passenger Car - Merry Christmas.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>292</id>
@@ -9208,7 +9212,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Passenger Car - Plain.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>293</id>
@@ -9228,7 +9232,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Railroad Crossing Gate.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>294</id>
@@ -9246,7 +9250,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Railroad Crossing Sign.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>295</id>
@@ -9265,7 +9269,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Steam Clouds.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>296</id>
@@ -9284,7 +9288,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Steam Locomotive.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>297</id>
@@ -9303,7 +9307,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Train_Flatbed.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>117</categoryid>
         </model>
         <model>
             <id>298</id>
