@@ -7972,9 +7972,29 @@ Good for:
             <pixeldescription>12mm bullet</pixeldescription>
             <pixelspacing></pixelspacing>
             <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20I/7_Flake%20I.jpg?raw=true</imagefile>
-            <notes>36-inch Flake I, 100 nodes. Same layout as the 24-inch 100-node model (current no-center-hole version).</notes>
+            <notes>36-inch Flake I, 100 nodes. Same layout as the 24-inch 100-node model (current no-center-hole version). If your 36-inch 100-node Flake I has a hole in the middle, use Flake I 36 100 Node Center Hole.</notes>
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE Flake I 100.xmodel</xmodellink>
+            </wiring>
+            <categoryid>103</categoryid>
+        </model>
+
+        <model>
+            <id>776</id>
+            <name>Flake I 36 100 Node Center Hole</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/flake-i-96-24-inch</weblink>
+            <material>Coro</material>
+            <width>36&quot;</width>
+            <height>36&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Flake%20I/7_Flake%20I.jpg?raw=true</imagefile>
+            <notes>36-inch Flake I, 100 nodes, with a hole in the center. Use this if your prop has an open center.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/36 Inch Flake I 100 Node.xmodel</xmodellink>
             </wiring>
             <categoryid>103</categoryid>
         </model>
