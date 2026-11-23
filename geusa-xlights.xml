@@ -275,6 +275,12 @@ Transform your holiday display with Gilbert Engineering USA—the trusted name i
                 <category>
                     <id>48</id>
                     <name>Trains</name>
+                    <categories>
+                        <category>
+                            <id>116</id>
+                            <name>Holiday Express</name>
+                        </category>
+                    </categories>
                 </category>
                 <category>
                     <id>49</id>
@@ -9089,7 +9095,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Caboose_1325.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>116</categoryid>
         </model>
         <model>
             <id>777</id>
@@ -9108,7 +9114,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Engine_1900.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>116</categoryid>
         </model>
         <model>
             <id>779</id>
@@ -9127,7 +9133,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Flatcar_1175.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>116</categoryid>
         </model>
         <model>
             <id>778</id>
@@ -9146,7 +9152,7 @@ Good for:
             <wiring>
                 <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Tender_600.xmodel</xmodellink>
             </wiring>
-            <categoryid>48</categoryid>
+            <categoryid>116</categoryid>
         </model>
         <model>
             <id>291</id>
