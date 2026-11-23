@@ -9073,6 +9073,82 @@ Good for:
             <categoryid>48</categoryid>
         </model>
         <model>
+            <id>780</id>
+            <name>Holiday Express Caboose (1325)</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/holiday-express</weblink>
+            <material>Coro</material>
+            <width>91.33&quot;</width>
+            <height>45.96&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>1325</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Holiday%20Express/holiday-express-caboose-1325.png?raw=true</imagefile>
+            <notes>1325-node Holiday Express Caboose designed for 12mm bullet nodes. Includes 55 submodels and 56 states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Caboose_1325.xmodel</xmodellink>
+            </wiring>
+            <categoryid>48</categoryid>
+        </model>
+        <model>
+            <id>777</id>
+            <name>Holiday Express Engine (1900)</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/holiday-express</weblink>
+            <material>Coro</material>
+            <width>84.89&quot;</width>
+            <height>67.14&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>1900</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Holiday%20Express/holiday-express-engine-1900.png?raw=true</imagefile>
+            <notes>1900-node Holiday Express Engine designed for 12mm bullet nodes. Includes 73 submodels and 78 states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Engine_1900.xmodel</xmodellink>
+            </wiring>
+            <categoryid>48</categoryid>
+        </model>
+        <model>
+            <id>779</id>
+            <name>Holiday Express Flatcar (1175)</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/holiday-express</weblink>
+            <material>Coro</material>
+            <width>82.83&quot;</width>
+            <height>41.21&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>1175</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Holiday%20Express/holiday-express-flatcar-1175.png?raw=true</imagefile>
+            <notes>1175-node Holiday Express Flatcar designed for 12mm bullet nodes. Includes 56 submodels and 57 states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Flatcar_1175.xmodel</xmodellink>
+            </wiring>
+            <categoryid>48</categoryid>
+        </model>
+        <model>
+            <id>778</id>
+            <name>Holiday Express Tender (600)</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/holiday-express</weblink>
+            <material>Coro</material>
+            <width>39.11&quot;</width>
+            <height>33.07&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>600</pixelcount>
+            <pixeldescription>12mm bullet</pixeldescription>
+            <pixelspacing></pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Holiday%20Express/holiday-express-tender-600.png?raw=true</imagefile>
+            <notes>600-node Holiday Express Tender designed for 12mm bullet nodes. Includes 33 submodels and 34 states.</notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE_Holiday_Express_Tender_600.xmodel</xmodellink>
+            </wiring>
+            <categoryid>48</categoryid>
+        </model>
+        <model>
             <id>291</id>
             <name>Passenger Car Matrix</name>
             <type>Coro</type>
