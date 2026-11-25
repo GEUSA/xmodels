@@ -14159,6 +14159,34 @@ Optional wiring diagram available
             <categoryid>80</categoryid>
         </model>
         <model>
+            <name>Spider Flake Combo</name>
+            <id>781</id>
+            <notes>This is a 344 node Spider Flake designed for 12mm bullet pixels.
+
+Measures approximately 31 inches around
+This is a combination of our Preying Spider and Flake H - Great for Halloween AND Christmas
+Each one is submodeled to match the original props
+Material is 10mm heavy duty black or white coroplast
+Optional wiring diagram available
+100% Designed &amp; Made in the USA</notes>
+            <type>Coro</type>
+            <material>Coro</material>
+            <thickness>10mm</thickness>
+            <width>31</width>
+            <height>31</height>
+            <pixelCount>344</pixelCount>
+            <pixelspacing></pixelspacing>
+            <pixeldescription></pixeldescription>
+            <weblink>https://gilbertengineeringusa.com/products/spider-flake</weblink>
+            <imagefile>https://cdn.shopify.com/s/files/1/0165/4439/9424/files/355396456_626909182499101_914042640505864943_n.jpg?v=1785620329</imagefile>
+            <wiring>
+                <name></name>
+                <imagefile></imagefile>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/GE%20Spider%20Flake.xmodel</xmodellink>
+            </wiring>
+            <categoryid>80</categoryid>
+        </model>
+        <model>
             <name>The Black Hole</name>
             <id>674</id>
             <notes>Product coming Soon!
