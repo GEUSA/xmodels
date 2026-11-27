@@ -15392,6 +15392,25 @@ Optional wiring diagram available
             <categoryid>93</categoryid>
         </model>
         <model>
+            <id>782</id>
+            <name>Cancer Ribbon Small 100 Node</name>
+            <type>Coro</type>
+            <weblink>https://gilbertengineeringusa.com/products/cancer-ribbon?_pos=1&amp;_sid=69cea23ed&amp;_ss=r</weblink>
+            <material>Coro</material>
+            <width>16&quot;</width>
+            <height>30&quot;</height>
+            <thickness>10</thickness>
+            <pixelcount>100</pixelcount>
+            <pixeldescription>Confirm on product page</pixeldescription>
+            <pixelspacing>Confirm on product page</pixelspacing>
+            <imagefile>https://github.com/GEUSA/Images/blob/main/Cancer%20Ribbon/1_Cancer%20Ribbon.jpg?raw=true</imagefile>
+            <notes></notes>
+            <wiring>
+                <xmodellink>https://raw.githubusercontent.com/GEUSA/xmodels/master/xmodels/Cancer Ribbon Small 100 Node.xmodel</xmodellink>
+            </wiring>
+            <categoryid>93</categoryid>
+        </model>
+        <model>
             <id>522</id>
             <name>Dream Catcher</name>
             <type>Coro</type>
